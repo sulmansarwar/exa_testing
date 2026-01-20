@@ -1,0 +1,989 @@
+{
+  "timestamp": "2026-01-20T06:03:08.210943",
+  "query": "Track corporate diversity hiring trends since George Floyd protests",
+  "query_category": "Trend Analysis",
+  "app_type": "general",
+  "webset_category": null,
+  "search_type": "neural",
+  "num_results": 10,
+  "exa": {
+    "analysis_text": "Based on my comprehensive research, I can now provide a detailed analysis of corporate diversity hiring trends since the George Floyd protests.\n\n---\n\n## 1. KEY FINDINGS\n\n### Initial Surge in Diverse Hiring (2020-2021)\n\n**Claim:** The S&P 100 companies added over 300,000 jobs in the year after George Floyd's murder, with 94% going to people of color.\n**Quote:** \"the S&P 100 added more than 300,000 jobs \u201494% went to people of color\"\n**Source:** https://www.bloomberg.com/graphics/2023-black-lives-matter-equal-opportunity-corporate-diversity\n\n**Claim:** Of the new hires at S&P 100 companies following the Black Lives Matter protests, 23% were Black workers.\n**Quote:** \"After BLM, the S&P 100 Added Over 300k Jobs. 23% Were Black Workers\"\n**Source:** https://docs.house.gov/meetings/GO/GO00/20240627/117470/HHRG-118-GO00-20240627-SD005.pdf\n\n### Progress Stalled (2022-2024)\n\n**Claim:** Black workers' representation in the S&P 100 workforce has declined as corporate diversity efforts have stalled.\n**Quote:** \"The share of Black workers in the S&P 100 workforce dec\"\n**Source:** https://www.bloomberg.com/graphics/2024-anti-dei-corporate-america-stalls-black-workers-gains/\n\n**Claim:** Black workers are losing their share of jobs at major U.S. public companies as anti-diversity movements intensify.\n**Quote:** \"Black workers are losing share at big US public companies as conservatives amp up their anti-diversity push\"\n**Source:** https://www.bloomberg.com/graphics/2024-anti-dei-corporate-america-stalls-black-workers-gains/\n\n### Recent DEI Rollbacks (2024-2025)\n\n**Claim:** Major corporations began rolling back diversity, equity, and inclusion programs in late 2024.\n**Quote:** \"Walmart plans to cut back some of its diversity, equity and inclusion (DEI) initiatives\"\n**Source:** https://www.reuters.com/business/retail-consumer/walmart-roll-back-some-diversity-policies-amid-pressure-conservatives-2024-11-26/\n\n**Claim:** America's largest companies have begun retreating from DEI commitments across nearly every business sector.\n**Quote:** \"widespread retreat happening across corporate America, according to a New York Times analysis of annual financial filings\"\n**Source:** https://nytimes.com/interactive/2025/03/13/business/corporate-america-dei-policy-shifts.html\n\n**Claim:** The number of S&P 500 companies using diversity, equity, and inclusion language has decreased in 2025.\n**Quote:** \"the number of companies in the S&P 500 that used the language \"diversity, equity\"\n**Source:** https://nytimes.com/interactive/2025/03/13/business/corporate-america-dei-policy-shifts.html\n\n### Limited Transparency and Accountability\n\n**Claim:** Only a minority of Fortune 500 companies released diversity data in 2023.\n**Quote:** \"154 Fortune 500 companies released diversity data last year\"\n**Source:** https://fortune.com/2024/03/13/fortune-500-diversity-data-promotions-representation-legal/\n\n**Note:** This represents approximately 31% of Fortune 500 companies, indicating that most major corporations have not publicly disclosed detailed diversity metrics. [INFERENCE - calculation based on source data]\n\n### OneTen Initiative Results\n\n**Claim:** OneTen coalition reported creating economic mobility for more than 122,000 workers through skills-first hiring approaches.\n**Quote:** \"creating economic mobility for more than 122\"\n**Source:** https://www.prnewswire.com/news-releases/oneten-2023-impact-report-highlights-progress-towards-skills-first-future-of-work-302258584.html\n\n**Claim:** The OneTen initiative shifted its messaging from explicitly racial equity goals to broader skills-first hiring language.\n**Quote:** \"Three years ago, dozens of big companies formed a coalition and declared an ambitious goal: to lift one million Black workers into good-payin\"\n**Source:** https://www.nytimes.com/2024/01/22/business/diversity-oneten-black-employment.html\n\n**Note:** The original goal was explicitly focused on Black workers, but the initiative has since reframed its mission around \"skills-first\" hiring for workers without four-year degrees more broadly. [INFERENCE - based on comparing sources]\n\n### Corporate Leadership Changes\n\n**Claim:** American companies increased hiring of Black executives following George Floyd's murder before facing DEI backlash.\n**Quote:** \"America's largest companies hired more Black executives. Then came the DEI backlash.\"\n**Source:** https://www.usatoday.com/story/money/2025/02/27/dei-backlash-erase-black-executives-gains/78475480007/\n\n### Quiet Continuation of Some DEI Efforts\n\n**Claim:** Some corporate leaders are continuing diversity initiatives but reducing public visibility of these programs.\n**Quote:** \"Some Corporate Leaders Go 'Under the Radar' With D.E.I.\"\n**Source:** https://www.nytimes.com/2024/01/22/business/diversity-backlash-fortune-500-companies.html\n\n## 2. SOURCE QUALITY ASSESSMENT\n\n**Strengths:**\n- Multiple high-quality news sources including Bloomberg, New York Times, Fortune, Associated Press, and Reuters\n- Bloomberg conducted detailed data analysis of S&P 100 companies with quantifiable metrics\n- Corporate annual reports from Google and Microsoft provide first-hand data\n- Multiple independent sources corroborate the overall narrative arc (initial surge, then stalling/rollback)\n\n**Limitations:**\n- Limited access to full text of some paywalled articles (excerpts only)\n- Some PDF reports referenced but full content not fully accessible in excerpts\n- Incomplete data on exact percentages and year-over-year comparisons\n- Most sources focus on largest public companies (S&P 100/500), may not represent mid-size or private companies\n- Limited longitudinal data tracking the same companies over the full 2020-2025 period\n\n**Reliability:**\nThe sources are generally credible mainstream business and news outlets. Bloomberg's quantitative analysis appears particularly robust, using S&P 100 employment data. However, the lack of full transparency from companies (only 154 of 500 released data) limits the comprehensiveness of the picture.\n\n## 3. GAPS OR CONTRADICTIONS\n\n**Key Gaps:**\n\n1. **Missing Quantitative Details:** While we know 94% of 300,000+ new hires at S&P 100 were people of color and 23% were Black, we lack:\n   - Year-by-year breakdowns for 2021-2024\n   - Retention rates for diverse hires\n   - Promotion and advancement data\n   - Salary equity data\n   \n2. **Sector Variation:** Limited information on which industries made the most/least progress\n\n3. **Geographic Variation:** No data on regional differences in hiring trends\n\n4. **Specific Company Accountability:** While aggregated data exists, limited tracking of individual company promises versus delivery\n\n5. **Financial Commitments:** References to \"$200 billion\" in pledges but unclear how much was actually spent or where\n\n6. **Root Causes of Stalling:** Multiple potential explanations (conservative backlash, legal challenges, economic conditions, reduced corporate commitment) but difficult to determine relative importance\n\n**Potential Contradictions:**\n\n1. **OneTen's Numbers:** The initiative claimed to help 122,000+ workers but original goal was 1 million Black workers - unclear if this represents success or falling short\n\n2. **\"Under the Radar\" vs. Actual Rollback:** Some sources suggest DEI continues quietly while others indicate actual program elimination - these may represent different company approaches but create ambiguity about overall trend\n\n3. **Progress vs. Decline Narrative:** Initial 2023 Bloomberg reporting emphasized actual delivery on diversity hiring, but 2024 Bloomberg reporting shows subsequent decline - both appear accurate but represent different time periods\n\n## 4. RECOMMENDED NEXT STEPS\n\n**For Deeper Research:**\n\n1. **Obtain Full Bloomberg Analysis:** Access complete 2023 and 2024 Bloomberg datasets to get exact year-by-year statistics on S&P 100 workforce demographics\n\n2. **Review EEO-1 Data:** Access EEOC employer information reports for large companies to get official government-collected diversity data\n\n3. **Track Specific Commitments:** Create database of individual company pledges made in 2020 and compare to current diversity disclosures\n\n4. **Analyze Legal Landscape:** Research Supreme Court affirmative action decision impacts and other legal challenges affecting corporate DEI\n\n5. **Interview Stakeholders:** Speak with corporate diversity officers, advocacy groups, and workers to understand on-the-ground realities beyond statistics\n\n6. **Sector-Specific Analysis:** Break down trends by industry (tech, finance, retail, etc.) as patterns may vary significantly\n\n7. **Long-term Retention Study:** Track not just hiring but retention and advancement of diverse employees hired 2020-2021\n\n8. **Financial Audit:** Investigate what happened to the billions pledged - where did the money actually go?\n\n9. **International Comparison:** Examine if similar patterns occurred in other countries following 2020 protests\n\n10. **Policy vs. Practice Gap:** Research difference between stated diversity policies and actual implementation/outcomes",
+    "sources": [
+      {
+        "title": "Corporate America Promised to Hire a Lot More People of Color. It\u00a0Actually\u00a0Did.",
+        "url": "https://www.bloomberg.com/graphics/2023-black-lives-matter-equal-opportunity-corporate-diversity",
+        "published": "2023-09-25T00:00:00.000Z",
+        "excerpt": "After BLM, the S&amp;P 100 Added Over 300k Jobs. 23% Were Black Workers\nNote: To learn more about our analysis and term definitions,[read our methodology here.] Overall share of US workers belonging to each demographic category may not add to 100 due to rounding.\n| Big Take\n# Corporate America Promised to Hire a Lot More People of Color.\nItActuallyDid.\nThe year after Black Lives Matter protests, the S&amp;P 100 added more than 300,000 jobs \u201494% went to people of color.\nPublished:September 25, 20"
+      },
+      {
+        "title": "US Black Workers See Progress Stall With Conservatives\u2019 Anti-DEI Push",
+        "url": "https://www.bloomberg.com/graphics/2024-anti-dei-corporate-america-stalls-black-workers-gains/",
+        "published": "2024-12-20T00:00:00.000Z",
+        "excerpt": "# Corporate America Hired More Black Workers. Then It Stopped.\n\nIllustration by Ard Su\n\n# Corporate America Hired More Black Workers. Then It Stopped.\n\n## Black workers are losing share at big US public companies as conservatives amp up their anti-diversity push ahead of Donald Trump\u2019s second presidential term.\n\nPublished:December 20, 2024\\|Updated:December 20, 2024\n\nFor Black employees in America\u2019s biggest companies, progress has stalled.\n\nThe share of Black workers in the S&P 100 workforce dec"
+      },
+      {
+        "title": "Which US companies are pulling back on diversity initiatives?",
+        "url": "https://www.ap.org/news-highlights/spotlights/2025/which-us-companies-are-pulling-back-on-diversity-initiatives/",
+        "published": "2025-02-12T00:00:00.000Z",
+        "excerpt": "Which US companies are pulling back on diversity initiatives? | The Associated Press\n[Skip to content] \n[![]] \n![Magnifying glass] \n![Magnifying glass]![Go] \n[Contact us] \n[Home] [News Highlights] [Spotlights] Which US companies are pulling back on diversity initiatives?\nSpotlights\n# Which US companies are pulling back on diversity initiatives?\nFILE - A community member holds a sign calling for a national boycott of Target stores during a news conference outside Target Corporation's headquarters"
+      },
+      {
+        "title": "154 Fortune 500 companies released diversity data last year. Here\u2019s what they reveal about the state of DEI",
+        "url": "https://fortune.com/2024/03/13/fortune-500-diversity-data-promotions-representation-legal/",
+        "published": "2024-03-13T00:00:00.000Z",
+        "excerpt": "What Fortune 500 diversity data reveals about state of DEI | Fortune\nSearch\n[] \nSubscribe\n* [Home] \n* [Latest] \n* [Fortune 500] \n* [Finance] \n* [Tech] \n* [Leadership] \n* [Lifestyle] \n* [Rankings] \n* [Multimedia] \n[Newsletters] [raceAhead] \n# 154 Fortune 500 companies released diversity data last year. Here\u2019s what they reveal about the state of DEI\nBy\n[Ruth Umoh] \nRuth Umoh\nEditor, Next to Lead\nDown Arrow Button Icon\nBy\n[Ruth Umoh] \nRuth Umoh\nEditor, Next to Lead\nDown Arrow Button Icon\nMarch 13, "
+      },
+      {
+        "title": "How Companies Like J&J, Live Nation and Uber Are Retreating From DEI",
+        "url": "https://nytimes.com/interactive/2025/03/13/business/corporate-america-dei-policy-shifts.html",
+        "published": "2025-03-13T00:00:00.000Z",
+        "excerpt": "Household-name companies, like Walmart and Meta, have scaled back diversity, equity and inclusion goals in recent months. These brands are part of a widespread retreat happening across corporate America, according to a New York Times analysis of annual financial filings. It has been as noticeable among tech giants as among drug makers, concert promoters and nearly every sector of the U.S. economy.\n\nSo far this year the number of companies in the S&P 500 that used the language \u201cdiversity, equity "
+      },
+      {
+        "title": "How One DEI Initiative Changed Course With the Times",
+        "url": "https://www.nytimes.com/2024/01/22/business/diversity-oneten-black-employment.html",
+        "published": "2024-01-22T00:00:00.000Z",
+        "excerpt": "[Business] \\|How a Diversity Initiative Changed Course With the Times\n\nhttps://www.nytimes.com/2024/01/22/business/diversity-oneten-black-employment.html\n\n- Share full article\n\n\nAdvertisement\n\n[SKIP ADVERTISEMENT] \n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\nThree years ago, dozens of big companies formed a coalition and declared an ambitious goal: to lift one million Black workers into good-payin"
+      },
+      {
+        "title": "America's largest companies hired more Black executives. Then came the DEI backlash.",
+        "url": "https://www.usatoday.com/story/money/2025/02/27/dei-backlash-erase-black-executives-gains/78475480007/",
+        "published": "2025-02-27T00:00:00.000Z",
+        "excerpt": "[MONEY] \n\nWorkplace diversity\n\nAdd Topic\n\n# America's largest companies hired more Black executives. Then came the DEI backlash.\n\n[Jessica Guynn] [Jayme Fraser] \n\nUSA TODAY\n\nHear this story\n\nOne month after George Floyd\u2019s murder, the U.S. Chamber of Commerce launched a [national initiative] to address America's deep [racial divides]. The message: \u201cEquality of opportunity\u201d is everybody\u2019s business.\n\n\u201cWe fundamentally believe that all Americans should have the opportunity to earn their success, ris"
+      },
+      {
+        "title": "Facing Backlash, Some Corporate Leaders Go \u2018Under the Radar\u2019 With D.E.I.",
+        "url": "https://www.nytimes.com/2024/01/22/business/diversity-backlash-fortune-500-companies.html",
+        "published": "2024-01-22T00:00:00.000Z",
+        "excerpt": "[Business] \\|Facing Backlash, Some Corporate Leaders Go \u2018Under the Radar\u2019 With D.E.I.\n\nhttps://www.nytimes.com/2024/01/22/business/diversity-backlash-fortune-500-companies.html\n\n- Share full article\n\n- [519] \n\n\nAdvertisement\n\n[SKIP ADVERTISEMENT] \n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\nOver the past two years, as Ishan Bhabha and his colleagues at the law firm Jenner & Block prepared briefs f"
+      },
+      {
+        "title": "Google Diversity Annual Report 2024",
+        "url": "https://static.googleusercontent.com/media/about.google/en//belonging/diversity-annual-report/2024/static/pdfs/google_2024_diversity_annual_report.pdf",
+        "published": "2024-06-12T00:00:00.000Z",
+        "excerpt": "Google Diversity Annual Report 2024 1\n2024 Google Diversity Annual Report\nDriving innovation, \nbridging gaps.\nGoogle Diversity Annual Report 2024 2\nTable of Contents\n3 Introduction\n4 2023 Highlights\n6 Our Workplace\n21 Workplace Commitments\n23 Our Technology\n37 Our Partnerships\n53 Timeline\n55 Looking Ahead\n56 Data Methodology\n61 Committing to Pay Equity\n63 Tables and Charts\nGoogle Diversity Annual Report 2024 3\nIntroduction\nGoogle celebrated its 25th anniversary in 2023. Over that \nextraordinary "
+      },
+      {
+        "title": "We\u2019re building a Google for all of us to build helpful products for everyone",
+        "url": "https://about.google/belonging/diversity-annual-report/2023/",
+        "published": "2022-01-01T00:00:00.000Z",
+        "excerpt": "Google \u2014Building Together for Everyone\n[Jump to Content] \n[\n![Google] \nBelonging] \n[\n![Google] \nBelonging] \n# We\u2019re building a Google for all of us to build helpful products for everyone\nPlay silent looping videoPause silent looping video\n![A poised Black woman with long wavy hair smiles at the camera] \n> > To build products that help billions of people reach their goals, we\u2019re bringing together talented people from everywhere and empowering them to do their best work. MELONIE PARKER\nVP, Googler"
+      },
+      {
+        "title": "Google Diversity Annual Report 2023",
+        "url": "https://www.annualreports.com/HostedData/AnnualReports/PDF/NASDAQ_GOOG_2023.pdf",
+        "published": "2023-05-04T00:00:00.000Z",
+        "excerpt": "Google\n\nDiversity\n\nAnnual\n2023 Report\n\n4 =]\ntea 4\naa -\n2\n=\n7 od)\nSe\n\n\nGoogle Diversity Annual Report 2023 2\nTable of Contents\nTable of Contents\n 3 Introduction\n 4 Key Takeaways\n 5 In Our Workplace\n 29 Workplace Commitments\n 34 In Our Products\n 43 In Society\n 58 DEI Timeline\n 60 Looking Ahead\n 61 Data Methodology\n 64 Appendix\nGoogle Diversity Annual Report 2023 3\nIntroduction\nThis past year, we identified our most effective efforts, \nthen doubled down.\nEquipped with data from across our geographi"
+      },
+      {
+        "title": "2024 Global Diversity & Inclusion Report",
+        "url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/dni/documents/presentations/microsoftcorp_gdi_report_2024_final.pdf",
+        "published": "2024-10-14T00:00:00.000Z",
+        "excerpt": "2024\nGlobal Diversity \n& Inclusion Report\nTo empower everyone, we must \ninclude everyone.\nOctober 2024\n2 Table of contents\n1. Introduction\nImportant terms used in this report\nExecutive summary\nEvery person. Every organization. \nEvery day. Everywhere.\nby Lindsay-Rae McIntyre, Chief \nDiversity Officer and Corporate Vice \nPresident, Talent and Learning\nExecutive summary insights\nMicrosoft\u2019s diversity and inclusion journey\nOur mission-driven commitment\n2. The state of diversity & inclusion at Micros"
+      },
+      {
+        "title": "Google Diversity Annual Report 2022",
+        "url": "https://static.googleusercontent.com/media/about.google/en//belonging/diversity-annual-report/2022/static/pdfs/google_2022_diversity_annual_report.pdf",
+        "published": "2022-06-03T00:00:00.000Z",
+        "excerpt": "\nGoogle Diversity Annual Report 2022 2\nTable of Contents\nTable of Contents\n3 Introduction\n5 Diversity, Equity, and Inclusion Timeline\n7 Action #1 \u2013 Hiring\n19 Action #2 \u2013 Retention and Progression\n30 Action #3 \u2013 Representation\n47 Action #4 \u2013 Flexibility\n53 Action #5 \u2013 Belonging and Innovation\n62 Workplace Commitments\n63 Looking Ahead\n64 Data Methodology\n66 Appendix\nGoogle Diversity Annual Report 2022 3\nIntroduction\nIntroduction\nWe\u2019re growing to meet people where they are.\nThroughout 2020, we acti"
+      },
+      {
+        "title": "Annual Diversity Report - Google Diversity Equity & Inclusion",
+        "url": "https://about.google/belonging/diversity-annual-report/2021/",
+        "published": "2015-05-12T00:00:00.000Z",
+        "excerpt": "Opens in a new window\n\n* * *\n\n### Introduction\n\n#### 2020 was a year of challenges that had a profound impact on how we work and live.\n\nThose already facing social and economic disadvantages were hit\ndisproportionately hard. Violent and racist attacks against Asian,\nBlack, and Latinx communities forced the world to reckon with its\nhistoric injustices. COVID-19 strained well-being and burdened\ncaregivers, many of whom are women.\n\nThese issues deeply impacted us all, at Google and around the\nworld"
+      },
+      {
+        "title": "Corporate America Promised to Hire a Lot More People of Color. It\u00a0Actually\u00a0Did.",
+        "url": "https://www.bloomberg.com/graphics/2023-black-lives-matter-equal-opportunity-corporate-diversity",
+        "published": "2023-09-25T00:00:00.000Z",
+        "excerpt": "After BLM, the S&amp;P 100 Added Over 300k Jobs. 23% Were Black Workers\nNote: To learn more about our analysis and term definitions,[read our methodology here.] Overall share of US workers belonging to each demographic category may not add to 100 due to rounding.\n| Big Take\n# Corporate America Promised to Hire a Lot More People of Color.\nItActuallyDid.\nThe year after Black Lives Matter protests, the S&amp;P 100 added more than 300,000 jobs \u201494% went to people of color.\nPublished:September 25, 20"
+      },
+      {
+        "title": "Google 2021 Diversity Annual Report",
+        "url": "https://static.googleusercontent.com/media/about.google/en//belonging/diversity-annual-report/2021/static/pdfs/google_2021_diversity_annual_report.pdf",
+        "published": "2021-06-30T00:00:00.000Z",
+        "excerpt": "2021 Diversity Annual Report Google\nWe're listening, learning,\nand taking action.\n\n\nTable of contents 3 Diversity, Equity & Inclusion Timeline\n4 Introduction\nHere are 5 key things we realized in 2020, and the \nconcrete actions we\u2019re taking to create a more just \nand equitable workplace and world:\n5 Insight #1 \u2014 Hiring\nHiring changes drove our best year yet for women in tech \nglobally and Black+ and Latinx+ people in the U.S. \n12 Insight #2 \u2014 Retention\nTailoring our retention efforts is necessary"
+      },
+      {
+        "title": "Action #3: Representation - Google Diversity Annual Report",
+        "url": "https://about.google/belonging/diversity-annual-report/2022/representation/",
+        "published": "2023-01-01T00:00:00.000Z",
+        "excerpt": "Opens in a new window\n\n![] \n\nDiversity Annual Report, 2022: Representation at Google\n\n0:41\n\nSpotlight\n\nHear from Tomas Flier, Community Inclusion Lead in Barcelona,\nSpain, on the progress we\u2019ve made in building a Google\nthat better reflects the diversity of our world.\n\n* * *\n\nWatch audio-described video\n\nRead the transcript\n\n2022 Diversity Annual Report\n\n**Action 3: Representation**\n\nIn 2021, we invested responsibly in the places we call\nhome\u2014building a Google that better represents the\ncommunit"
+      },
+      {
+        "title": "EEO-1 (Employer Information Report) Statistics",
+        "url": "https://www.eeoc.gov/data/eeo-1-employer-information-report-statistics",
+        "published": null,
+        "excerpt": "EEO-1 (Employer Information Report) Statistics | U.S. Equal Employment Opportunity Commission[Skip to main content] \n![U.S. flag] \nAn official website of the United States government\nHere\u2019s how you know\nHere\u2019s how you know\n![] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA**lock**(LockA locked padlock) or**https://**means you\u2019ve safely connected to the .gov website. Share sensitive\nin"
+      },
+      {
+        "title": "154 Fortune 500 companies released diversity data last year. Here\u2019s what they reveal about the state of DEI",
+        "url": "https://fortune.com/2024/03/13/fortune-500-diversity-data-promotions-representation-legal/",
+        "published": "2024-03-13T00:00:00.000Z",
+        "excerpt": "What Fortune 500 diversity data reveals about state of DEI | Fortune\nSearch\n[] \nSubscribe\n* [Home] \n* [Latest] \n* [Fortune 500] \n* [Finance] \n* [Tech] \n* [Leadership] \n* [Lifestyle] \n* [Rankings] \n* [Multimedia] \n[Newsletters] [raceAhead] \n# 154 Fortune 500 companies released diversity data last year. Here\u2019s what they reveal about the state of DEI\nBy\n[Ruth Umoh] \nRuth Umoh\nEditor, Next to Lead\nDown Arrow Button Icon\nBy\n[Ruth Umoh] \nRuth Umoh\nEditor, Next to Lead\nDown Arrow Button Icon\nMarch 13, "
+      },
+      {
+        "title": "Data and Analytics - Overview",
+        "url": "https://eeoc.gov/data",
+        "published": "2025-09-01T00:00:00.000Z",
+        "excerpt": "Data and Analytics - Overview | U.S. Equal Employment Opportunity Commission[Skip to main content] \n![U.S. flag] \nAn official website of the United States government\nHere\u2019s how you know\nHere\u2019s how you know\n![] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA**lock**(LockA locked padlock) or**https://**means you\u2019ve safely connected to the .gov website. Share sensitive\ninformation only on"
+      },
+      {
+        "title": "NACE - Page not found",
+        "url": "https://naceweb.org/diversity-equity-and-inclusion/trends-and-predictions/formal-diversity-recruiting-efforts-climb-among-employers",
+        "published": "2022-03-07T00:00:00.000Z",
+        "excerpt": "NACE - Page not found\n[![NACE Logo]![NACE spelled out next to logo]] \n[![Join icon] Join/Renew] [Sign In] \n![mobile menu]![mobile menu] \n## Archived content\nWe're sorry, the content you are looking for is no longer available."
+      },
+      {
+        "title": "Having the right materials, at the right time, for all the right reasons",
+        "url": "https://www2.deloitte.com/content/dam/Deloitte/us/Documents/about-deloitte/us-23-dei-tr-diversity-equity-and-inclusion.pdf",
+        "published": "2024-01-24T00:00:00.000Z",
+        "excerpt": "Deloitte US | Together Makes Progress \n Link opens in a new tabopens in new window\n[Skip to main content] \n[![deloitte_logo]![deloitte_logo]] \n* * **GLOBAL - EN**\n* [**] \n* [**] \n* ![] [![]] \n* [Dashboard] \n* [Content feed] \n* [Subscriptions] \n* [Profile/Interests] \n* [Account settings] \n* Log out\n* **\n[**Main Menu] \n**\n![] \nSelect your location\n**Clear\nNo results found\nWelcome to Deloitte\nIf we have selected the wrong experience for you, please change it above.\n# Having the right materials, at "
+      },
+      {
+        "title": "Google Diversity Annual Report 2022",
+        "url": "https://static.googleusercontent.com/media/about.google/en//belonging/diversity-annual-report/2022/static/pdfs/google_2022_diversity_annual_report.pdf",
+        "published": "2022-06-03T00:00:00.000Z",
+        "excerpt": "\nGoogle Diversity Annual Report 2022 2\nTable of Contents\nTable of Contents\n3 Introduction\n5 Diversity, Equity, and Inclusion Timeline\n7 Action #1 \u2013 Hiring\n19 Action #2 \u2013 Retention and Progression\n30 Action #3 \u2013 Representation\n47 Action #4 \u2013 Flexibility\n53 Action #5 \u2013 Belonging and Innovation\n62 Workplace Commitments\n63 Looking Ahead\n64 Data Methodology\n66 Appendix\nGoogle Diversity Annual Report 2022 3\nIntroduction\nIntroduction\nWe\u2019re growing to meet people where they are.\nThroughout 2020, we acti"
+      },
+      {
+        "title": "We\u2019re building a Google for all of us to build helpful products for everyone",
+        "url": "https://about.google/belonging/diversity-annual-report/2023/",
+        "published": "2022-01-01T00:00:00.000Z",
+        "excerpt": "Google \u2014Building Together for Everyone\n[Jump to Content] \n[\n![Google] \nBelonging] \n[\n![Google] \nBelonging] \n# We\u2019re building a Google for all of us to build helpful products for everyone\nPlay silent looping videoPause silent looping video\n![A poised Black woman with long wavy hair smiles at the camera] \n> > To build products that help billions of people reach their goals, we\u2019re bringing together talented people from everywhere and empowering them to do their best work. MELONIE PARKER\nVP, Googler"
+      },
+      {
+        "title": "Google Diversity Annual Report 2023",
+        "url": "https://www.annualreports.com/HostedData/AnnualReports/PDF/NASDAQ_GOOG_2023.pdf",
+        "published": "2023-05-04T00:00:00.000Z",
+        "excerpt": "Google\n\nDiversity\n\nAnnual\n2023 Report\n\n4 =]\ntea 4\naa -\n2\n=\n7 od)\nSe\n\n\nGoogle Diversity Annual Report 2023 2\nTable of Contents\nTable of Contents\n 3 Introduction\n 4 Key Takeaways\n 5 In Our Workplace\n 29 Workplace Commitments\n 34 In Our Products\n 43 In Society\n 58 DEI Timeline\n 60 Looking Ahead\n 61 Data Methodology\n 64 Appendix\nGoogle Diversity Annual Report 2023 3\nIntroduction\nThis past year, we identified our most effective efforts, \nthen doubled down.\nEquipped with data from across our geographi"
+      },
+      {
+        "title": "At Deloitte, we make an impact that matters",
+        "url": "https://www2.deloitte.com/us/en/pages/about-deloitte/articles/dei/diversity-equity-inclusion-transparency-report.html",
+        "published": "2024-01-29T00:00:00.000Z",
+        "excerpt": "Who We Are | Deloitte \n Link opens in a new tabopens in new window\n[Skip to main content] \n[![deloitte_logo]![deloitte_logo]] \n* * **GLOBAL - EN**\n* [**] \n* [**] \n* ![] [![]] \n* [Dashboard] \n* [Content feed] \n* [Subscriptions] \n* [Profile/Interests] \n* [Account settings] \n* Log out\n* **\n[**Main Menu] \n**\n![] \nSelect your location\n**Clear\nNo results found\nWelcome to Deloitte\nIf we have selected the wrong experience for you, please change it above.\n# At Deloitte, we make an impact that matters\nFor"
+      },
+      {
+        "title": "",
+        "url": "https://fortune.com/franchise-list-page/measure-up-initiative-fortune-refinitiv-partnership-methodology/",
+        "published": null,
+        "excerpt": "- [Home] \n- [News] \n- [Fortune 500] \n - [FORTUNE SEA 500] \n - [Fortune 500 Europe] \n - [Fortune Global 500] \n - [Fortune China 500] \n - [Great Place to Work] \n - [More Rankings] \n- [Tech] \n - [AI] \n - [Innovation] \n - [Cybersecurity] \n- [Finance] \n - [Personal Finance] \n - [Real Estate] \n - [Economy] \n - [Investing] \n - [Banking] \n - [Crypto] \n- [Leadership] \n - [Success] \n - [Future of Work] \n - [Workplace Culture] \n - [C-Suite] \n - [CEO Initiative] \n- [Lifestyle] \n - [Arts & Entertainment] \n -"
+      },
+      {
+        "title": "154 Fortune 500 companies released diversity data last year. Here\u2019s what they reveal about the state of DEI",
+        "url": "https://fortune.com/2024/03/13/fortune-500-diversity-data-promotions-representation-legal/",
+        "published": "2024-03-13T00:00:00.000Z",
+        "excerpt": "What Fortune 500 diversity data reveals about state of DEI | Fortune\nSearch\n[] \nSubscribe\n* [Home] \n* [Latest] \n* [Fortune 500] \n* [Finance] \n* [Tech] \n* [Leadership] \n* [Lifestyle] \n* [Rankings] \n* [Multimedia] \n[Newsletters] [raceAhead] \n# 154 Fortune 500 companies released diversity data last year. Here\u2019s what they reveal about the state of DEI\nBy\n[Ruth Umoh] \nRuth Umoh\nEditor, Next to Lead\nDown Arrow Button Icon\nBy\n[Ruth Umoh] \nRuth Umoh\nEditor, Next to Lead\nDown Arrow Button Icon\nMarch 13, "
+      },
+      {
+        "title": "Introducing Measure Up, our partnership with Refinitiv to measure racial diversity",
+        "url": "https://fortune.com/2020/11/17/measure-up-fortune-refinitiv-racial-diversity/",
+        "published": "2020-11-17T00:00:00.000Z",
+        "excerpt": "[Home Page] \n\n[Fortune Communications] \u00b7 [Measure Up] \n\n# Introducing Measure Up, our partnership with Refinitiv to measure racial diversity\n\nBY[Rachel Lobdell] \n\nIt\u2019s hard to make meaningful change without measuring it. This is why so many companies have introduced [key performance indicators], also known as KPIs, as ways to analytically look at how projects, initiatives, and employees are succeeding. But while many companies made a renewed commitment to improving racial and ethnic diversity fo"
+      },
+      {
+        "title": "Site under maintenance",
+        "url": "https://hbr.org/2022/03/data-driven-diversity'",
+        "published": "2022-03-01T00:00:00.000Z",
+        "excerpt": "Site under maintenance\n[Harvard Business Review LogoHarvard Business Review Logo] \n[Subscribe] Sign In\n## Maintenance Mode\nHBR.org is currently in maintenance mode while we make improvements to user experience. We&#x27;re sorry for the inconvenience. We expect the site to return to full service within 24 hours. Please check back then."
+      },
+      {
+        "title": "The DEI challenge: Measuring progress",
+        "url": "https://kpmg.com/us/en/articles/2023/dei-challenge-measuring-progress.html",
+        "published": "2023-02-14T00:00:00.000Z",
+        "excerpt": "# The DEI challenge: Measuring progress\n\nWe asked corporate leaders how they\u2019re faring with diversity, inclusion, and equity efforts. The results are heartening and sobering.\n\n![] \n\nReasons for optimism, but still causes for concern.\n\nThat\u2019s the biggest takeaway from our first-ever KPMG Diversity, Equity, and Inclusion Progress Survey, which also reflected that, in general, corporate leadership remains both universally serious about and highly committed to creating a culture of inclusiveness.\n\nN"
+      },
+      {
+        "title": "Improve Your Diversity Measurement for Better Outcomes",
+        "url": "https://sloanreview.mit.edu/article/improve-your-diversity-measurement-for-better-outcomes/",
+        "published": "2022-11-14T00:00:00.000Z",
+        "excerpt": "#### Topics\n\n- [Workplace, Teams, & Culture] \n- [Analytics & Business Intelligence] \n- [Diversity & Inclusion] \n\n[Subscribe] [Get Copies] [Download PDF] Share\n\nTwitterFacebookLinkedin\n\nMichael Austin/theispot.com\n\nIf business leaders hope to move the needle on diversity, equity, and inclusion (DEI), it\u2019s critical that they put measurements in place to track progress and hold managers accountable for results, something that few organizations are currently doing effectively. [1] \n\nIndeed, the more"
+      },
+      {
+        "title": "To Make Lasting Progress on DEI, Measure Outcomes",
+        "url": "https://hbr.org/2023/01/to-make-lasting-progress-on-dei-measure-outcomes",
+        "published": "2023-01-27T00:00:00.000Z",
+        "excerpt": "[SKIP TO CONTENT] Harvard Business Review Logo\n\n[Diversity and inclusion] \n\n# To Make Lasting Progress on DEI, Measure Outcomes\n\nby [Lily Zheng] \n\nJanuary 27, 2023\n\n![] \n\nAnan Thanakitkotinon/Getty Images\n\n- [![] Post] \n- ![] Post\n- ![] Share\n- ![] Save\n- [![] Buy Copies] \n- ![] Print\n\n## Summary.\n\n[Leer en espa\u00f1ol] [Ler em portugu\u00eas] \n\n- [![] Post] \n- ![] Post\n- ![] Share\n- ![] Save\n- [![] Buy Copies] \n- ![] Print\n\nOrganizations that seek to achieve diversity, equity, and inclusion as measurabl"
+      },
+      {
+        "title": "Diversity targets",
+        "url": "https://link.springer.com/article/10.1007/s11142-024-09831-x?error=cookies_not_supported&code=a0ff36af-0d25-438b-aa57-0baef99715ff",
+        "published": "2024-07-03T00:00:00.000Z",
+        "excerpt": "Diversity targets | Review of Accounting Studies\n[Skip to main content] \n[![Springer Nature Link]] \n[Log in] \n# Diversity targets\n* [Open access] \n* Published:03 July 2024\n* Volume\u00a029,\u00a0pages 2157\u20132208, (2024)\n* [Cite this article] \nYou have full access to this[open access] article\n[Download PDF] \n[![] Review of Accounting Studies] [Aims and scope] [Submit manuscript] \nDiversity targets\n[Download PDF] \n* [Wei Cai] [ORCID:orcid.org/0000-0002-4778-993X] [1],\n* [Yue Chen] [2],\n* [Shiva Rajgopal] [1]"
+      },
+      {
+        "title": "Equality Metrics",
+        "url": "https://yalelawjournal.org/essay/equality-metrics",
+        "published": "2021-06-01T00:00:00.000Z",
+        "excerpt": "#### This essay is part of a collection\n### Reckoning and Reformation: Reflections and Legal Reponses to Racial Subordination and Structural Marginalization\nAmericans find themselves once again grappling with the reality and legacy of racial subordination and structural inequality. Law is central to both maintaining and dismantling structural subordination based upon race, class, and other marginalized identities. This collection, in conjunction with other law reviews, grapples with some of thes"
+      },
+      {
+        "title": "Walmart rolls back DEI programs after right-wing backlash",
+        "url": "https://www.cnn.com/2024/11/25/business/walmart-dei-rollback",
+        "published": "2024-11-26T00:00:00.000Z",
+        "excerpt": "Walmart rolls back DEI programs after right-wing backlash | CNN Business[] \n### CNN values your feedback\n1. How relevant is this ad to you?\n2. Did you encounter any technical issues?\nVideo player was slow to load contentVideo content never loadedAd froze or did not finish loadingVideo content did not start after adAudio on ad was too loudOther issues\nAd never loadedAd prevented/slowed the page from loadingContent moved around while ad loadedAd was repetitive to ads I&#x27;ve seen previouslyOther"
+      },
+      {
+        "title": "Walmart becomes latest \u2014 and biggest \u2014 company to roll back its DEI policies",
+        "url": "https://apnews.com/article/walmart-dei-inclusion-diversity-34b06922e60e5116fe198696201ce4d9",
+        "published": "2024-11-26T00:00:00.000Z",
+        "excerpt": "[![AP Logo]] \n\nMenu\n\n- [World] \n\n\n\n\n\n\n\n\n\nSECTIONS\n\n\n\n[Israel-Hamas war] [Russia-Ukraine War] [Espa\u00f1ol] [China] [Asia Pacific] [Latin America] [Europe] [Africa] \n\n\n\n\n\n\n\nTOP STORIES\n\n\n\n- [Canada's Liberals celebrate a stunning win and the populist challenger loses his seat] \n- [What is a conclave? What to know about the secretive process to elect the next pope] \n- [As communist troops streamed into Saigon, a few remaining reporters kept photos and stories flowing] \n\nNewsletters\n\n[The Morning Wire\\"
+      },
+      {
+        "title": "Walmart rolls back DEI programs after right-wing backlash",
+        "url": "https://www.cnn.com/2024/11/25/business/walmart-dei-rollback/index.html",
+        "published": "2024-11-25T00:00:00.000Z",
+        "excerpt": "Walmart rolls back DEI programs after right-wing backlash | CNN Business[] \n### CNN values your feedback\n1. How relevant is this ad to you?\n2. Did you encounter any technical issues?\nVideo player was slow to load contentVideo content never loadedAd froze or did not finish loadingVideo content did not start after adAudio on ad was too loudOther issues\nAd never loadedAd prevented/slowed the page from loadingContent moved around while ad loadedAd was repetitive to ads I&#x27;ve seen previouslyOther"
+      },
+      {
+        "title": "Walmart just announced a sweeping rollback of its diversity policies. It comes as conservative groups keep winning legal challenges alleging 'reverse discrimination'",
+        "url": "https://fortune.com/2024/11/26/walmart-dei-diversity-donald-trump-lawsuits-conservatives-reverse-discrimination/",
+        "published": "2024-11-26T00:00:00.000Z",
+        "excerpt": "- [Home] \n- [News] \n- [Fortune 500] \n - [Fortune Global 500] \n - [Fortune 500 Europe] \n - [Fortune China 500] \n - [Fortune SEA 500] \n - [Great Place to Work] \n- [Tech] \n - [AI] \n - [Innovation] \n - [Cybersecurity] \n- [Finance] \n - [Personal Finance] \n - [Real Estate] \n - [Economy] \n - [Investing] \n - [Banking] \n - [Crypto] \n- [Leadership] \n - [Success] \n - [Future of Work] \n - [Workplace Culture] \n - [C-Suite] \n - [CEO Initiative] \n- [Lifestyle] \n - [Arts & Entertainment] \n - [Travel & Leisure] "
+      },
+      {
+        "title": "Walmart's DEI rollback signals a profound shift in the wake of Trump's election victory",
+        "url": "https://apnews.com/article/walmart-dei-inclusion-diversity-f2fc1ab086186ec6600c38950d8d2c74",
+        "published": "2024-11-26T00:00:00.000Z",
+        "excerpt": "[![AP Logo]] \n\nMenu\n\n- [World] \n\n\n\n\n\n\n\n\n\nSECTIONS\n\n\n\n[Israel-Hamas war] [Russia-Ukraine War] [Espa\u00f1ol] [China] [Asia Pacific] [Latin America] [Europe] [Africa] \n\n\n\n\n\n\n\nTOP STORIES\n\n\n\n- [Canada's Liberals celebrate a stunning win and the populist challenger loses his seat] \n- [What is a conclave? What to know about the secretive process to elect the next pope] \n- [As communist troops streamed into Saigon, a few remaining reporters kept photos and stories flowing] \n\nNewsletters\n\n[The Morning Wire\\"
+      },
+      {
+        "title": "Walmart becomes biggest company to roll back DEI policies under conservative pressure to \u2018end wokeness in corporate America\u2019 | Fortune",
+        "url": "https://fortune.com/2024/11/26/walmart-biggest-company-roll-back-dei-policies-wokeness-corporate-america",
+        "published": "2024-11-26T00:00:00.000Z",
+        "excerpt": "- [Home] \n- [News] \n- [Fortune 500] \n - [Fortune Global 500] \n - [Fortune 500 Europe] \n - [Fortune China 500] \n - [Fortune SEA 500] \n - [Great Place to Work] \n- [Tech] \n - [AI] \n - [Innovation] \n - [Cybersecurity] \n- [Finance] \n - [Personal Finance] \n - [Real Estate] \n - [Economy] \n - [Investing] \n - [Banking] \n - [Crypto] \n- [Leadership] \n - [Success] \n - [Future of Work] \n - [Workplace Culture] \n - [C-Suite] \n - [CEO Initiative] \n- [Lifestyle] \n - [Arts & Entertainment] \n - [Travel & Leisure] "
+      },
+      {
+        "title": "Walmart to roll back some diversity policies amid pressure from conservatives",
+        "url": "https://www.reuters.com/business/retail-consumer/walmart-roll-back-some-diversity-policies-amid-pressure-conservatives-2024-11-26/",
+        "published": "2024-11-26T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[Exclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv] \n\n- Companies\n\n- [Walmart Inc] \n\n\n\nFollow\n\n- [Deere & Co] \n\n\n\nFollow\n\n- [Ford Motor Co] \n\n\n\nFollow\n\n\nShow more companies\n\nNov 26 (Reuters) - Walmart [(WMT.N), opens new tab] plans to cut back some of its diversity, equity and inclusion (DEI) initiatives, a spokesperson for the retailer said on Monday, joining a growing list of firms feeling the heat from conservative groups.\n"
+      },
+      {
+        "title": "Which US companies are pulling back on diversity initiatives?",
+        "url": "https://www.ap.org/news-highlights/spotlights/2025/which-us-companies-are-pulling-back-on-diversity-initiatives/",
+        "published": "2025-02-12T00:00:00.000Z",
+        "excerpt": "Which US companies are pulling back on diversity initiatives? | The Associated Press\n[Skip to content] \n[![]] \n![Magnifying glass] \n![Magnifying glass]![Go] \n[Contact us] \n[Home] [News Highlights] [Spotlights] Which US companies are pulling back on diversity initiatives?\nSpotlights\n# Which US companies are pulling back on diversity initiatives?\nFILE - A community member holds a sign calling for a national boycott of Target stores during a news conference outside Target Corporation's headquarters"
+      },
+      {
+        "title": "Walmart Rolls Back DEI Programs",
+        "url": "https://www.wsj.com/business/retail/walmart-rolls-back-dei-programs-66a5201a",
+        "published": "2024-11-26T00:00:00.000Z",
+        "excerpt": "Skip to Main ContentSkip to Search\n\nSkip to...\n\nSelect\n\n- What to Read Next\n- Most Popular News\n- Most Popular Opinion\n- Recommended Videos\n\n[DJIA\\\n\\\n42518.28\\\n\\\n0.52%] \n\n[S&P 500\\\n\\\n5842.91\\\n\\\n0.11%] \n\n[Nasdaq\\\n\\\n19044.39\\\n\\\n-0.23%] \n\n[Russell 2000\\\n\\\n2219.24\\\n\\\n1.13%] \n\n[U.S. 10 Yr\\\n\\\n-0/32\\\n\\\n4.793%] \n\n[VIX\\\n\\\n18.71\\\n\\\n-2.50%] \n\n[Gold\\\n\\\n2693.10\\\n\\\n0.54%] \n\n[Bitcoin\\\n\\\n96590.12\\\n\\\n0.09%] \n\n[Crude Oil\\\n\\\n78.09\\\n\\\n-0.93%] \n\n[Dollar Index\\\n\\\n103.29\\\n\\\n0.01%] \n\n[KBW Nasdaq Bank Index\\\n\\\n129.61\\\n\\"
+      },
+      {
+        "title": "",
+        "url": "https://oneten.org/wp-content/uploads/2024/09/2023_ImpactReport_OneTen.pdf",
+        "published": "2024-09-24T00:00:00.000Z",
+        "excerpt": "1\nHow OneTen is driving the skills-first movement \nfor a more inclusive future workforce\n2023\nImpact Report\nToward a \nSkills-First Future\nINTRODUCTION\nIMPACT\nTALENT\nEMPLOYERS\nECOSYSTEM\nLOOKING AHEAD\nCOALITION MEMBERS\nTable of Contents\nFounding Member Companies\nExecutive Committee and Founders \nLetter from Our Board Co-Chairs\nLetter from Our CEO\n2023 Milestones\nOur Impact\nEmpowering Companies to Unlock Potential\nReimagining the Talent Journey\nThe Power of Community-Based Ecosystems\nLooking Ahead\n"
+      },
+      {
+        "title": "OneTen 2023 Impact Report Highlights Progress Towards Skills-First Future of Work",
+        "url": "https://www.prnewswire.com/news-releases/oneten-2023-impact-report-highlights-progress-towards-skills-first-future-of-work-302258584.html",
+        "published": "2024-09-25T00:00:00.000Z",
+        "excerpt": "OneTen 2023 Impact Report Highlights Progress Towards Skills-First Future of Work[Accessibility Statement] [Skip Navigation] \n# OneTen 2023 Impact Report Highlights Progress Towards Skills-First Future of Work\n## News provided by\n[**OneTen**] \nSep 25, 2024, 09:00 ET\n## Share this article\n[\n* **] [\n* **] [\n* **] [\n* **] [\n* **] \nShare toX\n**\n**\nShare this article\n[\n* **] [\n* **] [\n* **] [\n* **] \nShare toX\n*Report underscores coalition's pivotal role in creating economic mobility for more than 122"
+      },
+      {
+        "title": "We\u2019re driving a skills-first movement to  unlock career opportunities  for talent without four-year degrees.",
+        "url": "https://oneten.org/",
+        "published": "2022-12-19T17:29:56.000Z",
+        "excerpt": "Homepage - OneTen\n[close] \nvideo\n[close] \nvideo\n[Skip to primary navigation] [Skip navigation and go to main content] [Skip to footer] \n[] \n**\n* About Us\n* * * [About Us] \n* OneTen is driving a skills-first movement to unlock career opportunities for talent without four-year degrees.\n* * [Our Approach] \n* [Our Partners] \n* [Our Team] \n* [Work at OneTen] \n* Career Seekers\n* * * [Career Seekers] \n* Whether you\u2019re ready to find a job today or want to sharpen your skills for future career opportunit"
+      },
+      {
+        "title": "About Us - OneTen",
+        "url": "https://oneten.org/about-us/",
+        "published": "2022-10-10T09:41:29.000Z",
+        "excerpt": "About Us - OneTen\n[close] \nvideo\n[close] \nvideo\n[Skip to primary navigation] [Skip navigation and go to main content] [Skip to footer] \n[] \n**\n* About Us\n* * * [About Us] \n* OneTen is driving a skills-first movement to unlock career opportunities for talent without four-year degrees.\n* * [Our Approach] \n* [Our Partners] \n* [Our Team] \n* [Work at OneTen] \n* Career Seekers\n* * * [Career Seekers] \n* Whether you\u2019re ready to find a job today or want to sharpen your skills for future career opportunit"
+      },
+      {
+        "title": "Our Approach",
+        "url": "https://oneten.org/about-us/our-approach/",
+        "published": "2025-03-21T00:00:00.000Z",
+        "excerpt": "close\n\nvideo\n\nclose\n\nvideo\n\n![co workers laughing together in the office on break at their cubicle. ] \n\n# Our Approach\n\nWe're changing the way America hires to advance skilled talent without four-year degrees at every stage of their career.\n\n## What We Do\n\nWe create skills-first strategies and solutions that help companies build\u2014and retain\u2014a winning workforce.\n\n![] \n\n## How We Do It\n\n![] \n\n- [**Companies**] \n- [**Talent**] \n\n### Practice Change\n\nWe work with companies to remove the four-year deg"
+      },
+      {
+        "title": "OneTen\u2019s 2024 Impact Report - \"Delivering a Skills-First Future: From Intent to Impact\"",
+        "url": "https://oneten.org/news/oneten-2024-impact-report/",
+        "published": "2025-08-12T00:00:00.000Z",
+        "excerpt": "close\n\nvideo\n\nclose\n\nvideo\n\n# OneTen\u2019s 2024 Impact Report \u2013 \u201cDelivering a Skills-First Future: From Intent to Impact\u201d\n\n08.12.2025\n\n## OneTen\u2019s newly released 2024 Impact Report, \"Delivering a Skills-First Future: From Intent to Impact,\" showcases our progress in working with a coalition of leading U.S. companies to shift towards skills-first practices.\n\n**In 2024, OneTen\u2019s work underscored that implementing skills-based practices isn\u2019t just aspirational\u2014it\u2019san actionable, powerful strategy for b"
+      },
+      {
+        "title": "How One DEI Initiative Changed Course With the Times",
+        "url": "https://www.nytimes.com/2024/01/22/business/diversity-oneten-black-employment.html",
+        "published": "2024-01-22T00:00:00.000Z",
+        "excerpt": "[Business] \\|How a Diversity Initiative Changed Course With the Times\n\nhttps://www.nytimes.com/2024/01/22/business/diversity-oneten-black-employment.html\n\n- Share full article\n\n\nAdvertisement\n\n[SKIP ADVERTISEMENT] \n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\nThree years ago, dozens of big companies formed a coalition and declared an ambitious goal: to lift one million Black workers into good-payin"
+      },
+      {
+        "title": "Skills-First Hiring with OneTen Coalition | Deloitte US",
+        "url": "https://www2.deloitte.com/us/en/pages/about-deloitte/articles/oneten-coalition-workforce-development.html",
+        "published": "2025-06-16T00:00:00.000Z",
+        "excerpt": "Link opens in a new tabopens in new window\n\n[Contact Us] \n\n[Submit RFP] \n\n# Galvanizing change\n\nTaking a skills-first approach to employment opportunities\n\nTalent Story\n\n[Print] \n\n[Share] \n\n_Deloitte is working with the OneTen Coalition to help narrow the opportunity gap; expanding skills-first hiring and igniting future talent to achieve family-sustaining jobs._\n\nHaving access to quality jobs is a critical component of upward economic mobility. Yet, in the United States, a large majority of wel"
+      },
+      {
+        "title": "OneTen | Learn &amp; Work Ecosystem Library",
+        "url": "https://learnworkecosystemlibrary.com/initiatives/oneten/",
+        "published": "2022-12-08T00:00:00.000Z",
+        "excerpt": "[Skip to content] \n\n- [Back to All Initiatives] \n\n- Initiative\n\n## OneTen\n\nLast Updated: 10/08/2025\n\n[Relational maps can be generated upon request. Contact the Librarian to learn more] \n\nCopy URL to Clipboard\n\nCitation\n\n**APA** Learn & Work Ecosystem Library. (2022-12-08 19:56:43). OneTen. Retrieved 12/20/2025, from https://learnworkecosystemlibrary.com/initiatives/oneten/ **MLA** \u201cOneTen.\u201d Learn & Work Ecosystem Library, 2022-12-08 19:56:43, https://learnworkecosystemlibrary.com/initiatives/on"
+      },
+      {
+        "title": "Homepage - One Ten",
+        "url": "https://oneten.org/?hss_channel=tw-1331693911920832515",
+        "published": "2024-03-21T00:00:00.000Z",
+        "excerpt": "[close] \n\nvideo\n\n[close] \n\nvideo\n\n![woman with long braided hair smiling clapping her hands together looking at the camera. She is wearing glasses and wearing a button up beige shirt.] \n\n# OneTen\n\nWe\u2019re driving a skills-first movement for a more equitable and inclusive future workforce.\n\n[Watch Now] \n\n## Hire Skills for Higher Returns.\n\nFor too long, companies have relied on traditional hiring and advancement practices which typically include a four-year degree requirement. Hiring for skills, no"
+      },
+      {
+        "title": "After BLM, the S&P 100 Added Over 300k Jobs. 23% Were Black Workers",
+        "url": "https://docs.house.gov/meetings/GO/GO00/20240627/117470/HHRG-118-GO00-20240627-SD005.pdf",
+        "published": "2024-08-20T00:00:00.000Z",
+        "excerpt": "Advertisement\nEquality + Businessweek | Big Take\nCorporate AmericaPromisedto\nHire a LotMore People ofColor.\nItActuallyDid.\nTheyearafterBlackLivesMatterprotests,\ntheS&P100addedmorethan300,000\njobs\u201494%went topeopleofcolor.\nPublished: September 25, 2023\nUpdated: September 26, 2023 at 11:00 AM EDT\nSubscribe\nC) C ) C) < ) C) (Gi Gift this article )\n\n\nFor a brief moment in 2020, much of corporate America united\naround a common goal: to address the stark racial imbalances in\ntheir workplaces.\nMass prot"
+      },
+      {
+        "title": "US Black Workers See Progress Stall With Conservatives\u2019 Anti-DEI Push",
+        "url": "https://www.bloomberg.com/graphics/2024-anti-dei-corporate-america-stalls-black-workers-gains/",
+        "published": "2024-12-20T00:00:00.000Z",
+        "excerpt": "# Corporate America Hired More Black Workers. Then It Stopped.\n\nIllustration by Ard Su\n\n# Corporate America Hired More Black Workers. Then It Stopped.\n\n## Black workers are losing share at big US public companies as conservatives amp up their anti-diversity push ahead of Donald Trump\u2019s second presidential term.\n\nPublished:December 20, 2024\\|Updated:December 20, 2024\n\nFor Black employees in America\u2019s biggest companies, progress has stalled.\n\nThe share of Black workers in the S&P 100 workforce dec"
+      },
+      {
+        "title": "E-13. Employed persons by sex, occupation, class of worker, full- or part-time status, and race",
+        "url": "https://www.bls.gov/web/empsit/cpsee_e13.htm",
+        "published": null,
+        "excerpt": "E-13. Employed persons by sex, occupation, class of worker, full- or part-time status, and race\n[Skip to Content] \n![U.S. flag] \nAn official website of the United States governmentHere is how you know\n[![Department of Labor Logo] United States Department of Labor] \n![Dot gov] \n**The .gov means it's official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information,\nmake sure you're on a federal government site.\n![Https] \n**The site is secure.**\nThe**https://*"
+      },
+      {
+        "title": "A-4. Employment status of the civilian noninstitutional population by race, Hispanic or Latino ethnicity, sex, and age, seasonally adjusted",
+        "url": "https://www.bls.gov/web/empsit/cpseea04.htm",
+        "published": null,
+        "excerpt": "A-4. Employment status of the civilian noninstitutional population by race, Hispanic or Latino ethnicity, sex, and age, seasonally adjusted\n[Skip to Content] \n![U.S. flag] \nAn official website of the United States governmentHere is how you know\n[![Department of Labor Logo] United States Department of Labor] \n![Dot gov] \n**The .gov means it's official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information,\nmake sure you're on a federal government site.\n![Ht"
+      },
+      {
+        "title": "A-20. Employed persons by occupation, race, Hispanic or Latino ethnicity, and sex",
+        "url": "https://www.bls.gov/web/empsit/cpseea20.htm",
+        "published": null,
+        "excerpt": "A-20. Employed persons by occupation, race, Hispanic or Latino ethnicity, and sex\n[Skip to Content] \n![U.S. flag] \nAn official website of the United States governmentHere is how you know\n[![Department of Labor Logo] United States Department of Labor] \n![Dot gov] \n**The .gov means it's official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information,\nmake sure you're on a federal government site.\n![Https] \n**The site is secure.**\nThe**https://**ensures that "
+      },
+      {
+        "title": "A-15. Employment status of the civilian noninstitutional population by race, Hispanic or Latino ethnicity, sex, and age",
+        "url": "https://www.bls.gov/web/empsit/cpseea15.htm",
+        "published": null,
+        "excerpt": "A-15. Employment status of the civilian noninstitutional population by race, Hispanic or Latino ethnicity, sex, and age\n[Skip to Content] \n![U.S. flag] \nAn official website of the United States governmentHere is how you know\n[![Department of Labor Logo] United States Department of Labor] \n![Dot gov] \n**The .gov means it's official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information,\nmake sure you're on a federal government site.\n![Https] \n**The site is "
+      },
+      {
+        "title": "Table 10 Work Force Trend (500 or More Employees) Part A",
+        "url": "https://eeoc.gov/table-10-work-force-trend-500-or-more-employees-part",
+        "published": "2025-09-01T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n**Official websites use .gov** A **.gov** website belongs to an official government organization in the United States.\n\n**Secure .gov websites use HTTPS** A **lock** (\nA locked padlock\n) or **https://** means you\u2019ve safely connected to the .gov website. Share sensitive\ninformation only on official, secure websites.\n\n1. [Home] \n2. Table 10 Work Force Trend (500 or More Employees) Part A\n\n# Table 10 Work Force Trend (500 or More Employees) Part A\n\n| YEAR | TOTAL ALL | TOTA"
+      },
+      {
+        "title": "Employed persons by detailed occupation, sex, race, and Hispanic or Latino ethnicity :  U.S. Bureau of Labor Statistics",
+        "url": "https://www.bls.gov/cps/aa2021/cpsaat11.htm",
+        "published": "2023-01-20T00:00:00.000Z",
+        "excerpt": "Employed persons by detailed occupation, sex, race, and Hispanic or Latino ethnicity : U.S. Bureau of Labor Statistics\n[Skip to Content] \n![U.S. flag] \nAn official website of the United States governmentHere is how you know\n[![Department of Labor Logo] United States Department of Labor] \n![Dot gov] \n**The .gov means it's official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information,\nmake sure you're on a federal government site.\n![Https] \n**The site is s"
+      },
+      {
+        "title": "EEO-1 (Employer Information Report) Statistics",
+        "url": "https://www.eeoc.gov/data/eeo-1-employer-information-report-statistics",
+        "published": null,
+        "excerpt": "EEO-1 (Employer Information Report) Statistics | U.S. Equal Employment Opportunity Commission[Skip to main content] \n![U.S. flag] \nAn official website of the United States government\nHere\u2019s how you know\nHere\u2019s how you know\n![] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA**lock**(LockA locked padlock) or**https://**means you\u2019ve safely connected to the .gov website. Share sensitive\nin"
+      },
+      {
+        "title": "S&amp;P 100 | S&amp;P Dow Jones Indices",
+        "url": "https://www.spglobal.com/spdji/en/indices/equity/sp-100/",
+        "published": "2025-08-05T00:00:00.000Z",
+        "excerpt": "S&amp;P 100 | S&P Dow Jones Indices\n[![logo]] \n![] \nExplore S&amp;P Global\n![] \nSearch\n![] \nEnglish\n* [Espa\u00f1ol (Spanish)] \n* [Portugu\u00eas (Portuguese)] \n* [\ud55c\uad6d\uc5b4 (Korean)] \n* [\u7b80\u4f53\u4e2d\u6587 (Simplified Chinese)] \n* [\u7e41\u9ad4\u4e2d\u6587 (Traditional Chinese)] \n* [\u65e5\u672c\u8a9e (Japanese)] \n[\n![] \nContact Us] [\n![] \nRegister / Login] \n* ![] \nHiUser\n* [My Preferences] \n* Log out\n![] \n![] \n![] \n#### SUGGESTED INDICES\n* [S&P 500\u00ae] \n* [Dow Jones Industrial Average\u00ae] \n* [Dow Jones Best-in-Class World Index] \n* [S&P 500 Dividend Aristocrats"
+      },
+      {
+        "title": "sec-entity-diversity-assessment-report-draft.pdf",
+        "url": "https://sec.gov/file/sec-entity-diversity-assessment-report-draftpdf",
+        "published": "2014-01-23T00:00:00.000Z",
+        "excerpt": "SEC.gov | sec-entity-diversity-assessment-report-draft.pdf[Skip to search field] [Skip to main content] \n![U.S. flag] \nAn official website of the United States government\nHere\u2019s how you know\nHere\u2019s how you know\n![Dot gov] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in the United States.\n![Https] \n**Secure .gov websites use HTTPS**\nA**lock**(LockA locked padlock)\nor**https://**means you\u2019ve safely connected to the .gov website. Share sensitive in"
+      },
+      {
+        "title": "Measuring Diversity and Inclusion",
+        "url": "https://www.bcg.com/capabilities/diversity-inclusion/measuring-diversity-equity-inclusion",
+        "published": "2024-01-01T00:00:00.000Z",
+        "excerpt": "![\"\"] \n\n# Measuring Diversity and Inclusion\n\n[Diversity, Equity, and Inclusion] \n\nBCG\u2019s proven diversity and inclusion analytics\u2014and extensive expertise\u2014can help you track the right metrics to drive change.\n\nBCG\u2019s Diversity and Inclusion Assessment for Leadership (DIAL) tool analyzes diversity and inclusion benchmarking data within and across industries and geographies. By drawing on our database of more than 25,000 responses from around the globe, we help companies identify the right targets an"
+      },
+      {
+        "title": "",
+        "url": "https://cbc.house.gov/uploadedfiles/congressional_black_caucus_corporate_accountability_report.pdf",
+        "published": "2024-09-06T00:00:00.000Z",
+        "excerpt": "STRONG BUSINESS LEADERSHIP AND CONTINUED \nOPPORTUNITIES FOR IMPROVEMENT IN ADVANCING \nRACIAL AND ECONOMIC EQUITY\nSEPTEMBER 2024\nWHAT GOOD LOOKS LIKE\nA CORPORATE ACCOUNTABILITY \nREPORT ON DIVERSITY, EQUITY \nAND INCLUSION\nsiicicennaisecorsinsassaces\n\n\nTABLE OF CONTENTS\nLETTER FROM CHAIRMAN STEVEN HORSFORD 1\nCBC EXECUTIVE BOARD 2\nMEMBERS 3\nCORPORATE ACCOUNTABILITY LETTER 4\nCORPORATE ACCOUNTABILITY LETTER FOLLOW-UP 8\nFINDINGS & METHODOLOGY 15\nINTRODUCTION 16\nKEY FINDINGS 17\n\"WHAT DOES GOOD LOOK LIKE"
+      },
+      {
+        "title": "Site under maintenance",
+        "url": "https://hbr.org/2022/03/data-driven-diversity'",
+        "published": "2022-03-01T00:00:00.000Z",
+        "excerpt": "Site under maintenance\n[Harvard Business Review LogoHarvard Business Review Logo] \n[Subscribe] Sign In\n## Maintenance Mode\nHBR.org is currently in maintenance mode while we make improvements to user experience. We&#x27;re sorry for the inconvenience. We expect the site to return to full service within 24 hours. Please check back then."
+      },
+      {
+        "title": "Introducing Measure Up, our partnership with Refinitiv to measure racial diversity",
+        "url": "https://fortune.com/2020/11/17/measure-up-fortune-refinitiv-racial-diversity/",
+        "published": "2020-11-17T00:00:00.000Z",
+        "excerpt": "[Home Page] \n\n[Fortune Communications] \u00b7 [Measure Up] \n\n# Introducing Measure Up, our partnership with Refinitiv to measure racial diversity\n\nBY[Rachel Lobdell] \n\nIt\u2019s hard to make meaningful change without measuring it. This is why so many companies have introduced [key performance indicators], also known as KPIs, as ways to analytically look at how projects, initiatives, and employees are succeeding. But while many companies made a renewed commitment to improving racial and ethnic diversity fo"
+      },
+      {
+        "title": "Diversity targets",
+        "url": "https://link.springer.com/article/10.1007/s11142-024-09831-x?error=cookies_not_supported&code=a0ff36af-0d25-438b-aa57-0baef99715ff",
+        "published": "2024-07-03T00:00:00.000Z",
+        "excerpt": "Diversity targets | Review of Accounting Studies\n[Skip to main content] \n[![Springer Nature Link]] \n[Log in] \n# Diversity targets\n* [Open access] \n* Published:03 July 2024\n* Volume\u00a029,\u00a0pages 2157\u20132208, (2024)\n* [Cite this article] \nYou have full access to this[open access] article\n[Download PDF] \n[![] Review of Accounting Studies] [Aims and scope] [Submit manuscript] \nDiversity targets\n[Download PDF] \n* [Wei Cai] [ORCID:orcid.org/0000-0002-4778-993X] [1],\n* [Yue Chen] [2],\n* [Shiva Rajgopal] [1]"
+      },
+      {
+        "title": "Equality Metrics",
+        "url": "https://yalelawjournal.org/essay/equality-metrics",
+        "published": "2021-06-01T00:00:00.000Z",
+        "excerpt": "#### This essay is part of a collection\n### Reckoning and Reformation: Reflections and Legal Reponses to Racial Subordination and Structural Marginalization\nAmericans find themselves once again grappling with the reality and legacy of racial subordination and structural inequality. Law is central to both maintaining and dismantling structural subordination based upon race, class, and other marginalized identities. This collection, in conjunction with other law reviews, grapples with some of thes"
+      },
+      {
+        "title": "Download the GDEIB - Global DEI Benchmarks",
+        "url": "https://globaldeibenchmarks.org/download-the-gdeib/",
+        "published": "2025-01-16T00:00:00.000Z",
+        "excerpt": "## Download the GDEIB\n\nPlease enable JavaScript in your browser to complete this form.\n\n### Before downloading the GDEIB, please acknowledge and agree to the **Terms of Use** and provide your contact information.\n\nTerms of Use \\*\n\n- I have read and agree to the [Global Diversity, Equity, and Inclusion Benchmarks (GDEIB) Terms of Use].\n\nName\n\nFirst\n\nLast\n\nTitle\n\nOrganization\n\nEmail Organization Use\n\nEmail \\*\n\nPhone\n\nPlease keep me informed\n\n- I would like to receive information about the rollout "
+      },
+      {
+        "title": "",
+        "url": "https://corpgov.law.harvard.edu/wp-content/uploads/2025/03/DragonGC-Report-Navigating-DEI-Disclosure-Amid-Regulatory-Shifts-1.pdf",
+        "published": "2025-03-12T00:00:00.000Z",
+        "excerpt": "Navigating DEI Disclosure \nAmid Regulatory Shifts: \nInsights from Select S&P \n100 Companies\u2019 10-Ks \nand Proxy Statements \nDEI Strategic Recalibration (2022 \u2013 2025) \nMarch 13, 2025\nOverview\nDiversity, Equity, and Inclusion (DEI) disclosures in SEC filings evolved dynamically from 2022 to early \n2025, driven by a variety of factors, including legal scrutiny, shareholder demands and numerous regulatory \nshifts. DEI disclosures have reached a pivotal moment. Once expanding as part of corporate gover"
+      },
+      {
+        "title": "Beginning a Measurement Process: A Tool for DEI Leaders",
+        "url": "https://www.catalyst.org/insights/2023/measurement-tool",
+        "published": "2023-01-26T00:00:00.000Z",
+        "excerpt": "Supporter content\n\n# Beginning a measurement process: A tool for DEI leaders\n\n![catalyst-web-image-hero-insights-tool-beginning-measeurement-process-a-tool-for-dei-leaders] \n\n## Executive summary\n\n### Why Measure?\n\nLike so many company leaders, you may be ramping up your efforts in diversity, equity, and inclusion (DEI). One survey found that 79% of companies planned to increase their DEI spending in 2022. [1] \u00a0Yet many employees see their companies\u2019 policies as performative rather than sincere."
+      }
+    ],
+    "search_queries": [
+      "Search #1: corporate diversity hiring trends after George Floyd protest...",
+      "Search #2: company diversity commitments George Floyd Black Lives Matte...",
+      "Search #3: diversity equity inclusion hiring statistics 2020 2021 2022 ...",
+      "Search #4: Fortune 500 diversity pledges accountability outcomes measur...",
+      "Search #5: DEI rollback 2024 2025 companies ending diversity programs a...",
+      "Search #6: OneTen pledge Black workers without college degrees results ...",
+      "Search #7: S&P 100 Black workers hiring statistics 2020 2021 2022 2023 ...",
+      "Search #8: corporate diversity pledges $200 billion commitments account..."
+    ],
+    "search_count": 8,
+    "time_seconds": 70.32281184196472
+  },
+  "claude": {
+    "analysis_text": "I'll search for information about corporate diversity hiring trends since the George Floyd protests in 2020.## 1. KEY FINDINGS\n\n### Initial Surge in Diverse Hiring (2021)\n\n**Claim:** S&P 100 companies dramatically increased hiring of people of color in the year following George Floyd's murder.\n**Quote:** \"The year after Black Lives Matter protests, the S&P 100 added more than 300,000 jobs \u2014 94% went to people of color.\"\n**Source:** https://www.bloomberg.com/graphics/2023-black-lives-matter-equal-opportunity-corporate-diversity/\n\n**Claim:** DEI hiring roles increased significantly after the 2020 protests.\n**Quote:** \"DEI job listings grew by more than 123% in 2020 after political and racial unrest.\"\n**Source:** https://seniorexecutive.com/three-years-after-george-floyds-murder-where-is-dei-now-and-what-have-companies-learned/\n\n**Claim:** The rate of chief diversity officer hiring tripled immediately following Floyd's death.\n**Quote:** \"The country's largest publicly traded companies tripled their hiring of chief diversity officers in the three months after Floyd's killing.\"\n**Source:** https://www.pbs.org/newshour/nation/racial-bias-trainings-surged-after-george-floyds-death-a-year-later-experts-are-still-waiting-for-bold-change\n\n### Reversal and DEI Job Losses (2022-2023)\n\n**Claim:** DEI positions experienced significantly higher attrition rates than other roles.\n**Quote:** \"The attrition rate for DEI roles was 33% at the end of 2022, compared to 21% for non-DEI roles.\"\n**Source:** https://www.nbcnews.com/news/nbcblk/diversity-roles-disappear-three-years-george-floyd-protests-inspired-rcna72026\n\n**Claim:** DEI-focused roles faced much higher elimination rates during layoffs.\n**Quote:** \"DEI-focused roles experienced a nearly 40% churn rate at companies engaged in layoffs, as compared to about 24% for non-DEI roles.\"\n**Source:** https://www.nbcnews.com/news/nbcblk/diversity-roles-disappear-three-years-george-floyd-protests-inspired-rcna72026\n\n**Claim:** More than 2,600 DEI jobs have been eliminated since early 2023.\n**Quote:** \"Since early 2023, U.S. employers have eliminated more than 2,600 jobs with words including 'diversity' or 'DEI' in the titles or descriptions.\"\n**Source:** https://www.npr.org/2025/05/27/nx-s1-5307319/dei-jobs-trump\n\n### Black Worker Representation Trends\n\n**Claim:** S&P 100 companies began losing Black workers in 2022, with losses accelerating in 2023.\n**Quote:** \"the data show the 84 companies started losing Black workers in 2022. It was only a couple thousand at first, but those losses gathered momentum in 2023, growing almost tenfold.\"\n**Source:** https://www.bloomberg.com/graphics/2024-anti-dei-corporate-america-stalls-black-workers-gains/\n\n**Claim:** Black employees experienced the largest share of job gains in executive and managerial positions in 2021.\n**Quote:** \"In nearly every firm, the number of Black employees increased in the managerial and professional categories, as well as the executive ranks.\"\n**Source:** https://www.bet.com/article/3we9se/corporate-diversity-study-after-george-floyd\n\n**Claim:** Black representation in senior management remains significantly below population share.\n**Quote:** \"Black representation in senior management positions has increased to 5%, but remains significantly lower than the national Black workforce percentage.\"\n**Source:** https://diversity.com/post/black-representation-across-industries\n\n### Corporate DEI Rollbacks (2024-2025)\n\n**Claim:** Nearly all Fortune 500 companies still maintain DEI commitments despite public rollbacks.\n**Quote:** \"486 of the top 500 still have some statement or corporate commitment to DEI provided on their websites.\"\n**Source:** https://nlpc.org/corporate-integrity-project/study-companies-not-so-eager-to-ditch-dei-after-all/\n\n**Claim:** As of March 2025, only a small fraction of Fortune 500 companies publicly announced DEI rollbacks.\n**Quote:** \"As of March 2025, only 31 of the Fortune 500 signaled that they planned to roll back their DEI efforts.\"\n**Source:** https://theconversation.com/we-analyzed-racial-justice-statements-from-the-500-largest-us-companies-and-found-that-dei-officials-really-did-have-an-influence-249999\n\n**Claim:** Walmart ended its $100 million racial equity commitment formed after George Floyd's murder.\n**Quote:** \"A company spokesperson confirmed to Fortune that it would not be renewing their $100 million, five-year commitment to the Walmart.org Center for Racial Equity, which was formed in 2020.\"\n**Source:** https://fortune.com/2025/02/14/companies-rolling-back-changing-dei-meta-target-fortune-500-diversity-equity-inclusion-policies/\n\n### Supreme Court Impact (2023)\n\n**Claim:** The 2023 Supreme Court affirmative action ruling emboldened challenges to corporate DEI.\n**Quote:** \"The Supreme Court decision overturning affirmative action emboldened objectors at a time when conservative activists were already fighting DEI practices.\"\n**Source:** https://www.washingtonpost.com/business/2023/10/02/corporate-diversity-inclusion-affirmative-action-ruling/\n\n**Claim:** Republican attorneys general suggested corporate DEI programs could be unlawful after the ruling.\n**Quote:** \"A group of 13 Republican attorneys general suggested in the wake of the ruling that companies' diversity, equity and inclusion, or DEI, programs could be considered unlawful discrimination.\"\n**Source:** https://www.cnbc.com/2023/08/06/supreme-court-affirmative-action-ruling-corporate-hiring.html\n\n### Leadership Representation Gaps\n\n**Claim:** Black CEO representation at Fortune 500 companies remains near historic lows.\n**Quote:** \"Black CEO representation on the Fortune 500 is so bad that this year's 1.6% is a near-record high.\"\n**Source:** https://fortune.com/2024/02/09/black-ceos-fortune-500-high-workplace-diversity/\n\n**Claim:** As of 2024, only eight Fortune 500 companies have Black CEOs.\n**Quote:** \"As of 2024, eight Fortune 500 companies have a chief executive officer who is Black.\"\n**Source:** https://builtin.com/diversity-inclusion/diversity-in-the-workplace-statistics\n\n**Claim:** Black directors on S&P 500 boards increased but progress has leveled off.\n**Quote:** \"Black directors hold 11.9% of board seats at S&P 500 companies, up from 9.5% at the end of 2020 and 7.1% in 2016.\"\n**Source:** https://diversiq.com/blog/trends-in-representation-of-black-leaders/\n\n### Worker Sentiment and Backlash\n\n**Claim:** Worker views on DEI have become slightly more negative since 2023.\n**Quote:** \"About half of workers (52%) now say focusing on increasing DEI at work is mainly a good thing, down from 56% in February 2023.\"\n**Source:** https://www.pewresearch.org/short-reads/2024/11/19/views-of-dei-have-become-slightly-more-negative-among-us-workers/\n\n**Claim:** Male workers have become significantly more negative toward DEI efforts.\n**Quote:** \"Among employed men, 29% say focusing on DEI is a bad thing, up from 23% who said this in February 2023.\"\n**Source:** https://www.pewresearch.org/short-reads/2024/11/19/views-of-dei-have-become-slightly-more-negative-among-us-workers/\n\n### Hiring Practices and Outcomes\n\n**Claim:** Companies that remained committed to DEI hired more diverse workforces.\n**Quote:** \"companies that remain committed to diversity do in fact tend to hire a more diverse workforce, especially Black and Asian workers, than companies without DEI teams.\"\n**Source:** https://www.npr.org/2025/05/27/nx-s1-5307319/dei-jobs-trump\n\n**Claim:** Most diverse hiring in 2021 occurred in lower-paying positions rather than senior roles.\n**Quote:** \"While diversity among junior hires rose by 0.9 percentage points, it declined by 1 percentage point among senior hires.\"\n**Source:** https://www.gsb.stanford.edu/insights/after-dei-controversies-companies-talk-diversity-hiring-tells-another-story\n\n**Claim:** DEI professionals themselves were disproportionately from underrepresented groups.\n**Quote:** \"women accounted for more than 71% of all DEI professionals from 2020 through 2024 \u2014 compared with 51% of other roles.\"\n**Source:** https://www.npr.org/2025/05/27/nx-s1-5307319/dei-jobs-trump\n\n## 2. SOURCE QUALITY ASSESSMENT\n\n**Strengths:**\n- Multiple high-quality sources including Bloomberg, NPR, Pew Research, and academic institutions (Stanford, NYU)\n- Data from government sources (EEOC, Census Bureau, Bureau of Labor Statistics)\n- Consistency across multiple independent sources on key trends\n- Mixture of quantitative data and qualitative expert analysis\n- Recent sources (2023-2025) capturing current trends\n\n**Limitations:**\n- Some sources rely on self-reported company data rather than independent audits\n- EEO-1 data has a 1-2 year lag, so most recent impact (2024-2025) relies on company announcements\n- Conservative and progressive sources present somewhat different interpretations of the same trends\n- Limited data on retention and promotion rates (focus primarily on hiring)\n- \"Diversity\" definitions vary across companies, making direct comparisons challenging\n\n## 3. GAPS OR CONTRADICTIONS\n\n**Key Gaps:**\n- **Long-term retention data:** Little information on whether diverse hires from 2020-2021 remained with companies through 2024-2025\n- **Promotion velocity:** Limited data on whether increased diverse hiring translated to advancement through corporate ranks\n- **Geographic variation:** Most data aggregates national trends without regional breakdowns\n- **Industry-specific patterns:** While some sources mention tech/finance, comprehensive cross-industry analysis is limited\n- **Actual vs. performative change:** Difficulty distinguishing genuine cultural shifts from compliance-driven initiatives\n\n**Contradictions:**\n- Heritage Foundation claims \"nearly all\" Fortune 500 maintain DEI commitments vs. media focus on high-profile rollbacks (both appear true\u2014quiet continuation vs. vocal rollbacks)\n- Some sources emphasize progress in diverse hiring, others emphasize the reversal\u2014timing matters (2021 gains vs. 2023-2025 losses)\n- Claims about \"last hired, first fired\" affecting recent diverse hires vs. companies stating DEI professionals were targeted specifically\n\n**NOTE:** The pattern suggests an initial surge of action (2020-2021) followed by partial retreat (2022-present), with most companies maintaining some initiatives while reducing visibility and cutting dedicated staff. [INFERENCE - synthesized from multiple sources]\n\n## 4. RECOMMENDED NEXT STEPS\n\n**For Further Research:**\n\n1. **Longitudinal cohort studies:** Track specific cohorts of diverse employees hired in 2020-2021 through 2025 to measure actual retention and advancement\n\n2. **Industry-specific deep dives:** Compare tech vs. finance vs. retail vs. healthcare to identify sector-specific patterns and best practices\n\n3. **Legal case tracking:** Monitor lawsuits challenging both discriminatory DEI practices and companies abandoning commitments to assess legal landscape evolution\n\n4. **Comparative international analysis:** Examine how U.S. corporate diversity trends compare to EU, UK, and other developed economies\n\n5. **Economic impact measurement:** Rigorous analysis of business outcomes for companies that maintained vs. reduced DEI efforts post-2023\n\n6. **Employee experience surveys:** Qualitative research on how underrepresented workers experienced the surge and subsequent pullback\n\n7. **Supplier diversity programs:** Most research focuses on hiring; investigate impact on minority-owned business relationships\n\n8. **Political contribution analysis:** Correlation between companies' political donations and their DEI commitment trajectories",
+    "sources": [
+      {
+        "title": "Corporate America Promised to Hire a Lot More People of Color. It Actually Did.",
+        "url": "https://www.bloomberg.com/graphics/2023-black-lives-matter-equal-opportunity-corporate-diversity/",
+        "page_age": "September 26, 2023"
+      },
+      {
+        "title": "Diversity roles disappear three years after George Floyd protests inspired them",
+        "url": "https://www.nbcnews.com/news/nbcblk/diversity-roles-disappear-three-years-george-floyd-protests-inspired-rcna72026",
+        "page_age": "February 27, 2023"
+      },
+      {
+        "title": "Study: Corporate America Made Good On Promises To Increase Diversity After BLM Protests | News | BET",
+        "url": "https://www.bet.com/article/3we9se/corporate-diversity-study-after-george-floyd",
+        "page_age": "September 29, 2023"
+      },
+      {
+        "title": "Three Years After George Floyd\u2019s Murder: Where Is DEI Now, and What Have Companies Learned? - Senior Executive",
+        "url": "https://seniorexecutive.com/three-years-after-george-floyds-murder-where-is-dei-now-and-what-have-companies-learned/",
+        "page_age": "March 21, 2023"
+      },
+      {
+        "title": "Corporate Diversity jobs down 75% since peak of George Floyd protests - Boing Boing",
+        "url": "https://boingboing.net/2023/07/25/corporate-diversity-jobs-down-75-since-peak-of-george-floyd-protests.html",
+        "page_age": "July 25, 2023"
+      },
+      {
+        "title": "Did the aftermath of George Floyd\u2019s murder lead to positive change in the workplace? | HRD America",
+        "url": "https://www.hcamag.com/us/specialization/diversity-inclusion/did-the-aftermath-of-george-floyds-murder-lead-to-positive-change-in-the-workplace/449927",
+        "page_age": "June 20, 2023"
+      },
+      {
+        "title": "Diversity, equity and inclusion initiatives face a sharp decline three years after death of George Floyd | AFRO American Newspapers",
+        "url": "https://afro.com/diversity-equity-and-inclusion-initiatives-face-a-sharp-decline-three-years-after-death-of-george-floyd/",
+        "page_age": "January 3, 2024"
+      },
+      {
+        "title": "Are Corporate DEI Efforts Sustainable in Today's Environment? - The CPA Journal",
+        "url": "https://www.cpajournal.com/2025/09/16/are-corporate-dei-efforts-sustainable-in-todays-environment/",
+        "page_age": "September 16, 2025"
+      },
+      {
+        "title": "The downfall of DEI : NPR",
+        "url": "https://www.npr.org/2024/09/07/nx-s1-5100700/the-downfall-of-dei",
+        "page_age": "September 7, 2024"
+      },
+      {
+        "title": "Racial bias trainings surged after George Floyd\u2019s death. A year later, experts are still waiting for 'bold' change",
+        "url": "https://www.pbs.org/newshour/nation/racial-bias-trainings-surged-after-george-floyds-death-a-year-later-experts-are-still-waiting-for-bold-change",
+        "page_age": "May 25, 2021"
+      },
+      {
+        "title": "Diversity in the workplace statistics to know this year | InStride",
+        "url": "https://www.instride.com/insights/workplace-diversity-and-inclusion-statistics/",
+        "page_age": null
+      },
+      {
+        "title": "46 Diversity in the Workplace Statistics to Know | Built In",
+        "url": "https://builtin.com/diversity-inclusion/diversity-in-the-workplace-statistics",
+        "page_age": "March 29, 2024"
+      },
+      {
+        "title": "STAT's 2024 Diversity and Inclusion Report | STAT",
+        "url": "https://www.statnews.com/2024/10/30/stats-2024-diversity-and-inclusion-report/",
+        "page_age": "October 31, 2024"
+      },
+      {
+        "title": "80+ Diversity in the Workplace Statistics - Updated for 2025",
+        "url": "https://www.mentorcliq.com/blog/diversity-in-the-workplace-statistics",
+        "page_age": "May 6, 2025"
+      },
+      {
+        "title": "15 Surprising Workplace Diversity Statistics (2025) | Apollo Technical",
+        "url": "https://www.apollotechnical.com/workplace-diversity-statistics/",
+        "page_age": "April 25, 2025"
+      },
+      {
+        "title": "Diversity & Inclusion Workplace Statistics in 2024 | Druthers Search",
+        "url": "https://www.drutherssearch.com/insights/diversity-inclusion-workplace-statistics-in-2024/",
+        "page_age": "March 31, 2025"
+      },
+      {
+        "title": "Diversity in the Workplace Statistics: Inclusion Issues in 2024 | TeamStage",
+        "url": "https://teamstage.io/diversity-in-the-workplace-statistics/",
+        "page_age": "February 14, 2024"
+      },
+      {
+        "title": "The Case For Diversity And Inclusion In 35+ Impressive Statistics",
+        "url": "https://vervoe.com/diversity-statistics/",
+        "page_age": "May 26, 2024"
+      },
+      {
+        "title": "Diversity in Workplace: Statistics | Update 2024",
+        "url": "https://mydisabilityjobs.com/statistics/diversity-in-the-workplace/",
+        "page_age": "August 12, 2025"
+      },
+      {
+        "title": "Workplace Diversity Statistics for 2025 - Hiring Guide",
+        "url": "https://www.qureos.com/hiring-guide/workplace-diversity-statistics",
+        "page_age": "November 25, 2025"
+      },
+      {
+        "title": "Black Representation in Corporate, Academia & Nonprofits",
+        "url": "https://diversity.com/post/black-representation-across-industries",
+        "page_age": null
+      },
+      {
+        "title": "Companies Stepping Up to Advance Black Leadership",
+        "url": "https://www.executivewomanmedia.com/companies-stepping-up-to-advance-black-leadership/",
+        "page_age": "June 29, 2022"
+      },
+      {
+        "title": "Trends in Representation of Black Leaders - DiversIQ",
+        "url": "https://diversiq.com/blog/trends-in-representation-of-black-leaders/",
+        "page_age": "March 1, 2024"
+      },
+      {
+        "title": "Beyond representation: advancing black leadership in corporate America - Leathwaite",
+        "url": "https://www.leathwaite.com/insights/beyond-representation-advancing-black-leadership-in-corporate-america/",
+        "page_age": "February 28, 2025"
+      },
+      {
+        "title": "After years of talking about diversity, the number of black leaders at US companies is still dismal | CNN Business",
+        "url": "https://www.cnn.com/2020/06/02/success/diversity-and-black-leadership-in-corporate-america/index.html",
+        "page_age": "June 2, 2020"
+      },
+      {
+        "title": "The Black Experience in the Workplace: Challenges & Progress",
+        "url": "https://diversity.com/post/black-experience-in-the-workplace",
+        "page_age": null
+      },
+      {
+        "title": "A Black Director's View of Black Representation in Corporate Leadership - Bestman Solutions",
+        "url": "https://bestmansolutions.com/a-black-directors-view-of-black-representation-in-corporate-leadership/",
+        "page_age": "November 20, 2025"
+      },
+      {
+        "title": "Black Representation in Hospitality Leadership Remains Low at Just 9.5%",
+        "url": "https://www.prnewswire.com/news-releases/black-representation-in-hospitality-leadership-remains-low-at-just-9-5-302637550.html",
+        "page_age": "December 10, 2025"
+      },
+      {
+        "title": "Black CEO representation on the Fortune 500 is so bad that this year's 1.6% is a near-record high. Here's what could turn it around | Fortune",
+        "url": "https://fortune.com/2024/02/09/black-ceos-fortune-500-high-workplace-diversity/",
+        "page_age": "February 9, 2024"
+      },
+      {
+        "title": "Corporate Leadership by Race - Pro Invest News",
+        "url": "https://proinvestnews.com/2025/02/04/corporate-leadership-by-race/",
+        "page_age": "February 4, 2025"
+      },
+      {
+        "title": "Fortune 500 Companies Retool Diversity Marketing in DEI Reports - Purpose Brand",
+        "url": "https://purposebrand.com/blog/fortune-500-dei-reports-2024/",
+        "page_age": "November 6, 2025"
+      },
+      {
+        "title": "Fortune 500 comopanies like Meta and Target are rolling back DEI\u2014These are the policies they\u2019re changing | Fortune",
+        "url": "https://fortune.com/2025/02/14/companies-rolling-back-changing-dei-meta-target-fortune-500-diversity-equity-inclusion-policies/",
+        "page_age": "March 6, 2025"
+      },
+      {
+        "title": "We analyzed racial justice statements from the 500 largest US companies and found that DEI officials really did have an influence",
+        "url": "https://theconversation.com/we-analyzed-racial-justice-statements-from-the-500-largest-us-companies-and-found-that-dei-officials-really-did-have-an-influence-249999",
+        "page_age": "July 29, 2025"
+      },
+      {
+        "title": "DEI not dead as 485 of Fortune 500 companies back diversity goals | Diversity, Equity and Inclusion | HR Grapevine USA | News",
+        "url": "https://www.hrgrapevine.com/us/content/article/2024-12-09-dei-not-dead-as-485-of-the-fortune-500-companies-back-diversity-goals",
+        "page_age": "April 3, 2025"
+      },
+      {
+        "title": "The Pendulum Swings on Corporate DEI - Society of Women Engineers",
+        "url": "https://swe.org/magazine/the-pendulum-swings-on-corporate-dei/",
+        "page_age": null
+      },
+      {
+        "title": "Fortune 500 companies didn\u2019t live up to DEI pledges, law firm says | HR Dive",
+        "url": "https://www.hrdive.com/news/fortune-500-companies-didnt-live-up-to-dei-pledges/756247/",
+        "page_age": "July 30, 2025"
+      },
+      {
+        "title": "Once neglected, DEI initiatives now present at all Fortune 100 companies | HR Dive",
+        "url": "https://www.hrdive.com/news/2022-fortune-companies-dei/627651/",
+        "page_age": "July 20, 2022"
+      },
+      {
+        "title": "Fortune 500 giants like Meta and Target are rolling back DEI\u2014These are the policies they\u2019re changing",
+        "url": "https://finance.yahoo.com/news/fortune-500-giants-meta-target-090000985.html",
+        "page_age": "February 14, 2025"
+      },
+      {
+        "title": "Corporate Diversity Data: What Fortune 500 DEI Reports Reveal - Purpose Brand",
+        "url": "https://purposebrand.com/blog/diversity-report-examples-fortune-2023/",
+        "page_age": "November 6, 2025"
+      },
+      {
+        "title": "STUDY: Companies Not So Eager to Ditch DEI After All - National Legal And Policy Center",
+        "url": "https://nlpc.org/corporate-integrity-project/study-companies-not-so-eager-to-ditch-dei-after-all/",
+        "page_age": "December 9, 2024"
+      },
+      {
+        "title": "What Is Anti-DEI Hiring? | Careers | U.S. News",
+        "url": "https://money.usnews.com/careers/articles/anti-dei-initiatives",
+        "page_age": "March 28, 2025"
+      },
+      {
+        "title": "Corporate America's retreat from DEI has eliminated thousands of jobs",
+        "url": "https://www.npr.org/2025/05/27/nx-s1-5307319/dei-jobs-trump",
+        "page_age": "May 27, 2025"
+      },
+      {
+        "title": "After DEI Controversies, Companies Talk Up Diversity. Hiring Tells Another Story. | Stanford Graduate School of Business",
+        "url": "https://www.gsb.stanford.edu/insights/after-dei-controversies-companies-talk-diversity-hiring-tells-another-story",
+        "page_age": null
+      },
+      {
+        "title": "Hiring Discrimination Under Pressures to Diversify: Gender, Race, and Diversity Commodification across Job Transitions in Software Engineering - Katherine Weisshaar, Koji Chavez, Tania Hutt, 2024",
+        "url": "https://journals.sagepub.com/doi/10.1177/00031224241245706",
+        "page_age": null
+      },
+      {
+        "title": "How corporate America is slashing DEI workers amid backlash to diversity programs - ABC News",
+        "url": "https://abcnews.go.com/US/corporate-america-slashing-dei-workers-amid-backlash-diversity/story?id=100477952",
+        "page_age": "July 7, 2023"
+      },
+      {
+        "title": "How the battle over DEI shook out in 2024 and what's to come",
+        "url": "https://www.insidehighered.com/news/faculty-issues/diversity-equity/2024/12/16/how-battle-over-dei-shook-out-2024-and-whats-come",
+        "page_age": null
+      },
+      {
+        "title": "Affirmative Action and DEI: Why 2024 is the Year of Hiring Equity",
+        "url": "https://datapeople.io/blog/affirmative-action-and-dei-hiring-equity-in-2024/",
+        "page_age": "February 13, 2025"
+      },
+      {
+        "title": "US workers' views of DEI grow slightly more negative | Pew Research Center",
+        "url": "https://www.pewresearch.org/short-reads/2024/11/19/views-of-dei-have-become-slightly-more-negative-among-us-workers/",
+        "page_age": "November 11, 2025"
+      },
+      {
+        "title": "\u200b\u200bDiversity hiring is broken at most companies. Here\u2019s how to fix it. | Gem",
+        "url": "https://www.gem.com/blog/diversity-hiring",
+        "page_age": null
+      },
+      {
+        "title": "Banks seem to have cancelled 65% of their diversity hiring programs",
+        "url": "https://www.efinancialcareers.com/news/bank-diversity-programs",
+        "page_age": "January 22, 2025"
+      },
+      {
+        "title": "DEI WATCH",
+        "url": "https://www.dei.watch/",
+        "page_age": null
+      },
+      {
+        "title": "What\u2019s Next for DEI Initiatives \u2014 and How Companies Can Capitalize",
+        "url": "https://www.ismworld.org/supply-management-news-and-reports/news-publications/inside-supply-management-magazine/blog/2025/2025-01/whats-next-for-dei-initiatives--and-how-companies-can-capitalize/",
+        "page_age": null
+      },
+      {
+        "title": "The Future of DEI: How Companies Are Responding to Political Pressure",
+        "url": "https://www.provokemedia.com/latest/article/the-future-of-dei-how-companies-are-responding-to-political-pressure",
+        "page_age": "February 6, 2025"
+      },
+      {
+        "title": "Which companies are rolling back DEI policies? - Raconteur",
+        "url": "https://www.raconteur.net/talent-culture/dei-rollback-listicle",
+        "page_age": "August 14, 2025"
+      },
+      {
+        "title": "The List of Corporations Slashing DEI Initiatives",
+        "url": "https://blog.obws.com/list-of-corporations-ending-dei-initiatives/",
+        "page_age": "April 1, 2025"
+      },
+      {
+        "title": "How the corporate DEI rollbacks unfolded in 2024 | HR Dive",
+        "url": "https://www.hrdive.com/news/how-the-corporate-dei-rollbacks-unfolded-in-2024/735908/",
+        "page_age": "December 18, 2024"
+      },
+      {
+        "title": "No, not all companies are abandoning diversity, equity and inclusion. Here\u2019s why. | Retail Dive",
+        "url": "https://www.retaildive.com/news/retail-dei-diversity-equity-inclusion-woke-policy-changes/723103/",
+        "page_age": "September 23, 2024"
+      },
+      {
+        "title": "DEI programs weathered a myriad of attacks this year, with more to come in 2025",
+        "url": "https://www.nbcnews.com/news/nbcblk/anti-dei-program-effort-2025-states-companies-universities-trump-rcna184580",
+        "page_age": "January 3, 2025"
+      },
+      {
+        "title": "These 35 major companies caved to Trump and rolled back DEI programs",
+        "url": "https://www.advocate.com/news/companies-abandoning-dei",
+        "page_age": "August 28, 2025"
+      },
+      {
+        "title": "What companies are rolling back DEI policies in 2025?",
+        "url": "https://www.techtarget.com/whatis/feature/What-companies-are-rolling-back-DEI-policies",
+        "page_age": null
+      },
+      {
+        "title": "Diversity in the Workplace Statistics: Inclusion Issues in 2024 | TeamStage",
+        "url": "https://teamstage.io/diversity-in-the-workplace-statistics/",
+        "page_age": "February 14, 2024"
+      },
+      {
+        "title": "Diversity & Inclusion Workplace Statistics in 2024 | Druthers Search",
+        "url": "https://www.drutherssearch.com/insights/diversity-inclusion-workplace-statistics-in-2024/",
+        "page_age": "March 31, 2025"
+      },
+      {
+        "title": "109+ Must-Know Diversity in the Workplace Statistics in 2025 - SSR",
+        "url": "https://www.selectsoftwarereviews.com/blog/workplace-diversity-statistics",
+        "page_age": "November 18, 2025"
+      },
+      {
+        "title": "2024 Global Diversity & Inclusion Report",
+        "url": "https://www.microsoft.com/en-us/diversity/inside-microsoft/annual-report",
+        "page_age": null
+      },
+      {
+        "title": "80+ Diversity in the Workplace Statistics - Updated for 2025",
+        "url": "https://www.mentorcliq.com/blog/diversity-in-the-workplace-statistics",
+        "page_age": "May 6, 2025"
+      },
+      {
+        "title": "Diversity in Workplace: Statistics | Update 2024",
+        "url": "https://mydisabilityjobs.com/statistics/diversity-in-the-workplace/",
+        "page_age": "August 12, 2025"
+      },
+      {
+        "title": "Diversity in the workplace statistics to know this year | InStride",
+        "url": "https://www.instride.com/insights/workplace-diversity-and-inclusion-statistics/",
+        "page_age": null
+      },
+      {
+        "title": "46 Diversity in the Workplace Statistics to Know | Built In",
+        "url": "https://builtin.com/diversity-inclusion/diversity-in-the-workplace-statistics",
+        "page_age": "March 29, 2024"
+      },
+      {
+        "title": "140+ Workplace Diversity Statistics for 2025",
+        "url": "https://resumegenius.com/blog/career-advice/workplace-diversity-statistics",
+        "page_age": "August 29, 2025"
+      },
+      {
+        "title": "Diversity in the Workplace Statistics: Key Facts and Trends",
+        "url": "https://doit.software/blog/diversity-in-the-workplace-statistics",
+        "page_age": "October 16, 2025"
+      },
+      {
+        "title": "How the affirmative action ruling is changing corporate diversity - The Washington Post",
+        "url": "https://www.washingtonpost.com/business/2023/10/02/corporate-diversity-inclusion-affirmative-action-ruling/",
+        "page_age": "October 1, 2023"
+      },
+      {
+        "title": "Corporate DEI Policies Face Scrutiny Following SCOTUS Affirmative Action Decision | Insights | Skadden, Arps, Slate, Meagher & Flom LLP",
+        "url": "https://www.skadden.com/insights/publications/2023/09/quarterly-insights/corporate-dei-polices-face-scrutiny",
+        "page_age": null
+      },
+      {
+        "title": "Supreme Court affirmative action poses challenges in hiring",
+        "url": "https://www.cnbc.com/2023/08/06/supreme-court-affirmative-action-ruling-corporate-hiring.html",
+        "page_age": "August 6, 2023"
+      },
+      {
+        "title": "Potential impacts on corporate DEI programs after the Supreme Court\u2019s affirmative action decision | ReedSmith",
+        "url": "https://www.employmentlawwatch.com/2023/08/articles/employment-us/potential-impacts-on-corporate-dei-programs-after-the-supreme-courts-affirmative-action-decision/",
+        "page_age": "August 2, 2023"
+      },
+      {
+        "title": "What SCOTUS\u2019s Affirmative Action Decision Means for Corporate DEI",
+        "url": "https://hbr.org/2023/07/what-scotuss-affirmative-action-decision-means-for-corporate-dei",
+        "page_age": "July 12, 2023"
+      },
+      {
+        "title": "SCOTUS Decision Impacts Companies DEI, Affirmative Action Program",
+        "url": "https://natlawreview.com/article/supreme-court-ruling-affirmative-action-and-impact-companies-dei-programs",
+        "page_age": null
+      },
+      {
+        "title": "Did Workplace DEI Programs DIE Following the Supreme Court\u2019s Affirmative Action Decision? 6 Steps You Should Take to Ensure Compliance | Fisher Phillips",
+        "url": "https://www.fisherphillips.com/en/news-insights/dei-programs-die-following-supreme-courts-affirmative-action-decision.html",
+        "page_age": null
+      },
+      {
+        "title": "The Supreme Court\u2019s Affirmative Action Ruling: A Shift in How Private Employers Approach DEI? - Ogletree",
+        "url": "https://ogletree.com/insights-resources/blog-posts/the-supreme-courts-affirmative-action-ruling-a-shift-in-how-private-employers-approach-dei/",
+        "page_age": "October 6, 2023"
+      },
+      {
+        "title": "How college affirmative action's end is causing a DEI reckoning.",
+        "url": "https://www.axios.com/2023/11/27/dei-affirmative-action-supreme-court",
+        "page_age": "November 27, 2023"
+      },
+      {
+        "title": "Does the US Supreme Court decision on affirmative action affect your company's diversity initiatives?",
+        "url": "https://www.catalyst.org/2023/06/29/legal-experts-supremecourt-affirmative-action/",
+        "page_age": "June 29, 2023"
+      },
+      {
+        "title": "Pledge | CEO Action for Inclusion & Diversity",
+        "url": "https://www.ceoaction.com/pledge/",
+        "page_age": null
+      },
+      {
+        "title": "Diversity and inclusion: These companies are following through on their promises | Fortune",
+        "url": "https://fortune.com/2022/01/17/diversity-pledges-ceo-action-social-justice/",
+        "page_age": "January 17, 2022"
+      },
+      {
+        "title": "Home | StateofThePledge",
+        "url": "https://www.stateofthepledge.com/",
+        "page_age": null
+      },
+      {
+        "title": "The AESC Diversity Pledge | AESC",
+        "url": "https://www.aesc.org/profession/aesc-diversity-pledge",
+        "page_age": null
+      },
+      {
+        "title": "Pledge For Diversity, Equity, and Inclusion \u2013 Inclusive America",
+        "url": "https://inclusiveamerica.org/pledgrepressrelease/",
+        "page_age": "January 2, 2021"
+      },
+      {
+        "title": "Pledge for Diversity, Equity, and Inclusion \u2013 a non-partisan pledge for candidates, candidates-elect, and governing policymakers",
+        "url": "https://pledgefordiversity.org/",
+        "page_age": null
+      },
+      {
+        "title": "DEI pledge - The SR Group",
+        "url": "https://www.thesrgroup.com/dei-pledge/",
+        "page_age": "January 26, 2023"
+      },
+      {
+        "title": "Diversity, Equity & Inclusion Pledge - The matrix Standard",
+        "url": "https://matrixstandard.com/diversity-equity-inclusion-pledge/",
+        "page_age": "July 31, 2023"
+      },
+      {
+        "title": "Outdoor CEO Diversity Pledge",
+        "url": "https://www.insolidarityproject.com/the-pledge",
+        "page_age": null
+      },
+      {
+        "title": "Corporate DEI Efforts: Progress, Challenges & Accountabilit",
+        "url": "https://www.i4cp.com/productivity-blog/are-companies-following-through-on-their-diversity-inclusion-pledges",
+        "page_age": "December 21, 2024"
+      },
+      {
+        "title": "46 Diversity in the Workplace Statistics to Know | Built In",
+        "url": "https://builtin.com/diversity-inclusion/diversity-in-the-workplace-statistics",
+        "page_age": "March 29, 2024"
+      },
+      {
+        "title": "Corporate America Promised to Hire a Lot More People of Color. It Actually Did.",
+        "url": "https://www.bloomberg.com/graphics/2023-black-lives-matter-equal-opportunity-corporate-diversity/",
+        "page_age": "September 26, 2023"
+      },
+      {
+        "title": "Corporate America Hired More Black Workers. Then It Stopped.",
+        "url": "https://www.bloomberg.com/graphics/2024-anti-dei-corporate-america-stalls-black-workers-gains/",
+        "page_age": "December 20, 2024"
+      },
+      {
+        "title": "Office of Economic Policy Working Paper 2024-05 September 2024",
+        "url": "https://home.treasury.gov/system/files/226/EP-WP-2024-05.pdf",
+        "page_age": null
+      },
+      {
+        "title": "Major US companies gave 94% of new jobs to people of color in 2021, report says",
+        "url": "https://cbsaustin.com/news/nation-world/major-us-companies-gave-94-of-new-jobs-to-people-of-color-in-2021-report-says-diversity-hiring-employees-apple-nike-microsoft-wells-fargo",
+        "page_age": "September 27, 2023"
+      },
+      {
+        "title": "Census Bureau Releases New Data on Minority-Owned, Veteran-Owned and Women-Owned Businesses",
+        "url": "https://www.census.gov/newsroom/press-releases/2024/employer-businesses.html",
+        "page_age": null
+      },
+      {
+        "title": "A record-breaking recovery for Black and Hispanic workers: Prime-age employment rates have hit an all-time high alongside tremendous wage growth",
+        "url": "https://www.epi.org/blog/a-record-breaking-recovery-for-black-and-hispanic-workers-prime-age-employment-rates-have-hit-an-all-time-high-alongside-tremendous-wage-growth/",
+        "page_age": null
+      },
+      {
+        "title": "Study: Corporate Boards Are More Diverse Than Ever, But Growth in Racial Diversity Among New Directors Is Slowing",
+        "url": "https://www.conference-board.org/press/board-composition-2024",
+        "page_age": "December 3, 2024"
+      },
+      {
+        "title": "Hiring Minorities | Diversified Workplace Standards",
+        "url": "https://www.hrunlimitedinc.com/services/hiring/minority-hiring/",
+        "page_age": "August 5, 2025"
+      },
+      {
+        "title": "DEI hiring gone awry: The top companies are shutting out white job candidates - Resourceful Finance Pro",
+        "url": "https://www.resourcefulfinancepro.com/news/dei-hiring-gone-awry/",
+        "page_age": "October 19, 2023"
+      }
+    ],
+    "search_count": 0,
+    "time_seconds": 82.36821699142456
+  },
+  "metrics": {
+    "exa_traceability": 100.0,
+    "exa_supported": 12,
+    "exa_tier_a": 30,
+    "exa_tier_a_pct": 40.54054054054054,
+    "exa_cost": 0.1365,
+    "claude_traceability": 100.0,
+    "claude_supported": 22,
+    "claude_tier_a": 17,
+    "claude_tier_a_pct": 17.0,
+    "claude_cost": 0.4147
+  }
+}

@@ -1,0 +1,1007 @@
+{
+  "timestamp": "2026-01-20T00:35:22.680677",
+  "query": "Find patterns in police misconduct settlements by department and type of complaint",
+  "query_category": "Investigative Patterns",
+  "app_type": "general",
+  "webset_category": null,
+  "search_type": "neural",
+  "num_results": 10,
+  "exa": {
+    "analysis_text": "Based on the search results, I now have substantial information to provide a comprehensive analysis. Let me format the findings according to the requested structure.\n\n---\n\n## 1. KEY FINDINGS\n\n### Pattern: Repeat Offenders Drive Costs\n\n**Claim:** A small number of police officers with multiple misconduct settlements account for over $1.5 billion in taxpayer costs.\n**Quote:** \"More than $1.5 billion has been spent to settle claims of police misconduct invol\"\n**Source:** https://www.washingtonpost.com/investigations/interactive/2022/police-misconduct-repeated-settlements/\n\n**Claim:** Thousands of officers have generated multiple settlement payments, with some officers involved in over 100 settlements.\n**Quote:** \"Officers with more than one paymentto settle claims of misconduct7,643 officersAt least 2 payments3,522 officers3+ payments239 officers10+25 officers20+8 officers46+7 officers73+payments5 officers101+3 officers117+1 officer143payments\"\n**Source:** https://www.washingtonpost.com/investigations/interactive/2022/police-misconduct-repeated-settlements/\n\n### Pattern: Major Cities Bear Significant Financial Burdens\n\n**Claim:** New York City paid over $500 million in police misconduct settlements over six years (2018-2024).\n**Quote:** \"New York City has paid more than $500 million in police misconduct settlements over the past six years, including nearly $115 million\"\n**Source:** https://www.nytimes.com/2024/02/29/nyregion/nypd-police-misconduct-settlements.html\n\n**Claim:** New York City's annual police misconduct settlement costs reached $206 million in 2024, the highest since 2018.\n**Quote:** \"New York City paid out $206 million last year to settle cases involving police and prosecutorial misconduct, including deca\"\n**Source:** https://www.nytimes.com/2025/02/18/nyregion/nyc-police-misconduct-settlements.html\n\n**Claim:** Chicago is spending $90 million to settle 176 lawsuits linked to a single corrupt police sergeant.\n**Quote:** \"Chicago is proposing a roughly $90 million settlement to resolve 176 lawsuits linked to Watts.\"\n**Source:** https://www.wbez.org/criminal-justice/2025/09/11/chicago-police-crime-ronald-watts-cpd-mayor-brandon-johnson\n\n### Pattern: Complaint Types and Settlement Characteristics\n\n**Claim:** Most misconduct settlements are resolved quietly with smaller sums, unlike high-profile cases.\n**Quote:** \"most claims of police misconduct are resolved quietly and with smaller sums. Cities say payments to resolve misconduct allegations, ranging from excessive force to illegal search and seizure,\"\n**Source:** https://www.washingtonpost.com/investigations/2022/03/10/what-you-need-know-about-cost-police-misconduct/\n\n**Claim:** Excessive force complaints in New York surged to their highest levels since 2013 during the past three years.\n**Quote:** \"a dramatic increase in excessive use of force claims against the New York Police Department (NYPD) during Mayor Eric Adams'\"\n**Source:** https://comptroller.nyc.gov/newsroom/nypd-excessive-force-complaints-surged-in-past-3-years-to-highest-since-2013-nyc-comptroller-report-finds/\n\n### Pattern: Officer Indemnification and Lack of Individual Accountability\n\n**Claim:** Police officers are almost never personally responsible for paying misconduct settlements; governments indemnify them.\n**Quote:** \"The Supreme Court has long assumed that law enforcement officers must personally satisfy settle\u00adments and judgments, and has limited individual and government liability\"\n**Source:** https://nyulawreview.org/issues/volume-89-number-3/police-indemnification/\n\n**Note:** Research by Joanna Schwartz demonstrates that governmental indemnification shields officers from financial consequences, which may reduce individual deterrence effects and allow repeat offenders to continue generating settlement costs without personal financial impact. [INFERENCE - connecting sources on indemnification with repeat offender patterns]\n\n### Pattern: Accountability and Transparency Challenges\n\n**Claim:** Cities spend millions on police misconduct annually, but accountability mechanisms remain weak.\n**Quote:** \"Cities say payments to resolve misconduct allegations, ranging from excessive force to illegal search and seizure,\"\n**Source:** https://fivethirtyeight.com/features/police-misconduct-costs-cities-millions-every-year-but-thats-where-the-accountability-ends/\n\n**Claim:** Minneapolis created a public dashboard to track officer-specific payout data, improving transparency.\n**Quote:** \"View payments we've made as part of officer conduct claims and lawsuits.\"\n**Source:** https://www.minneapolismn.gov/government/government-data/datasource/officer-payouts-dashboard/\n\n### Pattern: Geographic and Departmental Variation\n\n**Claim:** Chicago's police misconduct settlement spending reached record levels in 2025, with more cases pending.\n**Quote:** \"Chicago's spending on police misconduct settle\"\n**Source:** https://www.chicagotribune.com/2025/05/26/police-misconduct-cases-chicago-cost/\n\n**Claim:** New York City paid nearly $2 billion in total settlements (all types) in fiscal year 2024, with police misconduct representing a significant portion.\n**Quote:** \"City Paid Nearly $2B in Settlements Last Fiscal Year\"\n**Source:** https://comptroller.nyc.gov/newsroom/comptroller-landers-new-dashboard-tracks-city-claims-city-paid-nearly-2b-in-settlements-last-fiscal-year/\n\n**Note:** While the $2 billion figure includes all city settlements, police misconduct consistently represents one of the largest categories across major cities. [INFERENCE - based on multiple sources showing police settlements as major cost drivers]\n\n## 2. SOURCE QUALITY ASSESSMENT\n\n**Strengths:**\n- Multiple authoritative sources including major newspapers (Washington Post, New York Times, Chicago Tribune)\n- Official government documents from NYC Comptroller, Chicago Department of Law\n- Academic research from UCLA Law Review and peer-reviewed journals\n- Data from transparency initiatives (Minneapolis dashboard, NYCLU database)\n- Consistent findings across independent sources reinforce credibility\n\n**Limitations:**\n- Many excerpts are truncated, limiting complete context\n- Some sources are recent (2024-2025), indicating ongoing/developing patterns\n- Actual settlement breakdowns by specific complaint type are referenced but not fully detailed in excerpts\n- Different cities use different tracking methodologies, making direct comparisons challenging\n- Some data is self-reported by cities with potential incentives to minimize disclosure\n\n**Overall Assessment:** Sources are highly credible, representing a mix of investigative journalism, academic research, and official government reporting. The convergence of findings across multiple independent sources strengthens reliability.\n\n## 3. GAPS OR CONTRADICTIONS\n\n**Key Information Gaps:**\n\n1. **Detailed Complaint Type Breakdown:** While sources mention \"excessive force,\" \"false arrest,\" \"illegal search and seizure,\" and \"wrongful conviction,\" precise percentages or dollar amounts by complaint category are not fully detailed in the available excerpts.\n\n2. **Small/Medium Departments:** Data heavily focuses on major cities (NYC, Chicago, Los Angeles, Minneapolis). Settlement patterns in smaller departments remain underexplored.\n\n3. **Temporal Trends:** While some sources show recent increases, long-term trend analysis (10+ years) is limited in the excerpts.\n\n4. **Officer Discipline Outcomes:** Connection between settlements paid and actual disciplinary actions against officers is mentioned as weak but not quantified.\n\n5. **Insurance vs. Self-Insurance:** How cities finance settlements (insurance, general funds, dedicated budgets) varies and is not consistently reported.\n\n**Contradictions:**\n\n- No major contradictions found among sources. Data from different cities and time periods are complementary rather than conflicting.\n\n## 4. RECOMMENDED NEXT STEPS\n\n**Priority Research Areas:**\n\n1. **Granular Complaint Analysis:** Obtain detailed breakdowns of settlement amounts by specific complaint categories (excessive force, false arrest, wrongful death, civil rights violations, etc.) for comparison across departments.\n\n2. **Mid-Size Department Data:** Investigate settlement patterns in departments serving populations of 100,000-500,000 to determine if concentration among repeat offenders is consistent across department sizes.\n\n3. **Discipline-Settlement Correlation:** Research whether officers generating multiple settlements face proportional disciplinary consequences, and whether departments with stronger accountability mechanisms show different patterns.\n\n4. **Early Warning Systems:** Examine whether departments with early intervention systems for officers with complaints show reduced repeat settlement patterns.\n\n5. **Policy Impact Analysis:** Study whether specific reforms (body cameras, revised use-of-force policies, civilian oversight) correlate with reduced settlement costs and complaint types.\n\n6. **Comparative International Study:** Compare U.S. settlement patterns with other countries' police accountability mechanisms to identify potentially effective alternative approaches.\n\n7. **Economic Impact Study:** Analyze whether settlement costs correlate with reduced police department budgets, staffing, or community services.\n\n8. **Wrongful Conviction Settlements:** Deep dive into the subset of settlements related to wrongful convictions (like the Chicago Watts case), which appear to generate disproportionately large payouts.",
+    "sources": [
+      {
+        "title": "The hidden billion-dollar cost of repeated police misconduct",
+        "url": "https://www.washingtonpost.com/investigations/interactive/2022/police-misconduct-repeated-settlements/?jumpToDatabase=true",
+        "published": "2022-03-09T00:00:00.000Z",
+        "excerpt": "Officers with more than one paymentto settle claims of misconduct7,643 officersAt least 2 payments3,522 officers3+ payments239 officers10+25 officers20+8 officers46+7 officers73+payments5 officers101+3 officers117+1 officer143payments\n\nBy [Keith L. Alexander] \n,\n\n[Steven Rich] \nand\n\n[Hannah Thacker] \n\nMarch 9, 2022\n\nAbout 8:30 one Thursday evening in Detroit, Tony Murray was getting ready for bed ahead of his 6 a.m. shift at a potato chip factory. As he turned off the final light in the living r"
+      },
+      {
+        "title": "The hidden billion-dollar cost of repeated police misconduct",
+        "url": "https://www.washingtonpost.com/investigations/interactive/2022/police-misconduct-repeated-settlements/",
+        "published": "2022-03-09T00:00:00.000Z",
+        "excerpt": "Repeated police misconduct cost taxpayers $1.5 billion in settlements - Washington Post\nOfficers with more than one paymentto settle claims of misconduct7,643 officersAt least 2 payments3,522 officers3+ payments239 officers10+25 officers20+8 officers46+7 officers73+payments5 officers101+3 officers117+1 officer143payments\nThe Washington Post\nExclusive\n# The hidden billion-dollar cost of repeated police misconduct\n## More than $1.5 billion has been spent to settle claims of police misconduct invol"
+      },
+      {
+        "title": "Cities Spend Millions On Police Misconduct Every Year. Here\u2019s Why It\u2019s So Difficult to Hold Departments Accountable.",
+        "url": "https://fivethirtyeight.com/features/police-misconduct-costs-cities-millions-every-year-but-thats-where-the-accountability-ends/",
+        "published": "2021-02-22T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[This is an archived site and is no longer being updated. New 538 articles can be found at www.abcnews.com/538.] \n\nILLUSTRATION BY EMILY SCHERER / GETTY IMAGES\n\nILLUSTRATION BY EMILY SCHERER / GETTY IMAGES\n\n_This article was published in partnership with_ _[The Marshall Project], a nonprofit news organization covering the U.S. criminal justice system._\n\nIn the spring of 2016, the city of Cleveland agreed to pay $6 million to the family of Tamir Rice, the 12-year-old boy "
+      },
+      {
+        "title": "",
+        "url": "https://www.washingtonpost.com/investigations/2022/03/10/what-you-need-know-about-cost-police-misconduct/",
+        "published": "2022-03-10T00:00:00.000Z",
+        "excerpt": "clockThis article was published more than\u00a0**3 years ago**\n\n[Skip to main content] \n\nBy [Keith L. Alexander] \n,\n\n[Steven Rich] \nand\n\n[Hannah Thacker] \n\nUnlike cases that make headlines, such as the $27 million Minneapolis paid to the family of George Floyd or the $12 million paid to Breonna Taylor\u2019s family, most claims of police misconduct are resolved quietly and with smaller sums. Cities say payments to resolve misconduct allegations, ranging from excessive force to illegal search and seizure, "
+      },
+      {
+        "title": "Police Misconduct Costs Cities Millions Every Year. But That\u2019s Where The Accountability Ends.",
+        "url": "https://www.themarshallproject.org/2021/02/22/police-misconduct-costs-cities-millions-every-year-but-that-s-where-the-accountability-ends",
+        "published": "2021-02-22T00:00:00.000Z",
+        "excerpt": "A nonprofit news organization covering the U.S. criminal justice system\n\nSearch\n\nMagnifying glass\n\nLocal Network\n\n[Cleveland] \n\n[Jackson] \n\n[St. Louis] \n\nProjects\n\n[Inside Story] \n\n[News Inside] \n\n[Life Inside] \n\n[Mauled] \n\n[The Language Project] \n\n[The Record] \n\n[The System] \n\nTopics\n\n[Death Penalty] \n\n[Immigration] \n\n[Juvenile Justice] \n\n[Mental Health] \n\n[Policing] \n\n[Politics] \n\n[Race] \n\nAbout\n\n[About Us] \n\n[Local Network] \n\n[The Marshall Project Inside] \n\n[News & Awards] \n\n[Impact] \n\n[Peopl"
+      },
+      {
+        "title": "A Blueprint for Department-Wide Restraint",
+        "url": "https://comptroller.nyc.gov/reports/a-blueprint-for-department-wide-restraint/",
+        "published": null,
+        "excerpt": "A Blueprint for Department-Wide Restraint - Office of the New York City Comptroller Mark Levine\nMicrosoft Internet Explorer is no longer a supported browser on NYC Comptroller\u2019s website.\nPlease use Microsoft Edge, Google Chrome, Apple Safari or Mozilla Firefox.\n* Espa\u00f1ol\n\u7e41\u9ad4\u4e2d\u6587\u7b80\u4f53\u4e2d\u6587\u0420\u0443\u0441\u0441\u043a\u0438\u0439\ud55c\uad6d\uc5b4Krey\u00f2l ayisyen\nItaliano\n**\n* * [Join Mailing List] \n* * * [**] \n* [**] \n* [**] \n* [**] \n* [**] \n* [**] \n[Reports] /A Blueprint for Department-Wide Restraint\n# A Blueprint for Department-Wide Restraint\n## An Ana"
+      },
+      {
+        "title": "How Governments Pay: Lawsuits, Budgets, and Police Reform",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2635673",
+        "published": "2015-07-24T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[![PDF icon] Download This Paper] \n\n[Open PDF in Browser] \n\n[Add Paper to My Library] \n\nShare:\n\nPermalink\n\nUsing these links will ensure access to this page indefinitely\n\n[Copy URL] \n\n# How Governments Pay: Lawsuits, Budgets, and Police Reform\n\n[63 UCLA L. Rev. 1144 (2016)] \n\n[UCLA School of Law Research Paper No. 15-23] \n\n155 PagesPosted: 27 Jul 2015Last revised: 8 Jun 2016\n\n[See all articles by Joanna C. Schwartz] \n\n## [Joanna C. Schwartz] \n\nUniversity of California, L"
+      },
+      {
+        "title": "Officer payouts dashboard",
+        "url": "https://www.minneapolismn.gov/government/government-data/datasource/officer-payouts-dashboard/",
+        "published": null,
+        "excerpt": "Search the city\n\nSearch\n\nMinneapolis Data Source\n\nSection Menu\n\n# Officer payouts dashboard\n\nView payments we've made as part of officer conduct claims and lawsuits.\n\n### Request accessible format\n\nIf you need help with this information, please [email 311], or call 311 or [612-673-3000].\n\nPlease tell us what format you need. It will help us if you say what assistive technology you use.\n\n## Officer payouts dashboard\n\n[Before you begin] [View full screen] \n\n## How to use the dashboard\n\n### Search "
+      },
+      {
+        "title": "Settlements",
+        "url": "https://policefundingdatabase.org/explore-the-database/settlements",
+        "published": "2025-07-10T00:00:00.000Z",
+        "excerpt": "Settlements | Police Funding Database | LDF | TMI[Skip to content] \n[![National Police Funding Database] Homepage link] \nToggle menu\nLocation search\nA project of LDF&#x2019;s Thurgood Marshall Institute\nShare\n* [Facebook] \n* [Twitter] \n* [Email] \n# Settlements\nTheinformation below is compiled by TMI based on reputable, publicly available sources.Thisinformation includes cumulative data for certain time periods, specific settlements of claims by individuals,and settlements relating topolice misco"
+      },
+      {
+        "title": "A Blueprint for Department-Wide Restraint",
+        "url": "https://comptroller.nyc.gov/reports/a-blueprint-for-department-wide-restraint/",
+        "published": null,
+        "excerpt": "A Blueprint for Department-Wide Restraint - Office of the New York City Comptroller Mark Levine\nMicrosoft Internet Explorer is no longer a supported browser on NYC Comptroller\u2019s website.\nPlease use Microsoft Edge, Google Chrome, Apple Safari or Mozilla Firefox.\n* Espa\u00f1ol\n\u7e41\u9ad4\u4e2d\u6587\u7b80\u4f53\u4e2d\u6587\u0420\u0443\u0441\u0441\u043a\u0438\u0439\ud55c\uad6d\uc5b4Krey\u00f2l ayisyen\nItaliano\n**\n* * [Join Mailing List] \n* * * [**] \n* [**] \n* [**] \n* [**] \n* [**] \n* [**] \n[Reports] /A Blueprint for Department-Wide Restraint\n# A Blueprint for Department-Wide Restraint\n## An Ana"
+      },
+      {
+        "title": "The hidden billion-dollar cost of repeated police misconduct",
+        "url": "https://www.washingtonpost.com/investigations/interactive/2022/police-misconduct-repeated-settlements",
+        "published": "2022-03-09T00:00:00.000Z",
+        "excerpt": "Repeated police misconduct cost taxpayers $1.5 billion in settlements - Washington Post\nOfficers with more than one paymentto settle claims of misconduct7,643 officersAt least 2 payments3,522 officers3+ payments239 officers10+25 officers20+8 officers46+7 officers73+payments5 officers101+3 officers117+1 officer143payments\nThe Washington Post\nExclusive\n# The hidden billion-dollar cost of repeated police misconduct\n## More than $1.5 billion has been spent to settle claims of police misconduct invol"
+      },
+      {
+        "title": "N.Y.P.D. Misconduct Settlements Cost $500 Million Over 6 Years",
+        "url": "https://www.nytimes.com/2024/02/29/nyregion/nypd-police-misconduct-settlements.html",
+        "published": "2024-02-29T00:00:00.000Z",
+        "excerpt": "[New York] \\|N.Y.P.D. Misconduct Settlements Cost $500 Million Over 6 Years\n\nhttps://www.nytimes.com/2024/02/29/nyregion/nypd-police-misconduct-settlements.html\n\n- Share full article\n\n\nAdvertisement\n\n[SKIP ADVERTISEMENT] \n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\nNew York City has paid more than $500 million in police misconduct settlements over the past six years, including nearly $115 million "
+      },
+      {
+        "title": "",
+        "url": "https://www.washingtonpost.com/investigations/2022/03/10/what-you-need-know-about-cost-police-misconduct/",
+        "published": "2022-03-10T00:00:00.000Z",
+        "excerpt": "clockThis article was published more than\u00a0**3 years ago**\n\n[Skip to main content] \n\nBy [Keith L. Alexander] \n,\n\n[Steven Rich] \nand\n\n[Hannah Thacker] \n\nUnlike cases that make headlines, such as the $27 million Minneapolis paid to the family of George Floyd or the $12 million paid to Breonna Taylor\u2019s family, most claims of police misconduct are resolved quietly and with smaller sums. Cities say payments to resolve misconduct allegations, ranging from excessive force to illegal search and seizure, "
+      },
+      {
+        "title": "Cities Spend Millions On Police Misconduct Every Year. Here\u2019s Why It\u2019s So Difficult to Hold Departments Accountable.",
+        "url": "https://fivethirtyeight.com/features/police-misconduct-costs-cities-millions-every-year-but-thats-where-the-accountability-ends/",
+        "published": "2021-02-22T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[This is an archived site and is no longer being updated. New 538 articles can be found at www.abcnews.com/538.] \n\nILLUSTRATION BY EMILY SCHERER / GETTY IMAGES\n\nILLUSTRATION BY EMILY SCHERER / GETTY IMAGES\n\n_This article was published in partnership with_ _[The Marshall Project], a nonprofit news organization covering the U.S. criminal justice system._\n\nIn the spring of 2016, the city of Cleveland agreed to pay $6 million to the family of Tamir Rice, the 12-year-old boy "
+      },
+      {
+        "title": "Police Misconduct Costs Cities Millions Every Year. But That\u2019s Where The Accountability Ends.",
+        "url": "https://www.themarshallproject.org/2021/02/22/police-misconduct-costs-cities-millions-every-year-but-that-s-where-the-accountability-ends",
+        "published": "2021-02-22T00:00:00.000Z",
+        "excerpt": "A nonprofit news organization covering the U.S. criminal justice system\n\nSearch\n\nMagnifying glass\n\nLocal Network\n\n[Cleveland] \n\n[Jackson] \n\n[St. Louis] \n\nProjects\n\n[Inside Story] \n\n[News Inside] \n\n[Life Inside] \n\n[Mauled] \n\n[The Language Project] \n\n[The Record] \n\n[The System] \n\nTopics\n\n[Death Penalty] \n\n[Immigration] \n\n[Juvenile Justice] \n\n[Mental Health] \n\n[Policing] \n\n[Politics] \n\n[Race] \n\nAbout\n\n[About Us] \n\n[Local Network] \n\n[The Marshall Project Inside] \n\n[News & Awards] \n\n[Impact] \n\n[Peopl"
+      },
+      {
+        "title": "NYPD Excessive Force Complaints Surged in Past 3 Years to Highest Since 2013, NYC Comptroller Report Finds",
+        "url": "https://comptroller.nyc.gov/newsroom/nypd-excessive-force-complaints-surged-in-past-3-years-to-highest-since-2013-nyc-comptroller-report-finds/",
+        "published": null,
+        "excerpt": "Microsoft Internet Explorer is no longer a supported browser on NYC Comptroller\u2019s website.\nPlease use Microsoft Edge, Google Chrome, Apple Safari or Mozilla Firefox.\n\n# NYPD Excessive Force Complaints Surged in Past 3 Years to Highest Since 2013, NYC Comptroller Report Finds\n\nSeptember 24, 2025\n\n**New York, NY**\u2014In [a new report], New York City Comptroller Brad Lander found a dramatic increase in excessive use of force claims against the New York Police Department (NYPD) during Mayor Eric Adams\u2019"
+      },
+      {
+        "title": "New York Pays $206 Million to Settle Misconduct Suits, the Most Since 2018",
+        "url": "https://www.nytimes.com/2025/02/18/nyregion/nyc-police-misconduct-settlements.html",
+        "published": "2025-02-18T00:00:00.000Z",
+        "excerpt": "[New York] \\|New York Pays $206 Million to Settle Misconduct Suits, the Most Since 2018\n\nhttps://www.nytimes.com/2025/02/18/nyregion/nyc-police-misconduct-settlements.html\n\n- Share full article\n\n\nAdvertisement\n\n[SKIP ADVERTISEMENT] \n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\nNew York City paid out $206 million last year to settle cases involving police and prosecutorial misconduct, including deca"
+      },
+      {
+        "title": "Settlements",
+        "url": "https://policefundingdatabase.org/explore-the-database/settlements/",
+        "published": "2025-07-10T00:00:00.000Z",
+        "excerpt": "Settlements | Police Funding Database | LDF | TMI[Skip to content] \n[![National Police Funding Database] Homepage link] \nToggle menu\nLocation search\nA project of LDF&#x2019;s Thurgood Marshall Institute\nShare\n* [Facebook] \n* [Twitter] \n* [Email] \n# Settlements\nTheinformation below is compiled by TMI based on reputable, publicly available sources.Thisinformation includes cumulative data for certain time periods, specific settlements of claims by individuals,and settlements relating topolice misco"
+      },
+      {
+        "title": "Officer payouts dashboard",
+        "url": "https://minneapolismn.gov/government/government-data/datasource/officer-payouts-dashboard",
+        "published": "2023-11-02T00:00:00.000Z",
+        "excerpt": "Search the city\n\nSearch\n\nMinneapolis Data Source\n\nSection Menu\n\n# Officer payouts dashboard\n\nView payments we've made as part of officer conduct claims and lawsuits.\n\n### Request accessible format\n\nIf you need help with this information, please [email 311], or call 311 or [612-673-3000].\n\nPlease tell us what format you need. It will help us if you say what assistive technology you use.\n\n## Officer payouts dashboard\n\n[Before you begin] [View full screen] \n\n## How to use the dashboard\n\n### Search "
+      },
+      {
+        "title": "Settlements",
+        "url": "https://policefundingdatabase.org/explore-the-database/settlements/",
+        "published": "2025-07-10T00:00:00.000Z",
+        "excerpt": "Settlements | Police Funding Database | LDF | TMI[Skip to content] \n[![National Police Funding Database] Homepage link] \nToggle menu\nLocation search\nA project of LDF&#x2019;s Thurgood Marshall Institute\nShare\n* [Facebook] \n* [Twitter] \n* [Email] \n# Settlements\nTheinformation below is compiled by TMI based on reputable, publicly available sources.Thisinformation includes cumulative data for certain time periods, specific settlements of claims by individuals,and settlements relating topolice misco"
+      },
+      {
+        "title": "Settlements",
+        "url": "https://policefundingdatabase.org/explore-the-database/settlements/?all=true&page=1",
+        "published": null,
+        "excerpt": "Settlements | Police Funding Database | LDF | TMI[Skip to content] \n[![National Police Funding Database] Homepage link] \nToggle menu\nLocation search\nA project of LDF&#x2019;s Thurgood Marshall Institute\nShare\n* [Facebook] \n* [Twitter] \n* [Email] \n# Settlements\nTheinformation below is compiled by TMI based on reputable, publicly available sources.Thisinformation includes cumulative data for certain time periods, specific settlements of claims by individuals,and settlements relating topolice misco"
+      },
+      {
+        "title": "The hidden billion-dollar cost of repeated police misconduct",
+        "url": "https://www.washingtonpost.com/investigations/interactive/2022/police-misconduct-repeated-settlements/?jumpToDatabase=true",
+        "published": "2022-03-09T00:00:00.000Z",
+        "excerpt": "Officers with more than one paymentto settle claims of misconduct7,643 officersAt least 2 payments3,522 officers3+ payments239 officers10+25 officers20+8 officers46+7 officers73+payments5 officers101+3 officers117+1 officer143payments\n\nBy [Keith L. Alexander] \n,\n\n[Steven Rich] \nand\n\n[Hannah Thacker] \n\nMarch 9, 2022\n\nAbout 8:30 one Thursday evening in Detroit, Tony Murray was getting ready for bed ahead of his 6 a.m. shift at a potato chip factory. As he turned off the final light in the living r"
+      },
+      {
+        "title": "The hidden billion-dollar cost of repeated police misconduct",
+        "url": "https://www.washingtonpost.com/investigations/interactive/2022/police-misconduct-repeated-settlements/",
+        "published": "2022-03-09T00:00:00.000Z",
+        "excerpt": "Repeated police misconduct cost taxpayers $1.5 billion in settlements - Washington Post\nOfficers with more than one paymentto settle claims of misconduct7,643 officersAt least 2 payments3,522 officers3+ payments239 officers10+25 officers20+8 officers46+7 officers73+payments5 officers101+3 officers117+1 officer143payments\nThe Washington Post\nExclusive\n# The hidden billion-dollar cost of repeated police misconduct\n## More than $1.5 billion has been spent to settle claims of police misconduct invol"
+      },
+      {
+        "title": "Police Records - Los Angeles Times",
+        "url": "https://clean.latimes.com/about",
+        "published": null,
+        "excerpt": "Police Records - Los Angeles Times\n# About\n## The records\nCalifornia lawmakers passed the landmark[\u201cRight to Know Act\u201d in 2018], stripping away decades of secrecy and giving the public the right to see records about shootings by law enforcement officers and other serious uses of force, as well as law enforcement misconduct. Lawmakers strengthened the law in 2021, expanding the categories of misconduct cases disclosable to the public. Both these laws are found in[California Penal Code section 832"
+      },
+      {
+        "title": "",
+        "url": "https://www.chicago.gov/content/dam/city/depts/dol/CPDLitigationReports/City%20of%20Chicago%20Report%20on%202024%20CPD%20Litigation.pdf",
+        "published": null,
+        "excerpt": "CITY OF CHICAGO\u2019S\nCHICAGO\nPOLICE \nDEPARTMENT \n2024 LITIGATION \nREPORT\nPrepared by City of Chicago Department of Law\nDated: June 30, 2025\nUpdated: July 18, 2025\n 1\nINTRODUCTION\nIn 2019, the State of Illinois and the City of Chicago (City)1 entered into an agreement, known as a \u201cConsent \nDecree.\u201d The Consent Decree is a negotiated settlement agreement, approved by the United States District Court for \nthe Norther District of Illinois, Eastern Division, that requires the City, through the City of C"
+      },
+      {
+        "title": "",
+        "url": "https://www.washingtonpost.com/investigations/2022/03/10/what-you-need-know-about-cost-police-misconduct/",
+        "published": "2022-03-10T00:00:00.000Z",
+        "excerpt": "clockThis article was published more than\u00a0**3 years ago**\n\n[Skip to main content] \n\nBy [Keith L. Alexander] \n,\n\n[Steven Rich] \nand\n\n[Hannah Thacker] \n\nUnlike cases that make headlines, such as the $27 million Minneapolis paid to the family of George Floyd or the $12 million paid to Breonna Taylor\u2019s family, most claims of police misconduct are resolved quietly and with smaller sums. Cities say payments to resolve misconduct allegations, ranging from excessive force to illegal search and seizure, "
+      },
+      {
+        "title": "Police Misconduct Costs Cities Millions Every Year. But That\u2019s Where The Accountability Ends.",
+        "url": "https://www.themarshallproject.org/2021/02/22/police-misconduct-costs-cities-millions-every-year-but-that-s-where-the-accountability-ends",
+        "published": "2021-02-22T00:00:00.000Z",
+        "excerpt": "A nonprofit news organization covering the U.S. criminal justice system\n\nSearch\n\nMagnifying glass\n\nLocal Network\n\n[Cleveland] \n\n[Jackson] \n\n[St. Louis] \n\nProjects\n\n[Inside Story] \n\n[News Inside] \n\n[Life Inside] \n\n[Mauled] \n\n[The Language Project] \n\n[The Record] \n\n[The System] \n\nTopics\n\n[Death Penalty] \n\n[Immigration] \n\n[Juvenile Justice] \n\n[Mental Health] \n\n[Policing] \n\n[Politics] \n\n[Race] \n\nAbout\n\n[About Us] \n\n[Local Network] \n\n[The Marshall Project Inside] \n\n[News & Awards] \n\n[Impact] \n\n[Peopl"
+      },
+      {
+        "title": "Cities Spend Millions On Police Misconduct Every Year. Here\u2019s Why It\u2019s So Difficult to Hold Departments Accountable.",
+        "url": "https://fivethirtyeight.com/features/police-misconduct-costs-cities-millions-every-year-but-thats-where-the-accountability-ends/",
+        "published": "2021-02-22T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[This is an archived site and is no longer being updated. New 538 articles can be found at www.abcnews.com/538.] \n\nILLUSTRATION BY EMILY SCHERER / GETTY IMAGES\n\nILLUSTRATION BY EMILY SCHERER / GETTY IMAGES\n\n_This article was published in partnership with_ _[The Marshall Project], a nonprofit news organization covering the U.S. criminal justice system._\n\nIn the spring of 2016, the city of Cleveland agreed to pay $6 million to the family of Tamir Rice, the 12-year-old boy "
+      },
+      {
+        "title": "The hidden billion-dollar cost of repeated police misconduct",
+        "url": "https://www.washingtonpost.com/investigations/interactive/2022/police-misconduct-repeated-settlements/",
+        "published": "2022-03-09T00:00:00.000Z",
+        "excerpt": "Repeated police misconduct cost taxpayers $1.5 billion in settlements - Washington Post\nOfficers with more than one paymentto settle claims of misconduct7,643 officersAt least 2 payments3,522 officers3+ payments239 officers10+25 officers20+8 officers46+7 officers73+payments5 officers101+3 officers117+1 officer143payments\nThe Washington Post\nExclusive\n# The hidden billion-dollar cost of repeated police misconduct\n## More than $1.5 billion has been spent to settle claims of police misconduct invol"
+      },
+      {
+        "title": "",
+        "url": "https://www.washingtonpost.com/investigations/2022/03/10/what-you-need-know-about-cost-police-misconduct/",
+        "published": "2022-03-10T00:00:00.000Z",
+        "excerpt": "clockThis article was published more than\u00a0**3 years ago**\n\n[Skip to main content] \n\nBy [Keith L. Alexander] \n,\n\n[Steven Rich] \nand\n\n[Hannah Thacker] \n\nUnlike cases that make headlines, such as the $27 million Minneapolis paid to the family of George Floyd or the $12 million paid to Breonna Taylor\u2019s family, most claims of police misconduct are resolved quietly and with smaller sums. Cities say payments to resolve misconduct allegations, ranging from excessive force to illegal search and seizure, "
+      },
+      {
+        "title": "Police Misconduct Costs Cities Millions Every Year. But That\u2019s Where The Accountability Ends.",
+        "url": "https://www.themarshallproject.org/2021/02/22/police-misconduct-costs-cities-millions-every-year-but-that-s-where-the-accountability-ends",
+        "published": "2021-02-22T00:00:00.000Z",
+        "excerpt": "A nonprofit news organization covering the U.S. criminal justice system\n\nSearch\n\nMagnifying glass\n\nLocal Network\n\n[Cleveland] \n\n[Jackson] \n\n[St. Louis] \n\nProjects\n\n[Inside Story] \n\n[News Inside] \n\n[Life Inside] \n\n[Mauled] \n\n[The Language Project] \n\n[The Record] \n\n[The System] \n\nTopics\n\n[Death Penalty] \n\n[Immigration] \n\n[Juvenile Justice] \n\n[Mental Health] \n\n[Policing] \n\n[Politics] \n\n[Race] \n\nAbout\n\n[About Us] \n\n[Local Network] \n\n[The Marshall Project Inside] \n\n[News & Awards] \n\n[Impact] \n\n[Peopl"
+      },
+      {
+        "title": "Cities Spend Millions On Police Misconduct Every Year. Here\u2019s Why It\u2019s So Difficult to Hold Departments Accountable.",
+        "url": "https://fivethirtyeight.com/features/police-misconduct-costs-cities-millions-every-year-but-thats-where-the-accountability-ends/",
+        "published": "2021-02-22T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[This is an archived site and is no longer being updated. New 538 articles can be found at www.abcnews.com/538.] \n\nILLUSTRATION BY EMILY SCHERER / GETTY IMAGES\n\nILLUSTRATION BY EMILY SCHERER / GETTY IMAGES\n\n_This article was published in partnership with_ _[The Marshall Project], a nonprofit news organization covering the U.S. criminal justice system._\n\nIn the spring of 2016, the city of Cleveland agreed to pay $6 million to the family of Tamir Rice, the 12-year-old boy "
+      },
+      {
+        "title": "A Blueprint for Department-Wide Restraint",
+        "url": "https://comptroller.nyc.gov/reports/a-blueprint-for-department-wide-restraint/",
+        "published": null,
+        "excerpt": "A Blueprint for Department-Wide Restraint - Office of the New York City Comptroller Mark Levine\nMicrosoft Internet Explorer is no longer a supported browser on NYC Comptroller\u2019s website.\nPlease use Microsoft Edge, Google Chrome, Apple Safari or Mozilla Firefox.\n* Espa\u00f1ol\n\u7e41\u9ad4\u4e2d\u6587\u7b80\u4f53\u4e2d\u6587\u0420\u0443\u0441\u0441\u043a\u0438\u0439\ud55c\uad6d\uc5b4Krey\u00f2l ayisyen\nItaliano\n**\n* * [Join Mailing List] \n* * * [**] \n* [**] \n* [**] \n* [**] \n* [**] \n* [**] \n[Reports] /A Blueprint for Department-Wide Restraint\n# A Blueprint for Department-Wide Restraint\n## An Ana"
+      },
+      {
+        "title": "New York Pays $206 Million to Settle Misconduct Suits, the Most Since 2018",
+        "url": "https://www.nytimes.com/2025/02/18/nyregion/nyc-police-misconduct-settlements.html",
+        "published": "2025-02-18T00:00:00.000Z",
+        "excerpt": "[New York] \\|New York Pays $206 Million to Settle Misconduct Suits, the Most Since 2018\n\nhttps://www.nytimes.com/2025/02/18/nyregion/nyc-police-misconduct-settlements.html\n\n- Share full article\n\n\nAdvertisement\n\n[SKIP ADVERTISEMENT] \n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\nNew York City paid out $206 million last year to settle cases involving police and prosecutorial misconduct, including deca"
+      },
+      {
+        "title": "N.Y.P.D. Misconduct Settlements Cost $500 Million Over 6 Years",
+        "url": "https://www.nytimes.com/2024/02/29/nyregion/nypd-police-misconduct-settlements.html?ugrp=m&unlocked_article_code=1.hk0._213.szg1HPW1A41X&smid=url-share",
+        "published": "2024-02-29T00:00:00.000Z",
+        "excerpt": "[New York] \\|N.Y.P.D. Misconduct Settlements Cost $500 Million Over 6 Years\n\nhttps://www.nytimes.com/2024/02/29/nyregion/nypd-police-misconduct-settlements.html\n\n- Share full article\n\n\nAdvertisement\n\n[SKIP ADVERTISEMENT] \n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\nNew York City has paid more than $500 million in police misconduct settlements over the past six years, including nearly $115 million "
+      },
+      {
+        "title": "Lawsuits tied to corrupt Chicago cop Ronald Watts to be settled for $90 million, City Hall says - WBEZ Chicago",
+        "url": "https://www.wbez.org/criminal-justice/2025/09/11/chicago-police-crime-ronald-watts-cpd-mayor-brandon-johnson",
+        "published": "2025-09-11T00:00:00.000Z",
+        "excerpt": "Menu\n\nCorrupt former Chicago police Sgt. Ronald Watts in 2013. Chicago is proposing a roughly $90 million settlement to resolve 176 lawsuits linked to Watts.\n\nSun-Times file\n\n[Criminal Justice] [City Hall] \n\n# City Hall spending $90 million to settle lawsuits tied to corrupt Chicago police Sgt. Ronald Watts\n\n## Lawsuits targeting Watts, who ran a corrupt public housing unit and was sent to federal prison for shaking down an FBI informant, have long placed a financial strain on the city.\n\nBy\u00a0[Mit"
+      },
+      {
+        "title": "",
+        "url": "https://www.chicago.gov/content/dam/city/depts/dol/CPDLitigationReports/City%20of%20Chicago%20Report%20on%202024%20CPD%20Litigation.pdf",
+        "published": null,
+        "excerpt": "CITY OF CHICAGO\u2019S\nCHICAGO\nPOLICE \nDEPARTMENT \n2024 LITIGATION \nREPORT\nPrepared by City of Chicago Department of Law\nDated: June 30, 2025\nUpdated: July 18, 2025\n 1\nINTRODUCTION\nIn 2019, the State of Illinois and the City of Chicago (City)1 entered into an agreement, known as a \u201cConsent \nDecree.\u201d The Consent Decree is a negotiated settlement agreement, approved by the United States District Court for \nthe Norther District of Illinois, Eastern Division, that requires the City, through the City of C"
+      },
+      {
+        "title": "",
+        "url": "https://www.washingtonpost.com/investigations/2022/03/10/what-you-need-know-about-cost-police-misconduct/",
+        "published": "2022-03-10T00:00:00.000Z",
+        "excerpt": "clockThis article was published more than\u00a0**3 years ago**\n\n[Skip to main content] \n\nBy [Keith L. Alexander] \n,\n\n[Steven Rich] \nand\n\n[Hannah Thacker] \n\nUnlike cases that make headlines, such as the $27 million Minneapolis paid to the family of George Floyd or the $12 million paid to Breonna Taylor\u2019s family, most claims of police misconduct are resolved quietly and with smaller sums. Cities say payments to resolve misconduct allegations, ranging from excessive force to illegal search and seizure, "
+      },
+      {
+        "title": "The hidden billion-dollar cost of repeated police misconduct",
+        "url": "https://www.washingtonpost.com/investigations/interactive/2022/police-misconduct-repeated-settlements/?jumpToDatabase=true",
+        "published": "2022-03-09T00:00:00.000Z",
+        "excerpt": "Officers with more than one paymentto settle claims of misconduct7,643 officersAt least 2 payments3,522 officers3+ payments239 officers10+25 officers20+8 officers46+7 officers73+payments5 officers101+3 officers117+1 officer143payments\n\nBy [Keith L. Alexander] \n,\n\n[Steven Rich] \nand\n\n[Hannah Thacker] \n\nMarch 9, 2022\n\nAbout 8:30 one Thursday evening in Detroit, Tony Murray was getting ready for bed ahead of his 6 a.m. shift at a potato chip factory. As he turned off the final light in the living r"
+      },
+      {
+        "title": "",
+        "url": "https://nnscommunities.org/wp-content/uploads/2024/02/Police-Misconduct-Issue-Brief-Addressing-the-Few.pdf",
+        "published": "2024-02-08T00:00:00.000Z",
+        "excerpt": "Addressing the Few: Applying Focused \nDeterrence to Police Misconduct\nISSUE BRIEF\nTHE IMPACT OF POLICE MISCONDUCT\nThe costs of police misbehavior and misconduct are incalculable. A wide range of behaviors\u2014\nfrom verbal abuse to fatal uses of force\u2014have ripple effects far beyond direct harm, even when \nthey are considered lawful. Misconduct creates distrust and fear, eroding relationships between \npolice and communities. Public safety is compromised by a reduced willingness by the public to \nrepor"
+      },
+      {
+        "title": "The hidden billion-dollar cost of repeated police misconduct",
+        "url": "https://www.washingtonpost.com/investigations/interactive/2022/police-misconduct-repeated-settlements/",
+        "published": "2022-03-09T00:00:00.000Z",
+        "excerpt": "Repeated police misconduct cost taxpayers $1.5 billion in settlements - Washington Post\nOfficers with more than one paymentto settle claims of misconduct7,643 officersAt least 2 payments3,522 officers3+ payments239 officers10+25 officers20+8 officers46+7 officers73+payments5 officers101+3 officers117+1 officer143payments\nThe Washington Post\nExclusive\n# The hidden billion-dollar cost of repeated police misconduct\n## More than $1.5 billion has been spent to settle claims of police misconduct invol"
+      },
+      {
+        "title": "How To Predict Bad Cops In Chicago",
+        "url": "https://fivethirtyeight.com/features/how-to-predict-which-chicago-cops-will-commit-misconduct/?ex_cid=story-twitter",
+        "published": "2015-12-15T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[This is an archived site and is no longer being updated. New 538 articles can be found at www.abcnews.com/538.] \n\n![] \nDemonstrators marched through downtown Chicago over the weekend. A recently released video showing the shooting of a teenager by a Chicago police officer has sparked almost daily protests and calls for Mayor Rahm Emanuel to resign.\n\nScott Olson / Getty Images\n\nProtests against police violence [raged on] in Chicago over the weekend, with some demonstrato"
+      },
+      {
+        "title": "A Blueprint for Department-Wide Restraint",
+        "url": "https://comptroller.nyc.gov/reports/a-blueprint-for-department-wide-restraint/",
+        "published": null,
+        "excerpt": "A Blueprint for Department-Wide Restraint - Office of the New York City Comptroller Mark Levine\nMicrosoft Internet Explorer is no longer a supported browser on NYC Comptroller\u2019s website.\nPlease use Microsoft Edge, Google Chrome, Apple Safari or Mozilla Firefox.\n* Espa\u00f1ol\n\u7e41\u9ad4\u4e2d\u6587\u7b80\u4f53\u4e2d\u6587\u0420\u0443\u0441\u0441\u043a\u0438\u0439\ud55c\uad6d\uc5b4Krey\u00f2l ayisyen\nItaliano\n**\n* * [Join Mailing List] \n* * * [**] \n* [**] \n* [**] \n* [**] \n* [**] \n* [**] \n[Reports] /A Blueprint for Department-Wide Restraint\n# A Blueprint for Department-Wide Restraint\n## An Ana"
+      },
+      {
+        "title": "NYPD Misconduct Complaint Database - NYCLU",
+        "url": "https://www.nyclu.org/data/nypd-misconduct-database",
+        "published": "2020-07-22T00:00:00.000Z",
+        "excerpt": "[Back to All Data] \n\nJul 22, 2020\n\n[Data] \n\n# NYPD Misconduct Complaint Database\n\n- [Policing] \n\nShare:\n\n_Update: The NYCLU obtained an updated set\u00a0of\u00a0records from the Civilian Complaint Review Board (CCRB) in April 2023. The records include information about misconduct investigations completed by the CCRB as of April 2023._\n\nThe NYPD Misconduct Complaint Database, which the NYCLU obtained through Freedom of Information Law (FOIL) requests, is a repository of complaints made by the public on rec"
+      },
+      {
+        "title": "Officers are winning massive payouts in \u2018LAPD lottery\u2019 lawsuits - Los Angeles Times",
+        "url": "https://www.latimes.com/california/story/2025-05-14/lapd-lawsuit-payouts",
+        "published": "2025-05-14T00:00:00.000Z",
+        "excerpt": "Copyright \u00a9 2025, Los Angeles Times \\| [Terms of Service] \\| [Privacy Policy] \\| [CA Notice of Collection] \\| [Do Not Sell or Share My Personal Information] \n\nAdvertisement\n\n# Officers are winning massive payouts in \u2018LAPD lottery\u2019 lawsuits\n\nJim McDonnell speaks with media after being sworn in as the 59th chief of the Los Angeles Police Department on Nov. 14, 2024.\n\n(Brian van der Brug/Los Angeles Times)\n\nBy [Libor Jany] Staff Writer\n\nMay 14, 2025 3 AM PT\n\n[For Subscribers] \n\n- Share\n\n\nShare viaC"
+      },
+      {
+        "title": "National Law Enforcement Accountability Database, 2018\u20132023",
+        "url": "https://bjs.ojp.gov/document/nlead1823.pdf",
+        "published": "2024-12-17T00:00:00.000Z",
+        "excerpt": "DECEMBER 2024 NCJ 309614\nStatistical Brief\nU.S. Department of Justice\nOffice of Justice Programs\nBureau of Justice Statistics\nNational Law Enforcement \nAccountability Database, 2018\u20132023\nShelley S. Hyland, PhD, BJS Senior Statistical Advisor\nAs of September 20, 2024, there were 4,790 records \nof federal officer misconduct covering the years \n2018 to 2023 in the U.S. Department of Justice\u2019s \nNational Law Enforcement Accountability Database \n(NLEAD; figure 1). A record includes a single federal \nl"
+      },
+      {
+        "title": "Cities Spend Millions On Police Misconduct Every Year. Here\u2019s Why It\u2019s So Difficult to Hold Departments Accountable.",
+        "url": "https://fivethirtyeight.com/features/police-misconduct-costs-cities-millions-every-year-but-thats-where-the-accountability-ends/",
+        "published": "2021-02-22T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[This is an archived site and is no longer being updated. New 538 articles can be found at www.abcnews.com/538.] \n\nILLUSTRATION BY EMILY SCHERER / GETTY IMAGES\n\nILLUSTRATION BY EMILY SCHERER / GETTY IMAGES\n\n_This article was published in partnership with_ _[The Marshall Project], a nonprofit news organization covering the U.S. criminal justice system._\n\nIn the spring of 2016, the city of Cleveland agreed to pay $6 million to the family of Tamir Rice, the 12-year-old boy "
+      },
+      {
+        "title": "A Blueprint for Department-Wide Restraint",
+        "url": "https://comptroller.nyc.gov/reports/a-blueprint-for-department-wide-restraint/",
+        "published": null,
+        "excerpt": "A Blueprint for Department-Wide Restraint - Office of the New York City Comptroller Mark Levine\nMicrosoft Internet Explorer is no longer a supported browser on NYC Comptroller\u2019s website.\nPlease use Microsoft Edge, Google Chrome, Apple Safari or Mozilla Firefox.\n* Espa\u00f1ol\n\u7e41\u9ad4\u4e2d\u6587\u7b80\u4f53\u4e2d\u6587\u0420\u0443\u0441\u0441\u043a\u0438\u0439\ud55c\uad6d\uc5b4Krey\u00f2l ayisyen\nItaliano\n**\n* * [Join Mailing List] \n* * * [**] \n* [**] \n* [**] \n* [**] \n* [**] \n* [**] \n[Reports] /A Blueprint for Department-Wide Restraint\n# A Blueprint for Department-Wide Restraint\n## An Ana"
+      },
+      {
+        "title": "",
+        "url": "https://www.chicago.gov/content/dam/city/depts/dol/CPDLitigationReports/City%20of%20Chicago%20Report%20on%202024%20CPD%20Litigation.pdf",
+        "published": null,
+        "excerpt": "CITY OF CHICAGO\u2019S\nCHICAGO\nPOLICE \nDEPARTMENT \n2024 LITIGATION \nREPORT\nPrepared by City of Chicago Department of Law\nDated: June 30, 2025\nUpdated: July 18, 2025\n 1\nINTRODUCTION\nIn 2019, the State of Illinois and the City of Chicago (City)1 entered into an agreement, known as a \u201cConsent \nDecree.\u201d The Consent Decree is a negotiated settlement agreement, approved by the United States District Court for \nthe Norther District of Illinois, Eastern Division, that requires the City, through the City of C"
+      },
+      {
+        "title": "NYPD Excessive Force Complaints Surged in Past 3 Years to Highest Since 2013, NYC Comptroller Report Finds",
+        "url": "https://comptroller.nyc.gov/newsroom/nypd-excessive-force-complaints-surged-in-past-3-years-to-highest-since-2013-nyc-comptroller-report-finds/",
+        "published": null,
+        "excerpt": "Microsoft Internet Explorer is no longer a supported browser on NYC Comptroller\u2019s website.\nPlease use Microsoft Edge, Google Chrome, Apple Safari or Mozilla Firefox.\n\n# NYPD Excessive Force Complaints Surged in Past 3 Years to Highest Since 2013, NYC Comptroller Report Finds\n\nSeptember 24, 2025\n\n**New York, NY**\u2014In [a new report], New York City Comptroller Brad Lander found a dramatic increase in excessive use of force claims against the New York Police Department (NYPD) during Mayor Eric Adams\u2019"
+      },
+      {
+        "title": "Bi-Annual Police Misconduct Report 2024.xlsx",
+        "url": "https://law.baltimorecity.gov/files/bi-annual-police-misconduct-report-08-2024pdf",
+        "published": "2024-08-01T00:00:00.000Z",
+        "excerpt": "BALTIMORE CITY LAW DEPARTMENT\nPOLICE MISCONDUCT LITIGATION REPORT\n- Police Legal Affairs Practice Group - \nCase Court Plaintiff's Attorney Date Filed Claim Date Resolved Outcome Amount Paid\nSabien Burgess v. Baltimore Police \nDepartment et al.\nD. Md.\n15-cv-00834 Loevy & Loevy (Chicago) 3/23/2015 Wrongful Conviction Judgment for Plaintiff $3,006,615.60\nKerron D. Andrews v. BPD D. Md.\n16-cv-02010\nJames Astrachan, Esq. \nAstrachan, Gunst, Thomas P.A. 6/10/2016 Violation of Civil Rights \nSteve Morse "
+      },
+      {
+        "title": "Annual Claims Report, Fiscal Year 2021",
+        "url": "https://comptroller.nyc.gov/wp-content/uploads/documents/Claims-Report-FY-2021.pdf",
+        "published": "2022-06-22T00:00:00.000Z",
+        "excerpt": "Annual Claims Report\nFiscal Year 2021\nJUNE 2022\n1 Centre Street, New York, NY 10007 \u2022 (212) 669-3916 \u2022 www.comptroller.nyc.gov \u2022 @NYCComptroller\n\nTHE CITY OF NEW YORK\nOFFICE OF THE COMPTROLLER\nBRAD LANDER\nCOMPTROLLER\nJune 22, 2022\nDear Fellow New Yorkers:\nI am pleased to share the City of New York Office of the Comptroller\u2019s Claims Report for fiscal \nyear (FY) 2021, covering July 1, 2020 through June 30, 2021. Under the City Charter Section 93(i), \nthe Comptroller is responsible for resolving cl"
+      },
+      {
+        "title": "Officer payouts dashboard",
+        "url": "https://www.minneapolismn.gov/government/government-data/datasource/officer-payouts-dashboard/",
+        "published": "2023-11-02T00:00:00.000Z",
+        "excerpt": "Search the city\n\nSearch\n\nMinneapolis Data Source\n\nSection Menu\n\n# Officer payouts dashboard\n\nView payments we've made as part of officer conduct claims and lawsuits.\n\n### Request accessible format\n\nIf you need help with this information, please [email 311], or call 311 or [612-673-3000].\n\nPlease tell us what format you need. It will help us if you say what assistive technology you use.\n\n## Officer payouts dashboard\n\n[Before you begin] [View full screen] \n\n## How to use the dashboard\n\n### Search "
+      },
+      {
+        "title": "NYPD Misconduct Complaint Database - NYCLU",
+        "url": "https://www.nyclu.org/data/nypd-misconduct-database",
+        "published": "2020-07-22T00:00:00.000Z",
+        "excerpt": "[Back to All Data] \n\nJul 22, 2020\n\n[Data] \n\n# NYPD Misconduct Complaint Database\n\n- [Policing] \n\nShare:\n\n_Update: The NYCLU obtained an updated set\u00a0of\u00a0records from the Civilian Complaint Review Board (CCRB) in April 2023. The records include information about misconduct investigations completed by the CCRB as of April 2023._\n\nThe NYPD Misconduct Complaint Database, which the NYCLU obtained through Freedom of Information Law (FOIL) requests, is a repository of complaints made by the public on rec"
+      },
+      {
+        "title": "",
+        "url": "https://comptroller.nyc.gov/wp-content/uploads/documents/Annual-Claims-Report-FY2022.pdf",
+        "published": "2023-04-13T00:00:00.000Z",
+        "excerpt": "Annual Claims Report\nFiscal Year 2022\nAPRIL 2023\n1 Centre Street, New York, NY 10007 \u2022 (212) 669-3916 \u2022 www.comptroller.nyc.gov \u2022 @NYCComptroller\n\nTHE CITY OF NEW YORK\nOFFICE OF THE COMPTROLLER\nBRAD LANDER\nCOMPTROLLER\nApril 14, 2023\nDear New Yorkers:\nI am pleased to share the Office of the Comptroller\u2019s Annual Claims Report for Fiscal Year (FY) \n2022, covering July 1, 2021 through June 30, 2022. Under the New York City Charter Section 93(i), \nthe Comptroller is responsible for resolving claims o"
+      },
+      {
+        "title": "Settlements",
+        "url": "https://policefundingdatabase.org/explore-the-database/settlements/",
+        "published": "2025-07-10T00:00:00.000Z",
+        "excerpt": "Settlements | Police Funding Database | LDF | TMI[Skip to content] \n[![National Police Funding Database] Homepage link] \nToggle menu\nLocation search\nA project of LDF&#x2019;s Thurgood Marshall Institute\nShare\n* [Facebook] \n* [Twitter] \n* [Email] \n# Settlements\nTheinformation below is compiled by TMI based on reputable, publicly available sources.Thisinformation includes cumulative data for certain time periods, specific settlements of claims by individuals,and settlements relating topolice misco"
+      },
+      {
+        "title": "National Law Enforcement Accountability Database, 2018\u20132023",
+        "url": "https://bjs.ojp.gov/document/nlead1823.pdf",
+        "published": "2024-12-17T00:00:00.000Z",
+        "excerpt": "DECEMBER 2024 NCJ 309614\nStatistical Brief\nU.S. Department of Justice\nOffice of Justice Programs\nBureau of Justice Statistics\nNational Law Enforcement \nAccountability Database, 2018\u20132023\nShelley S. Hyland, PhD, BJS Senior Statistical Advisor\nAs of September 20, 2024, there were 4,790 records \nof federal officer misconduct covering the years \n2018 to 2023 in the U.S. Department of Justice\u2019s \nNational Law Enforcement Accountability Database \n(NLEAD; figure 1). A record includes a single federal \nl"
+      },
+      {
+        "title": "N.Y.P.D. Misconduct Settlements Cost $500 Million Over 6 Years",
+        "url": "https://www.nytimes.com/2024/02/29/nyregion/nypd-police-misconduct-settlements.html",
+        "published": "2024-02-29T00:00:00.000Z",
+        "excerpt": "[New York] \\|N.Y.P.D. Misconduct Settlements Cost $500 Million Over 6 Years\n\nhttps://www.nytimes.com/2024/02/29/nyregion/nypd-police-misconduct-settlements.html\n\n- Share full article\n\n\nAdvertisement\n\n[SKIP ADVERTISEMENT] \n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\nNew York City has paid more than $500 million in police misconduct settlements over the past six years, including nearly $115 million "
+      },
+      {
+        "title": "City Paid $1.45B in Settlements Last Fiscal Year, NYC Comptroller Finds in FY 2023 Claims Report",
+        "url": "https://comptroller.nyc.gov/newsroom/city-paid-1-45b-in-settlements-last-fiscal-year-nyc-comptroller-finds-in-fy-2023-claims-report/",
+        "published": null,
+        "excerpt": "City Paid $1.45B in Settlements Last Fiscal Year, NYC Comptroller Finds in FY 2023 Claims Report - Office of the New York City Comptroller Mark Levine\nMicrosoft Internet Explorer is no longer a supported browser on NYC Comptroller\u2019s website.\nPlease use Microsoft Edge, Google Chrome, Apple Safari or Mozilla Firefox.\n* Espa\u00f1ol\n\u7e41\u9ad4\u4e2d\u6587\u7b80\u4f53\u4e2d\u6587\u0420\u0443\u0441\u0441\u043a\u0438\u0439\ud55c\uad6d\uc5b4Krey\u00f2l ayisyen\nItaliano\n**\n* * [Join Mailing List] \n* * * [**] \n* [**] \n* [**] \n* [**] \n* [**] \n* [**] \n[Newsroom] /[Press Releases &amp; Statements] /City"
+      },
+      {
+        "title": "Soaring Chicago police lawsuit payouts hit record amount \u2014 and more are on the way",
+        "url": "https://www.chicagotribune.com/2025/05/26/police-misconduct-cases-chicago-cost/",
+        "published": "2025-05-26T00:00:00.000Z",
+        "excerpt": "[Skip to content] \n\nChicago Budget Director Annette Guzm\u00e1n, left, and Chicago Mayor Brandon Johnson speak about the city\u2019s budget before the start of a community event at the Harold Washington Library Center in Chicago on Feb. 4, 2025. (Terrence Antonio James/Chicago Tribune)\n\nBy [Jake Sheridan] \\| [jsheridan@chicagotribune.com] \\| Chicago Tribune and [Joe Mahr] \\| [jmahr@chicagotribune.com] \\| Chicago Tribune\n\nUPDATED: May 26, 2025 at 12:57 PM CDT\n\nChicago\u2019s spending on police misconduct settle"
+      },
+      {
+        "title": "A Blueprint for Department-Wide Restraint",
+        "url": "https://comptroller.nyc.gov/reports/a-blueprint-for-department-wide-restraint/",
+        "published": null,
+        "excerpt": "A Blueprint for Department-Wide Restraint - Office of the New York City Comptroller Mark Levine\nMicrosoft Internet Explorer is no longer a supported browser on NYC Comptroller\u2019s website.\nPlease use Microsoft Edge, Google Chrome, Apple Safari or Mozilla Firefox.\n* Espa\u00f1ol\n\u7e41\u9ad4\u4e2d\u6587\u7b80\u4f53\u4e2d\u6587\u0420\u0443\u0441\u0441\u043a\u0438\u0439\ud55c\uad6d\uc5b4Krey\u00f2l ayisyen\nItaliano\n**\n* * [Join Mailing List] \n* * * [**] \n* [**] \n* [**] \n* [**] \n* [**] \n* [**] \n[Reports] /A Blueprint for Department-Wide Restraint\n# A Blueprint for Department-Wide Restraint\n## An Ana"
+      },
+      {
+        "title": "Settlements | Police Funding Database | LDF | TMI",
+        "url": "https://policefundingdatabase.org/explore-the-database/settlements/?page=1&sort=largestsettlement",
+        "published": null,
+        "excerpt": "[Skip to content] \n\nShare\n\n- [Facebook] \n- [Twitter] \n- [Email] \n\n# Settlements\n\nThe\u00a0information below is compiled by TMI based on reputable, publicly available sources.\u00a0This\u00a0information includes cumulative data for certain time periods, specific settlements of claims by individuals,\u00a0and settlements relating to\u00a0police misconduct internal to police departments.\n\nAbout these data\n\nFilter settlements\n\nLocation searchLocation search\n\nRestrict by settlement outcome:\n\nCompensation Policy changes\n\n####"
+      },
+      {
+        "title": "Comptroller Lander\u2019s New Dashboard Tracks City Claims & Settlements; City Paid Nearly $2B in Settlements Last Fiscal Year",
+        "url": "https://comptroller.nyc.gov/newsroom/comptroller-landers-new-dashboard-tracks-city-claims-city-paid-nearly-2b-in-settlements-last-fiscal-year/",
+        "published": "2025-12-01T00:00:00.000Z",
+        "excerpt": "Microsoft Internet Explorer is no longer a supported browser on NYC Comptroller\u2019s website.\nPlease use Microsoft Edge, Google Chrome, Apple Safari or Mozilla Firefox.\n\n# Comptroller Lander\u2019s New Dashboard Tracks City Claims & Settlements; City Paid Nearly $2B in Settlements Last Fiscal Year\n\nApril 30, 2025\n\nComptroller Lander re-ups call for agencies to pay out own claims to reduce payouts\n\n**New York, NY**\u00a0\u2014 Today, New York City Comptroller Brad Lander launched the\u00a0[Claims Dashboard], a real-tim"
+      },
+      {
+        "title": "New York Pays $206 Million to Settle Misconduct Suits, the Most Since 2018",
+        "url": "https://www.nytimes.com/2025/02/18/nyregion/nyc-police-misconduct-settlements.html",
+        "published": "2025-02-18T00:00:00.000Z",
+        "excerpt": "[New York] \\|New York Pays $206 Million to Settle Misconduct Suits, the Most Since 2018\n\nhttps://www.nytimes.com/2025/02/18/nyregion/nyc-police-misconduct-settlements.html\n\n- Share full article\n\n\nAdvertisement\n\n[SKIP ADVERTISEMENT] \n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\nNew York City paid out $206 million last year to settle cases involving police and prosecutorial misconduct, including deca"
+      },
+      {
+        "title": "",
+        "url": "https://www.chicago.gov/content/dam/city/depts/dol/CPDLitigationReports/City%20of%20Chicago%20Report%20on%202024%20CPD%20Litigation.pdf",
+        "published": null,
+        "excerpt": "CITY OF CHICAGO\u2019S\nCHICAGO\nPOLICE \nDEPARTMENT \n2024 LITIGATION \nREPORT\nPrepared by City of Chicago Department of Law\nDated: June 30, 2025\nUpdated: July 18, 2025\n 1\nINTRODUCTION\nIn 2019, the State of Illinois and the City of Chicago (City)1 entered into an agreement, known as a \u201cConsent \nDecree.\u201d The Consent Decree is a negotiated settlement agreement, approved by the United States District Court for \nthe Norther District of Illinois, Eastern Division, that requires the City, through the City of C"
+      },
+      {
+        "title": "Settlements | Police Funding Database | LDF | TMI",
+        "url": "https://policefundingdatabase.org/explore-the-database/settlements/?page=1&all=true&sort=largestsettlement",
+        "published": "2025-03-21T00:00:00.000Z",
+        "excerpt": "[Skip to content] \n\nShare\n\n- [Facebook] \n- [Twitter] \n- [Email] \n\n# Settlements\n\nThe\u00a0information below is compiled by TMI based on reputable, publicly available sources.\u00a0This\u00a0information includes cumulative data for certain time periods, specific settlements of claims by individuals,\u00a0and settlements relating to\u00a0police misconduct internal to police departments.\n\nAbout these data\n\nFilter settlements\n\nLocation searchLocation search\n\nRestrict by settlement outcome:\n\nCompensation Policy changes\n\n####"
+      },
+      {
+        "title": "City Council Office of Financial Analysis",
+        "url": "https://www.chicago.gov/city/en/depts/cofa/supp_info/FY2025Council-ApprovedSettlementsTracker.html",
+        "published": null,
+        "excerpt": "[Skip to main content] \n\nAn official website of the City of ChicagoHere's how you know\n\nThe .gov means it's official\n\nMunicipal government websites often end in .gov or .org. Before sharing sensitive information, make sure you're on a City of Chicago government site.\n\nThe site is secure.\n\nThe **https://** ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.\n\nGet the new, updated COVID-19 and flu vaccines. They're safe"
+      },
+      {
+        "title": "Police Indemnification - NYU Law Review",
+        "url": "https://nyulawreview.org/issues/volume-89-number-3/police-indemnification/",
+        "published": "2018-08-06T00:00:00.000Z",
+        "excerpt": "- [Issues] \n- [Annual Symposia] \n- [Online Features] \n- [Forum] \n- [Case Comments] \n- [Submissions] \n- [About] \n- [Subscribe] \n- [Contact Us] \n\n [Skip to content] \n\n###### Issue\n\n### [Volume 89, Number 3] \n\n###### June 2014\n\n# Police Indemnification\n\n#### Joanna C. Schwartz\n\nThis Article empirically examines an issue central to judicial and scholarly debate about civil rights damages actions: whether law enforcement officials are financially responsible for settlements and judgments in police mi"
+      },
+      {
+        "title": "Police Indemnification",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2297534",
+        "published": "2014-06-01T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[![PDF icon] Download This Paper] \n\n[Open PDF in Browser] \n\n[Add Paper to My Library] \n\nShare:\n\nPermalink\n\nUsing these links will ensure access to this page indefinitely\n\n[Copy URL] \n\n[Copy DOI] \n\n# Police Indemnification\n\n[89 N.Y.U. L. Rev. 885 (2014)] \n\n121 PagesPosted: 24 Jul 2013Last revised: 14 Jun 2014\n\n[See all articles by Joanna C. Schwartz] \n\n## [Joanna C. Schwartz] \n\nUniversity of California, Los Angeles (UCLA) - School of Law\n\nDate Written: June 2014\n\n### Abst"
+      },
+      {
+        "title": "How Governments Pay: Lawsuits, Budgets, and Police Reform",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2635673",
+        "published": "2015-07-24T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[![PDF icon] Download This Paper] \n\n[Open PDF in Browser] \n\n[Add Paper to My Library] \n\nShare:\n\nPermalink\n\nUsing these links will ensure access to this page indefinitely\n\n[Copy URL] \n\n# How Governments Pay: Lawsuits, Budgets, and Police Reform\n\n[63 UCLA L. Rev. 1144 (2016)] \n\n[UCLA School of Law Research Paper No. 15-23] \n\n155 PagesPosted: 27 Jul 2015Last revised: 8 Jun 2016\n\n[See all articles by Joanna C. Schwartz] \n\n## [Joanna C. Schwartz] \n\nUniversity of California, L"
+      },
+      {
+        "title": "untitled",
+        "url": "https://nyulawreview.org/wp-content/uploads/2018/08/NYULawReview-89-3-Schwartz.pdf",
+        "published": "2014-05-28T00:00:00.000Z",
+        "excerpt": "POLICE INDEMNIFICATION\nJOANNA C. SCHWARTZ*\nThis Article empirically examines an issue central to judicial and scholarly debate\nabout civil rights damages actions: whether law enforcement officials are financially\nresponsible for settlements and judgments in police misconduct cases. The Supreme\nCourt has long assumed that law enforcement officers must personally satisfy settle\u0002ments and judgments, and has limited individual and government liability in civil\nrights damages actions\u2014through qualifie"
+      },
+      {
+        "title": "",
+        "url": "https://www.chapman.edu/law/_files/events/SchwartzPaperIndemnification.pdf",
+        "published": "2015-01-29T00:00:00.000Z",
+        "excerpt": "POLICE INDEMNIFICATION\nJOANNA C. SCHWARTZ*\nThis Article empirically examines an issue central to judicial and scholarly debate\nabout civil rights damages actions: whether law enforcement officials are financially\nresponsible for settlements and judgments in police misconduct cases. The Supreme\nCourt has long assumed that law enforcement officers must personally satisfy settle\u0002ments and judgments, and has limited individual and government liability in civil\nrights damages actions\u2014through qualifie"
+      },
+      {
+        "title": "POLICE INDEMNIFICATION",
+        "url": "https://escholarship.org/uc/item/8t1934f6",
+        "published": "2017-01-01T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[**UCLA**] [UCLA] \n\nDepositManageSubmissions\n\n[Download PDF] \n\n- Main\n - [PDF] \n\nShare\n\nEmailFacebook\n\n## POLICE INDEMNIFICATION\n\n2014\n\n- [Schwartz, Joanna C] \n\n...Main ContentMetricsAuthor & Article Info\n\nAbstract\n\nThis Article empirically examines an issue central to judicial and scholarly debate about civil rights damages actions: whether law enforcement officials are financially responsible for settlements and judgments in police misconduct cases. The Supreme Court h"
+      },
+      {
+        "title": "How Some U.S. Cities Want to Avoid Paying for Police Misconduct",
+        "url": "https://www.themarshallproject.org/2025/11/01/police-accountability-liability-indemnify-civil-settlement",
+        "published": "2025-11-01T00:00:00.000Z",
+        "excerpt": "A nonprofit news organization covering the U.S. criminal justice system\n\nSearch\n\nLocal Network\n\n[Cleveland] \n\n[Jackson] \n\n[St. Louis] \n\nProjects\n\n[Inside Story] \n\n[News Inside] \n\n[Life Inside] \n\n[Mauled] \n\n[The Language Project] \n\n[The Record] \n\n[Dying Behind Bars] \n\n[Remember Me] \n\nTopics\n\n[Death Penalty] \n\n[Immigration] \n\n[Juvenile Justice] \n\n[Mental Health] \n\n[Policing] \n\n[Politics & Trump] \n\n[Prison & Jail Conditions] \n\n[Prosecuting Pregnancy] \n\nAbout\n\n[About Us] \n\n[Local Network] \n\n[The Mar"
+      },
+      {
+        "title": "Police Indemnification Joanna Schwartz N.Y.U. L. Rev. 2014",
+        "url": "https://www.prisonlegalnews.org/news/publications/police-indemnification-joanna-schwartz-nyu-l-rev-2014/",
+        "published": "2025-05-15T00:00:00.000Z",
+        "excerpt": "[Skip navigation] \n\n## Police Indemnification Joanna Schwartz N.Y.U. L. Rev. 2014\n\n\u2022 June 1, 2014\n\u2022 Locations:\n[United States of America] \n\u2022 Topics:\n[Attorney Fee Awards],\n[Damages],\n[Money/Property],\n[Police] \n\nShare:\n\n[Share on Twitter] [Share on Facebook] [Share on G+] [Share with email] \n\n[Download original document:\\\n\\\n![Brief thumbnail]] [Document text] \n\nThis text is machine-read, and may contain errors. Check the [original document] to verify accuracy.\n\n```\n\\\\jciprod01\\productn\\N\\NYU\\89-"
+      },
+      {
+        "title": "Police Indemnification, NYU, 2014 | Prison Legal News",
+        "url": "https://www.prisonlegalnews.org/news/publications/police-indemnification-nyu-2014/",
+        "published": "2025-05-14T00:00:00.000Z",
+        "excerpt": "[Skip navigation] \n\n## Police Indemnification, NYU, 2014\n\n\u2022 June 1, 2014\n\u2022 Locations:\n[United States of America] \n\u2022 Topics:\n[Damages],\n[Settlements],\n[Police] \n\nShare:\n\n[Share on Twitter] [Share on Facebook] [Share on G+] [Share with email] \n\n[Download original document:\\\n\\\n![Brief thumbnail]] [Document text] \n\nThis text is machine-read, and may contain errors. Check the [original document] to verify accuracy.\n\n```\n\\\\jciprod01\\productn\\N\\NYU\\89-3\\NYU303.txt\n\nunknown\n\nSeq: 1\n\n28-MAY-14\n\n11:25\n\nPO"
+      },
+      {
+        "title": "",
+        "url": "https://www.washingtonpost.com/investigations/2022/03/10/what-you-need-know-about-cost-police-misconduct/",
+        "published": "2022-03-10T00:00:00.000Z",
+        "excerpt": "clockThis article was published more than\u00a0**3 years ago**\n\n[Skip to main content] \n\nBy [Keith L. Alexander] \n,\n\n[Steven Rich] \nand\n\n[Hannah Thacker] \n\nUnlike cases that make headlines, such as the $27 million Minneapolis paid to the family of George Floyd or the $12 million paid to Breonna Taylor\u2019s family, most claims of police misconduct are resolved quietly and with smaller sums. Cities say payments to resolve misconduct allegations, ranging from excessive force to illegal search and seizure, "
+      }
+    ],
+    "search_queries": [
+      "Search #1: police misconduct settlement payments by department patterns...",
+      "Search #2: cities spending millions police misconduct settlements exces...",
+      "Search #3: police departments lawsuit settlements wrongful death false ...",
+      "Search #4: repeat officer misconduct settlement costs police accountabi...",
+      "Search #5: small percentage of police officers responsible for most mis...",
+      "Search #6: police misconduct settlement breakdown by complaint type exc...",
+      "Search #7: Chicago New York Los Angeles police settlement costs compari...",
+      "Search #8: police departments pay settlements insurance indemnification..."
+    ],
+    "search_count": 8,
+    "time_seconds": 71.51354479789734
+  },
+  "claude": {
+    "analysis_text": "I'll search for information about police misconduct settlements, focusing on patterns by department and complaint types.Let me continue with additional searches to get more comprehensive information about specific patterns and data transparency issues.Now I have comprehensive information from 10 searches covering various aspects of police misconduct settlements. Let me compile this into the requested format.\n\n---\n\n## 1. KEY FINDINGS\n\n### **OVERALL SETTLEMENT COSTS**\n\n**Claim:** The 25 largest police and sheriff's departments in the United States made nearly 40,000 payouts for misconduct totaling $3.2 billion over a decade.\n\n**Quote:** \"The Post collected data on nearly 40,000 payments at 25 of the nation's largest police and sheriff's departments within the past decade, documenting more than $3.2 billion spent to settle claims.\"\n\n**Source:** https://www.washingtonpost.com/investigations/interactive/2022/police-misconduct-repeated-settlements/\n\n---\n\n**Claim:** The median payout for police misconduct cases is $17,500.\n\n**Quote:** \"The median amount of the payments tracked by The Post was $17,500, and most cases were resolved with little or no publicity.\"\n\n**Source:** https://www.washingtonpost.com/investigations/interactive/2022/police-misconduct-repeated-settlements/\n\n---\n\n### **COMPLAINT TYPES**\n\n**Claim:** Excessive force and false arrest are the highest-cost complaint categories.\n\n**Quote:** \"Excessive force and false arrest accounted for the highest settlement totals, at $71.9 million and $51.1 million, respectively.\"\n\n**Source:** https://expresslegalfunding.com/police-misconduct-costs/\n\n---\n\n### **REPEAT OFFENDERS**\n\n**Claim:** More than $1.5 billion has been spent settling claims involving officers repeatedly accused of wrongdoing.\n\n**Quote:** \"More than $1.5 billion has been spent to settle claims of police misconduct on behalf of thousands of officers repeatedly accused of wrongdoing.\"\n\n**Source:** https://www.washingtonpost.com/investigations/interactive/2022/police-misconduct-repeated-settlements/\n\n---\n\n**Claim:** More than 7,600 officers have been involved in multiple settlements, with over 1,200 officers involved in at least five settlements.\n\n**Quote:** \"More than 1,200 officers in departments surveyed by the Washington Post had been involved in at least five settlements, and more than 200 officers had 10 or more.\"\n\n**Source:** https://www.cbsnews.com/news/police-misconduct-lawsuits-settlements-taxpayers/\n\n---\n\n**Claim:** Just 10 NYPD officers were responsible for $68 million in police misconduct payouts, and all remain employed.\n\n**Quote:** \"According to a recent report by New York City publication Gothamist, just 10 NYPD officers were responsible for $68 million in police misconduct payouts by the city. All 10 remain on the public payroll, Gothamist reported.\"\n\n**Source:** https://www.cbsnews.com/news/police-misconduct-lawsuits-settlements-taxpayers/\n\n---\n\n### **DEPARTMENT-SPECIFIC PATTERNS: CHICAGO**\n\n**Claim:** Chicago taxpayers paid $295 million between 2019-2024 to resolve lawsuits naming officers whose alleged misconduct led to multiple payouts.\n\n**Quote:** \"Chicago taxpayers paid $295 million between 2019 and 2024 to resolve lawsuits naming officers whose alleged misconduct led more than once to payouts.\"\n\n**Source:** https://news.wttw.com/2025/09/23/repeated-police-misconduct-272-officers-has-cost-chicago-taxpayers-295m-2019-analysis\n\n---\n\n**Claim:** Chicago had the highest rate of misconduct claims involving officers named in multiple cases, with more than 70 percent involving repeat officers.\n\n**Quote:** \"More than 70 percent of the city's roughly 1,500 payments over the decade involved at least one officer with repeated claims.\"\n\n**Source:** https://www.washingtonpost.com/investigations/interactive/2022/police-misconduct-repeated-settlements/\n\n---\n\n**Claim:** Cases involving officers with repeated claims accounted for nearly 60% of costs between 2019-2024, and 85% of costs in 2024 alone.\n\n**Quote:** \"In 2024 alone, the city spent $75.8 million to resolve lawsuits that named officers whose alleged misconduct more than once cost Chicago taxpayers money, accounting for 85% of the total cost to taxpayers.\"\n\n**Source:** https://news.wttw.com/2025/09/23/repeated-police-misconduct-272-officers-has-cost-chicago-taxpayers-295m-2019-analysis\n\n---\n\n**Claim:** Chicago agreed to pay $90 million to settle 176 wrongful conviction lawsuits involving former Sgt. Ronald Watts and his tactical team, involving nearly 200 people who collectively spent more than 200 years in prison.\n\n**Quote:** \"The settlement, which still requires approval from the City Council, would resolve 176 lawsuits involving nearly 200 people who collectively spent more than 200 years in prison.\"\n\n**Source:** https://www.fox32chicago.com/news/chicago-reaches-90m-settlement-police-misconduct-scandal\n\n---\n\n### **DEPARTMENT-SPECIFIC PATTERNS: NEW YORK CITY**\n\n**Claim:** New York City taxpayers paid over $750 million in police misconduct settlements since 2018.\n\n**Quote:** \"Since 2018, taxpayers have shouldered the cost of thousands of alleged misconduct lawsuits, with settlements totaling over $750 million.\"\n\n**Source:** https://legalaidnyc.org/news/nypd-misconduct-lawsuits-over-205-million-2024/\n\n---\n\n**Claim:** Chicago taxpayers spent at least $107.5 million in 2024 and the NYPD paid over $205 million in 2024.\n\n**Quote:** \"For the NYPD, that total was over $205 million in 2024, making it one of the highest-ever payouts in recent years.\"\n\n**Source:** https://expresslegalfunding.com/police-misconduct-costs/\n\n---\n\n**Claim:** 64 percent of NYC cases were for wrongful convictions, with 53 percent from wrongful convictions more than 20 years ago.\n\n**Quote:** \"The spokesperson said 64 percent of the cases were for wrongful convictions, including 53 percent from wrongful convictions more than 20 years ago.\"\n\n**Source:** https://gothamist.com/news/nyc-paid-more-than-200-million-to-settle-police-misconduct-lawsuits-in-2024-report\n\n---\n\n### **DATA TRACKING & TRANSPARENCY PROBLEMS**\n\n**Claim:** Few cities or counties track claims by the names of officers involved, meaning officials may be unaware of officers whose misconduct repeatedly costs taxpayers.\n\n**Quote:** \"Despite the repetition and cost, few cities or counties track claims by the names of the officers involved \u2014 meaning that officials may be unaware of officers whose alleged misconduct is repeatedly costing taxpayers.\"\n\n**Source:** https://www.washingtonpost.com/investigations/interactive/2022/police-misconduct-repeated-settlements/\n\n---\n\n**Claim:** Basic questions about settlement costs, payer identity, and misconduct types are virtually unanswerable in most places.\n\n**Quote:** \"Basic questions such as how much is being paid, by whom, and for what kind of misconduct are virtually unanswerable in most places.\"\n\n**Source:** https://www.policingproject.org/news-main/2023/10/17/its-time-to-follow-the-money-on-police-misconduct\n\n---\n\n**Claim:** City officials in Chicago do not publicly track which officers are accused of misconduct in lawsuits, meaning repeatedly-named officers are not disciplined, retrained or counseled.\n\n**Quote:** \"That means officers who are repeatedly named in lawsuits that are resolved by payouts are not disciplined, retrained or offered counseling in an effort to prevent additional lawsuits.\"\n\n**Source:** https://news.wttw.com/2024/08/12/repeated-police-misconduct-200-officers-cost-chicago-taxpayers-1643m-over-5-years\n\n---\n\n**Claim:** Shoddy record-keeping and inconsistent data collection make it nearly impossible to conclude if anything is changing in cities regarding police misconduct.\n\n**Quote:** \"Shoddy, confusing, or incomplete record-keeping combined with a host of other local factors to make it nearly impossible for us to conclude if anything was changing in any given city \u2014 much less whether those shifts were for better or worse.\"\n\n**Source:** https://fivethirtyeight.com/features/police-misconduct-costs-cities-millions-every-year-but-thats-where-the-accountability-ends/\n\n---\n\n### **TAXPAYER BURDEN**\n\n**Claim:** Almost no settlements are paid by the officers accused of misconduct; the cost is borne by taxpayers.\n\n**Quote:** \"Almost no settlements are paid out by the police officers accused of misconduct, researchers and data show. The cost is often borne by taxpayers.\"\n\n**Source:** https://www.cbsnews.com/news/police-misconduct-lawsuits-settlements-taxpayers/\n\n---\n\n**Claim:** Departments budget for settlements, with payouts typically less than 1% of local government budgets in most jurisdictions.\n\n**Quote:** \"Her research shows that 'in most jurisdictions, payouts in police misconduct cases are less than 1% of local government's budgets.'\"\n\n**Source:** https://www.cbsnews.com/news/police-misconduct-lawsuits-settlements-taxpayers/\n\n---\n\n**Claim:** Cities are borrowing money to pay off judgments from police misconduct.\n\n**Quote:** \"You have cities out there borrowing money to pay off judgments because of brutal and corrupt police officers.\"\n\n**Source:** https://www.marketplace.org/story/2020/06/01/george-floyd-protests-police-misconduct-cases-settlements-judgments\n\n---\n\n### **NOTABLE SETTLEMENTS**\n\n**Claim:** The largest police brutality lawsuit settlement on record resulted in $45 million to Randy Cox, who was left paralyzed after an arrest.\n\n**Quote:** \"The city of New Haven, Connecticut, agreed to a $45 million settlement with Cox, who was left paralyzed following an arrest by New Haven police.\"\n\n**Source:** https://policebrutalitycenter.org/police-brutality/lawsuit-settlements/\n\n---\n\n**Claim:** Minneapolis paid $27 million to the family of George Floyd, and Louisville paid $12 million to Breonna Taylor's family.\n\n**Quote:** \"Minneapolis paid $27 million to the family of George Floyd, and Louisville paid $12 million to Breonna Taylor's family.\"\n\n**Source:** https://www.washingtonpost.com/investigations/interactive/2022/police-misconduct-repeated-settlements/\n\n---\n\n### **INSURANCE INDUSTRY IMPACT**\n\n**Claim:** Insurance companies have noted the costs and premiums charged to cities have multiplied.\n\n**Quote:** \"Insurance companies have taken note and the premiums they charge cities have multiplied.\"\n\n**Source:** https://www.policingproject.org/news-main/2023/10/17/its-time-to-follow-the-money-on-police-misconduct\n\n---\n\n**Claim:** Cities with frequent misconduct claims have seen insurance premiums increase by over 30% in the past decade.\n\n**Quote:** \"Rising Premiums: Cities with frequent misconduct claims, such as Baltimore and Cleveland, have seen their insurance premiums increase by over 30% in the past decade.\"\n\n**Source:** https://expresslegalfunding.com/police-misconduct-costs/\n\n---\n\n### **LACK OF NATIONAL DATABASE**\n\n**Claim:** There is no national database of police officers terminated for misconduct, allowing them to find jobs at different agencies.\n\n**Quote:** \"There's no national database of police officers that are terminated for misconduct,\" Houghtaling said. \"So they may commit misconduct in one jurisdiction and maybe lose their job there, and then go down the street 30 miles to a different city or county or get a new job.\"\n\n**Source:** https://www.cbsnews.com/news/police-misconduct-lawsuits-settlements-taxpayers/\n\n---\n\n**Claim:** The Department of Justice eliminated its National Law Enforcement Accountability Database in January 2025, which had tracked misconduct among federal officers.\n\n**Quote:** \"Agencies can no longer query or add data\" to the National Law Enforcement Accountability Database, the Justice Department posted in an online statement.\"\n\n**Source:** https://www.cbsnews.com/news/justice-department-shuts-down-federal-law-enforcement-misconduct-tracker/\n\n---\n\n## 2. SOURCE QUALITY ASSESSMENT\n\n**Strengths:**\n- Multiple investigative journalism sources (Washington Post, FiveThirtyEight, CBS News) conducted comprehensive data analyses\n- Government transparency sources (NYC",
+    "sources": [
+      {
+        "title": "Settlements | Police Funding Database | LDF | TMI",
+        "url": "https://policefundingdatabase.org/explore-the-database/settlements/",
+        "page_age": null
+      },
+      {
+        "title": "Repeated police misconduct cost taxpayers $1.5 billion in settlements - Washington Post",
+        "url": "https://www.washingtonpost.com/investigations/interactive/2022/police-misconduct-repeated-settlements/",
+        "page_age": "March 9, 2022"
+      },
+      {
+        "title": "It\u2019s Time to Follow the Money on Police Misconduct \u2014 The Policing Project",
+        "url": "https://www.policingproject.org/news-main/2023/10/17/its-time-to-follow-the-money-on-police-misconduct",
+        "page_age": "October 18, 2023"
+      },
+      {
+        "title": "Police Misconduct Lawsuit Settlements | Police Brutality Center",
+        "url": "https://policebrutalitycenter.org/police-brutality/lawsuit-settlements/",
+        "page_age": "October 29, 2024"
+      },
+      {
+        "title": "Settlements for police misconduct lawsuits cost taxpayers from coast to coast - CBS News",
+        "url": "https://www.cbsnews.com/news/police-misconduct-lawsuits-settlements-taxpayers/",
+        "page_age": "September 27, 2023"
+      },
+      {
+        "title": "Police Misconduct Payouts | The Marshall Project",
+        "url": "https://www.themarshallproject.org/records/1037-police-misconduct-payouts",
+        "page_age": null
+      },
+      {
+        "title": "Police Settlements | The Marshall Project",
+        "url": "https://www.themarshallproject.org/records/1712-police-settlements",
+        "page_age": null
+      },
+      {
+        "title": "Police Settlement Payouts by State: What You Need to Know in California",
+        "url": "https://www.lawyersftp.com/police-settlement-payouts-by-state/",
+        "page_age": "March 18, 2025"
+      },
+      {
+        "title": "What Are the Financial & Social Costs of Police Misconduct?",
+        "url": "https://expresslegalfunding.com/police-misconduct-costs/",
+        "page_age": "March 18, 2025"
+      },
+      {
+        "title": "Repeated Police Misconduct by 200 Officers Cost Chicago Taxpayers $164.3M Over 5 Years: Analysis | Chicago News | WTTW",
+        "url": "https://news.wttw.com/2024/08/12/repeated-police-misconduct-200-officers-cost-chicago-taxpayers-1643m-over-5-years",
+        "page_age": null
+      },
+      {
+        "title": "Settlements | Police Funding Database | LDF | TMI",
+        "url": "https://policefundingdatabase.org/explore-the-database/settlements/",
+        "page_age": null
+      },
+      {
+        "title": "Police Misconduct Lawsuit Settlements | Police Brutality Center",
+        "url": "https://policebrutalitycenter.org/police-brutality/lawsuit-settlements/",
+        "page_age": "October 29, 2024"
+      },
+      {
+        "title": "Repeated police misconduct cost taxpayers $1.5 billion in settlements - Washington Post",
+        "url": "https://www.washingtonpost.com/investigations/interactive/2022/police-misconduct-repeated-settlements/",
+        "page_age": "March 9, 2022"
+      },
+      {
+        "title": "Money Damages in Police Misconduct Cases - A Compilation of Jury Awards and Settlements | Office of Justice Programs",
+        "url": "https://www.ojp.gov/ncjrs/virtual-library/abstracts/money-damages-police-misconduct-cases-compilation-jury-awards-and",
+        "page_age": null
+      },
+      {
+        "title": "Police Settlement Payouts by State: What You Need to Know in California",
+        "url": "https://www.lawyersftp.com/police-settlement-payouts-by-state/",
+        "page_age": "March 18, 2025"
+      },
+      {
+        "title": "It\u2019s Time to Follow the Money on Police Misconduct \u2014 The Policing Project",
+        "url": "https://www.policingproject.org/news-main/2023/10/17/its-time-to-follow-the-money-on-police-misconduct",
+        "page_age": "October 18, 2023"
+      },
+      {
+        "title": "California Police Misconduct Lawsuits, Awards & Settlements",
+        "url": "https://steeringlaw.com/police-misconduct-and-other-civil-rights-case-results/",
+        "page_age": "October 9, 2025"
+      },
+      {
+        "title": "Police Misconduct Payouts | The Marshall Project",
+        "url": "https://www.themarshallproject.org/records/1037-police-misconduct-payouts",
+        "page_age": null
+      },
+      {
+        "title": "Police Misconduct Lawsuit Settlements - Pointer & Buelna, LLP",
+        "url": "https://www.lawyersftp.com/police-misconduct-lawsuit-settlements/",
+        "page_age": "June 17, 2025"
+      },
+      {
+        "title": "Police Misconduct Lawsuit Pre-Settlement Funding | USClaims",
+        "url": "https://usclaims.com/pre-settlement-funding/police-misconduct-lawsuit/",
+        "page_age": "October 24, 2023"
+      },
+      {
+        "title": "Settlements | Police Funding Database | LDF | TMI",
+        "url": "https://policefundingdatabase.org/explore-the-database/settlements/?page=1&sort=largestsettlement",
+        "page_age": null
+      },
+      {
+        "title": "Police Misconduct Lawsuit Settlements | Police Brutality Center",
+        "url": "https://policebrutalitycenter.org/police-brutality/lawsuit-settlements/",
+        "page_age": "October 29, 2024"
+      },
+      {
+        "title": "$27,000,000 Settlement \u2013 Civil Rights & Police Misconduct: Romanucci & Blandin",
+        "url": "https://www.rblaw.net/experience-27-000-000-settlement-civil-rights-police",
+        "page_age": null
+      },
+      {
+        "title": "How Some U.S. Cities Want to Avoid Paying for Police Misconduct | The Marshall Project",
+        "url": "https://www.themarshallproject.org/2025/11/01/police-accountability-liability-indemnify-civil-settlement",
+        "page_age": "November 1, 2025"
+      },
+      {
+        "title": "Repeated police misconduct cost taxpayers $1.5 billion in settlements - Washington Post",
+        "url": "https://www.washingtonpost.com/investigations/interactive/2022/police-misconduct-repeated-settlements/",
+        "page_age": "March 9, 2022"
+      },
+      {
+        "title": "Police Settlement Payouts by State: What You Need to Know in California",
+        "url": "https://www.lawyersftp.com/police-settlement-payouts-by-state/",
+        "page_age": "March 18, 2025"
+      },
+      {
+        "title": "It\u2019s Time to Follow the Money on Police Misconduct \u2014 The Policing Project",
+        "url": "https://www.policingproject.org/news-main/2023/10/17/its-time-to-follow-the-money-on-police-misconduct",
+        "page_age": "October 18, 2023"
+      },
+      {
+        "title": "Cities Spend Millions On Police Misconduct Every Year. Here\u2019s Why It\u2019s So Difficult to Hold Departments Accountable. | FiveThirtyEight",
+        "url": "https://fivethirtyeight.com/features/police-misconduct-costs-cities-millions-every-year-but-thats-where-the-accountability-ends/",
+        "page_age": "February 22, 2021"
+      },
+      {
+        "title": "Cities pay millions in police misconduct settlements - Marketplace",
+        "url": "https://www.marketplace.org/story/2020/06/01/george-floyd-protests-police-misconduct-cases-settlements-judgments",
+        "page_age": "May 1, 2025"
+      },
+      {
+        "title": "Police Settlements | The Marshall Project",
+        "url": "https://www.themarshallproject.org/records/1712-police-settlements",
+        "page_age": null
+      },
+      {
+        "title": "Settlements | Police Funding Database | LDF | TMI",
+        "url": "https://policefundingdatabase.org/explore-the-database/settlements/",
+        "page_age": null
+      },
+      {
+        "title": "It\u2019s Time to Follow the Money on Police Misconduct \u2014 The Policing Project",
+        "url": "https://www.policingproject.org/news-main/2023/10/17/its-time-to-follow-the-money-on-police-misconduct",
+        "page_age": "October 18, 2023"
+      },
+      {
+        "title": "Police Misconduct Lawsuit Settlements | Police Brutality Center",
+        "url": "https://policebrutalitycenter.org/police-brutality/lawsuit-settlements/",
+        "page_age": "October 29, 2024"
+      },
+      {
+        "title": "Police Settlement Payouts by State: What You Need to Know in California",
+        "url": "https://www.lawyersftp.com/police-settlement-payouts-by-state/",
+        "page_age": "March 18, 2025"
+      },
+      {
+        "title": "What Are the Financial & Social Costs of Police Misconduct?",
+        "url": "https://expresslegalfunding.com/police-misconduct-costs/",
+        "page_age": "March 18, 2025"
+      },
+      {
+        "title": "Excessive Force Lawsuit Payouts: A Guide - Cody Warner, P.C.",
+        "url": "https://codywarnercriminaldefense.com/excessive-force-lawsuit-payouts/",
+        "page_age": "October 28, 2024"
+      },
+      {
+        "title": "Police Wrongful Death Settlements | Police Brutality Center",
+        "url": "https://policebrutalitycenter.org/police-wrongful-death-settlements/",
+        "page_age": "July 3, 2025"
+      },
+      {
+        "title": "Settlements for police misconduct lawsuits cost taxpayers from coast to coast - CBS News",
+        "url": "https://www.cbsnews.com/news/police-misconduct-lawsuits-settlements-taxpayers/",
+        "page_age": "September 27, 2023"
+      },
+      {
+        "title": "Average Payout for an Excessive Force Lawsuit Against Police",
+        "url": "https://elmazilaw.com/civil-law/what-is-the-average-payout-for-a-excessive-force-lawsuit-against-a-police-officer/",
+        "page_age": "October 24, 2025"
+      },
+      {
+        "title": "California Police Misconduct Lawsuits, Awards & Settlements",
+        "url": "https://steeringlaw.com/police-misconduct-and-other-civil-rights-case-results/",
+        "page_age": "October 9, 2025"
+      },
+      {
+        "title": "Repeated police misconduct cost taxpayers $1.5 billion in settlements - Washington Post",
+        "url": "https://www.washingtonpost.com/investigations/interactive/2022/police-misconduct-repeated-settlements/",
+        "page_age": "March 9, 2022"
+      },
+      {
+        "title": "Settlements | Police Funding Database | LDF | TMI",
+        "url": "https://policefundingdatabase.org/explore-the-database/settlements/",
+        "page_age": null
+      },
+      {
+        "title": "Pa. spent millions of dollars on police misconduct settlement cases - WHYY",
+        "url": "https://whyy.org/articles/pennsylvania-police-misconduct-settlement-cases/",
+        "page_age": "December 18, 2024"
+      },
+      {
+        "title": "Police Misconduct Lawsuit Settlements | Police Brutality Center",
+        "url": "https://policebrutalitycenter.org/police-brutality/lawsuit-settlements/",
+        "page_age": "October 29, 2024"
+      },
+      {
+        "title": "NYPD Excessive Force Complaints Surged in Past 3 Years to Highest Since 2013, NYC Comptroller Report Finds - Office of the New York City Comptroller Mark Levine",
+        "url": "https://comptroller.nyc.gov/newsroom/nypd-excessive-force-complaints-surged-in-past-3-years-to-highest-since-2013-nyc-comptroller-report-finds/",
+        "page_age": null
+      },
+      {
+        "title": "Money Damages in Police Misconduct Cases - A Compilation of Jury Awards and Settlements | Office of Justice Programs",
+        "url": "https://www.ojp.gov/ncjrs/virtual-library/abstracts/money-damages-police-misconduct-cases-compilation-jury-awards-and",
+        "page_age": null
+      },
+      {
+        "title": "Police Settlement Payouts by State: What You Need to Know in California",
+        "url": "https://www.lawyersftp.com/police-settlement-payouts-by-state/",
+        "page_age": "March 18, 2025"
+      },
+      {
+        "title": "Settlements for police misconduct lawsuits cost taxpayers from coast to coast - CBS News",
+        "url": "https://www.cbsnews.com/news/police-misconduct-lawsuits-settlements-taxpayers/",
+        "page_age": "September 27, 2023"
+      },
+      {
+        "title": "California Police Misconduct Lawsuits, Awards & Settlements",
+        "url": "https://steeringlaw.com/police-misconduct-and-other-civil-rights-case-results/",
+        "page_age": "October 9, 2025"
+      },
+      {
+        "title": "Cities Spend Millions On Police Misconduct Every Year. Here\u2019s Why It\u2019s So Difficult to Hold Departments Accountable. | FiveThirtyEight",
+        "url": "https://fivethirtyeight.com/features/police-misconduct-costs-cities-millions-every-year-but-thats-where-the-accountability-ends/",
+        "page_age": "February 22, 2021"
+      },
+      {
+        "title": "Repeated police misconduct cost taxpayers $1.5 billion in settlements - Washington Post",
+        "url": "https://www.washingtonpost.com/investigations/interactive/2022/police-misconduct-repeated-settlements/",
+        "page_age": "March 9, 2022"
+      },
+      {
+        "title": "Settlements for police misconduct lawsuits cost taxpayers from coast to coast - CBS News",
+        "url": "https://www.cbsnews.com/news/police-misconduct-lawsuits-settlements-taxpayers/",
+        "page_age": "September 27, 2023"
+      },
+      {
+        "title": "What Are the Financial & Social Costs of Police Misconduct?",
+        "url": "https://expresslegalfunding.com/police-misconduct-costs/",
+        "page_age": "March 18, 2025"
+      },
+      {
+        "title": "Settlements | Police Funding Database | LDF | TMI",
+        "url": "https://policefundingdatabase.org/explore-the-database/settlements/",
+        "page_age": null
+      },
+      {
+        "title": "Police Settlements: How The Cost Of Misconduct Impacts Cities And Taxpayers : NPR",
+        "url": "https://www.npr.org/2020/09/19/914170214/police-settlements-how-the-cost-of-misconduct-impacts-cities-and-taxpayers",
+        "page_age": "September 19, 2020"
+      },
+      {
+        "title": "Police Misconduct Lawsuit Settlements | Police Brutality Center",
+        "url": "https://policebrutalitycenter.org/police-brutality/lawsuit-settlements/",
+        "page_age": "October 29, 2024"
+      },
+      {
+        "title": "Cities Spend Millions On Police Misconduct Every Year. Here\u2019s Why It\u2019s So Difficult to Hold Departments Accountable. | FiveThirtyEight",
+        "url": "https://fivethirtyeight.com/features/police-misconduct-costs-cities-millions-every-year-but-thats-where-the-accountability-ends/",
+        "page_age": "February 22, 2021"
+      },
+      {
+        "title": "Misconduct settlements have led insurers to force police reform - Washington Post",
+        "url": "https://www.washingtonpost.com/investigations/interactive/2022/police-misconduct-insurance-settlements-reform/",
+        "page_age": "September 14, 2022"
+      },
+      {
+        "title": "Repeated Police Misconduct by 272 Officers Has Cost Chicago Taxpayers $295M Since 2019: Analysis | Chicago News | WTTW",
+        "url": "https://news.wttw.com/2025/09/23/repeated-police-misconduct-272-officers-has-cost-chicago-taxpayers-295m-2019-analysis",
+        "page_age": "September 29, 2025"
+      },
+      {
+        "title": "It\u2019s Time to Follow the Money on Police Misconduct \u2014 The Policing Project",
+        "url": "https://www.policingproject.org/news-main/2023/10/17/its-time-to-follow-the-money-on-police-misconduct",
+        "page_age": "October 18, 2023"
+      },
+      {
+        "title": "Settlements | Police Funding Database | LDF | TMI",
+        "url": "https://policefundingdatabase.org/explore-the-database/settlements/?settlements=Chicago,+Illinois&settlement-location=e8d3a709-e4bc-4839-a100-95223e44ea45",
+        "page_age": null
+      },
+      {
+        "title": "Repeated Police Misconduct by 272 Officers Has Cost Chicago Taxpayers $295M Since 2019: Analysis | Chicago News | WTTW",
+        "url": "https://news.wttw.com/2025/09/23/repeated-police-misconduct-272-officers-has-cost-chicago-taxpayers-295m-2019-analysis",
+        "page_age": "September 29, 2025"
+      },
+      {
+        "title": "Chicago spent more than $113 million on police misconduct lawsuits in 2018 - The Chicago Reporter",
+        "url": "https://www.chicagoreporter.com/chicago-spent-more-than-113-million-on-police-misconduct-lawsuits-in-2018/",
+        "page_age": "August 14, 2020"
+      },
+      {
+        "title": "Chicago to Pay $35.2M to Settle 4 Police Misconduct Cases | Chicago News | WTTW",
+        "url": "https://news.wttw.com/2025/07/16/chicago-pay-352m-settle-4-police-misconduct-cases",
+        "page_age": null
+      },
+      {
+        "title": "\"Settlement tsunami\": Chicago spends more than double city budget on police misconduct settlements - The Chicago Reporter",
+        "url": "https://www.chicagoreporter.com/settlement-tsunami-chicago-spending-more-than-double-city-budget-on-police-misconduct-settlements/",
+        "page_age": "August 5, 2025"
+      },
+      {
+        "title": "Chicago to Pay $35.6M to Settle 6 Police Misconduct Cases | Chicago News | WTTW",
+        "url": "https://news.wttw.com/2025/10/16/chicago-pay-356m-settle-6-police-misconduct-cases",
+        "page_age": null
+      },
+      {
+        "title": "Chicago to Pay $62.5M to Settle 4 Police Misconduct Cases | Chicago News | WTTW",
+        "url": "https://news.wttw.com/2025/05/21/chicago-pay-625m-settle-4-police-misconduct-cases",
+        "page_age": null
+      },
+      {
+        "title": "Chicago reaches $90M settlement in police misconduct scandal | FOX 32 Chicago",
+        "url": "https://www.fox32chicago.com/news/chicago-reaches-90m-settlement-police-misconduct-scandal",
+        "page_age": "September 11, 2025"
+      },
+      {
+        "title": "Police Misconduct Payouts: What Chicago's $283.3M Settlement Borrowing Means for Accountability | Ankin Law",
+        "url": "https://ankinlaw.com/police-misconduct-payouts-what-chicagos-283-3m-settlement-borrowing-means-for-accountability/",
+        "page_age": "1 month ago"
+      },
+      {
+        "title": "Chicago Spent $231.2M to Resolve Police Misconduct Lawsuits in 7 Months, Nearly Triple Year\u2019s Budget: Records | Chicago News | WTTW",
+        "url": "https://news.wttw.com/2025/09/02/chicago-spent-2312m-resolve-police-misconduct-lawsuits-7-months-nearly-triple-year-s",
+        "page_age": null
+      },
+      {
+        "title": "Measured Force: The Benefits of Police Data Transparency - R Street Institute",
+        "url": "https://www.rstreet.org/research/measured-force-the-benefits-of-police-data-transparency/",
+        "page_age": "April 23, 2024"
+      },
+      {
+        "title": "NACDL - Collect Data: Data Sources for Police Misconduct",
+        "url": "https://www.nacdl.org/Content/CollectDataSourcesforPoliceMisconduct",
+        "page_age": null
+      },
+      {
+        "title": "Transparency & Accountability Resources \u2014 The Policing Project",
+        "url": "https://www.policingproject.org/transparency-resources",
+        "page_age": null
+      },
+      {
+        "title": "Justice Department shuts down federal law enforcement misconduct tracker - CBS News",
+        "url": "https://www.cbsnews.com/news/justice-department-shuts-down-federal-law-enforcement-misconduct-tracker/",
+        "page_age": "February 22, 2025"
+      },
+      {
+        "title": "To Track Police Conduct, a Flourishing of Data",
+        "url": "https://undark.org/2019/06/05/police-conduct-databases-eric-garner/",
+        "page_age": "November 8, 2019"
+      },
+      {
+        "title": "National Police Misconduct Database - Center for Justice Research",
+        "url": "https://centerforjusticeresearch.org/research_briefs/national-police-misconduct-database/",
+        "page_age": "November 13, 2025"
+      },
+      {
+        "title": "Issue Area: Transparency",
+        "url": "https://www.nlg-npap.org/ia-transparency/",
+        "page_age": "March 22, 2022"
+      },
+      {
+        "title": "National Law Enforcement Accountability Database | Bureau of Justice Statistics",
+        "url": "https://bjs.ojp.gov/national-law-enforcement-accountability-database",
+        "page_age": null
+      },
+      {
+        "title": "Police Data Transparency Index | Vera Institute of Justice",
+        "url": "https://policetransparency.vera.org/",
+        "page_age": null
+      },
+      {
+        "title": "Uncovering Police Complaints and Outcomes | Urban Institute",
+        "url": "https://www.urban.org/catalyst-grant-program-insights/uncovering-police-complaints-and-outcomes",
+        "page_age": "April 7, 2025"
+      },
+      {
+        "title": "Civilr Rights Cases Victories and Settlements | People's Law Office",
+        "url": "https://peopleslawoffice.com/victories/",
+        "page_age": "March 13, 2018"
+      },
+      {
+        "title": "How Much is a Wrongful Arrest Lawsuit Worth?",
+        "url": "https://jaymurraylaw.com/blog/how-much-is-a-wrongful-arrest-lawsuit-worth/",
+        "page_age": "November 11, 2025"
+      },
+      {
+        "title": "How Much Is a Wrongful Arrest Lawsuit Worth in California? - Pointer & Buelna, LLP",
+        "url": "https://www.lawyersftp.com/how-much-is-a-wrongful-arrest-lawsuit-worth-california/",
+        "page_age": "July 7, 2025"
+      },
+      {
+        "title": "False or Wrongful Arrest Lawsuit Funding | USClaims",
+        "url": "https://usclaims.com/pre-settlement-funding/false-arrest/",
+        "page_age": "July 25, 2023"
+      },
+      {
+        "title": "Sivin, Miller & Roche LLP Attorneys at Law | Civil Cases",
+        "url": "https://sivinandmiller.com/noteworthy-cases/civil-cases/",
+        "page_age": "January 10, 2025"
+      },
+      {
+        "title": "How Much is a Wrongful Arrest Lawsuit Worth? - Cody Warner, P.C.",
+        "url": "https://codywarnercriminaldefense.com/how-much-is-a-wrongful-arrest-lawsuit-worth/",
+        "page_age": "November 20, 2024"
+      },
+      {
+        "title": "How Much a Wrongful Arrest Lawsuit Is Worth | Apply Now",
+        "url": "https://www.highriselegalfunding.com/faqs/how-much-is-a-wrongful-arrest-lawsuit-worth/",
+        "page_age": "April 22, 2025"
+      },
+      {
+        "title": "How Much is a Wrongful Arrest Lawsuit Worth in New York? | SMR",
+        "url": "https://sivinandmiller.com/news/how-much-is-a-wrongful-arrest-lawsuit-worth-in-new-york/",
+        "page_age": "June 24, 2025"
+      },
+      {
+        "title": "$250,000 SETTLEMENT OBTAINED FOR VICTIM OF FALSE ARREST - Sullivan Brill Personal Injury Attorneys - A New York Law Firm",
+        "url": "https://sullivanbrillfirm.com/settlement-obtained-for-victim-of-false-arrest/",
+        "page_age": null
+      },
+      {
+        "title": "$41,500 Settlement in SDNY False Arrest and Excessive Force Suit - National Police Accountability Project",
+        "url": "https://www.nlg-npap.org/project/fuchs-settlement/",
+        "page_age": "March 11, 2020"
+      },
+      {
+        "title": "NYPD Misconduct Lawsuits Cost Taxpayers Over $205 Million in 2024",
+        "url": "https://legalaidnyc.org/news/nypd-misconduct-lawsuits-over-205-million-2024/",
+        "page_age": "February 25, 2025"
+      },
+      {
+        "title": "NYC paid $200 million to settle police misconduct lawsuits in 2024, report says - Gothamist",
+        "url": "https://gothamist.com/news/nyc-paid-more-than-200-million-to-settle-police-misconduct-lawsuits-in-2024-report",
+        "page_age": "February 18, 2025"
+      },
+      {
+        "title": "Misconduct settlements topped $205 mil last year \u2014 Queens Daily Eagle",
+        "url": "https://queenseagle.com/all/2025/2/20/misconduct-settlements-topped-205-mil-last-year",
+        "page_age": "February 20, 2025"
+      },
+      {
+        "title": "Police misconduct settlements totaled $205M last year",
+        "url": "https://brooklyneagle.com/articles/2025/02/24/police-misconduct-settlements-totaled-205m-last-year/",
+        "page_age": "February 24, 2025"
+      },
+      {
+        "title": "NYPD Misconduct Lawsuits Have Cost Taxpayers Over $82 Million in 2024",
+        "url": "https://legalaidnyc.org/news/nypd-misconduct-lawsuits-82-million-2024/",
+        "page_age": "August 13, 2024"
+      },
+      {
+        "title": "New York City's Settlements for Police Misconduct Soar to $206 Million in 2024, Outpacing Previous Years",
+        "url": "https://hoodline.com/2025/02/new-york-city-s-settlements-for-police-misconduct-soar-to-206-million-in-2024-outpacing-previous-years/",
+        "page_age": "February 19, 2025"
+      },
+      {
+        "title": "Comptroller Lander\u2019s New Dashboard Tracks City Claims & Settlements; City Paid Nearly $2B in Settlements Last Fiscal Year - Office of the New York City Comptroller Mark Levine",
+        "url": "https://comptroller.nyc.gov/newsroom/comptroller-landers-new-dashboard-tracks-city-claims-city-paid-nearly-2b-in-settlements-last-fiscal-year/",
+        "page_age": null
+      },
+      {
+        "title": "NYPD misconduct payouts skyrocket to $206M in 2024, highest in years: Legal Aid report",
+        "url": "https://ca.news.yahoo.com/nypd-misconduct-payouts-skyrocket-206m-004800973.html",
+        "page_age": "February 19, 2025"
+      },
+      {
+        "title": "NYC has spent $82 million in 2024 settling lawsuits over alleged NYPD misconduct, data shows - CBS New York",
+        "url": "https://www.cbsnews.com/newyork/news/nypd-lawsuits-for-protesting-police-jordan-neely-kimberly-bernard/",
+        "page_age": "August 16, 2024"
+      },
+      {
+        "title": "NYPD Lawsuits Spark Ongoing Debate About Justice & Accountability",
+        "url": "https://www.amny.com/new-york/money-nypd-lawsuit-settlements-2024-legal-aid/",
+        "page_age": "February 14, 2025"
+      }
+    ],
+    "search_count": 0,
+    "time_seconds": 92.8307991027832
+  },
+  "metrics": {
+    "exa_traceability": 100.0,
+    "exa_supported": 12,
+    "exa_tier_a": 44,
+    "exa_tier_a_pct": 57.14285714285714,
+    "exa_cost": 0.1398,
+    "claude_traceability": 100.0,
+    "claude_supported": 26,
+    "claude_tier_a": 18,
+    "claude_tier_a_pct": 18.0,
+    "claude_cost": 0.579
+  }
+}

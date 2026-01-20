@@ -1,0 +1,1025 @@
+{
+  "timestamp": "2026-01-20T00:20:18.217464",
+  "query": "Find academic researchers who have published on ChatGPT's impact on education",
+  "query_category": "Expert Source Finding",
+  "app_type": "general",
+  "webset_category": null,
+  "search_type": "neural",
+  "num_results": 10,
+  "exa": {
+    "analysis_text": "Now let me compile the comprehensive analysis based on the search results:\n\n## 1. KEY FINDINGS\n\n### Leading Researchers and Their Work\n\n**Claim:** Helen Crompton is a Professor of Instructional Technology at Old Dominion University who has published research on ChatGPT's educational affordances and challenges.\n**Quote:** \"Professor of Instructional Technology in the Department of STEM and Professional Studies, and the Executive Director of the Research Institute for Digital Innovation in Learning\"\n**Source:** https://digitalcommons.odu.edu/cgi/viewcontent.cgi?article=1332&context=stemps_fac_pubs\n\n**Claim:** Dorottya (Dora) Demszky at Stanford University researches AI tools for teacher coaching using ChatGPT.\n**Quote:** \"works on developing natural language processing methods to support equitable and student-centered instruction. She has developed tools to give feedback to teachers on dialog\"\n**Source:** https://ed.stanford.edu/faculty/ddemszky\n\n**Claim:** Rose Wang and Dora Demszky examined ChatGPT's potential as a teacher coaching tool.\n**Quote:** \"Coaching, which involves classroom observation and expert feedback, is a widespread and fundamental part of teacher training\"\n**Source:** https://www.dorademszky.com/publications/21382.pdf\n\n**Claim:** Junaid Qadir advocates for using generative AI to develop collective intelligence rather than individual prompting in classrooms.\n**Quote:** \"Engineering classrooms are increasingly experimenting with generative AI (GenAI), but most uses remain confined to individual prompting and isolated assistance\"\n**Source:** https://arxiv.org/html/2601.06171v1\n\n**Claim:** Mark Warschauer at UC Irvine led international research on global reactions to ChatGPT in education.\n**Quote:** \"To better understand reactions about ChatGPT concerning education, we\" [analyzed reactions worldwide]\n**Source:** https://www.nature.com/articles/s41598-023-42227-6\n\n**Claim:** Tim F\u00fctterer, Christian Fischer, and colleagues published research in Nature Scientific Reports examining global educational responses to ChatGPT.\n**Quote:** \"The release and rapid diffusion of ChatGPT have caught the attention of educators worldwide\"\n**Source:** https://www.nature.com/articles/s41598-023-42227-6\n\n### Research on Learning Outcomes\n\n**Claim:** A meta-analysis examined ChatGPT's effects on learning performance, perception, and higher-order thinking.\n**Quote:** \"This study aimed to assess the effectiveness of ChatGPT in improving students' learning perform\"\n**Source:** https://www.nature.com/articles/s41599-025-04787-y\n\n**Claim:** Research found that learning via ChatGPT produces shallower knowledge compared to traditional search methods.\n**Quote:** \"Learning via ChatGPT leads to shallower knowledge than using Google search, study finds\"\n**Source:** https://www.psypost.org/learning-via-chatgpt-leads-to-shallower-knowledge-than-using-google-search-study-finds/\n\n### Medical and Assessment Applications\n\n**Claim:** Anne Herrmann-Werner and colleagues at the University of T\u00fcbingen studied ChatGPT's mastery of Bloom's Taxonomy using medical exam questions.\n**Quote:** \"Assessing ChatGPT's Mastery of Bloom's Taxonomy Using Psychosomatic Medicine Exam Questions: Mixed-Methods Study\"\n**Source:** https://www.jmir.org/2024/1/e52113/PDF\n\n**Claim:** Billy Ho Hung Cheung led an international study comparing ChatGPT to humans in generating medical graduate exam questions.\n**Quote:** \"ChatGPT versus human in generating medical graduate exam questions \u2013 An international prospective study\"\n**Source:** https://www.medrxiv.org/content/10.1101/2023.05.13.23289943v1\n\n### Survey and Implementation Studies\n\n**Claim:** The Walton Family Foundation conducted research on teacher and student views regarding ChatGPT integration.\n**Quote:** \"when it comes to integrating Open AI's ChatGPT tool into their classrooms, educators are innovators\"\n**Source:** https://www.waltonfamilyfoundation.org/understanding-teacher-and-student-views-on-chatgpt\n\n**Claim:** Mikkel Godsk and Pernille Ris\u00f8r Elving at Aarhus University researched ChatGPT benefits and downsides in higher education learning.\n**Quote:** \"ChatGPT for Learning in Higher Education: Benefits, Downsides, and Implications\"\n**Source:** https://www.learntechlib.org/primary/p/222471/\n\n**Claim:** A scoping review examined eight months of ChatGPT application in higher education teaching and learning.\n**Quote:** \"Eight Months into Reality: A Scoping Review of the Application of ChatGPT in Higher Education Teaching and Learning\"\n**Source:** https://link.springer.com/article/10.1007/s10755-025-09790-4\n\n### Comprehensive Literature Reviews\n\n**Claim:** Sarin Sok and Kimkong Heng published a literature review on opportunities, challenges, and strategies for ChatGPT in higher education.\n**Quote:** \"Opportunities, challenges, and strategies for using ChatGPT in higher education: A literature review\"\n**Source:** https://www.jdet.net/download/opportunities-challenges-and-strategies-for-using-chatgpt-in-higher-education-a-literature-review-14027.pdf\n\n**Claim:** Reza Hadi Mogavi and colleagues explored user perspectives on ChatGPT's applications and implications for AI-integrated education.\n**Quote:** \"Exploring User Perspectives on ChatGPT: Applications, Perceptions, and Implications for AI-Integrated Education\"\n**Source:** https://export.arxiv.org/pdf/2305.13114v2.pdf\n\n### Trust and Adoption Studies\n\n**Claim:** Muhammad Farrukh Shahzad and Shuo Xu researched how trust affects ChatGPT awareness, acceptance, and adoption in higher education.\n**Quote:** \"ChatGPT awareness, acceptance, and adoption in higher education: the role of trust as a cornerstone\"\n**Source:** https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-024-00478-x\n\n### Natural Language Processing Research\n\n**Claim:** Md Tahmid Rahman Laskar and colleagues conducted systematic evaluation of ChatGPT on benchmark datasets.\n**Quote:** \"However, their evaluation in the benchmark academic datasets remains under-explored due to the difficulty of evaluating the generative outputs produced by this mode\"\n**Source:** https://aclanthology.org/2023.findings-acl.29/\n\n## 2. SOURCE QUALITY ASSESSMENT\n\n**High-Quality Academic Sources:**\n- Multiple peer-reviewed publications in reputable journals (Nature, Scientific Reports, Nature Humanities and Social Sciences Communications)\n- Articles from established institutional repositories (Stanford, UC Irvine, Old Dominion University)\n- Pre-print servers from recognized institutions (arXiv, medRxiv)\n- Research from leading educational technology journals (Journal of Interactive Learning Research, TechTrends)\n\n**Researcher Credentials:**\n- Researchers affiliated with major universities (Stanford, UC Irvine, Old Dominion, Aarhus University, University of T\u00fcbingen)\n- Mix of education researchers, computer scientists, and medical education specialists\n- Cross-disciplinary and international collaboration evident\n\n**Limitations:**\n- Some sources are pre-prints not yet peer-reviewed\n- Limited access to full text of several articles due to paywalls\n- Publication dates range from 2023-2025, representing rapidly evolving field\n\n## 3. GAPS OR CONTRADICTIONS\n\n**Methodological Gaps:**\n- Mixed findings on learning effectiveness: some research shows benefits while other studies (e.g., PsyPost article) suggest ChatGPT produces \"shallower knowledge\" than traditional methods\n- Limited long-term longitudinal studies assessing sustained impact on learning outcomes\n- Most studies focus on higher education; K-12 research appears less represented\n\n**Geographic Distribution:**\n- Strong representation from US, European, and some Asian researchers\n- Global South perspectives may be underrepresented despite \"global reactions\" studies\n\n**Research Focus Gaps:**\n- More studies on teacher perspectives and AI as teaching tool than on direct student learning mechanisms\n- Limited research on equity implications and access disparities mentioned by Qadir but not extensively studied\n- Assessment and academic integrity concerns acknowledged but solutions less developed\n\n**Contradictory Perspectives:**\n- Tension between enthusiasm for AI innovation and concerns about cheating/circumventing learning\n- Debate between individual AI tutoring approaches versus collective intelligence models\n\n## 4. RECOMMENDED NEXT STEPS\n\n**For Deeper Research:**\n\n1. **Access Full-Text Articles:** Obtain complete versions of key Nature and Springer publications for detailed methodology and findings\n\n2. **Longitudinal Studies:** Search for emerging longitudinal research tracking ChatGPT's impact over academic terms/years\n\n3. **Specific Researcher Tracking:**\n   - Follow Helen Crompton's RIDIL (Research Institute for Digital Innovation in Learning) publications\n   - Monitor Dora Demszky's EduNLP Lab at Stanford for teacher coaching AI tools\n   - Track Junaid Qadir's work on collective intelligence approaches\n\n4. **Discipline-Specific Impact:** Search for ChatGPT research in specific fields:\n   - STEM education\n   - Writing and composition\n   - Language learning\n   - Medical education (significant work already identified)\n\n5. **Pedagogical Frameworks:** Investigate research connecting ChatGPT to established learning theories (social constructivism, metacognition, Bloom's Taxonomy)\n\n6. **Equity and Access:** Search specifically for research on ChatGPT's impact on underserved populations and digital divides\n\n7. **Assessment Innovation:** Look for research on new assessment methods that account for AI availability\n\n**Search Terms for Follow-up:**\n- \"ChatGPT learning outcomes empirical study\"\n- \"Large language models education equity\"\n- \"AI writing education plagiarism detection\"\n- \"Generative AI formative assessment\"",
+    "sources": [
+      {
+        "title": "The effect of ChatGPT on students\u2019 learning performance, learning perception, and higher-order thinking: insights from a meta-analysis",
+        "url": "https://www.nature.com/articles/s41599-025-04787-y?error=cookies_not_supported&code=ef0b7237-6c3b-4c13-a0f4-9f97d37fd187",
+        "published": "2025-05-06T00:00:00.000Z",
+        "excerpt": "The effect of ChatGPT on students\u2019 learning performance, learning perception, and higher-order thinking: insights from a meta-analysis | Humanities and Social Sciences Communications\n[Skip to main content] \nThank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain\nthe best experience, we recommend you use a more up to date browser (or turn off compatibility mode in\nInternet Explorer). In the meantime, to ensure continued support, we are displaying"
+      },
+      {
+        "title": "Persuading voters using human\u2013artificial intelligence dialogues",
+        "url": "https://www.nature.com/articles/s41586-025-09771-9",
+        "published": "2025-12-04T00:00:00.000Z",
+        "excerpt": "Persuading voters using human\u2013artificial intelligence dialogues | Nature\n[Skip to main content] \nThank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain\nthe best experience, we recommend you use a more up to date browser (or turn off compatibility mode in\nInternet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles\nand JavaScript.\nAdvertisement\n[![Nature]] \n* [View all journals] \n* [Search] \n* [Log "
+      },
+      {
+        "title": "Why universities need to radically rethink exams in the age of AI",
+        "url": "https://www.nature.com/articles/d41586-025-03915-7",
+        "published": "2025-12-02T00:00:00.000Z",
+        "excerpt": "Why universities need to radically rethink exams in the age of AI\n[Skip to main content] \nThank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain\nthe best experience, we recommend you use a more up to date browser (or turn off compatibility mode in\nInternet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles\nand JavaScript.\nAdvertisement\n[![Nature]] \n* [View all journals] \n* [Search] \n* [Log in] \n* "
+      },
+      {
+        "title": "From Individual Prompts to Collective Intelligence: Mainstreaming Generative AI in the Classroom",
+        "url": "https://arxiv.org/html/2601.06171v1",
+        "published": null,
+        "excerpt": "# From Individual Prompts to Collective Intelligence: Mainstreaming Generative AI in the Classroom\n\nJunaid Qadir and Muhammad Salman Khan\n\n###### Abstract\n\nEngineering classrooms are increasingly experimenting with generative AI (GenAI), but most uses remain confined to individual prompting and isolated assistance. This narrow framing risks reinforcing equity gaps and only rewarding the already privileged or motivated students. We argue instead for a shift toward collective intelligence (CI)-foc"
+      },
+      {
+        "title": "",
+        "url": "https://www.jmir.org/2024/1/e52113/PDF",
+        "published": "2024-01-23T00:00:00.000Z",
+        "excerpt": "Original Paper\nAssessing ChatGPT\u2019s Mastery of Bloom\u2019s Taxonomy Using\nPsychosomatic Medicine Exam Questions: Mixed-Methods Study\nAnne Herrmann-Werner1,2, MME, Prof Dr Med; Teresa Festl-Wietek1, MSc, Dr Rer Nat; Friederike Holderried1,3,\nMME, Dr Med; Lea Herschbach1, MSc; Jan Griewatz1, MA; Ken Masters4, Prof Dr; Stephan Zipfel2, Prof Dr Med;\nMoritz Mahling1,5, Dr Med, MHBA\n1T\u00fcbingen Institute for Medical Education, Faculty of Medicine, University of T\u00fcbingen, T\u00fcbingen, Germany\n2Department of Psyc"
+      },
+      {
+        "title": "Understanding Teacher and Student Views on ChatGPT",
+        "url": "https://www.waltonfamilyfoundation.org/understanding-teacher-and-student-views-on-chatgpt",
+        "published": null,
+        "excerpt": "Close-up of people using different devices.\n\n# Understanding Teacher and Student Views on ChatGPT\n\nNew research from the Walton Family Foundation affirms that when it comes to integrating Open AI\u2019s ChatGPT tool into their classrooms, educators are innovators.\n\nIn November of 2022, artificial intelligence research lab OpenAI released ChatGPT, a powerful AI chatbot that can generate conversational, human-sounding text in response to user prompts or questions. In a matter of seconds, ChatGPT can dr"
+      },
+      {
+        "title": "A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark Datasets",
+        "url": "https://aclanthology.org/2023.findings-acl.29/",
+        "published": null,
+        "excerpt": "## [A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark Datasets] \n\n[Md Tahmid Rahman Laskar],\n[M Saiful Bari],\n[Mizanur Rahman],\n[Md Amran Hossen Bhuiyan],\n[Shafiq Joty],\n[Jimmy Huang] \n\n* * *\n\n##### Abstract\n\nThe development of large language models (LLMs) such as ChatGPT has brought a lot of attention recently. However, their evaluation in the benchmark academic datasets remains under-explored due to the difficulty of evaluating the generative outputs produced by this mode"
+      },
+      {
+        "title": "ChatGPT versus human in generating medical graduate exam questions \u2013 An international prospective study",
+        "url": "https://www.medrxiv.org/content/10.1101/2023.05.13.23289943v1",
+        "published": null,
+        "excerpt": "[Skip to main content] \n\n# ChatGPT versus human in generating medical graduate exam questions \u2013 An international prospective study\n\n[View ORCID Profile] Billy Ho HungCheung, [View ORCID Profile] Gary Kui KaiLau, [View ORCID Profile] Gordon Tin ChunWong, [View ORCID Profile] Elaine Yuen PhinLee, [View ORCID Profile] DhananjayKulkarni, [View ORCID Profile] Choon SheongSeow, RubyWong, [View ORCID Profile] Michael Tiong HongCo\n\ndoi: https://doi.org/10.1101/2023.05.13.23289943\n\nBilly Ho Hung Cheung\n\n"
+      },
+      {
+        "title": "The Psychology of Learning from Machines:\n Anthropomorphic AI and the Paradox of Automation in Education",
+        "url": "https://arxiv.org/html/2601.06172v1",
+        "published": null,
+        "excerpt": "# The Psychology of Learning from Machines: Anthropomorphic AI and the Paradox of Automation in Education\n\nJunaid Qadir\nMuhammad Mumtaz\n\n###### Abstract\n\nAs AI tutors enter classrooms at unprecedented speed, their deployment increasingly outpaces our grasp of the psychological and social consequences of such technology. Yet decades of research in automation psychology, human factors, and human-computer interaction provide crucial insights that remain underutilized in educational AI design. This "
+      },
+      {
+        "title": "Learning via ChatGPT leads to shallower knowledge than using Google search, study finds",
+        "url": "https://www.psypost.org/learning-via-chatgpt-leads-to-shallower-knowledge-than-using-google-search-study-finds/",
+        "published": "2025-11-30T00:00:00.000Z",
+        "excerpt": "[Subscribe] \n\nThe latest psychology and neuroscience discoveries.\n\n[My Account] \n\n- [Mental Health] \n- [Social Psychology] \n- [Cognitive Science] \n- [Psychopharmacology] \n- [Neuroscience] \n- [About] \n\nNo Result\n\nView All Result\n\n[PsyPost] \n\n[PsyPost] \n\nNo Result\n\nView All Result\n\n# Learning via ChatGPT leads to shallower knowledge than using Google search, study finds\n\nby [Shiri Melumad] \n\n[November 30, 2025] \n\nin [Artificial Intelligence] \n\n\\[Adobe Stock\\]\n\n[Share on Twitter] [Share on Facebook"
+      },
+      {
+        "title": "The effect of ChatGPT on students\u2019 learning performance, learning perception, and higher-order thinking: insights from a meta-analysis",
+        "url": "https://www.nature.com/articles/s41599-025-04787-y?error=cookies_not_supported&code=ef0b7237-6c3b-4c13-a0f4-9f97d37fd187",
+        "published": "2025-05-06T00:00:00.000Z",
+        "excerpt": "The effect of ChatGPT on students\u2019 learning performance, learning perception, and higher-order thinking: insights from a meta-analysis | Humanities and Social Sciences Communications\n[Skip to main content] \nThank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain\nthe best experience, we recommend you use a more up to date browser (or turn off compatibility mode in\nInternet Explorer). In the meantime, to ensure continued support, we are displaying"
+      },
+      {
+        "title": "Computer Science > Computers and Society",
+        "url": "https://arxiv.org/abs/2511.11960",
+        "published": "2025-11-15T00:00:00.000Z",
+        "excerpt": "[2511.11960] Educators on the Frontline: Philosophical and Realistic Perspectives on Integrating ChatGPT into the Learning Space\n[Skip to main content] \n[![Cornell University]] \nWe gratefully acknowledge support from the Simons Foundation,[member institutions], and all contributors.[Donate] \n[] \n[![arxiv logo]] &gt;[cs] &gt;arXiv:2511.11960\n[Help] |[Advanced Search] \nAll fieldsTitleAuthorAbstractCommentsJournal referenceACM classificationMSC classificationReport numberarXiv identifierDOIORCIDarX"
+      },
+      {
+        "title": "Is ChatGPT a Good Teacher Coach? Measuring Zero-Shot Performance For Scoring and Providing Actionable Insights on Classroom Instruction",
+        "url": "https://aclanthology.org/2023.bea-1.53/",
+        "published": null,
+        "excerpt": "## [Is ChatGPT a Good Teacher Coach? Measuring Zero-Shot Performance For Scoring and Providing Actionable Insights on Classroom Instruction] \n\n[Rose Wang],\n[Dorottya Demszky] \n\n* * *\n\n##### Abstract\n\nCoaching, which involves classroom observation and expert feedback, is a widespread and fundamental part of teacher training. However, the majority of teachers do not have access to consistent, high quality coaching due to limited resources and access to expertise. We explore whether generative AI c"
+      },
+      {
+        "title": "",
+        "url": "https://www.jmir.org/2024/1/e52113/PDF",
+        "published": "2024-01-23T00:00:00.000Z",
+        "excerpt": "Original Paper\nAssessing ChatGPT\u2019s Mastery of Bloom\u2019s Taxonomy Using\nPsychosomatic Medicine Exam Questions: Mixed-Methods Study\nAnne Herrmann-Werner1,2, MME, Prof Dr Med; Teresa Festl-Wietek1, MSc, Dr Rer Nat; Friederike Holderried1,3,\nMME, Dr Med; Lea Herschbach1, MSc; Jan Griewatz1, MA; Ken Masters4, Prof Dr; Stephan Zipfel2, Prof Dr Med;\nMoritz Mahling1,5, Dr Med, MHBA\n1T\u00fcbingen Institute for Medical Education, Faculty of Medicine, University of T\u00fcbingen, T\u00fcbingen, Germany\n2Department of Psyc"
+      },
+      {
+        "title": "About this guide \u2014 Teaching with ChatGPT",
+        "url": "https://teachingwithchatgpt.org.uk/about-us",
+        "published": null,
+        "excerpt": "[0] \n\n![] \n\n# About this guide.\n\n## Teachers want to use ChatGPT.\n\n- As of September 2023, 1 in 3 teachers in England [say] they use generative AI tools, such as ChatGPT, \u201cto help with school work\u201d.\n\n- There is limited hands-on, teacher-validated guidance available for new users on how to get the best out of ChatGPT in the classroom.\n\n- We believe generative AI tools show great promise in supporting teachers & tutors to prepare & deliver lessons, both by reducing preparation time & increasing le"
+      },
+      {
+        "title": "The Use of ChatGPT Among High And Mid To Low Achiever Students in Writing Undergraduate",
+        "url": "https://ethicallingua.org/25409190/article/view/870",
+        "published": null,
+        "excerpt": "[Skip to main content] [Skip to main navigation menu] [Skip to site footer] \n\n# The Use of ChatGPT Among High And Mid To Low Achiever Students in Writing Undergraduate\n\n- Muhammad Waspul Hasyim\nUniversitas Islam Malang\n- Alfan Zuhairi\nUniversitas Islam Malang\n- Muhammad Yunus\nUniversitas Islam Malang\n- Subarjo Subarjo\nUniversitas Islam Malang\n\nDOI:\n[https://doi.org/10.30605/25409190.870] \n\nKeywords:\nChatGPT, Academic Writing, Students achievement levels, AI in education\n\n### Abstract\n\nThis resea"
+      },
+      {
+        "title": "Persuading voters using human\u2013artificial intelligence dialogues",
+        "url": "https://www.nature.com/articles/s41586-025-09771-9",
+        "published": "2025-12-04T00:00:00.000Z",
+        "excerpt": "Persuading voters using human\u2013artificial intelligence dialogues | Nature\n[Skip to main content] \nThank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain\nthe best experience, we recommend you use a more up to date browser (or turn off compatibility mode in\nInternet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles\nand JavaScript.\nAdvertisement\n[![Nature]] \n* [View all journals] \n* [Search] \n* [Log "
+      },
+      {
+        "title": "A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark Datasets",
+        "url": "https://aclanthology.org/2023.findings-acl.29/",
+        "published": null,
+        "excerpt": "## [A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark Datasets] \n\n[Md Tahmid Rahman Laskar],\n[M Saiful Bari],\n[Mizanur Rahman],\n[Md Amran Hossen Bhuiyan],\n[Shafiq Joty],\n[Jimmy Huang] \n\n* * *\n\n##### Abstract\n\nThe development of large language models (LLMs) such as ChatGPT has brought a lot of attention recently. However, their evaluation in the benchmark academic datasets remains under-explored due to the difficulty of evaluating the generative outputs produced by this mode"
+      },
+      {
+        "title": "Enriching Omani Children Literature and Enhancing their Vocabulary Repertoire in English through ChatGPT-4",
+        "url": "https://www.ijfmr.com/research-paper.php?id=27173",
+        "published": null,
+        "excerpt": "**Call for Paper**\n**Volume 7, Issue 3 (May-June 2025)** [Submit your research] **before last 3 days of June**\nto publish your research paper in the issue of May-June.\n\n[Home] Research Paper[Submit Research Paper] [Publication Guidelines] [Publication Charges] [Upload Documents] [Track Status / Pay Fees / Download Publication Certi.] Editors & Reviewers[View All] [Join as a Reviewer] [Get Membership Certificate] [Current Issue] [Publication Archive] Conference[Publishing Conf. with IJFMR] Upcomi"
+      },
+      {
+        "title": "ChatGPT versus human in generating medical graduate exam questions \u2013 An international prospective study",
+        "url": "https://www.medrxiv.org/content/10.1101/2023.05.13.23289943v1",
+        "published": null,
+        "excerpt": "[Skip to main content] \n\n# ChatGPT versus human in generating medical graduate exam questions \u2013 An international prospective study\n\n[View ORCID Profile] Billy Ho HungCheung, [View ORCID Profile] Gary Kui KaiLau, [View ORCID Profile] Gordon Tin ChunWong, [View ORCID Profile] Elaine Yuen PhinLee, [View ORCID Profile] DhananjayKulkarni, [View ORCID Profile] Choon SheongSeow, RubyWong, [View ORCID Profile] Michael Tiong HongCo\n\ndoi: https://doi.org/10.1101/2023.05.13.23289943\n\nBilly Ho Hung Cheung\n\n"
+      },
+      {
+        "title": "Eight Months into Reality: A Scoping Review of the Application of ChatGPT in Higher Education Teaching and Learning",
+        "url": "https://link.springer.com/article/10.1007/s10755-025-09790-4?error=cookies_not_supported&code=5b597bc1-42e8-4d47-ab30-f575b398d935",
+        "published": "2025-02-22T00:00:00.000Z",
+        "excerpt": "Eight Months into Reality: A Scoping Review of the Application of ChatGPT in Higher Education Teaching and Learning | Innovative Higher Education\n[Skip to main content] \nAdvertisement\n[![Springer Nature Link]] \n[Log in] \n# Eight Months into Reality: A Scoping Review of the Application of ChatGPT in Higher Education Teaching and Learning\n* [Open access] \n* Published:22 February 2025\n* Volume\u00a050,\u00a0pages 1677\u20131700, (2025)\n* [Cite this article] \nYou have full access to this[open access] article\n[Down"
+      },
+      {
+        "title": "",
+        "url": "https://www.learntechlib.org/primary/p/222471/",
+        "published": "2025-05-15T00:00:00.000Z",
+        "excerpt": "[Skip navigation] [Skip to search] \n\nYou are here:\n\n1. [Digital Library] \n2. [Journals] \n3. [JILR] \n4. [Volume 35, Issue 1] \n\n![] \n\n# ChatGPT for Learning in Higher Education: Benefits, Downsides, and Implications\n\n## [Mikkel Godsk], [Pernille Ris\u00f8r Elving], Aarhus University, CED, Denmark\n\nDOI:\n\n* * *\n\nJournal of Interactive Learning ResearchVolume 35, Number 1, 2024ISSN 1093-023XPublisher: Association for the Advancement of Computing in Education (AACE), Waynesville, NC\n\n- [Journal Info] \n- [T"
+      },
+      {
+        "title": "The effect of ChatGPT on students\u2019 learning performance, learning perception, and higher-order thinking: insights from a meta-analysis",
+        "url": "https://www.nature.com/articles/s41599-025-04787-y?error=cookies_not_supported&code=ef10821d-0579-45c2-9fca-80c73e76cc75",
+        "published": "2025-05-06T00:00:00.000Z",
+        "excerpt": "The effect of ChatGPT on students\u2019 learning performance, learning perception, and higher-order thinking: insights from a meta-analysis\n\n[Download PDF] \n\n[Download PDF] \n\n### Subjects\n\n- [Education] \n- [Science, technology and society] \n\n## Abstract\n\nAs a new type of artificial intelligence, ChatGPT is becoming widely used in learning. However, academic consensus regarding its efficacy remains elusive. This study aimed to assess the effectiveness of ChatGPT in improving students\u2019 learning perform"
+      },
+      {
+        "title": "The Educational Affordances and Challenges of ChatGPT: State of the Field",
+        "url": "https://digitalcommons.odu.edu/cgi/viewcontent.cgi?article=1332&context=stemps_fac_pubs",
+        "published": null,
+        "excerpt": "Old Dominion University \nODU Digital Commons \nSTEMPS Faculty Publications STEM Education & Professional Studies \n2024 \nThe Educational Affordances and Challenges of ChatGPT: State \nof the Field \nHelen Crompton \nOld Dominion University, crompton@odu.edu \nDiane Burke \nOld Dominion University, dmburke@odu.edu \nFollow this and additional works at: https://digitalcommons.odu.edu/stemps_fac_pubs \nPart of the Artificial Intelligence and Robotics Commons, Educational Technology Commons, and the \nOnline "
+      },
+      {
+        "title": "Exploring User Perspectives on ChatGPT: Applications, Perceptions, and Implications for AI-Integrated Education",
+        "url": "https://export.arxiv.org/pdf/2305.13114v2.pdf",
+        "published": "2023-06-14T00:00:00.000Z",
+        "excerpt": "Exploring User Perspectives on ChatGPT: Applications,\nPerceptions, and Implications for AI-Integrated Education\nReza Hadi Mogavia,b, Chao Dengc, Justin Juho Kima, Pengyuan Zhoud, Young D. Kwone,\nAhmed Hosny Saleh Metwallyf,b, Ahmed Tlilif, Simone Bassanellig, Antonio Bucchiaroneg,\nSujit Gujarh, Lennart E. Nackeb, Pan Huia,i,j,\u2217\naThe Hong Kong University of Science and Technology, Hong Kong SAR\nbUniversity of Waterloo, Canada\ncAccessible Meta Group, United States\ndUniversity of Science and Techno"
+      },
+      {
+        "title": "",
+        "url": "https://www.jdet.net/download/opportunities-challenges-and-strategies-for-using-chatgpt-in-higher-education-a-literature-review-14027.pdf",
+        "published": "2023-12-14T00:00:00.000Z",
+        "excerpt": "\u00a9 2024 by the authors; licensee JDET by Bastas, UK. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution\nLicense (http://creativecommons.org/licenses/by/4.0/).\nJournal of Digital Educational Technology\n2024, 4(1), ep2401\ne-ISSN: 2752-5503\nhttps://www.jdet.net/ Review Article\nOpportunities, challenges, and strategies for using ChatGPT in\nhigher education: A literature review\nSarin Sok 1* , Kimkong Heng 2\n1University of Puthisastra, "
+      },
+      {
+        "title": "ChatGPT in education: global reactions to AI innovations.",
+        "url": "https://escholarship.org/uc/item/8r23r816",
+        "published": "2023-09-15T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[**UC Irvine**] [![UC Irvine Previously Published Works banner]] [UC Irvine] \n\nDepositManageSubmissions\n\n[![RSS]] \n\n[Download PDF] \n\n- Main\n - [PDF] \n\nShare\n\nEmailFacebook\n\n## ChatGPT in education: global reactions to AI innovations.\n\n2023\n\n- [F\u00fctterer, Tim];\n- [Fischer, Christian];\n- [Alekseeva, Anastasiia];\n- [Chen, Xiaobin];\n- [Tate, Tamara];\n- [Warschauer, Mark];\n- [Gerjets, Peter] \n- et al.\n\n## Published Web Location\n\n[https://doi.org/10.1038/s41598-023-42227-6] \n\n."
+      },
+      {
+        "title": "Computer Science > Computers and Society",
+        "url": "https://arxiv.org/abs/2511.11960",
+        "published": "2025-11-15T00:00:00.000Z",
+        "excerpt": "[2511.11960] Educators on the Frontline: Philosophical and Realistic Perspectives on Integrating ChatGPT into the Learning Space\n[Skip to main content] \n[![Cornell University]] \nWe gratefully acknowledge support from the Simons Foundation,[member institutions], and all contributors.[Donate] \n[] \n[![arxiv logo]] &gt;[cs] &gt;arXiv:2511.11960\n[Help] |[Advanced Search] \nAll fieldsTitleAuthorAbstractCommentsJournal referenceACM classificationMSC classificationReport numberarXiv identifierDOIORCIDarX"
+      },
+      {
+        "title": "ChatGPT awareness, acceptance, and adoption in higher education: the role of trust as a cornerstone",
+        "url": "https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-024-00478-x",
+        "published": "2024-07-31T00:00:00.000Z",
+        "excerpt": "Springer is moving to Springer Nature Link. [Visit this journal in its new home.] \n\nSearch all SpringerOpen articles\n\nSearch\n\nChatGPT awareness, acceptance, and adoption in higher education: the role of trust as a cornerstone\n\n[Download PDF] \n\n[Download PDF] \n\n- Research article\n- [Open access] \n- Published: 31 July 2024\n\n# ChatGPT awareness, acceptance, and adoption in higher education: the role of trust as a cornerstone\n\n- [Muhammad Farrukh Shahzad] [1],\n- [Shuo Xu] [ORCID: orcid.org/0000-0002"
+      },
+      {
+        "title": "How should we change teaching and assessment in response to increasingly powerful generative Artificial Intelligence? Outcomes of the ChatGPT teacher survey",
+        "url": "https://link.springer.com/article/10.1007/s10639-023-12405-0?error=cookies_not_supported&code=dd26595b-691b-45cd-be74-15bc914b2a5c",
+        "published": "2024-01-26T00:00:00.000Z",
+        "excerpt": "Advertisement\n\n# How should we change teaching and assessment in response to increasingly powerful generative Artificial Intelligence? Outcomes of the ChatGPT teacher survey\n\n- [Open access] \n- Published: 26 January 2024\n\n- Volume\u00a029,\u00a0pages 15403\u201315439, (2024)\n- [Cite this article] \n\n[Download PDF] \n\nYou have full access to this [open access] article\n\n[![] Education and Information Technologies] [Aims and scope] [Submit manuscript] \n\nHow should we change teaching and assessment in response to in"
+      },
+      {
+        "title": "Helen Crompton",
+        "url": "https://www.odu.edu/directory/helen-crompton",
+        "published": "2022-08-21T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n![] \n\n# Helen Crompton\n\n![] \n\nProfessor & Exec Dir\n\nDepartment of STEM Education & Professional Studies\n\n#### Helen Crompton\n\n[757-683-2311] \n\n[crompton@odu.edu] \n\n[Eportfolio] \n\n[LinkedIn] \n\n[Google Scholar] \n\n3141 EDUCATION BUILDING\n\nNORFOLK, 23529\n\n## [Biography] \n\nDr. Helen Crompton is the Executive Director of the Research Institute for Digital Innovation in Learning at ODUGlobal, Professor of Instructional Technology, and Director of the Virtual Reality Lab at Old "
+      },
+      {
+        "title": "",
+        "url": "https://adeil.org/dr-helen-crompton/",
+        "published": "2023-08-07T00:00:00.000Z",
+        "excerpt": "[Skip to content] \n\nDr. Helen Crompton\n\n[Home] [Dr. Helen Crompton] \n\n# Dr. Helen Crompton\n\n## Bio\n\nDr. Helen Crompton is the Executive Director of the Research Institute for Digital Innovation in Learning at ODUGlobal, Professor of Instructional Technology, and Director of the Virtual Reality Lab at Old Dominion University. Dr. Crompton earned her Ph.D. in educational technology and mathematics education from the University of North Carolina at Chapel Hill. Recognized for her outstanding contri"
+      },
+      {
+        "title": "Her Office Has No Borders",
+        "url": "https://www.odu.edu/monarch-magazine/article/her-office-has-no-borders",
+        "published": "2025-07-21T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n# Her Office Has No Borders\n\nJuly 21, 2025\n\nshare\n\n##### [By Katrina Dix] \n\nThese days, Helen Crompton, Ph.D., is never quite sure what time zone she\u2019s in.\n\nSpin a globe or ask Google Maps for a random location, and you\u2019re likely to land near one of the keynote speeches on artificial intelligence in education that crowd her calendar. Over the last year alone, she\u2019s spoken in South Africa, Singapore, India, Hungary, Indonesia, Croatia and the United Kingdom, as well as al"
+      },
+      {
+        "title": "The Promise and Pitfalls of GenAI in Education",
+        "url": "https://digitalcommons.odu.edu/stemps_fac_pubs/369/",
+        "published": "2025-02-05T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n- [Home] \n- [About] \n- [FAQ] \n- [My Account] \n\n- < [Previous] \n- [Next] >\n\n[Home] > [Colleges and Schools] > [Education] > [STEMPS] > [Faculty Pubs] > [369] \n\n## [STEMPS Faculty Publications] \n\n# [The Promise and Pitfalls of GenAI in Education] \n\n## Authors\n\n[**Helen Crompton**, _Old Dominion University_] [Follow] \n\n## Document Type\n\nConference Paper\n\n## Publication Date\n\n2024\n\n## Publication Title\n\neLearn: World Conference on E-Learning in Corporate, Government, Healthc"
+      },
+      {
+        "title": "Here is my most recent 2022 research publication on artificial intelligence in K-12 schools.",
+        "url": "https://www.linkedin.com/posts/helencrompton_affordances-and-challenges-of-artificial-activity-7134552455643590657-mHQp",
+        "published": "2023-11-26T14:44:18.000Z",
+        "excerpt": "Agree & Join LinkedIn\n\nBy clicking Continue to join or sign in, you agree to LinkedIn\u2019s [User Agreement], [Privacy Policy], and [Cookie Policy].\n\n [Skip to main content] \n\n# Helen CROMPTON\u2019s Post\n\n[Helen CROMPTON] \n\n2y\n\n- [Report this post] \n\nHere is my most recent 2022 research publication on artificial intelligence in K-12 schools. Affordances and challenges of artificial intelligence in K-12 education: A systematic review. Journal of Research on Technology in Education. [https://lnkd.in/eFBwn"
+      },
+      {
+        "title": "",
+        "url": "https://online.odu.edu/sites/default/files/2024-06/white-paper-chatgpt-educational-affordances.pdf",
+        "published": null,
+        "excerpt": "Research from the Office of RIDIL\nThe Educational Affordances and Challenges of ChatGPT\nThis white paper provides a summary of a section of the work from:\nCrompton, H., & Burke, D. (in press). The educational affordances and challenges of ChatGPT: state of the \nfield. TechTrends. \nResearch Authors Bios\nDr. Helen Crompton is a Professor of Instructional Technology in the Department of STEM and Professional \nStudies, and the Executive Director of the Research Institute for Digital Innovation in Le"
+      },
+      {
+        "title": "",
+        "url": "https://www.odu.edu/article/webinar-to-examine-the-use-of-chatgpt-higher-education",
+        "published": "2023-02-08T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n![bg-image] \n\n# Webinar to Examine the Use of ChatGPT in Higher Education\n\n![laptop graphs] \n\nFebruary 6, 2023\n\nshare\n\n###### [By Joe Garvey] \n\n![Headshot of Helen Crompton] \n\n\u200bHelen Crompton, associate professor of instructional technology in the Darden College of Education and Professional Studies at Old Dominion University, will lead the webinar on Feb. 13.\u200b\u200b\n\n\u200b\n\nThe use of artificial intelligence technology, particularly what the New York Times describes as [generati"
+      },
+      {
+        "title": "Dr. Helen Crompton",
+        "url": "https://drcrompton.squarespace.com/",
+        "published": "2007-01-01T00:00:00.000Z",
+        "excerpt": "[0] \n\n![] \n\n![] \n\nDr. Helen Crompton is the Executive Director of the Research Institute for digital Innovation in Learning (RIDIL) at ODUGlobal and a Professor of Instructional Technology at Old Dominion University. With a Ph.D. in Mathematics Education and Technology in Education, she focuses her research on technology integration and learning with technologies, such as artificial intelligence, mobile devices, and virtual/mixed/augmented reality. Dr. Crompton is the CEO of Crompton Consulting."
+      },
+      {
+        "title": "How to Empower Educators in the Age of Generative Artificial Intelligence",
+        "url": "https://www.odu.edu/artificial-intelligence/article/how-to-empower-educators-the-age-of-generative-artificial",
+        "published": "2024-10-24T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n![bg-image] \n\n# How to Empower Educators in the Age of Generative Artificial Intelligence\n\n![Chat GPT Artificial Intelligence] \n\nSeptember 11, 2023\n\nshare\n\nFew innovations have landed on the collective radar of people over the past year as profoundly as artificial intelligence (AI) and generative technologies. These cutting-edge advancements have revolutionized how we interact with technology, transforming them from tools into creative collaborators.\n\nAt the heart of thi"
+      },
+      {
+        "title": "The Educational Affordances and Challenges of ChatGPT: State of the Field",
+        "url": "https://digitalcommons.odu.edu/cgi/viewcontent.cgi?article=1332&context=stemps_fac_pubs",
+        "published": null,
+        "excerpt": "Old Dominion University \nODU Digital Commons \nSTEMPS Faculty Publications STEM Education & Professional Studies \n2024 \nThe Educational Affordances and Challenges of ChatGPT: State \nof the Field \nHelen Crompton \nOld Dominion University, crompton@odu.edu \nDiane Burke \nOld Dominion University, dmburke@odu.edu \nFollow this and additional works at: https://digitalcommons.odu.edu/stemps_fac_pubs \nPart of the Artificial Intelligence and Robotics Commons, Educational Technology Commons, and the \nOnline "
+      },
+      {
+        "title": "Dora Demszky",
+        "url": "https://www.dorademszky.com/",
+        "published": "2025-01-01T00:00:00.000Z",
+        "excerpt": "![]![] \n\n![] \n\n### Dorottya (Dora) Demszky\n\nAssistant Professor in Education Data Science\n\n* * *\n\n* * *\n\nGraduate School of Education\n\nStanford University\n\n* * *\n\n[Github] \n\n[ORCID] \n\n[Google Scholar] \n\n* * *\n\n![] \n\nDorottya (Dora) Demszky\n\nAssistant Professor in Education Data Science\n\n* * *\n\nContact\n\n![] \n\n### Dorottya (Dora) Demszky\n\nAssistant Professor in Education Data Science\n\n* * *\n\n* * *\n\nGraduate School of Education\n\nStanford University\n\n* * *\n\n[Github] \n\n[ORCID] \n\n[Google Scholar] \n\n* "
+      },
+      {
+        "title": "Stanford Graduate School of Education",
+        "url": "https://ed.stanford.edu/faculty/ddemszky",
+        "published": "2025-04-09T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\nImage\n\nFaculty & Research\n\n# Dora Demszky\n\nAssistant Professor\n\n[ddemszky@stanford.edu] \n\n[Personal website] \n\nAssistant: Melissa Cromosini\n\nOffice: CERAS 536\n\n## Biography\n\nDr. Demszky is an Assistant Professor in Education Data Science at the Graduate School of Education at Stanford University. She works on developing natural language processing methods to support equitable and student-centered instruction. She has developed tools to give feedback to teachers on dialog"
+      },
+      {
+        "title": "Dora Demszky's Profile | Stanford Profiles",
+        "url": "https://profiles.stanford.edu/dorottya-demszky",
+        "published": "2025-01-01T00:00:00.000Z",
+        "excerpt": "![Dora Demszky] \n\n# Dora Demszky\n\n## Assistant Professor of Education and, by courtesy, of Computer Science\n\n### Graduate School of Education\n\n- [Print Profile] \n- [Email Profile] \n- [View Stanford-only Profile] \n\nTab Menu\n\n- [Bio] \n- [Research & Scholarship] \n- [Teaching] \n- [Publications] \n\n### Bio\n\n* * *\n\nDr. Demszky is an Assistant Professor in Education Data Science at the Graduate School of Education at Stanford University. She works on developing natural language processing methods to sup"
+      },
+      {
+        "title": "Chatting about chatbots: How AI tools can support teachers",
+        "url": "https://ed.stanford.edu/news/chatting-about-chatbots-how-ai-tools-can-support-teachers",
+        "published": "2024-11-07T00:00:00.000Z",
+        "excerpt": "Chatting about chatbots: How AI tools can support teachers | Stanford Graduate School of Education[Skip to main content] \nSearch\n## [School's In] \n![Dora Demszky] \n[Data Science] |[Innovation] |[Teaching] \n# Chatting about chatbots: How AI tools can support teachers\nOn this episode of School\u2019s In Stanford GSE Assistant Professor Dora Demszky discusses how chatbots can be used to give teachers feedback.\nNovember 7, 2024\nBy Olivia Peterkin\nSHARE:\n[**Share on Facebook] \n[**Share on X] \n[**Share on "
+      },
+      {
+        "title": "",
+        "url": "https://www.dorademszky.com/publications/21382.pdf",
+        "published": "2023-05-31T00:00:00.000Z",
+        "excerpt": "Is ChatGPT a Good Teacher Coach?\nMeasuring Zero-Shot Performance For Scoring and\nProviding Actionable Insights on Classroom Instruction\nRose Wang\nrewang@cs.stanford.edu\nStanford University\nDorottya Demszky\nddemszky@stanford.edu\nStanford University\nAbstract\nCoaching, which involves classroom observa\u0002tion and expert feedback, is a widespread and\nfundamental part of teacher training. However,\nthe majority of teachers do not have access to\nconsistent, high quality coaching due to limited\nresources a"
+      },
+      {
+        "title": "Designing natural language processing tools for teachers",
+        "url": "https://ed.stanford.edu/news/designing-natural-language-processing-tools-teachers",
+        "published": "2023-10-18T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n## [Research Stories] \n\nAccording to a 2022 Gallup poll, U.S. teachers in grades K-12 are the most burnt-out workers in any profession. Could natural language processing tools (NLP) support them?\n\nWhile today\u2019s chatbots are so far helping teachers to increase their efficiency on tasks like quickly generating lesson plans or writing emails to parents, two Stanford scholars are studying options that could go beyond shaving a few minutes off the workday. Stanford\u00a0Graduate S"
+      },
+      {
+        "title": "",
+        "url": "https://ddemszky.github.io/papers/Empowering%20Educators%20via%20Language%20Technology.pdf",
+        "published": "2023-10-25T00:00:00.000Z",
+        "excerpt": "Empowering Educators\nvia Language Technology\nDorottya (Dora) Demszky, Jeffrey B. Bush, Sidney K. D\u2019Mello, Jennifer Jacobs,\nIsabelle Hau, Heather Hill, Jing Liu, Susanna Loeb, Bethanie Maples, Kylie Peppler,\nRhea Pokorny, Matthew Rascoff, Jenny Robinson, David Yeager, Laura Wentworth\nEmpowering Educators \nvia Language Technology \nAuthors (except first author all are listed alphabetically by last name): Dorottya \n(Dora) Demszky1, Jeffrey B. Bush1, Sidney K. D\u2019Mello2, Jennifer Jacobs2, Isabelle \nHa"
+      },
+      {
+        "title": "EduNLP Lab",
+        "url": "https://edunlp.stanford.edu/",
+        "published": "2025-04-09T00:00:00.000Z",
+        "excerpt": "EduNLP Lab\n[Skip to main content] [Skip to secondary navigation] \n[Stanford University(link is external)] \n[\n![EduNLP Lab] \n] \nSearch this siteSubmit Search\n# EduNLP Lab\n![] \n## The EduNLP Lab is an interdisciplinary group of researchers and students working with Dr. Dora Demszky\nWe use Natural Language Processing (NLP) technology to empower teachers and students.\nMain content start\n## **Human connections come first.**\nWe leverage technology to support, sustain and improve the human connections "
+      },
+      {
+        "title": "Designing Natural Language Processing Tools for Teachers | Stanford HAI",
+        "url": "https://hai.stanford.edu/news/designing-natural-language-processing-tools-teachers",
+        "published": "2024-09-10T00:00:00.000Z",
+        "excerpt": "Designing Natural Language Processing Tools for Teachers \\| Stanford HAI\n\n### Stay Up To Date\n\nGet the latest news, advances in research, policy work, and education program updates from HAI in your inbox weekly.\n\n[**Sign Up** For Latest News] \n\n###### Navigate\n\n- [About] \n- [Events] \n- [Careers] \n- [Search] \n\n###### Participate\n\n- [Get Involved] \n- [Support HAI] \n- [Contact Us] \n\n[Skip to content] \n\nStanford education researchers are at the forefront of building natural language processing syste"
+      },
+      {
+        "title": "Dora Demszky",
+        "url": "https://www.dorademszky.com/people",
+        "published": "2025-01-01T00:00:00.000Z",
+        "excerpt": "Dora Demszky - EduNLP Lab\n![] \n![] \n![] \n# [Dora Demszky] \n* [] \n* [] \n* [] \nMore\nMenu\nClose\n[Publications] \n[EduNLP Lab] \n[Teaching] \n# EduNLP Lab\n### Current Members[] \n[\n] \n[Rose Wang] \nPhD Advisee\nRose is PhD student at Stanford University\u2019s Computer Science Department. She works on natural language processing (NLP) and education, like understanding the mechanisms of effective human teaching/learning and developing NLP models with those insights. Previously, she completed her undergraduate a"
+      },
+      {
+        "title": "From Individual Prompts to Collective Intelligence: Mainstreaming Generative AI in the Classroom",
+        "url": "https://arxiv.org/html/2601.06171v1",
+        "published": null,
+        "excerpt": "# From Individual Prompts to Collective Intelligence: Mainstreaming Generative AI in the Classroom\n\nJunaid Qadir and Muhammad Salman Khan\n\n###### Abstract\n\nEngineering classrooms are increasingly experimenting with generative AI (GenAI), but most uses remain confined to individual prompting and isolated assistance. This narrow framing risks reinforcing equity gaps and only rewarding the already privileged or motivated students. We argue instead for a shift toward collective intelligence (CI)-foc"
+      },
+      {
+        "title": "Using AI to Support Education for Collective Intelligence",
+        "url": "https://link.springer.com/article/10.1007/s40593-024-00437-7",
+        "published": "2024-12-23T00:00:00.000Z",
+        "excerpt": "# Using AI to Support Education for Collective Intelligence\n\n- ARTICLE\n- Published: 23 December 2024\n\n- Volume\u00a035,\u00a0pages 1597\u20131629, (2025)\n- [Cite this article] \n\n[International Journal of Artificial Intelligence in Education] [Aims and scope] [Submit manuscript] \n\n## Abstract\n\nArtificial Intelligence (AI) is increasingly being used in education, but mostly to support individual teaching and learning. However, there are good reasons to think that thinking together and solving problems together, "
+      },
+      {
+        "title": "Generative AI tool use enhances academic achievement in sustainable education through shared metacognition and cognitive offloading among preservice teachers",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12075473/",
+        "published": "2025-05-13T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n**Official websites use .gov**\nA\n**.gov** website belongs to an official\ngovernment organization in the United States.\n\n**Secure .gov websites use HTTPS**\nA **lock** (\n\nLocked padlock icon\n) or **https://** means you've safely\nconnected to the .gov website. Share sensitive\ninformation only on official, secure websites.\n\nSearch PMC Full-Text ArchiveSearch in PMC\n\n- [Advanced Search] \n- [Journal List] \n- [User Guide] \n\nNewTry this search in PMC Beta Search\n\n- ## PERMALINK\n"
+      },
+      {
+        "title": "Data-Driven Artificial Intelligence in Education: A Comprehensive Review | Junaid Qadir",
+        "url": "https://www.linkedin.com/posts/junaidq_data-driven-artificial-intelligence-in-education-activity-7107680727575539712-Nsbd",
+        "published": "2023-09-13T00:00:00.000Z",
+        "excerpt": "Agree & Join LinkedIn\n\nBy clicking Continue to join or sign in, you agree to LinkedIn\u2019s [User Agreement], [Privacy Policy], and [Cookie Policy].\n\n `` `` `` `` `` `` [Skip to main content] \n\n# Junaid Qadir\u2019s Post\n\n[Junaid Qadir] \n\nProfessor of Computer Engineering at Qatar University\n\n1y\n\n- [Report this post] \n\n\ud83d\udce2 New paper titled, \"Data-Driven AI in Education: A Comprehensive Review\", accepted at the IEEE Transactions on Learning Technologies.\n[https://lnkd.in/dG38R\\_WU] (Early Access Version).\nW"
+      },
+      {
+        "title": "",
+        "url": "https://d-nb.info/137160486X/34",
+        "published": "2025-05-13T00:00:00.000Z",
+        "excerpt": "Generative AI tool use enhances \nacademic achievement in \nsustainable education through \nshared metacognition and \ncognitive offloading among \npreservice teachers\nJaved Iqbal1, Zarqa Farooq Hashmi2, Muhammad ZaheerAsghar3,4\uf02a & \nMuhammad Naseem Abid2\nThe integration of generative artificial intelligence tools in education has emerged as a transformative \napproach to enhancing learning outcomes, particularly in the context of sustainable development \ngoals (SDG4). Therefore, the present study inve"
+      },
+      {
+        "title": "",
+        "url": "https://arxiv.org/abs/2504.20851",
+        "published": null,
+        "excerpt": "arXiv reCAPTCHA\n[![Cornell University]] \n[We gratefully acknowledge support from\nthe Simons Foundation and member institutions.] \n# [![arxiv logo]]"
+      },
+      {
+        "title": "Educating for the AI Era: Harnessing the Wild GenAI Horse through Multiplex AI Humanities and Critical AI Literacy",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5015109",
+        "published": "2024-08-02T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[![PDF icon] Download This Paper] \n\n[Open PDF in Browser] \n\n[Add Paper to My Library] \n\nShare:\n\nPermalink\n\nUsing these links will ensure access to this page indefinitely\n\n[Copy URL] \n\n[Copy DOI] \n\n# Educating for the AI Era: Harnessing the Wild GenAI Horse through Multiplex AI Humanities and Critical AI Literacy\n\n12 PagesPosted: 19 Nov 2024\n\n[See all articles by Junaid Qadir] \n\n## [Junaid Qadir] \n\nQatar University\n\n## [Recep Senturk] \n\nHamad Bin Khalifa University\n\nDate "
+      },
+      {
+        "title": "Computer Science > Human-Computer Interaction",
+        "url": "https://arxiv.org/abs/2410.04365",
+        "published": "2024-10-06T00:00:00.000Z",
+        "excerpt": "[2410.04365] Generative Co-Learners: Enhancing Cognitive and Social Presence of Students in Asynchronous Learning with Generative AI\n[Skip to main content] \n[![Cornell University]] \nWe gratefully acknowledge support from the Simons Foundation,[member institutions], and all contributors.[Donate] \n[] \n[![arxiv logo]] &gt;[cs] &gt;arXiv:2410.04365\n[Help] |[Advanced Search] \nAll fieldsTitleAuthorAbstractCommentsJournal referenceACM classificationMSC classificationReport numberarXiv identifierDOIORCI"
+      },
+      {
+        "title": "Using social learning theories to explore the role of generative Artificial Intelligence (AI) in collaborative learning",
+        "url": "https://journal.aldinhe.ac.uk/index.php/jldhe/article/view/1031",
+        "published": "2024-03-27T00:00:00.000Z",
+        "excerpt": "# Using social learning theories to explore the role of generative Artificial Intelligence (AI) in collaborative learning\n\n## Authors\n\n- Xue Zhou\nQueen Mary University of London\n[https://orcid.org/0000-0002-7242-0958] \n- Lilian Schofield\nQueen Mary University of London\n[https://orcid.org/0000-0002-2318-7862] \n\n## DOI:\n\n[https://doi.org/10.47408/jldhe.vi30.1031] \n\n## Keywords:\n\ncollaborative learning, social constructivism, social learning theories, artificial intelligence, higher education\n\n## A"
+      },
+      {
+        "title": "The Psychology of Learning from Machines:\n Anthropomorphic AI and the Paradox of Automation in Education",
+        "url": "https://arxiv.org/html/2601.06172v1",
+        "published": null,
+        "excerpt": "# The Psychology of Learning from Machines: Anthropomorphic AI and the Paradox of Automation in Education\n\nJunaid Qadir\nMuhammad Mumtaz\n\n###### Abstract\n\nAs AI tutors enter classrooms at unprecedented speed, their deployment increasingly outpaces our grasp of the psychological and social consequences of such technology. Yet decades of research in automation psychology, human factors, and human-computer interaction provide crucial insights that remain underutilized in educational AI design. This "
+      },
+      {
+        "title": "ChatGPT in education: global reactions to AI innovations.",
+        "url": "https://escholarship.org/uc/item/8r23r816",
+        "published": "2023-09-15T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[**UC Irvine**] [![UC Irvine Previously Published Works banner]] [UC Irvine] \n\nDepositManageSubmissions\n\n[![RSS]] \n\n[Download PDF] \n\n- Main\n - [PDF] \n\nShare\n\nEmailFacebook\n\n## ChatGPT in education: global reactions to AI innovations.\n\n2023\n\n- [F\u00fctterer, Tim];\n- [Fischer, Christian];\n- [Alekseeva, Anastasiia];\n- [Chen, Xiaobin];\n- [Tate, Tamara];\n- [Warschauer, Mark];\n- [Gerjets, Peter] \n- et al.\n\n## Published Web Location\n\n[https://doi.org/10.1038/s41598-023-42227-6] \n\n."
+      },
+      {
+        "title": "What would an AI university look like and how might it change education?",
+        "url": "https://www.nature.com/articles/d41586-025-03950-4",
+        "published": "2025-12-10T00:00:00.000Z",
+        "excerpt": "What would an AI university look like and how might it change education?\n[Skip to main content] \nThank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain\nthe best experience, we recommend you use a more up to date browser (or turn off compatibility mode in\nInternet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles\nand JavaScript.\nAdvertisement\n[![Nature]] \n* [View all journals] \n* [Search] \n* [Log "
+      },
+      {
+        "title": "Tech Giants Are Racing to Embed A.I. in Schools Around the Globe",
+        "url": "https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html",
+        "published": "2026-01-02T00:00:00.000Z",
+        "excerpt": "[Technology] \\|Tech Giants Are Racing to Embed A.I. in Schools Around the Globe\n\nhttps://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html\n\n- Share full article\n\n- 0\n\n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\nCredit...Raven Jiang\n\nSupported by\n\n[SKIP ADVERTISEMENT] \n\nListen to this article \u00b7 7:47 min [Learn more] \n\n- Share full article\n\n- 0\n\n\nBy [Natasha Singer] \n\nNata"
+      },
+      {
+        "title": "Students embrace AI as schools tread carefully",
+        "url": "https://www.ft.com/content/78d643a6-bcc8-4368-a0d6-30a71f63e71c",
+        "published": "2025-12-03T05:00:08.000Z",
+        "excerpt": "Students embrace AI as schools tread carefully\n[Accessibility help] [Skip to navigation] [Skip to main content] [Skip to footer] \n* [Sign In] \n* [Subscribe] \n[Open side navigation menu] [Open search bar] \n[Financial Times] \n[Subscribe] [Sign In] \nSearch theFTSearchClose search barClose\n[Menu] [Search] \n* [Home] \n* [World] \n* [US] \n* [Companies] \n* [Tech] \n* [Markets] \n* [Climate] \n* [Opinion] \n* [Lex] \n* [Work &amp; Careers] \n* [Life &amp; Arts] \n* [HTSI] \n[Financial Times] \n[Subscribe] [Sign In"
+      },
+      {
+        "title": "ChatGPT in education: global reactions to AI innovations",
+        "url": "https://www.nature.com/articles/s41598-023-42227-6",
+        "published": "2023-09-15T00:00:00.000Z",
+        "excerpt": "ChatGPT in education: global reactions to AI innovations\n\n[Download PDF] \n\n[Download PDF] \n\n### Subjects\n\n- [Human behaviour] \n- [Psychology] \n\n## Abstract\n\nThe release and rapid diffusion of ChatGPT have caught the attention of educators worldwide. Some educators are enthusiastic about its potential to support learning. Others are concerned about how it might circumvent learning opportunities or contribute to misinformation. To better understand reactions about ChatGPT concerning education, we "
+      },
+      {
+        "title": "chatgpt",
+        "url": "https://education.uci.edu/chatgpt.html",
+        "published": "2025-01-01T00:00:00.000Z",
+        "excerpt": "# UC Irvine School of Education\n\n## Subpage\n\nResources for:\n\n- [Current Students] \n- [Faculty & Staff] \n- [Alumni] \n\n- [Directory] \n- [News] \n- [Events] \n\n- About Us\n\n\n- [Mission & Vision] \n- [Inclusion & Equity] \n- [Facts & Information] \n- [Senior Leadership] \n- [Dean's Leadership Council] \n- [Climate Council] \n- [Maps & Directions] \n\n- Academics\n\n\n- [Ph.D. in Education] \n- [MES - AI Learning] \n- [MAT + Credential] \n- [Undergraduate] \n\n- Community Engagement\n\n\n- [Overview] \n- [Teacher Academy\\\n"
+      },
+      {
+        "title": "ChatGPT has entered the classroom: how LLMs could transform education",
+        "url": "https://www.nature.com/articles/d41586-023-03507-3?error=cookies_not_supported&code=1b757f4f-19f1-408f-baa9-48022af89645",
+        "published": "2023-11-15T00:00:00.000Z",
+        "excerpt": "ChatGPT has entered the classroom: how LLMs could transform education\n[Skip to main content] \nThank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain\nthe best experience, we recommend you use a more up to date browser (or turn off compatibility mode in\nInternet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles\nand JavaScript.\nAdvertisement\n[![Nature]] \n* [View all journals] \n* [Search] \n* [Log in]"
+      },
+      {
+        "title": "Welcome to Campus. Here\u2019s Your ChatGPT.",
+        "url": "https://www.nytimes.com/2025/06/07/technology/chatgpt-openai-colleges.html",
+        "published": "2025-06-07T00:00:00.000Z",
+        "excerpt": "Manage Privacy Preferences\n\nWe and our vendors use cookies and similar methods (\u201cCookies\u201d) to recognize visitors and remember their preferences. We also use Cookies for a variety of purposes, including analytics, to measure marketing effectiveness and to target and measure the effectiveness of ads. You can accept or reject the use of Cookies for individual purposes below. Some vendors process your data on the basis of their legitimate interest - you can object to such processing below. Your pref"
+      },
+      {
+        "title": "ChatGPT in education: global reactions to AI innovations",
+        "url": "https://www.nature.com/articles/s41598-023-42227-6?error=cookies_not_supported&code=1912d420-0d96-42c0-b219-e72092097910",
+        "published": "2023-09-15T00:00:00.000Z",
+        "excerpt": "ChatGPT in education: global reactions to AI innovations | Scientific Reports\n[Skip to main content] \nThank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain\nthe best experience, we recommend you use a more up to date browser (or turn off compatibility mode in\nInternet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles\nand JavaScript.\nAdvertisement\n[![Scientific Reports]] \n* [View all journals] \n* "
+      },
+      {
+        "title": "Mark Warschauer - Connected Learning Lab",
+        "url": "https://connectedlearning.uci.edu/person/mark-warschauer/",
+        "published": "2023-07-11T00:00:00.000Z",
+        "excerpt": "[Skip to content] \n\n![] \n\n# Mark Warschauer\n\nEducation\n\nMark Warschauer is a Professor of Education at the University of California, Irvine, with affiliated appointments in the Department of Informatics, the Department of Language Science, and the Department of Psychological Science.\u00a0 He is also director of the Digital Learning Lab at UC Irvine, where, together with colleagues and students, he works on a range of research projects related to digital media and artificial intelligence in education"
+      },
+      {
+        "title": "ChatGPT in education: global reactions to AI innovations.",
+        "url": "https://escholarship.org/uc/item/8r23r816",
+        "published": "2023-09-15T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[**UC Irvine**] [![UC Irvine Previously Published Works banner]] [UC Irvine] \n\nDepositManageSubmissions\n\n[![RSS]] \n\n[Download PDF] \n\n- Main\n - [PDF] \n\nShare\n\nEmailFacebook\n\n## ChatGPT in education: global reactions to AI innovations.\n\n2023\n\n- [F\u00fctterer, Tim];\n- [Fischer, Christian];\n- [Alekseeva, Anastasiia];\n- [Chen, Xiaobin];\n- [Tate, Tamara];\n- [Warschauer, Mark];\n- [Gerjets, Peter] \n- et al.\n\n## Published Web Location\n\n[https://doi.org/10.1038/s41598-023-42227-6] \n\n."
+      },
+      {
+        "title": "ChatGPT in education: global reactions to AI innovations",
+        "url": "https://www.nature.com/articles/s41598-023-42227-6",
+        "published": "2023-09-15T00:00:00.000Z",
+        "excerpt": "ChatGPT in education: global reactions to AI innovations\n\n[Download PDF] \n\n[Download PDF] \n\n### Subjects\n\n- [Human behaviour] \n- [Psychology] \n\n## Abstract\n\nThe release and rapid diffusion of ChatGPT have caught the attention of educators worldwide. Some educators are enthusiastic about its potential to support learning. Others are concerned about how it might circumvent learning opportunities or contribute to misinformation. To better understand reactions about ChatGPT concerning education, we "
+      },
+      {
+        "title": "ChatGPT in education: global reactions to AI innovations",
+        "url": "https://www.nature.com/articles/s41598-023-42227-6?error=cookies_not_supported&code=1912d420-0d96-42c0-b219-e72092097910",
+        "published": "2023-09-15T00:00:00.000Z",
+        "excerpt": "ChatGPT in education: global reactions to AI innovations | Scientific Reports\n[Skip to main content] \nThank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain\nthe best experience, we recommend you use a more up to date browser (or turn off compatibility mode in\nInternet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles\nand JavaScript.\nAdvertisement\n[![Scientific Reports]] \n* [View all journals] \n* "
+      },
+      {
+        "title": "ChatGPT has entered the classroom: how LLMs could transform education",
+        "url": "https://www.nature.com/articles/d41586-023-03507-3?error=cookies_not_supported&code=d651630f-2531-41a7-bbcd-b5247b4e64a5",
+        "published": "2023-11-15T00:00:00.000Z",
+        "excerpt": "ChatGPT has entered the classroom: how LLMs could transform education\n[Skip to main content] \nThank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain\nthe best experience, we recommend you use a more up to date browser (or turn off compatibility mode in\nInternet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles\nand JavaScript.\nAdvertisement\n[![Nature]] \n* [View all journals] \n* [Search] \n* [Log in]"
+      },
+      {
+        "title": "On opportunities and challenges of large multimodal foundation models in education",
+        "url": "https://www.nature.com/articles/s41539-025-00301-w",
+        "published": "2025-02-26T00:00:00.000Z",
+        "excerpt": "On opportunities and challenges of large multimodal foundation models in education | npj Science of Learning\n[Skip to main content] \nThank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain\nthe best experience, we recommend you use a more up to date browser (or turn off compatibility mode in\nInternet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles\nand JavaScript.\nAdvertisement\n[![npj Science of L"
+      },
+      {
+        "title": "What factors will affect the effectiveness of using ChatGPT to solve programming problems? A quasi-experimental study",
+        "url": "https://www.nature.com/articles/s41599-024-02751-w?error=cookies_not_supported&code=e38f3b17-a9c1-4596-82af-bc16635cddbf",
+        "published": "2024-02-26T00:00:00.000Z",
+        "excerpt": "What factors will affect the effectiveness of using ChatGPT to solve programming problems? A quasi-experimental study | Humanities and Social Sciences Communications\n[Skip to main content] \nThank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain\nthe best experience, we recommend you use a more up to date browser (or turn off compatibility mode in\nInternet Explorer). In the meantime, to ensure continued support, we are displaying the site without"
+      },
+      {
+        "title": "Generative AI for Interactive Learning in Education",
+        "url": "https://link.springer.com/article/10.1007/s13222-025-00507-7",
+        "published": "2025-09-15T00:00:00.000Z",
+        "excerpt": "Generative AI for Interactive Learning in Education | Datenbank-Spektrum\n[Skip to main content] \nAdvertisement\n[![Springer Nature Link]] \n[Log in] \n# Generative AI for Interactive Learning in Education\n* Schwerpunktbeitrag\n* [Open access] \n* Published:15 September 2025\n* Volume\u00a025,\u00a0pages 87\u201393, (2025)\n* [Cite this article] \nYou have full access to this[open access] article\n[Download PDF] \n[![] Datenbank-Spektrum] [Aims and scope] [Submit manuscript] \nGenerative AI for Interactive Learning in Edu"
+      },
+      {
+        "title": "Students and ChatGPT: Insights from the University of Zurich",
+        "url": "https://www.hope.uzh.ch/scoms/article/view/9272",
+        "published": null,
+        "excerpt": "# Students and ChatGPT: Insights from the University of Zurich\n\n## Authors\n\n- Sabrina Heike Kessler\nUniversity of Z\u00fcrich; Department of Communication and Media Research\n[https://orcid.org/0000-0003-1858-7041] \n\n## DOI:\n\n[https://doi.org/10.24434/j.scoms.2025.03.7300] \n\n## Keywords:\n\nChatGPT, Generative Artificial Intelligence, AI in Higher Education, Student Use of AI, University of Zurich\n\n## Abstract\n\nThe widespread adoption of generative Artificial Intelligence (AI) tools like ChatGPT in high"
+      },
+      {
+        "title": "ChatGPT as a modern tool for Bible teaching in confessional religious education: a German view",
+        "url": "https://link.springer.com/article/10.1007/s40839-024-00244-1?error=cookies_not_supported&code=3dba3072-0330-48d5-b33b-3a5d4f5e7056",
+        "published": "2024-11-30T00:00:00.000Z",
+        "excerpt": "Advertisement\n\n# ChatGPT as a modern tool for Bible teaching in confessional religious education: a German view\n\n- [Open access] \n- Published: 30 November 2024\n\n- Volume\u00a073,\u00a0pages 75\u201394, (2025)\n- [Cite this article] \n\n[Download PDF] \n\nYou have full access to this [open access] article\n\n[![] Journal of Religious Education] [Aims and scope] [Submit manuscript] \n\nChatGPT as a modern tool for Bible teaching in confessional religious education: a German view\n\n[Download PDF] \n\n## Abstract\n\nBiblical di"
+      },
+      {
+        "title": "Computer Science > Computers and Society",
+        "url": "https://arxiv.org/abs/2503.04758",
+        "published": "2025-02-10T00:00:00.000Z",
+        "excerpt": "[2503.04758] Chat-GPT: An AI Based Educational Revolution\n[Skip to main content] \n[![Cornell University]] \nWe gratefully acknowledge support from the Simons Foundation,[member institutions], and all contributors.[Donate] \n[] \n[![arxiv logo]] &gt;[cs] &gt;arXiv:2503.04758\n[Help] |[Advanced Search] \nAll fieldsTitleAuthorAbstractCommentsJournal referenceACM classificationMSC classificationReport numberarXiv identifierDOIORCIDarXiv author IDHelp pagesFull text\nSearch\n[![arXiv logo]] \n[![Cornell Univ"
+      }
+    ],
+    "search_queries": [
+      "Search #1: academic research ChatGPT impact on education published stud...",
+      "Search #2: researchers studying ChatGPT artificial intelligence educati...",
+      "Search #3: ChatGPT educational technology research university professor...",
+      "Search #4: Helen Crompton ChatGPT education research Old Dominion Unive...",
+      "Search #5: Dorottya Demszky Stanford ChatGPT teacher coaching education...",
+      "Search #6: Junaid Qadir generative AI education collective intelligence...",
+      "Search #7: Mark Warschauer UCI ChatGPT education artificial intelligenc...",
+      "Search #8: Christian Fischer Tim F\u00fctterer ChatGPT education Nature Scie..."
+    ],
+    "search_count": 8,
+    "time_seconds": 72.67668986320496
+  },
+  "claude": {
+    "analysis_text": "I'll search for academic researchers who have published on ChatGPT's impact on education.## 1. KEY FINDINGS\n\n### Systematic Reviews and Meta-Analyses Conducted\n\n**Claim:** Multiple systematic reviews analyzed 50-112 scholarly articles on ChatGPT in education published primarily in 2022-2023.\n**Quote:** \"systematic literature review was conducted...analyzing 112 scholarly articles to identify the potential benefits and challenges\"\n**Source:** https://www.mdpi.com/2227-7102/14/6/643\n\n**Claim:** A systematic review of ChatGPT in higher education examined 70 scientific research articles.\n**Quote:** \"This systematic literature review studied the impact of ChatGPT in education by reviewing 70 scientific research articles published between 2022 and 2023.\"\n**Source:** https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1379796/full\n\n**Claim:** A meta-analysis of 51 studies found ChatGPT has large positive impacts on learning performance.\n**Quote:** \"ChatGPT has a large positive impact on improving learning performance (g = 0.867)\"\n**Source:** https://www.nature.com/articles/s41599-025-04787-y\n\n**Claim:** Research primarily focused on higher education settings with limited peer-reviewed papers initially available.\n**Quote:** \"Due to the novelty of the topic, we found few peer-reviewed scholarly papers.\"\n**Source:** https://www.mdpi.com/2076-3417/13/9/5783\n\n### Prominent Researchers and Research Teams\n\n**Claim:** United States-based researchers produced the largest volume of publications on ChatGPT in higher education.\n**Quote:** \"use of ChatGPT in higher education...has been studied extensively by scholars in the United States, who have produced the largest volume of publications\"\n**Source:** https://link.springer.com/article/10.1007/s10639-024-12723-x\n\n**Claim:** Australian researchers contributed significantly to research on ChatGPT and student learning.\n**Quote:** \"Researchers from Australia...have contributed the most (8 studies) to this cluster...role of AI and student learning\"\n**Source:** https://link.springer.com/article/10.1007/s10639-024-12723-x\n\n**Claim:** Researchers Farrokhnia, Banihashem, Noroozi, and Wals published influential SWOT analysis on ChatGPT.\n**Quote:** \"A SWOT analysis of ChatGPT: implications for educational practice and research.\"\n**Source:** https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1328769/full\n\n**Claim:** Lo conducted a rapid review of 50 articles on ChatGPT in education published through February 2023.\n**Quote:** \"This rapid review of 50 articles highlighted ChatGPT's varied performance across different subject domains\"\n**Source:** https://www.mdpi.com/2227-7102/13/4/410\n\n**Claim:** Stanford's SCALE Initiative partnered with OpenAI to investigate ChatGPT's impact on learning metrics.\n**Quote:** \"Stanford's SCALE Initiative and OpenAI are partnering to investigate how ChatGPT impacts key learning metrics.\"\n**Source:** https://news.stanford.edu/stories/2025/07/chatgpt-open-ai-impact-schools-education-learning-data-research\n\n### Key Research Findings on Educational Impact\n\n**Claim:** ChatGPT enhances learning but also raises concerns about academic integrity and critical thinking.\n**Quote:** \"results emphasize the numerous benefits of ChatGPT...Nevertheless, ethical considerations and biases in AI models are also highlighted.\"\n**Source:** https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1379796/full\n\n**Claim:** Research identified four thematic clusters: academic integrity, student engagement, learning environment, and research.\n**Quote:** \"Four thematic clusters (academic integrity, student engagement, learning environment and research) were identified.\"\n**Source:** https://link.springer.com/article/10.1007/s10639-024-12723-x\n\n**Claim:** Studies found ChatGPT threatens academic integrity by enabling plagiarism and cheating.\n**Quote:** \"ChatGPT threatens the fairness and validity of online exams and assignments.\"\n**Source:** https://www.mdpi.com/2076-3417/13/9/5783\n\n**Claim:** ChatGPT shows varied performance across subject domains with stronger results in some areas.\n**Quote:** \"ChatGPT's varied performance across different subject domains and its potential benefits when serving as an assistant for instructors\"\n**Source:** https://www.mdpi.com/2227-7102/13/4/410\n\n### Research on Academic Performance and Learning Outcomes\n\n**Claim:** A meta-analysis found moderate positive impacts on learning perception and higher-order thinking.\n**Quote:** \"ChatGPT has...a moderately positive impact on enhancing learning perception (g = 0.456) and fostering higher-order thinking (g = 0.457).\"\n**Source:** https://www.nature.com/articles/s41599-025-04787-y\n\n**Claim:** Research shows optimal intervention duration for ChatGPT use is four to eight weeks.\n**Quote:** \"ChatGPT has the most significant impact on learning performance when the duration...is in the range of four to eight weeks.\"\n**Source:** https://www.nature.com/articles/s41599-025-04787-y\n\n**Claim:** Undergraduate students' learning outcomes with ChatGPT showed large positive effects.\n**Quote:** \"ChatGPT applications had a large positive effect (Hedges' \u00b7 = 1.12, SE = .179) on undergraduate students' learning outcomes.\"\n**Source:** https://www.sciencedirect.com/science/article/pii/S2666920X25001766\n\n### Research Methods and Approaches\n\n**Claim:** Most research employed mixed-methods approaches combining quantitative and qualitative analysis.\n**Quote:** \"many of the selected studies (46.5%) are mixed-methods research articles.\"\n**Source:** https://pmc.ncbi.nlm.nih.gov/articles/PMC12023922/\n\n**Claim:** PRISMA guidelines were widely used for systematic reviews of ChatGPT in education.\n**Quote:** \"This rapid review followed the Preferred Reporting Items for Systematic Reviews and Meta-Analysis (PRISMA) statement\"\n**Source:** https://www.mdpi.com/2227-7102/13/4/410\n\n**Claim:** Research publication output dramatically increased in 2023 following ChatGPT's November 2022 release.\n**Quote:** \"all the articles found belong to the year 2023...implementation of ChatGPT in education was implemented at the end of 2022\"\n**Source:** https://www.mdpi.com/2073-431X/12/8/153\n\n### Key Researchers in Specific Fields\n\n**Claim:** English language education was the most studied knowledge domain with 11 of 51 studies.\n**Quote:** \"articles were mainly concerned with the knowledge domain of English language education with 11 out of 51 included studies\"\n**Source:** https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1328769/full\n\n**Claim:** Sok and Heng studied benefits and drawbacks of ChatGPT in research and education.\n**Quote:** \"Sok and Heng (2023) address the educational aspect of ChatGPT...study identifies five key advantages of ChatGPT\"\n**Source:** https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1379796/full\n\n**Claim:** Kasneci and colleagues examined opportunities and challenges of large language models in education.\n**Quote:** \"Kasneci et al. (2023) focus on the advancements of large language models in AI, specifically focusing on their educational applications.\"\n**Source:** https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1379796/full\n\n## 2. SOURCE QUALITY ASSESSMENT\n\nThe sources retrieved are predominantly from peer-reviewed academic journals and systematic reviews published in reputable outlets including Frontiers in Education, MDPI journals, Springer Nature, ScienceDirect, and Nature. Multiple systematic reviews following PRISMA guidelines were identified, indicating rigorous methodology. The research spans 2022-2025, capturing the rapid evolution of ChatGPT research in education. Stanford University's involvement and partnerships with OpenAI add institutional credibility. However, as noted in multiple sources, the field is very new with limited longitudinal data, and many early studies were descriptive rather than experimental.\n\n## 3. GAPS OR CONTRADICTIONS\n\n**Research Gap:** Limited research in K-12 settings compared to higher education, as noted by multiple sources requesting more primary and secondary education studies.\n\n**Research Gap:** Most studies are short-duration interventions, lacking long-term impact assessment to distinguish novelty effects from sustained benefits.\n\n**Research Gap:** Underrepresentation of research from developing countries, with most studies conducted in U.S., Europe, Australia, and select Asian countries.\n\n**Methodological Challenge:** Small sample sizes and lack of power analysis in many experimental studies may lead to Type II errors.\n\n**Contradiction:** While meta-analyses show positive learning outcomes, individual studies raise concerns about decreased critical thinking, increased procrastination, and memory loss from ChatGPT overreliance.\n\n**Mixed Evidence:** Some studies report ChatGPT improves academic performance while others (e.g., Swargiary 2024) found control groups demonstrated superior performance gains.\n\n## 4. RECOMMENDED NEXT STEPS\n\n1. **Longitudinal Studies:** Conduct multi-year research tracking sustained vs. novelty effects of ChatGPT use on learning outcomes and skill development.\n\n2. **Diverse Educational Contexts:** Expand research to K-12 settings, vocational education, and developing countries to assess generalizability of findings.\n\n3. **Mechanism Research:** Investigate specific causal mechanisms through which ChatGPT affects learning, including cognitive load, metacognition, and skill transfer.\n\n4. **Comparative Studies:** Compare ChatGPT with other AI tools and traditional pedagogical interventions using standardized metrics.\n\n5. **Policy Development Research:** Study implementation of institutional policies and their effectiveness in promoting ethical AI use while maintaining academic integrity.\n\n6. **Interdisciplinary Approaches:** Integrate psychological and neuroscientific methods to detect real-time cognitive and brain activation changes during ChatGPT-assisted learning.",
+    "sources": [
+      {
+        "title": "Frontiers | Exploring the impact of ChatGPT: conversational AI in education",
+        "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1379796/full",
+        "page_age": "June 17, 2024"
+      },
+      {
+        "title": "ChatGPT for Education and Research: Opportunities, Threats, and Strategies | MDPI",
+        "url": "https://www.mdpi.com/2076-3417/13/9/5783",
+        "page_age": "May 8, 2023"
+      },
+      {
+        "title": "ChatGPT in higher education - a synthesis of the literature and a future research agenda | Education and Information Technologies | Springer Nature Link",
+        "url": "https://link.springer.com/article/10.1007/s10639-024-12723-x",
+        "page_age": "May 2, 2024"
+      },
+      {
+        "title": "Frontiers | The use of ChatGPT in teaching and learning: a systematic review through SWOT analysis approach",
+        "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1328769/full",
+        "page_age": "January 24, 2024"
+      },
+      {
+        "title": "How is ChatGPT impacting schools, really? Stanford researchers aim to find out | Stanford Report",
+        "url": "https://news.stanford.edu/stories/2025/07/chatgpt-open-ai-impact-schools-education-learning-data-research",
+        "page_age": null
+      },
+      {
+        "title": "Drivers and Consequences of ChatGPT Use in Higher Education: Key Stakeholder Perspectives - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10670526/",
+        "page_age": null
+      },
+      {
+        "title": "What Is the Impact of ChatGPT on Education? A Rapid Review of the Literature",
+        "url": "https://www.mdpi.com/2227-7102/13/4/410",
+        "page_age": "April 18, 2023"
+      },
+      {
+        "title": "(PDF) ChatGPT in education: An effect in search of a cause",
+        "url": "https://www.researchgate.net/publication/390563023_ChatGPT_in_education_An_effect_in_search_of_a_cause",
+        "page_age": "April 7, 2025"
+      },
+      {
+        "title": "ChatGPT in Research and Education: Exploring Benefits and Threats",
+        "url": "https://arxiv.org/html/2411.02816v1",
+        "page_age": "November 3, 2024"
+      },
+      {
+        "title": "ChatGPT in Higher Education: A Systematic Review of Opportunities, Perceptions, and Challenges[v1] | Preprints.org",
+        "url": "https://www.preprints.org/manuscript/202507.0567/v1",
+        "page_age": "July 7, 2025"
+      },
+      {
+        "title": "ChatGPT in Teaching and Learning: A Systematic Review",
+        "url": "https://www.mdpi.com/2227-7102/14/6/643",
+        "page_age": "June 14, 2024"
+      },
+      {
+        "title": "ChatGPT in higher education - a synthesis of the literature and a future research agenda | Education and Information Technologies | Springer Nature Link",
+        "url": "https://link.springer.com/article/10.1007/s10639-024-12723-x",
+        "page_age": "May 2, 2024"
+      },
+      {
+        "title": "Frontiers | The use of ChatGPT in teaching and learning: a systematic review through SWOT analysis approach",
+        "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1328769/full",
+        "page_age": "January 24, 2024"
+      },
+      {
+        "title": "Frontiers | Exploring education students' use of ChatGPT for academic and personal purposes: insights from a developing country context",
+        "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1580310/full",
+        "page_age": "April 14, 2025"
+      },
+      {
+        "title": "Exploring the impact of ChatGPT on education: A web mining and machine learning approach - ScienceDirect",
+        "url": "https://www.sciencedirect.com/science/article/pii/S147281172400003X",
+        "page_age": "January 12, 2024"
+      },
+      {
+        "title": "ChatGPT in Research and Education: Exploring Benefits and Threats",
+        "url": "https://arxiv.org/html/2411.02816v1",
+        "page_age": "November 3, 2024"
+      },
+      {
+        "title": "ChatGPT in education: A blessing or a curse? A qualitative study exploring early adopters\u2019 utilization and perceptions - ScienceDirect",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2949882123000270",
+        "page_age": "November 20, 2023"
+      },
+      {
+        "title": "ChatGPT in education: global reactions to AI innovations | Scientific Reports",
+        "url": "https://www.nature.com/articles/s41598-023-42227-6",
+        "page_age": "September 15, 2023"
+      },
+      {
+        "title": "Frontiers | Exploring the impact of ChatGPT: conversational AI in education",
+        "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1379796/full",
+        "page_age": "June 17, 2024"
+      },
+      {
+        "title": "Impact of the Implementation of ChatGPT in Education: A Systematic Review | MDPI",
+        "url": "https://www.mdpi.com/2073-431X/12/8/153",
+        "page_age": "July 29, 2023"
+      },
+      {
+        "title": "ChatGPT in higher education - a synthesis of the literature and a future research agenda | Education and Information Technologies | Springer Nature Link",
+        "url": "https://link.springer.com/article/10.1007/s10639-024-12723-x",
+        "page_age": "May 2, 2024"
+      },
+      {
+        "title": "ChatGPT in the higher education: A systematic literature review and research challenges - ScienceDirect",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0883035524000971",
+        "page_age": "July 17, 2024"
+      },
+      {
+        "title": "Drivers and Consequences of ChatGPT Use in Higher Education: Key Stakeholder Perspectives - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10670526/",
+        "page_age": null
+      },
+      {
+        "title": "Frontiers | The impact of ChatGPT on higher education",
+        "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1206936/full",
+        "page_age": "August 23, 2023"
+      },
+      {
+        "title": "The role and impact of ChatGPT in educational practices: insights from an Australian higher education case study | Discover Education",
+        "url": "https://link.springer.com/article/10.1007/s44217-024-00126-6",
+        "page_age": "June 11, 2024"
+      },
+      {
+        "title": "The effect of ChatGPT on students\u2019 learning performance, learning perception, and higher-order thinking: insights from a meta-analysis | Humanities and Social Sciences Communications",
+        "url": "https://www.nature.com/articles/s41599-025-04787-y",
+        "page_age": "May 6, 2025"
+      },
+      {
+        "title": "Frontiers | The use of ChatGPT in teaching and learning: a systematic review through SWOT analysis approach",
+        "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1328769/full",
+        "page_age": "January 24, 2024"
+      },
+      {
+        "title": "ChatGPT in Research and Education: Exploring Benefits and Threats",
+        "url": "https://arxiv.org/html/2411.02816v1",
+        "page_age": "November 3, 2024"
+      },
+      {
+        "title": "Frontiers | ChatGPT in higher education: factors influencing ChatGPT user satisfaction and continued use intention",
+        "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1354929/full",
+        "page_age": "April 17, 2024"
+      },
+      {
+        "title": "Mapping the global evidence around the use of ChatGPT in higher education: A systematic scoping review | Education and Information Technologies",
+        "url": "https://dl.acm.org/doi/abs/10.1007/s10639-023-12223-4",
+        "page_age": null
+      },
+      {
+        "title": "Generative Artificial Intelligence | Center for Teaching Innovation",
+        "url": "https://teaching.cornell.edu/generative-artificial-intelligence",
+        "page_age": null
+      },
+      {
+        "title": "Generative AI and future education: a review, theoretical validation, and authors\u2019 perspective on challenges and solutions - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11622955/",
+        "page_age": null
+      },
+      {
+        "title": "Full article: Generative artificial intelligence in education: Initial principles developed from practitioner reflexive research",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/00220671.2025.2510398",
+        "page_age": null
+      },
+      {
+        "title": "A Systematic Review of Generative AI for Teaching and Learning Practice | MDPI",
+        "url": "https://www.mdpi.com/2227-7102/14/6/636",
+        "page_age": "June 13, 2024"
+      },
+      {
+        "title": "The Use of Generative AI in Education: Applications, and Impact \u2013 Technology and the Curriculum: Summer 2023",
+        "url": "https://pressbooks.pub/techcurr2023/chapter/the-use-of-generative-ai-in-education-applications-and-impact/",
+        "page_age": null
+      },
+      {
+        "title": "(PDF) A Comprehensive Review on Generative AI for Education",
+        "url": "https://www.researchgate.net/publication/384375749_A_Comprehensive_Review_on_Generative_AI_for_Education",
+        "page_age": "January 1, 2024"
+      },
+      {
+        "title": "A Systematic Review of Responses, Attitudes, and Utilization Behaviors on Generative AI for Teaching and Learning in Higher Education - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12023922/",
+        "page_age": null
+      },
+      {
+        "title": "Guidance for generative AI in education and research",
+        "url": "https://unesdoc.unesco.org/ark:/48223/pf0000386693",
+        "page_age": null
+      },
+      {
+        "title": "Generative AI in Education and Research: Opportunities, Concerns, and Solutions | Journal of Chemical Education",
+        "url": "https://pubs.acs.org/doi/10.1021/acs.jchemed.3c00323",
+        "page_age": null
+      },
+      {
+        "title": "Are Generative AI Technologies Transforming Education for the 21st Century? Research Trends, Challenges, and Benefits - Muhammad Farrukh Shahzad, Shuo Xu, Xin An, Muhammad Asif, 2025",
+        "url": "https://journals.sagepub.com/doi/10.1177/21582440251368594",
+        "page_age": null
+      },
+      {
+        "title": "Frontiers | The use of ChatGPT in teaching and learning: a systematic review through SWOT analysis approach",
+        "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1328769/full",
+        "page_age": "January 24, 2024"
+      },
+      {
+        "title": "Drivers and Consequences of ChatGPT Use in Higher Education: Key Stakeholder Perspectives - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10670526/",
+        "page_age": null
+      },
+      {
+        "title": "ChatGPT in Teaching and Learning: A Systematic Review",
+        "url": "https://www.mdpi.com/2227-7102/14/6/643",
+        "page_age": "June 14, 2024"
+      },
+      {
+        "title": "Frontiers | One year in the classroom with ChatGPT: empirical insights and transformative impacts",
+        "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1574477/full",
+        "page_age": "May 2, 2025"
+      },
+      {
+        "title": "Frontiers | Exploring the impact of ChatGPT: conversational AI in education",
+        "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1379796/full",
+        "page_age": "June 17, 2024"
+      },
+      {
+        "title": "Impact of the Implementation of ChatGPT in Education: A Systematic Review | MDPI",
+        "url": "https://www.mdpi.com/2073-431X/12/8/153",
+        "page_age": "July 29, 2023"
+      },
+      {
+        "title": "Exploring the application of ChatGPT in ESL/EFL education and related research issues: a systematic review of empirical studies | Smart Learning Environments | Full Text",
+        "url": "https://slejournal.springeropen.com/articles/10.1186/s40561-024-00342-5",
+        "page_age": "November 7, 2024"
+      },
+      {
+        "title": "The effect of ChatGPT on students\u2019 learning performance, learning perception, and higher-order thinking: insights from a meta-analysis | Humanities and Social Sciences Communications",
+        "url": "https://www.nature.com/articles/s41599-025-04787-y",
+        "page_age": "May 6, 2025"
+      },
+      {
+        "title": "A Comprehensive Review of ChatGPT in Teaching and Learning Within Higher Education",
+        "url": "https://www.mdpi.com/2227-9709/12/3/74",
+        "page_age": "July 21, 2025"
+      },
+      {
+        "title": "ChatGPT in Education: A Systematic Review on Opportunities, Challenges, and Future Directions",
+        "url": "https://www.mdpi.com/1999-4893/18/6/352",
+        "page_age": "June 6, 2025"
+      },
+      {
+        "title": "The effect of ChatGPT on students\u2019 learning performance, learning perception, and higher-order thinking: insights from a meta-analysis | Humanities and Social Sciences Communications",
+        "url": "https://www.nature.com/articles/s41599-025-04787-y",
+        "page_age": "May 6, 2025"
+      },
+      {
+        "title": "Examining the effect of ChatGPT usage on students\u2019 academic learning and achievement: A survey-based study in Ajman, UAE - ScienceDirect",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2666920X2400119X",
+        "page_age": "October 24, 2024"
+      },
+      {
+        "title": "Full article: The effectiveness of ChatGPT in assisting high school students in programming learning: evidence from a quasi-experimental research",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/10494820.2025.2450659",
+        "page_age": null
+      },
+      {
+        "title": "Undergraduate Students\u2019 Learning Outcomes with ChatGPT: A Meta-Analytic Study, - ScienceDirect",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2666920X25001766",
+        "page_age": "1 month ago"
+      },
+      {
+        "title": "Is it harmful or helpful? Examining the causes and consequences of generative AI usage among university students | International Journal of Educational Technology in Higher Education | Springer Nature Link",
+        "url": "https://link.springer.com/article/10.1186/s41239-024-00444-7",
+        "page_age": "February 16, 2024"
+      },
+      {
+        "title": "Does ChatGPT enhance student learning? A systematic review and meta-analysis of experimental studies - ScienceDirect",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0360131524002380",
+        "page_age": "December 12, 2024"
+      },
+      {
+        "title": "The Impact of ChatGPT on Student Learning Outcomes: A Comparative Study of Cognitive Engagement, Procrastination, and Academic Performance by Khritish Swargiary :: SSRN",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4914743",
+        "page_age": "September 9, 2024"
+      },
+      {
+        "title": "Frontiers | The use of ChatGPT in teaching and learning: a systematic review through SWOT analysis approach",
+        "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1328769/full",
+        "page_age": "January 24, 2024"
+      },
+      {
+        "title": "Frontiers | Exploring the impact of ChatGPT: conversational AI in education",
+        "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1379796/full",
+        "page_age": "June 17, 2024"
+      },
+      {
+        "title": "(PDF) ChatGPT on Student Learning Outcomes in Higher Education: A Meta-Analysis of Early Studies",
+        "url": "https://www.researchgate.net/publication/380540021_ChatGPT_on_Student_Learning_Outcomes_in_Higher_Education_A_Meta-Analysis_of_Early_Studies",
+        "page_age": "May 13, 2024"
+      },
+      {
+        "title": "Use of ChatGPT in academia: Academic integrity hangs in the balance - ScienceDirect",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0160791X23001756",
+        "page_age": "September 11, 2023"
+      },
+      {
+        "title": "ChatGPT, Artificial Intelligence, and Academic Integrity // Office of Academic Integrity",
+        "url": "https://oai.missouri.edu/chatgpt-artificial-intelligence-and-academic-integrity/",
+        "page_age": null
+      },
+      {
+        "title": "Full article: Chatting and cheating: Ensuring academic integrity in the era of ChatGPT",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/14703297.2023.2190148",
+        "page_age": null
+      },
+      {
+        "title": "ChatGPT in academic assessments: upholding integrity | Journal of Learning Development in Higher Education",
+        "url": "https://journal.aldinhe.ac.uk/index.php/jldhe/article/view/1491",
+        "page_age": "June 15, 2025"
+      },
+      {
+        "title": "How Do We Maintain Academic Integrity in the ChatGPT Era? | AAC&U",
+        "url": "https://www.aacu.org/liberaleducation/articles/how-do-we-maintain-academic-integrity-in-the-chatgpt-era",
+        "page_age": "March 13, 2024"
+      },
+      {
+        "title": "ChatGPT - Introduction to Academic Integrity - Research Guides at University of Michigan Library",
+        "url": "https://guides.lib.umich.edu/c.php?g=1039501&p=9763907",
+        "page_age": null
+      },
+      {
+        "title": "ChatGPT Unveiled: Understanding Perceptions of Academic Integrity in Higher Education - A Qualitative Approach | Journal of Academic Ethics",
+        "url": "https://link.springer.com/article/10.1007/s10805-024-09543-6",
+        "page_age": "July 30, 2024"
+      },
+      {
+        "title": "Chat or cheat? Academic dishonesty, risk perceptions, and ChatGPT usage in higher education students | Social Psychology of Education",
+        "url": "https://link.springer.com/article/10.1007/s11218-025-10080-2",
+        "page_age": "May 28, 2025"
+      },
+      {
+        "title": "Ensuring academic integrity in the age of ChatGPT",
+        "url": "https://files.eric.ed.gov/fulltext/EJ1460216.pdf",
+        "page_age": null
+      },
+      {
+        "title": "(PDF) ChatGPT and Academic Integrity",
+        "url": "https://www.researchgate.net/publication/368583299_ChatGPT_and_Academic_Integrity",
+        "page_age": "January 1, 2023"
+      },
+      {
+        "title": "Frontiers | The impact of ChatGPT on higher education",
+        "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1206936/full",
+        "page_age": "August 23, 2023"
+      },
+      {
+        "title": "Drivers and Consequences of ChatGPT Use in Higher Education: Key Stakeholder Perspectives - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10670526/",
+        "page_age": null
+      },
+      {
+        "title": "ChatGPT in higher education - a synthesis of the literature and a future research agenda | Education and Information Technologies | Springer Nature Link",
+        "url": "https://link.springer.com/article/10.1007/s10639-024-12723-x",
+        "page_age": "May 2, 2024"
+      },
+      {
+        "title": "Introducing ChatGPT Edu",
+        "url": "https://openai.com/index/introducing-chatgpt-edu/",
+        "page_age": null
+      },
+      {
+        "title": "ChatGPT Education | OpenAI",
+        "url": "https://openai.com/chatgpt/education/",
+        "page_age": null
+      },
+      {
+        "title": "ChatGPT in the higher education: A systematic literature review and research challenges - ScienceDirect",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0883035524000971",
+        "page_age": "July 17, 2024"
+      },
+      {
+        "title": "Frontiers | The use of ChatGPT in teaching and learning: a systematic review through SWOT analysis approach",
+        "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1328769/full",
+        "page_age": "January 24, 2024"
+      },
+      {
+        "title": "Generative AI in higher education: Seeing ChatGPT through universities' policies, resources, and guidelines - ScienceDirect",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2666920X24001292",
+        "page_age": "October 30, 2024"
+      },
+      {
+        "title": "ChatGPT in Teaching and Learning: A Systematic Review",
+        "url": "https://www.mdpi.com/2227-7102/14/6/643",
+        "page_age": "June 14, 2024"
+      },
+      {
+        "title": "(PDF) The impact of ChatGPT on higher education",
+        "url": "https://www.researchgate.net/publication/373602706_The_Impact_of_ChatGPT_on_Higher_Education",
+        "page_age": "September 8, 2023"
+      },
+      {
+        "title": "Does ChatGPT enhance student learning? A systematic review and meta-analysis of experimental studies - ScienceDirect",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0360131524002380",
+        "page_age": "December 12, 2024"
+      },
+      {
+        "title": "Does ChatGPT enhance student learning? A systematic review and meta-analysis of experimental studies | SCALE Initiative",
+        "url": "https://scale.stanford.edu/ai/repository/does-chatgpt-enhance-student-learning-systematic-review-and-meta-analysis",
+        "page_age": null
+      },
+      {
+        "title": "ChatGPT in Education: A Systematic Review on Opportunities, Challenges, and Future Directions",
+        "url": "https://www.mdpi.com/1999-4893/18/6/352",
+        "page_age": "June 6, 2025"
+      },
+      {
+        "title": "How ChatGPT impacts student engagement from a systematic review and meta-analysis study - ScienceDirect",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2666920X25000013",
+        "page_age": "January 2, 2025"
+      },
+      {
+        "title": "Frontiers | The use of ChatGPT in teaching and learning: a systematic review through SWOT analysis approach",
+        "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1328769/full",
+        "page_age": "January 24, 2024"
+      },
+      {
+        "title": "The effect of ChatGPT on students\u2019 learning performance, learning perception, and higher-order thinking: insights from a meta-analysis | Humanities and Social Sciences Communications",
+        "url": "https://www.nature.com/articles/s41599-025-04787-y",
+        "page_age": "May 6, 2025"
+      },
+      {
+        "title": "A systematic literature review of empirical research on ChatGPT in education | Discover Education",
+        "url": "https://link.springer.com/article/10.1007/s44217-024-00138-2",
+        "page_age": "May 26, 2024"
+      },
+      {
+        "title": "Systematic review of ChatGPT in higher education: Navigating impact on learning, wellbeing, and collaboration - ScienceDirect",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2590291125005947",
+        "page_age": "August 4, 2025"
+      },
+      {
+        "title": "ChatGPT Interventions in Higher Education: A Systematic Review of Experimental Studies - Jin - 2025 - Journal of Computer Assisted Learning - Wiley Online Library",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1111/jcal.70072",
+        "page_age": "June 5, 2025"
+      },
+      {
+        "title": "A Systematic Review and Meta-analysis of the Impact of the Application of ChatGPT in Education | Scholarly Journal of Science and Technology Research and Development",
+        "url": "https://www.openjournals.ijaar.org/index.php/sjstrd/article/view/440",
+        "page_age": "March 8, 2024"
+      },
+      {
+        "title": "The Impact of ChatGPT on Academic Writing Skills and ...",
+        "url": "https://files.eric.ed.gov/fulltext/EJ1470999.pdf",
+        "page_age": null
+      },
+      {
+        "title": "ChatGPT in academic writing: Maximizing its benefits and minimizing the risks - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10788737/",
+        "page_age": null
+      },
+      {
+        "title": "Is ChatGPT the Future of Academic Writing? A Sequential Explanatory Study to Explore Generative Conversational AI as an Academic Writing Support Tool for Research Scholars - Anusha Anthony, Sonal Sharma, Sudhanshu Sharma, 2025",
+        "url": "https://journals.sagepub.com/doi/10.1177/02704676251353105",
+        "page_age": null
+      },
+      {
+        "title": "ChatGPT in Academic Writing: A Scientometric Analysis of Literature Published Between 2022 and 2023 - Gergely Ferenc Lendvai, 2025",
+        "url": "https://journals.sagepub.com/doi/10.1177/15562646251350203",
+        "page_age": null
+      },
+      {
+        "title": "ChatGPT for Research and Publication: A Step-by-Step Guide - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10731938/",
+        "page_age": null
+      },
+      {
+        "title": "Writing with ChatGPT: An Illustration of its Capacity, Limitations & Implications for Academic Writers - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10312253/",
+        "page_age": null
+      },
+      {
+        "title": "How do students use ChatGPT as a writing support? - Levine - 2025 - Journal of Adolescent & Adult Literacy - Wiley Online Library",
+        "url": "https://ila.onlinelibrary.wiley.com/doi/full/10.1002/jaal.1373",
+        "page_age": "July 25, 2024"
+      },
+      {
+        "title": "ChatGPT in higher education - a synthesis of the literature and a future research agenda | Education and Information Technologies | Springer Nature Link",
+        "url": "https://link.springer.com/article/10.1007/s10639-024-12723-x",
+        "page_age": "May 2, 2024"
+      },
+      {
+        "title": "Comparing the quality of human and ChatGPT feedback of students\u2019 writing - ScienceDirect",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0959475224000215",
+        "page_age": "March 11, 2024"
+      },
+      {
+        "title": "Three ways ChatGPT helps me in my academic writing",
+        "url": "https://www.nature.com/articles/d41586-024-01042-3",
+        "page_age": "April 8, 2024"
+      }
+    ],
+    "search_count": 0,
+    "time_seconds": 61.735039949417114
+  },
+  "metrics": {
+    "exa_traceability": 100.0,
+    "exa_supported": 17,
+    "exa_tier_a": 35,
+    "exa_tier_a_pct": 43.75,
+    "exa_cost": 0.1401,
+    "claude_traceability": 100.0,
+    "claude_supported": 22,
+    "claude_tier_a": 22,
+    "claude_tier_a_pct": 22.0,
+    "claude_cost": 0.4439
+  }
+}

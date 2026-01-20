@@ -1,0 +1,974 @@
+{
+  "timestamp": "2026-01-20T00:28:11.709075",
+  "query": "How does US drug pricing compare to Canada, UK, and Germany for the same medications?",
+  "query_category": "Comparative Reporting",
+  "app_type": "general",
+  "webset_category": null,
+  "search_type": "neural",
+  "num_results": 10,
+  "exa": {
+    "analysis_text": "Now I have sufficient information to compile a comprehensive analysis. Let me format the findings according to the requested structure.\n\n## 1. KEY FINDINGS\n\n### Overall Price Comparisons\n\n**Claim:** US prescription drug prices are approximately 2.78 times higher than those in other OECD countries as of 2022.\n**Quote:** \"Prescription drug prices in the United States are significantly higher than in other nations, with prices averaging 2.78 times those seen in 33 other nations\"\n**Source:** https://www.rand.org/news/press/2024/02/01.html\n\n**Claim:** For Medicare's first 10 negotiated drugs, US prices ranged from 3 to 8 times higher than every comparison country in 2021.\n**Quote:** \"For a basket of the 10 selected drugs in 2021, the price in the U.S. is three to eight times the price in every c\"\n**Source:** https://www.commonwealthfund.org/sites/default/files/2023-12/PDF_Gumas_IRA_drugs_intl_price_comparison_exhibits.pdf\n\n**Claim:** US net prices for selected brand drugs were more than two to four times higher than publicly available prices in Australia, Canada, and France.\n**Quote:** \"U.S. Net Prices for Selected Drugs Were, on Average, More than Two to Four Times Higher than Publicly Available Prices in Australia\"\n**Source:** https://www.gao.gov/assets/720/713431.pdf\n\n### Insulin-Specific Comparisons\n\n**Claim:** US insulin prices are often five to ten times higher than those in other countries.\n**Quote:** \"U.S. Insulin Prices Are Often Five to Ten Times Higher Than Those in Other Countries\"\n**Source:** https://www.rand.org/pubs/research_reports/RRA788-1.html\n\n### Structural Differences in Price Regulation\n\n**Claim:** Canada has a federal board that reviews patented medicine prices to protect Canadians from excessive pricing.\n**Quote:** \"The Patented Medicine Prices Review Board (PMPRB) reviews patented medicine price to protect Canadians from any patent abuse related to excessive prices\"\n**Source:** https://www.canada.ca/en/patented-medicine-prices-review.html\n\n**Claim:** The UK's National Health Service is legally required to fund medicines recommended through technology appraisal.\n**Quote:** \"The NHS is legally obliged to fund and resource medicines and other treatments recommended by our\"\n**Source:** https://www.nice.org.uk/About/What-we-do/Our-Programmes/NICE-guidance/NICE-technology-appraisal-guidance\n\n**Claim:** The Medicare Modernization Act prohibited the Secretary of Health and Human Services from negotiating drug prices.\n**Quote:** \"The Medicare Modernization Act contained a provision that prohibits the Secretary both from interfer\"\n**Source:** https://www.cbo.gov/sites/default/files/110th-congress-2007-2008/reports/drugpricenegotiation.pdf\n\n### Germany's Price Regulation System\n\n**Claim:** Germany employs a drug price moderation system with specific regulatory mechanisms.\n**Quote:** [Note: The search returned references to a Commonwealth Fund report on \"Drug Price Moderation in Germany: Lessons for U.S. Reform Efforts\" but did not provide extractable quotes]\n**Source:** https://www.commonwealthfund.org/publications/issue-briefs/2020/jan/drug-price-moderation-germany-lessons-us-reform-efforts\n\n**Note:** Germany uses a health technology assessment and negotiation system to control pharmaceutical costs. [INFERENCE - specific mechanisms not quoted in available excerpts]\n\n### Historical US Policy Context\n\n**Claim:** Until the Inflation Reduction Act of 2022, Medicare was legally prohibited from negotiating prescription drug prices.\n**Quote:** \"In August 2022, President Biden signed the Inflation Reduction Act (IRA) of 2022 (P.L. 117-169) into law\"\n**Source:** https://www.cms.gov/files/document/fact-sheetrevised-drug-price-negotiation-program-guidance-june-2023.pdf\n\n### Comparative Healthcare Spending\n\n**Claim:** The United States spends more per capita on prescription drugs than other OECD nations.\n**Quote:** \"prior research shows that the United States spends more per capita on prescription drugs than do other Organisation for Economic Co-operation and Development (OECD) nations\"\n**Source:** https://www.rand.org/content/dam/rand/pubs/research_briefs/RBA1200/RBA1296-1/RAND_RBA1296-1.pdf\n\n## 2. SOURCE QUALITY ASSESSMENT\n\n**Government and Quasi-Governmental Sources:**\n- The RAND Corporation reports (commissioned by HHS) represent rigorous peer-reviewed research using comprehensive price index methodologies across 33+ OECD countries\n- US Government Accountability Office (GAO) reports provide independent, non-partisan analysis\n- HHS/ASPE (Assistant Secretary for Planning and Evaluation) reports represent official government research\n- Congressional Budget Office (CBO) reports offer non-partisan analysis for Congress\n\n**International Regulatory Bodies:**\n- Canada's PMPRB is an official government regulatory agency\n- UK's NICE (National Institute for Health and Care Excellence) is the official health technology assessment body\n- These sources provide direct insight into regulatory frameworks\n\n**Non-Profit Research:**\n- The Commonwealth Fund is a well-established, non-partisan health policy foundation\n- Reports are authored by credentialed researchers with transparent methodologies\n\n**Overall Assessment:** Sources are highly credible, predominantly government or government-commissioned research with transparent methodologies. The consistency across multiple independent sources (RAND, GAO, HHS, Commonwealth Fund) strengthens confidence in the findings.\n\n## 3. GAPS OR CONTRADICTIONS\n\n**Methodological Gaps:**\n1. Most studies compare \"list\" or \"gross\" prices rather than final net prices after rebates, which vary significantly by country and payer\n2. Limited data available on Germany-specific comparisons in the search results (referenced but not detailed)\n3. The exact mechanisms of Germany's AMNOG system were not captured in extractable quotes\n\n**Temporal Gaps:**\n1. Studies use data from different years (2018, 2021, 2022), making direct comparisons challenging\n2. The Inflation Reduction Act of 2022 represents a major policy shift - long-term effects unknown\n\n**Missing Information:**\n1. No specific drug-by-drug price comparisons for identical medications were directly quoted\n2. Limited information on patient out-of-pocket costs versus system-level pricing\n3. Incomplete data on how rebate systems in different countries affect final prices\n\n**No Major Contradictions Identified:** The sources are remarkably consistent in finding US prices are 2-8 times higher than comparison countries, though exact multipliers vary by study methodology and drug category.\n\n## 4. RECOMMENDED NEXT STEPS\n\n**For Deeper Understanding:**\n\n1. **Obtain full-text access to:**\n   - The RAND RRA788-3 report (2022 data) for detailed country-by-country breakdowns\n   - The Commonwealth Fund Germany study for specific mechanisms of AMNOG system\n   - GAO-21-282 full report for individual drug price comparisons\n\n2. **Research specific regulatory mechanisms:**\n   - Germany's AMNOG (Act on the Reform of the Market for Medicinal Products) system details\n   - UK's NICE cost-effectiveness threshold methodologies\n   - Canada's PMPRB price ceiling calculation methods\n\n3. **Investigate net vs. gross pricing:**\n   - How pharmaceutical rebate systems work in each country\n   - Actual patient out-of-pocket costs by country\n   - Insurance/public payer final negotiated prices\n\n4. **Examine specific drug classes:**\n   - Cancer medications (often highest cost differential)\n   - Biologics vs. small molecule drugs\n   - Generic vs. brand-name medication pricing differences\n\n5. **Analyze post-IRA impacts:**\n   - Track implementation of Medicare negotiation program\n   - Compare first 10 negotiated drug prices to international benchmarks\n   - Assess pharmaceutical industry responses\n\n6. **Explore causal mechanisms:**\n   - Role of direct-to-consumer advertising (legal in US, banned in most other countries)\n   - Patent and exclusivity period differences\n   - Pharmacy benefit manager (PBM) role in US vs. other countries",
+    "sources": [
+      {
+        "title": "",
+        "url": "https://aspe.hhs.gov/sites/default/files/documents/8e057b0a094e6f9b9d01171fce6698f4/international-price-comparisons.pdf",
+        "published": "2024-01-26T00:00:00.000Z",
+        "excerpt": "CONTRACTOR PROJECT REPORT\nInternational Prescription Drug Price \nComparisons: \nEstimates Using 2022 Data\nAssistant Secretary for Planning and Evaluation (ASPE)\nU.S. Department of Health & Human Services\nFebruary 2024\n2 \nOffice of Health Policy\nThe Office of Health Policy (HP) provides a cross-cutting policy perspective that bridges Departmental \nprograms, public and private sector activities, and the research community, in order to develop, analyze, \ncoordinate, and provide leadership on health "
+      },
+      {
+        "title": "",
+        "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RRA700/RRA788-3/RAND_RRA788-3.pdf",
+        "published": "2023-11-29T00:00:00.000Z",
+        "excerpt": "C O R P O R A T I O N\nANDREW W. MULCAHY, DANIEL SCHWAM, SUSAN L. LOVEJOY\nInternational \nPrescription Drug \nPrice Comparisons\nEstimates Using 2022 Data\nResearch Report\nFor more information on this publication, visit www.rand.org/t/RRA788-3.\nAbout RAND\nThe RAND Corporation is a research organization that develops solutions to public policy challenges to help make communities \nthroughout the world safer and more secure, healthier and more prosperous. RAND is nonprofit, nonpartisan, and committed to"
+      },
+      {
+        "title": "Comparing Prescription Drugs in the U.S. and Other Countries: Prices and Availability",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK611301/",
+        "published": "2024-02-01T00:00:00.000Z",
+        "excerpt": "**The .gov means it's official.**\nFederal government websites often end in .gov or .mil. Before\nsharing sensitive information, make sure you're on a federal\ngovernment site.\n\n**The site is secure.**\nThe **https://** ensures that you are connecting to the\nofficial website and that any information you provide is encrypted\nand transmitted securely.\n\n[Access keys] [NCBI Homepage] [MyNCBI Homepage] [Main Content] [Main Navigation] \n\nNCBI Bookshelf. A service of the National Library of Medicine, Natio"
+      },
+      {
+        "title": "",
+        "url": "https://aspe.hhs.gov/sites/default/files/documents/277371265a705c356c968977e87446ae/international-price-comparisons.pdf",
+        "published": "2024-01-26T00:00:00.000Z",
+        "excerpt": "Assistant Secretary for Planning and Evaluation (ASPE)\nU.S. Department of Health & Human Services\nFebruary 2024\nInternational Prescription Drug Price \nComparisons: \nEstimates Using 2022 Data\n \nCONTRACTOR PROJECT REPORT\n2 \nOffice of Health Policy\nThe Office of Health Policy (HP) provides a cross-cutting policy perspective that bridges Departmental \nprograms, public and private sector activities, and the research community, in order to develop, analyze, \ncoordinate, and provide leadership on healt"
+      },
+      {
+        "title": "International Prescription Drug Price Comparisons",
+        "url": "https://www.rand.org/pubs/research_reports/RRA788-3.html",
+        "published": null,
+        "excerpt": "International Prescription Drug Price Comparisons: Estimates Using 2022 Data | RAND\n* [Skip to page content] \n[![RAND]] \n[Toggle Menu] \n[ToggleSearch] \nSearch termsSubmit\nUnderstanding the extent to which prescription drug prices are higher in the United States than in other countries is useful when developing policies to address both growth in drug spending and the financial impact of prescription drugs on consumers. This report summarizes findings from comparisons of drug prices in the United "
+      },
+      {
+        "title": "International Prescription Drug Price Comparisons",
+        "url": "https://www.rand.org/pubs/research_reports/RR2956.html",
+        "published": "2021-01-28T00:00:00.000Z",
+        "excerpt": "International Prescription Drug Price Comparisons: Current Empirical Estimates and Comparisons with Previous Studies | RAND\n* [Skip to page content] \n[![RAND]] \n[Toggle Menu] \n[ToggleSearch] \nSearch termsSubmit\nUnderstanding the extent to which drug prices are higher in the United States than in other countries is useful when developing and targeting policies to address both growth in drug spending and the financial impact of prescription drugs on consumers. This report provides findings related"
+      },
+      {
+        "title": "How Prices for the First 10 Drugs Up for U.S. Medicare Price Negotiations Compare Internationally",
+        "url": "https://www.commonwealthfund.org/publications/2024/jan/how-prices-first-10-drugs-medicare-negotiations-compare-internationally",
+        "published": "2024-01-04T00:00:00.000Z",
+        "excerpt": "Prices of Drugs Medicare Is Negotiating | Commonwealth Fund\n[Skip to main content] \nArrows iconBurger menu iconCaret down iconThick caret down iconCheck iconClose iconThick close iconFacebook iconFilled arrow up iconThin left arrow iconLinkedIn iconLogo iconMail iconOpen iconPlay iconPrint iconThin right arrow iconSearch iconShare iconTriangle iconTwitter icon\nBy continuing on our website, you agree to our use of the cookie for statistical and personalization purpose.[Learn More] \nAccept\n[![The "
+      },
+      {
+        "title": "GAO-21-282, Accessible Version, PRESCRIPTION DRUGS: U.S. Prices for Selected Brand Drugs Were Higher on Average than Prices in Australia, Canada, and France",
+        "url": "https://www.gao.gov/assets/720/713431.pdf",
+        "published": "2021-03-29T00:00:00.000Z",
+        "excerpt": "PRESCRIPTION\u00a0\nDRUGS\nU.S.\u00a0Prices\u00a0for\u00a0\nSelected\u00a0Brand\u00a0Drugs\u00a0\nWere\u00a0Higher\u00a0on\u00a0\nAverage\u00a0than\u00a0Prices\u00a0\nin\u00a0Australia,\u00a0Canada,\u00a0\nand\u00a0France\nAccessible Version\nReport\u00a0to\u00a0the\u00a0Chairman,\u00a0Committee\u00a0on\u00a0\nthe\u00a0Budget,\u00a0U.S. Senate\nMarch 2021\nGAO-21-282\nUnited States Government Accountability Office\nPage i GAO-21-282 International Drug Price Comparison\nContents\nLetter 1\nBackground 7\nU.S. Net Prices for Selected Drugs Were, on Average, More than \nTwo to Four Times Higher than Publicly Available Prices in \nAustralia, "
+      },
+      {
+        "title": "International Prescription Drug Price Comparisons: Current Empirical Estimates and Comparisons with Previous Studies",
+        "url": "https://aspe.hhs.gov/reports/international-prescription-drug-price-comparisons",
+        "published": "2022-07-01T00:00:00.000Z",
+        "excerpt": "International Prescription Drug Price Comparisons: Current Empirical Estimates and Comparisons with Previous Studies | ASPE[Skip to main content] \nDue to current HHS restructuring, the information provided on aspe.hhs.gov is not being updated currently. Please refer to[hhs.gov] for more information.\n![U.S. flag] \nAn official website of the United States government\nHere\u2019s how you know\nHere's how you know\n![Dot gov] \n**The .gov means it\u2019s official.**\nFederal government websites often end in .gov o"
+      },
+      {
+        "title": "",
+        "url": "https://www.commonwealthfund.org/sites/default/files/2023-12/PDF_Gumas_IRA_drugs_intl_price_comparison_exhibits.pdf",
+        "published": "2023-12-18T00:00:00.000Z",
+        "excerpt": "Evan D. Gumas\nPaige Huffman\nIrene Papanicolas\nReginald D. Williams II\nJanuary 2024\nHow Prices for the First 10 Drugs Up \nfor U.S. Medicare Price Negotiations \nCompare Internationally\nEvan D. Gumas et al., \u201cHow Prices for the First 10 Drugs Up for U.S. Medicare Price Negotiations Compare \nInternationally,\u201d chartpack, Commonwealth Fund, Jan. 4, 2024. https://doi.org/10.26099/szw4-d082\nFor a basket of the 10 selected drugs in 2021, the price in the U.S. is \nthree to eight times the price in every c"
+      },
+      {
+        "title": "",
+        "url": "https://aspe.hhs.gov/sites/default/files/documents/8e057b0a094e6f9b9d01171fce6698f4/international-price-comparisons.pdf",
+        "published": "2024-01-26T00:00:00.000Z",
+        "excerpt": "CONTRACTOR PROJECT REPORT\nInternational Prescription Drug Price \nComparisons: \nEstimates Using 2022 Data\nAssistant Secretary for Planning and Evaluation (ASPE)\nU.S. Department of Health & Human Services\nFebruary 2024\n2 \nOffice of Health Policy\nThe Office of Health Policy (HP) provides a cross-cutting policy perspective that bridges Departmental \nprograms, public and private sector activities, and the research community, in order to develop, analyze, \ncoordinate, and provide leadership on health "
+      },
+      {
+        "title": "International Prescription Drug Price Comparisons: Estimates Using 2022 Data",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK611303/",
+        "published": "2024-02-01T00:00:00.000Z",
+        "excerpt": "International Prescription Drug Price Comparisons: Estimates Using 2022 Data - Comparing Prescription Drugs in the U.S. and Other Countries: Prices and Availability - NCBI Bookshelf\n![U.S. flag] \nAn official website of the United States government\nHere's how you know\n![Dot gov] \n**The .gov means it's official.**\nFederal government websites often end in .gov or .mil. Before\nsharing sensitive information, make sure you're on a federal\ngovernment site.\n![Https] \n**The site is secure.**\nThe**https:/"
+      },
+      {
+        "title": "Comparing Prescription Drugs in the U.S. and Other Countries: Prices and Availability",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK611301/",
+        "published": "2024-02-01T00:00:00.000Z",
+        "excerpt": "**The .gov means it's official.**\nFederal government websites often end in .gov or .mil. Before\nsharing sensitive information, make sure you're on a federal\ngovernment site.\n\n**The site is secure.**\nThe **https://** ensures that you are connecting to the\nofficial website and that any information you provide is encrypted\nand transmitted securely.\n\n[Access keys] [NCBI Homepage] [MyNCBI Homepage] [Main Content] [Main Navigation] \n\nNCBI Bookshelf. A service of the National Library of Medicine, Natio"
+      },
+      {
+        "title": "",
+        "url": "https://aspe.hhs.gov/sites/default/files/documents/277371265a705c356c968977e87446ae/international-price-comparisons.pdf",
+        "published": "2024-01-26T00:00:00.000Z",
+        "excerpt": "Assistant Secretary for Planning and Evaluation (ASPE)\nU.S. Department of Health & Human Services\nFebruary 2024\nInternational Prescription Drug Price \nComparisons: \nEstimates Using 2022 Data\n \nCONTRACTOR PROJECT REPORT\n2 \nOffice of Health Policy\nThe Office of Health Policy (HP) provides a cross-cutting policy perspective that bridges Departmental \nprograms, public and private sector activities, and the research community, in order to develop, analyze, \ncoordinate, and provide leadership on healt"
+      },
+      {
+        "title": "International Prescription Drug Price Comparisons",
+        "url": "https://www.rand.org/pubs/research_reports/RR2956.html",
+        "published": "2021-01-28T00:00:00.000Z",
+        "excerpt": "International Prescription Drug Price Comparisons: Current Empirical Estimates and Comparisons with Previous Studies | RAND\n* [Skip to page content] \n[![RAND]] \n[Toggle Menu] \n[ToggleSearch] \nSearch termsSubmit\nUnderstanding the extent to which drug prices are higher in the United States than in other countries is useful when developing and targeting policies to address both growth in drug spending and the financial impact of prescription drugs on consumers. This report provides findings related"
+      },
+      {
+        "title": "International Prescription Drug Price Comparisons",
+        "url": "https://www.rand.org/pubs/research_reports/RRA788-3.html",
+        "published": null,
+        "excerpt": "International Prescription Drug Price Comparisons: Estimates Using 2022 Data | RAND\n* [Skip to page content] \n[![RAND]] \n[Toggle Menu] \n[ToggleSearch] \nSearch termsSubmit\nUnderstanding the extent to which prescription drug prices are higher in the United States than in other countries is useful when developing policies to address both growth in drug spending and the financial impact of prescription drugs on consumers. This report summarizes findings from comparisons of drug prices in the United "
+      },
+      {
+        "title": "International Prescription Drug Price Comparisons: Current Empirical Estimates and Comparisons with Previous Studies",
+        "url": "https://aspe.hhs.gov/reports/international-prescription-drug-price-comparisons",
+        "published": "2022-07-01T00:00:00.000Z",
+        "excerpt": "International Prescription Drug Price Comparisons: Current Empirical Estimates and Comparisons with Previous Studies | ASPE[Skip to main content] \nDue to current HHS restructuring, the information provided on aspe.hhs.gov is not being updated currently. Please refer to[hhs.gov] for more information.\n![U.S. flag] \nAn official website of the United States government\nHere\u2019s how you know\nHere's how you know\n![Dot gov] \n**The .gov means it\u2019s official.**\nFederal government websites often end in .gov o"
+      },
+      {
+        "title": "Comparing U.S. and International Market Size and Average Pricing for Prescription Drugs, 2017-2022",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK611829/",
+        "published": "2024-12-01T00:00:00.000Z",
+        "excerpt": "Comparing U.S. and International Market Size and Average Pricing for Prescription Drugs, 2017-2022 - NCBI Bookshelf\n![U.S. flag] \nAn official website of the United States government\nHere's how you know\n![Dot gov] \n**The .gov means it's official.**\nFederal government websites often end in .gov or .mil. Before\nsharing sensitive information, make sure you're on a federal\ngovernment site.\n![Https] \n**The site is secure.**\nThe**https://**ensures that you are connecting to the\nofficial website and tha"
+      },
+      {
+        "title": "How Prices for the First 10 Drugs Up for U.S. Medicare Price Negotiations Compare Internationally",
+        "url": "https://www.commonwealthfund.org/publications/2024/jan/how-prices-first-10-drugs-medicare-negotiations-compare-internationally",
+        "published": "2024-01-04T00:00:00.000Z",
+        "excerpt": "Prices of Drugs Medicare Is Negotiating | Commonwealth Fund\n[Skip to main content] \nArrows iconBurger menu iconCaret down iconThick caret down iconCheck iconClose iconThick close iconFacebook iconFilled arrow up iconThin left arrow iconLinkedIn iconLogo iconMail iconOpen iconPlay iconPrint iconThin right arrow iconSearch iconShare iconTriangle iconTwitter icon\nBy continuing on our website, you agree to our use of the cookie for statistical and personalization purpose.[Learn More] \nAccept\n[![The "
+      },
+      {
+        "title": "",
+        "url": "https://www.rand.org/content/dam/rand/pubs/research_briefs/RBA1200/RBA1296-1/RAND_RBA1296-1.pdf",
+        "published": "2021-04-08T00:00:00.000Z",
+        "excerpt": "RESEARCH \nBRIEF\nU.S. Prescription Drug Prices Are \n2.5 Times Those in Other OECD \nCountries\nC O R P O R A T I O N\nTHE ISSUE\nU.S. prescription drug costs continue to rise, and prior research shows that the United States \nspends more per capita on prescription drugs than do other Organisation for Economic \nCo-operation and Development (OECD) nations. While high U.S. drug prices likely play \na central role in driving higher U.S. spending on prescription drugs, the last study to \nsystematically comp"
+      },
+      {
+        "title": "GAO-21-282, Accessible Version, PRESCRIPTION DRUGS: U.S. Prices for Selected Brand Drugs Were Higher on Average than Prices in Australia, Canada, and France",
+        "url": "https://www.gao.gov/assets/720/713431.pdf",
+        "published": "2021-03-29T00:00:00.000Z",
+        "excerpt": "PRESCRIPTION\u00a0\nDRUGS\nU.S.\u00a0Prices\u00a0for\u00a0\nSelected\u00a0Brand\u00a0Drugs\u00a0\nWere\u00a0Higher\u00a0on\u00a0\nAverage\u00a0than\u00a0Prices\u00a0\nin\u00a0Australia,\u00a0Canada,\u00a0\nand\u00a0France\nAccessible Version\nReport\u00a0to\u00a0the\u00a0Chairman,\u00a0Committee\u00a0on\u00a0\nthe\u00a0Budget,\u00a0U.S. Senate\nMarch 2021\nGAO-21-282\nUnited States Government Accountability Office\nPage i GAO-21-282 International Drug Price Comparison\nContents\nLetter 1\nBackground 7\nU.S. Net Prices for Selected Drugs Were, on Average, More than \nTwo to Four Times Higher than Publicly Available Prices in \nAustralia, "
+      },
+      {
+        "title": "Six Reasons Drug Prices Are So High in the U.S.",
+        "url": "https://www.nytimes.com/2024/01/17/health/us-drug-prices.html",
+        "published": "2024-01-17T00:00:00.000Z",
+        "excerpt": "[Health] \\|Six Reasons Drug Prices Are So High in the U.S.\n\nhttps://www.nytimes.com/2024/01/17/health/us-drug-prices.html\n\n- Share full article\n\n- [825] \n\n\nAdvertisement\n\n[SKIP ADVERTISEMENT] \n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\nFlorida\u2019s plan to save money by importing medications from Canada, [authorized] this month by the Food and Drug Administration, has renewed attention on the cost o"
+      },
+      {
+        "title": "",
+        "url": "https://aspe.hhs.gov/sites/default/files/documents/8e057b0a094e6f9b9d01171fce6698f4/international-price-comparisons.pdf",
+        "published": "2024-01-26T00:00:00.000Z",
+        "excerpt": "CONTRACTOR PROJECT REPORT\nInternational Prescription Drug Price \nComparisons: \nEstimates Using 2022 Data\nAssistant Secretary for Planning and Evaluation (ASPE)\nU.S. Department of Health & Human Services\nFebruary 2024\n2 \nOffice of Health Policy\nThe Office of Health Policy (HP) provides a cross-cutting policy perspective that bridges Departmental \nprograms, public and private sector activities, and the research community, in order to develop, analyze, \ncoordinate, and provide leadership on health "
+      },
+      {
+        "title": "Comparing Prescription Drugs in the U.S. and Other Countries: Prices and Availability",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK611301/?report=reader",
+        "published": "2022-07-01T00:00:00.000Z",
+        "excerpt": "Comparing Prescription Drugs in the U.S. and Other Countries: Prices and Availability - Comparing Prescription Drugs in the U.S. and Other Countries: Prices and Availability - NCBI Bookshelf\nYour browser does not support the NLM PubReader view.\nGo to[this page] to see a list of supported browsers\nor return to the\n[regular view].|\nDone\nNCBI Bookshelf\n[Home] [Browse All Titles] [Share on Facebook] [Share on Twitter] \nDone\nTable of Content\n[Title Information] [Table of Contents Page] \nDone\nSettings"
+      },
+      {
+        "title": "",
+        "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RRA700/RRA788-3/RAND_RRA788-3.pdf",
+        "published": "2023-11-29T00:00:00.000Z",
+        "excerpt": "C O R P O R A T I O N\nANDREW W. MULCAHY, DANIEL SCHWAM, SUSAN L. LOVEJOY\nInternational \nPrescription Drug \nPrice Comparisons\nEstimates Using 2022 Data\nResearch Report\nFor more information on this publication, visit www.rand.org/t/RRA788-3.\nAbout RAND\nThe RAND Corporation is a research organization that develops solutions to public policy challenges to help make communities \nthroughout the world safer and more secure, healthier and more prosperous. RAND is nonprofit, nonpartisan, and committed to"
+      },
+      {
+        "title": "Comparing U.S. and International Market Size and Average Pricing for Prescription Drugs, 2017-2022",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK611829/",
+        "published": "2024-12-01T00:00:00.000Z",
+        "excerpt": "Comparing U.S. and International Market Size and Average Pricing for Prescription Drugs, 2017-2022 - NCBI Bookshelf\n![U.S. flag] \nAn official website of the United States government\nHere's how you know\n![Dot gov] \n**The .gov means it's official.**\nFederal government websites often end in .gov or .mil. Before\nsharing sensitive information, make sure you're on a federal\ngovernment site.\n![Https] \n**The site is secure.**\nThe**https://**ensures that you are connecting to the\nofficial website and tha"
+      },
+      {
+        "title": "",
+        "url": "https://aspe.hhs.gov/sites/default/files/documents/d5541b529a379d1f908ed2f9c00a9255/aspe-cover-idr-pricing-availability.pdf",
+        "published": "2024-01-26T00:00:00.000Z",
+        "excerpt": "Assistant Secretary for Planning and Evaluation (ASPE)\nU.S. Department of Health & Human Services\nFebruary 2024\nComparing Prescription Drugs in\n the U.S. and Other Countries: \nPrices and Availability\n \nCONTRACTOR PROJECT REPORT\n2 \nOffice of Health Policy\nThe Office of Health Policy (HP) provides a cross-cutting policy perspective that bridges Departmental \nprograms, public and private sector activities, and the research community, in order to develop, analyze, \ncoordinate, and provide leadership"
+      },
+      {
+        "title": "Alternative Approaches to Reducing Prescription Drug Prices",
+        "url": "https://www.cbo.gov/system/files/2024-10/58793-rx-drug-prices.pdf",
+        "published": "2024-10-03T00:00:00.000Z",
+        "excerpt": "Congressional Budget Office \\y\nNonpartisan Analysis for the U.S. Congress\n\nAlternative Approaches to\nReducing Prescription Drug Prices\n\nOCTOBER | 2024\n\nAt a Glance\nIn this report, the Congressional Budget Office discusses the factors underlying prescription drug \nprices and examines a set of policy approaches aimed at reducing those prices. The agency assesses \nhow each approach, if implemented in 2025, would affect average drug prices for purchasers in the \nUnited States in 2031. Inclusion or e"
+      },
+      {
+        "title": "",
+        "url": "https://www.gao.gov/assets/gao-21-282.pdf",
+        "published": "2021-03-26T00:00:00.000Z",
+        "excerpt": "PRESCRIPTION \nDRUGS\nU.S. Prices for \nSelected Brand Drugs \nWere Higher on \nAverage than Prices \nin Australia, Canada, \nand France\nReport to the Chairman, Committee on \nthe Budget, U.S. Senate\nMarch 2021\nGAO-21-282\nUnited States Government Accountability Office\nUnited States Government Accountability Office\nHighlights of GAO-21-282, a report to the \nChairman, Committee on the Budget, U.S.\nSenate\nMarch 2021\nPRESCRIPTION DRUGS\nU.S. Prices for Selected Brand Drugs Were Higher on \nAverage than Prices"
+      },
+      {
+        "title": "Negotiating Drug Prices in the US\u2014Lessons From Europe",
+        "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2799713",
+        "published": "2022-12-02T00:00:00.000Z",
+        "excerpt": "[\\[Skip to Navigation\\]] \n\n[X] [Facebook] \n\n[LinkedIn] \n\nMore\n\n[This Issue] \n\nViews10,378\n\n[Citations4] \n\n[Comments1] \n\nView Metrics\n\n- Download PDF\n- Share\n\nXFacebookEmailLinkedIn\n\n- CiteThis\n- Permissions\n- Comment\n\nViewpoint\n\nDecember\u00a022, 2022\n\n# Negotiating Drug Prices in the US\u2014Lessons From Europe\n\n[Kerstin N.\u00a0Vokinger,\u00a0MD, JD, PhD1]; [Huseyin\u00a0Naci,\u00a0PhD2] \n\nAuthor Affiliations [Article Information] \n\n- 1Institute of Law, University of Zurich, Zurich, Switzerland\n\n- 2Department of Health Pol"
+      },
+      {
+        "title": "",
+        "url": "https://www.rand.org/content/dam/rand/pubs/research_briefs/RBA1200/RBA1296-1/RAND_RBA1296-1.pdf",
+        "published": "2021-04-08T00:00:00.000Z",
+        "excerpt": "RESEARCH \nBRIEF\nU.S. Prescription Drug Prices Are \n2.5 Times Those in Other OECD \nCountries\nC O R P O R A T I O N\nTHE ISSUE\nU.S. prescription drug costs continue to rise, and prior research shows that the United States \nspends more per capita on prescription drugs than do other Organisation for Economic \nCo-operation and Development (OECD) nations. While high U.S. drug prices likely play \na central role in driving higher U.S. spending on prescription drugs, the last study to \nsystematically comp"
+      },
+      {
+        "title": "",
+        "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RRA700/RRA788-3/RAND_RRA788-3.pdf",
+        "published": "2023-11-29T00:00:00.000Z",
+        "excerpt": "C O R P O R A T I O N\nANDREW W. MULCAHY, DANIEL SCHWAM, SUSAN L. LOVEJOY\nInternational \nPrescription Drug \nPrice Comparisons\nEstimates Using 2022 Data\nResearch Report\nFor more information on this publication, visit www.rand.org/t/RRA788-3.\nAbout RAND\nThe RAND Corporation is a research organization that develops solutions to public policy challenges to help make communities \nthroughout the world safer and more secure, healthier and more prosperous. RAND is nonprofit, nonpartisan, and committed to"
+      },
+      {
+        "title": "",
+        "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RRA700/RRA788-3/RAND_RRA788-3.pdf.",
+        "published": null,
+        "excerpt": "C O R P O R A T I O N\nANDREW W. MULCAHY, DANIEL SCHWAM, SUSAN L. LOVEJOY\nInternational \nPrescription Drug \nPrice Comparisons\nEstimates Using 2022 Data\nResearch Report\nFor more information on this publication, visit www.rand.org/t/RRA788-3.\nAbout RAND\nThe RAND Corporation is a research organization that develops solutions to public policy challenges to help make communities \nthroughout the world safer and more secure, healthier and more prosperous. RAND is nonprofit, nonpartisan, and committed to"
+      },
+      {
+        "title": "International Prescription Drug Price Comparisons",
+        "url": "https://www.rand.org/pubs/research_reports/RR2956.html",
+        "published": "2021-01-28T00:00:00.000Z",
+        "excerpt": "International Prescription Drug Price Comparisons: Current Empirical Estimates and Comparisons with Previous Studies | RAND\n* [Skip to page content] \n[![RAND]] \n[Toggle Menu] \n[ToggleSearch] \nSearch termsSubmit\nUnderstanding the extent to which drug prices are higher in the United States than in other countries is useful when developing and targeting policies to address both growth in drug spending and the financial impact of prescription drugs on consumers. This report provides findings related"
+      },
+      {
+        "title": "U.S. Prescription Drug Prices Are 2.5 Times Those in Other OECD Countries",
+        "url": "https://rand.org/pubs/research_briefs/RBA1296-1.html",
+        "published": "2021-04-14T00:00:00.000Z",
+        "excerpt": "U.S. Prescription Drug Prices Are 2.5 Times Those in Other OECD Countries | RAND\n* [Skip to page content] \n[![RAND]] \n[Toggle Menu] \n[ToggleSearch] \nSearch termsSubmit\n# U.S. Prescription Drug Prices Are 2.5 Times Those in Other OECD Countries\n[Andrew W. Mulcahy],[Christopher M. Whaley],[Mahlet Gizaw],[Daniel Schwam],[Nathaniel Edenfield],[Alejandro Uriel Becerra-Ornelas] \nResearch SummaryPublished Apr 14, 2021\n[Download PDF] \n* [Share on LinkedIn] \n* [Share on X] \n* [Share on Facebook] \n* [Emai"
+      },
+      {
+        "title": "International Prescription Drug Price Comparisons",
+        "url": "https://rand.org/pubs/research_reports/RRA788-3.html",
+        "published": null,
+        "excerpt": "International Prescription Drug Price Comparisons: Estimates Using 2022 Data | RAND\n* [Skip to page content] \n[![RAND]] \n[Toggle Menu] \n[ToggleSearch] \nSearch termsSubmit\nUnderstanding the extent to which prescription drug prices are higher in the United States than in other countries is useful when developing policies to address both growth in drug spending and the financial impact of prescription drugs on consumers. This report summarizes findings from comparisons of drug prices in the United "
+      },
+      {
+        "title": "Comparing Prescription Drugs in the U.S. and Other Countries: Prices and Availability",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK611301/?report=reader",
+        "published": "2022-07-01T00:00:00.000Z",
+        "excerpt": "Comparing Prescription Drugs in the U.S. and Other Countries: Prices and Availability - Comparing Prescription Drugs in the U.S. and Other Countries: Prices and Availability - NCBI Bookshelf\nYour browser does not support the NLM PubReader view.\nGo to[this page] to see a list of supported browsers\nor return to the\n[regular view].|\nDone\nNCBI Bookshelf\n[Home] [Browse All Titles] [Share on Facebook] [Share on Twitter] \nDone\nTable of Content\n[Title Information] [Table of Contents Page] \nDone\nSettings"
+      },
+      {
+        "title": "Prescription Drug Prices in the U.S. Are 2.78 Times Those in Other Countries",
+        "url": "https://www.rand.org/news/press/2024/02/01.html",
+        "published": "2024-02-01T00:00:00.000Z",
+        "excerpt": "Prescription Drug Prices in the U.S. Are 2.78 Times Those in Other Countries | RAND\n* [Skip to page content] \n[![RAND]] \n[Toggle Menu] \n[ToggleSearch] \nSearch termsSubmit\n# Prescription Drug Prices in the U.S. Are 2.78 Times Those in Other Countries\nFor Release\nThursday\nFebruary 1, 2024\nPrescription drug prices in the United States are significantly higher than in other nations, with prices in the United States averaging 2.78 times those seen in 33 other nations, according to a new RAND[report]."
+      },
+      {
+        "title": "",
+        "url": "https://aspe.hhs.gov/sites/default/files/documents/8e057b0a094e6f9b9d01171fce6698f4/international-price-comparisons.pdf",
+        "published": "2024-01-26T00:00:00.000Z",
+        "excerpt": "CONTRACTOR PROJECT REPORT\nInternational Prescription Drug Price \nComparisons: \nEstimates Using 2022 Data\nAssistant Secretary for Planning and Evaluation (ASPE)\nU.S. Department of Health & Human Services\nFebruary 2024\n2 \nOffice of Health Policy\nThe Office of Health Policy (HP) provides a cross-cutting policy perspective that bridges Departmental \nprograms, public and private sector activities, and the research community, in order to develop, analyze, \ncoordinate, and provide leadership on health "
+      },
+      {
+        "title": "Regulatory Process - Canada.ca",
+        "url": "https://www.canada.ca/en/patented-medicine-prices-review/services/regulatory-process.html",
+        "published": "2021-09-07T00:00:00.000Z",
+        "excerpt": "[iframe] \n\n# Regulatory Process\n\nThe\u00a0PMPRB\u00a0monitors the prices charged by patentees for patented drugs on an ongoing basis. Under the Patent Act, patentees are required to file price and sales information about their patented drug products at introduction and twice a year thereafter for each strength of each dosage form of each patented drug product sold in Canada. However, patentees are welcome to consult with the\u00a0PMPRB\u00a0on the application of the Guidelines at any time. The Board may, on request"
+      },
+      {
+        "title": "Patented Medicine Prices Review Board",
+        "url": "https://www.canada.ca/en/patented-medicine-prices-review.html",
+        "published": "2020-10-22T00:00:00.000Z",
+        "excerpt": "Patented Medicine Prices Review Board - Canada.ca\n## Language selection\n* [Fran\u00e7aisfr] \n[![Government of Canada] /Gouvernement du Canada] \n## Search\nSearch Canada.ca\nSearch\n# Patented Medicine Prices Review Board\n# Patented Medicine Prices Review Board\nThe Patented Medicine Prices Review Board (PMPRB)[reviews patented medicine price] to protect Canadians from any patent abuse related to excessive prices. The PMPRB also reports on Canadian[pharmaceutical trends], contributing to a greater underst"
+      },
+      {
+        "title": "PMPRB Guidelines",
+        "url": "https://www.canada.ca/en/patented-medicine-prices-review/services/legislation/about-guidelines/guidelines.html",
+        "published": "2020-10-23T00:00:00.000Z",
+        "excerpt": "PMPRB Guidelines - Canada.ca\n## Language selection\n* [Fran\u00e7aisfr] \n[![Government of Canada] /Gouvernement du Canada] \n## Search\nSearch Canada.ca\nSearch\n# PMPRB Guidelines\nThe coming-into-force of the amended[*Patented Medicines Regulations*(\u201c*Regulations*\u201d) has been further delayed] past January 1, 2022. Consequently, the new Guidelines will not be coming into effect on January 1, 2022.\nThe Board[announced the decision] resulting from the consultation on the definition of Gap medicines and the t"
+      },
+      {
+        "title": "Annual Report 2024",
+        "url": "https://www.canada.ca/en/patented-medicine-prices-review/services/annual-reports/annual-report-2024.html",
+        "published": "2025-12-03T00:00:00.000Z",
+        "excerpt": "Annual Report 2024 - Canada.ca\n## Language selection\n* [Fran\u00e7aisfr] \n[![Government of Canada] /Gouvernement du Canada] \n## Search\nSearch Canada.ca\nSearch\n# Annual Report 2024\n![Annual Report 2024] \nISSN: 1495-0561\nCatalogue number: H78E-PDF\n[PDF version (2.6 MB)] \n## Table of Contents\n1. [Statistical Highlights 2024] \n2. [Letter to the Minister] \n3. [Chairperson\u2019s Message] \n4. [About the Patented Medicine Prices Review Board] \n5. [Price Review Activities] \n6. [Pharmaceutical Pricing Trends] \n7. "
+      },
+      {
+        "title": "Frequently Asked Questions - Canada.ca",
+        "url": "https://www.canada.ca/en/patented-medicine-prices-review/corporate/media-inquiries/frequently-asked-questions.html",
+        "published": "2025-07-16T00:00:00.000Z",
+        "excerpt": "# Frequently Asked Questions\n\n01. [What is the Patented Medicine Prices Review Board (PMPRB)?] \n02. [What is the role and mandate of the PMPRB?] \n03. [What is a patented medicine?] \n04. [What is a patent?] \n05. [What is the duration of a patent?] \n06. [What is a non-patented medicine?] \n07. [What is a generic drug?] \n08. [What is the difference between prescription drugs, over the counter drugs and non-prescription drugs?] \n09. [What type of medicine does the PMPRB regulate?] \n10. [Does the PMPR"
+      },
+      {
+        "title": "",
+        "url": "https://www.canada.ca/en/patented-medicine-prices-review/services/legislation/guidelines.html",
+        "published": null,
+        "excerpt": "# Guidelines for PMPRB Staff\n\n## Table of Contents\n\n- [The Role of These Guidelines] \n- [Overview of the PMPRB and its Legislation] \n - [Mandate] \n - [Structure and Administrative Operation] \n - [General Role of Guidelines] \n - [Jurisdiction of the PMPRB] \n - [Filing Requirements and Protection of Filed Information] \n- [Review Process] \n - [First Step] \n - [Initial Review] \n - [Annual Review] \n - [Special Provisions on Complaints] \n - [Second Step] \n - [In-Depth Review] \n - [Scientific Review: T"
+      },
+      {
+        "title": "Compendium of Guidelines, Policies and Procedures",
+        "url": "http://www.pmprb-cepmb.gc.ca/view.asp?ccid=529",
+        "published": null,
+        "excerpt": "* [Skip to main content] \n* [Skip to \"About this site\"] \n* [Canada.ca] \n* [Services] \n* [Departments] \n* ## Language selection\n* [Fran&ccedil;ais] \n## Search and menus\n* [Search and menus] \n[Patented Medicine Prices Review Board] \n## Search\nSearch website\nSearch\n# Compendium of Guidelines, Policies and Procedures\n## Note to the Reader\nThe PMPRB first published the*Compendium of Guidelines, Policies*and Procedures in 1994 as a consolidation of its Guidelines, policies and procedures which had pre"
+      },
+      {
+        "title": "Alternative Approaches to Reducing Prescription Drug Prices",
+        "url": "https://www.cbo.gov/system/files/2024-10/58793-rx-drug-prices.pdf",
+        "published": "2024-10-03T00:00:00.000Z",
+        "excerpt": "Congressional Budget Office \\y\nNonpartisan Analysis for the U.S. Congress\n\nAlternative Approaches to\nReducing Prescription Drug Prices\n\nOCTOBER | 2024\n\nAt a Glance\nIn this report, the Congressional Budget Office discusses the factors underlying prescription drug \nprices and examines a set of policy approaches aimed at reducing those prices. The agency assesses \nhow each approach, if implemented in 2025, would affect average drug prices for purchasers in the \nUnited States in 2031. Inclusion or e"
+      },
+      {
+        "title": "",
+        "url": "https://ppri.goeg.at/system/files/inline-files/Canada_Pharmaceutical_pricing_and_reimbursement_policies_2024_0.pdf",
+        "published": "2024-04-04T00:00:00.000Z",
+        "excerpt": "Patented Medicine Prices Review Board\n333 Laurier Ave W., Ottawa ON, K1C 1P1\nPharmaceutical pricing and reimbursement policies\nPopulation: 40.5 million (2023)\nGDP per capita: US$55,522 (2022 WB)\nHealth spending per capita: US$6319 (2022 OECD)\nPharma expenditure per capita: US$914 (2022 \nOECD)\nThe Patented Medicine Prices Review Board (PMPRB) is an independent quasi-judicial body established by Parliament in 1987 under the \nPatent Act (Act). The PMPRB has a dual regulatory and reporting mandate: "
+      },
+      {
+        "title": "Drug Price Moderation in Germany: Lessons for U.S. Reform Efforts",
+        "url": "https://www.commonwealthfund.org/publications/issue-briefs/2020/jan/drug-price-moderation-germany-lessons-us-reform-efforts",
+        "published": "2020-01-23T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\nArrows iconBurger menu iconCaret down iconThick caret down iconCheck iconClose iconThick close iconFacebook iconFilled arrow up iconThin left arrow iconLinkedIn iconLogo iconMail iconOpen iconPlay iconPrint iconThin right arrow iconSearch iconTriangle iconTwitter icon\n\nBy continuing on our website, you agree to our use of the cookie for statistical and personalization purpose.\n[Learn More] \n\nAccept\n\nOur Scorecard ranks every state\u2019s health care system based on how well i"
+      },
+      {
+        "title": "About technology appraisal guidance",
+        "url": "https://www.nice.org.uk/About/What-we-do/Our-Programmes/NICE-guidance/NICE-technology-appraisal-guidance",
+        "published": "2025-01-24T00:00:00.000Z",
+        "excerpt": "About technology appraisal guidance | NICE\n* [Skip to content] \n* [Accessibility help] \n[] \nSearch NICE\u2026\n[Skip to content] \nMenu\n[Sign in] \n# About technology appraisal guidance\nTechnology appraisal (TA) guidance makes recommendations on the use of new and existing medicines and other treatments within the NHS.\n[Browse technology appraisal guidance] \n* [What is technology appraisal (TA) guidance?] \nThe NHS is legally obliged to fund and resource medicines and other treatments recommended by our "
+      },
+      {
+        "title": "Technology appraisal processes and timelines",
+        "url": "https://www.nice.org.uk/what-nice-does/our-guidance/about-technology-appraisal-guidance/our-methods-and-processes-health-technology-evaluation-manual/technology-appraisal-processes-and-timelines",
+        "published": "2025-07-30T00:00:00.000Z",
+        "excerpt": "Technology appraisal processes and timelines | NICE\n* [Skip to content] \n* [Accessibility help] \n[] \nSearch NICE\u2026\n[Skip to content] \nMenu\n[Sign in] \n# Technology appraisal processes and timelines\nDifferent processes are used to develop technology appraisal guidance.\nYou can view these process types, along with brief descriptions and links to timelines for each of them on this page.\n## Single technology appraisal\nThis is a technology appraisal that assesses a single drug or treatment.\n### When it"
+      },
+      {
+        "title": "Technology appraisal data: appraisal recommendations",
+        "url": "https://www.nice.org.uk/what-nice-does/our-guidance/about-technology-appraisal-guidance/technology-appraisal-data-appraisal-recommendations",
+        "published": "2025-10-06T00:00:00.000Z",
+        "excerpt": "Technology appraisal data: appraisal recommendations | NICE\n* [Skip to content] \n* [Accessibility help] \n[] \nSearch NICE\u2026\n[Skip to content] \nMenu\n[Sign in] \n# Technology appraisal data: appraisal recommendations\nOur technology appraisal guidance makes recommendations on the clinical and cost-effectiveness of medicines and treatments. It helps to ensure that the NHS uses its resources fairly and effectively.\nThis page was last updated:\u00a06 October 2025.\nSince 1 March 2000 we have published:\n**1094 "
+      },
+      {
+        "title": "About technology appraisal guidance",
+        "url": "https://www.nice.org.uk/what-nice-does/our-guidance/about-technology-appraisal-guidance",
+        "published": "2025-08-26T00:00:00.000Z",
+        "excerpt": "About technology appraisal guidance | NICE\n* [Skip to content] \n* [Accessibility help] \n[] \nSearch NICE\u2026\n[Skip to content] \nMenu\n[Sign in] \n# About technology appraisal guidance\nTechnology appraisal (TA) guidance makes recommendations on the use of new and existing medicines and other treatments within the NHS.\n[Browse technology appraisal guidance] \n* [What is technology appraisal (TA) guidance?] \nThe NHS is legally obliged to fund and resource medicines and other treatments recommended by our "
+      },
+      {
+        "title": "What is technology appraisal guidance?",
+        "url": "https://nice.org.uk/what-nice-does/our-guidance/about-technology-appraisal-guidance/what-is-technology-appraisal-guidance",
+        "published": "2025-05-02T00:00:00.000Z",
+        "excerpt": "What is technology appraisal guidance? | NICE\n* [Skip to content] \n* [Accessibility help] \n[] \nSearch NICE\u2026\n[Skip to content] \nMenu\n[Sign in] \n# What is technology appraisal guidance?\nTechnology appraisal guidance makes recommendations on the use of new and existing medicines and other treatments within the NHS.\n[Browse technology appraisal guidance] \n## What the guidance covers\nTechnology appraisal guidance can cover:\n* medicines\n* medical devices\n* diagnostic techniques\n* surgical procedures\n*"
+      },
+      {
+        "title": "",
+        "url": "https://www.nice.org.uk/guidance/ta1026/resources/tirzepatide-for-managing-overweight-and-obesity-pdf-2973528337587397",
+        "published": "2025-09-01T00:00:00.000Z",
+        "excerpt": "Tirzepatide for managing \noverweight and obesity \nTechnology appraisal guidance \nPublished: 23 December 2024 \nLast updated: 1 September 2025 \nwww.nice.org.uk/guidance/ta1026 \n\u00a9 NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and\u0002conditions#notice-of-rights).\nYour responsibility \nThe recommendations in this guidance represent the view of NICE, arrived at after careful \nconsideration of the evidence available. When exercising their judgement, health \nprof"
+      },
+      {
+        "title": "NICE technology appraisal and highly specialised technologies guidance: the manual",
+        "url": "https://www.nice.org.uk/process/pmg36/chapter/economic-evaluation-2",
+        "published": "2022-02-04T00:00:00.000Z",
+        "excerpt": "4 Economic evaluation | NICE technology appraisal and highly specialised technologies guidance: the manual | Guidance | NICE\n# NICE technology appraisal and highly specialised technologies guidance: the manual\n* NICE process and methods\n* Reference number:PMG36\n* Published:31 January 2022\n* Last updated:17 December 2025\n[Download (PDF)] \n## 4 Economic evaluation\n### 4.1 Introduction\n#### 4.1.1\nThis section details methods for assembling and synthesising evidence on the technology in an economic "
+      },
+      {
+        "title": "Technology appraisal data: cancer appraisal recommendations",
+        "url": "https://www.nice.org.uk/what-nice-does/our-guidance/about-technology-appraisal-guidance/technology-appraisal-data-cancer-appraisal-recommendations",
+        "published": "2025-10-06T00:00:00.000Z",
+        "excerpt": "Technology appraisal data: cancer appraisal recommendations | NICE\n* [Skip to content] \n* [Accessibility help] \n[] \nSearch NICE\u2026\n[Skip to content] \nMenu\n[Sign in] \n# Technology appraisal data: cancer appraisal recommendations\nWe&#x27;ve been making recommendations on the clinical and cost-effectiveness of cancer drugs through our technology appraisal guidance since 2000.\nThis page was last updated: 6 October 2025.\nSince 2000, we have published:\n**545**technology appraisals on cancer drugs.\nThese"
+      },
+      {
+        "title": "Cost comparison timeline",
+        "url": "https://nice.org.uk/what-nice-does/our-guidance/about-technology-appraisal-guidance/our-methods-and-processes-health-technology-evaluation-manual/technology-appraisal-processes-and-timelines/cost-comparison-timeline",
+        "published": "2025-02-10T00:00:00.000Z",
+        "excerpt": "Cost comparison timeline | NICE\n* [Skip to content] \n* [Accessibility help] \n[] \nSearch NICE\u2026\n[Skip to content] \nMenu\n[Sign in] \n# Cost comparison timeline\nThese are the main stages in the cost comparison process.\n[Find out more about the current process] \nCost comparison suitability is determined during scoping. See the[scope section of the Health Technology Evaluation manual] for more information.\nWe started using this process in April 2023.\n## Timeline\nPlease note all timings are approximate."
+      },
+      {
+        "title": "NICE technology appraisal and highly specialised technologies guidance: the manual",
+        "url": "https://www.nice.org.uk/process/pmg36/chapter/economic-evaluation",
+        "published": null,
+        "excerpt": "# NICE technology appraisal and highly specialised technologies guidance: the manual\n\n- NICE process and methods\n- Reference number: PMG36\n- Published:\n31 January 2022\n- Last updated:\n17 December 2025\n\n[Download (PDF)] \n\n## 4 Economic evaluation\n\n### 4.1 Introduction\n\n#### 4.1.1\n\nThis section details methods for assembling and synthesising evidence on the technology in an economic evaluation. This is needed to estimate the technology's relative clinical effectiveness and value for money compared"
+      },
+      {
+        "title": "Comparing Insulin Prices in the U.S. to Other Countries",
+        "url": "https://aspe.hhs.gov/reports/comparing-insulin-prices-us-other-countries",
+        "published": "2020-09-24T00:00:00.000Z",
+        "excerpt": "Comparing Insulin Prices in the U.S. to Other Countries | ASPE[Skip to main content] \nDue to current HHS restructuring, the information provided on aspe.hhs.gov is not being updated currently. Please refer to[hhs.gov] for more information.\n![U.S. flag] \nAn official website of the United States government\nHere\u2019s how you know\nHere's how you know\n![Dot gov] \n**The .gov means it\u2019s official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you\u2019r"
+      },
+      {
+        "title": "",
+        "url": "https://aspe.hhs.gov/sites/default/files/documents/7ec40da6efd90a2a71cf3399a5b3b24d/insulin-price-comparisons.pdf",
+        "published": "2024-01-26T00:00:00.000Z",
+        "excerpt": "Assistant Secretary for Planning and Evaluation (ASPE)\nU.S. Department of Health & Human Services\nFebruary 2024\nComparing Insulin Prices in the\nUnited States to Other Countries: \nUpdated Results Using 2022 Data\n \nCONTRACTOR PROJECT REPORT\n2 \nOffice of Health Policy\nThe Office of Health Policy (HP) provides a cross-cutting policy perspective that bridges Departmental \nprograms, public and private sector activities, and the research community, in order to develop, analyze, \ncoordinate, and provide"
+      },
+      {
+        "title": "Comparing Insulin Prices in the United States to Other Countries: Updated Results Using 2022 Data",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK611299/",
+        "published": "2024-02-01T00:00:00.000Z",
+        "excerpt": "Comparing Insulin Prices in the United States to Other Countries: Updated Results Using 2022 Data - Comparing Prescription Drugs in the U.S. and Other Countries: Prices and Availability - NCBI Bookshelf\n![U.S. flag] \nAn official website of the United States government\nHere's how you know\n![Dot gov] \n**The .gov means it's official.**\nFederal government websites often end in .gov or .mil. Before\nsharing sensitive information, make sure you're on a federal\ngovernment site.\n![Https] \n**The site is s"
+      },
+      {
+        "title": "",
+        "url": "https://www.commonwealthfund.org/sites/default/files/2023-12/PDF_Gumas_IRA_drugs_intl_price_comparison_exhibits.pdf",
+        "published": "2023-12-18T00:00:00.000Z",
+        "excerpt": "Evan D. Gumas\nPaige Huffman\nIrene Papanicolas\nReginald D. Williams II\nJanuary 2024\nHow Prices for the First 10 Drugs Up \nfor U.S. Medicare Price Negotiations \nCompare Internationally\nEvan D. Gumas et al., \u201cHow Prices for the First 10 Drugs Up for U.S. Medicare Price Negotiations Compare \nInternationally,\u201d chartpack, Commonwealth Fund, Jan. 4, 2024. https://doi.org/10.26099/szw4-d082\nFor a basket of the 10 selected drugs in 2021, the price in the U.S. is \nthree to eight times the price in every c"
+      },
+      {
+        "title": "",
+        "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RRA700/RRA788-3/RAND_RRA788-3.pdf",
+        "published": "2023-11-29T00:00:00.000Z",
+        "excerpt": "C O R P O R A T I O N\nANDREW W. MULCAHY, DANIEL SCHWAM, SUSAN L. LOVEJOY\nInternational \nPrescription Drug \nPrice Comparisons\nEstimates Using 2022 Data\nResearch Report\nFor more information on this publication, visit www.rand.org/t/RRA788-3.\nAbout RAND\nThe RAND Corporation is a research organization that develops solutions to public policy challenges to help make communities \nthroughout the world safer and more secure, healthier and more prosperous. RAND is nonprofit, nonpartisan, and committed to"
+      },
+      {
+        "title": "How Do U.S. Insulin Prices Compare to Those in Other Countries?",
+        "url": "https://rand.org/pubs/research_reports/RRA788-2.html",
+        "published": null,
+        "excerpt": "- [Skip to page content] \n\nThe authors present results from comparisons of insulin prices between the United States and 33 Organisation for Economic Co-operation and Development countries overall and for different categories of insulin using a price index approach. They present separate comparisons using U.S. manufacturer gross prices reflected at pharmacies and estimated manufacturer net prices after applying rebates paid by manufacturers.\n\n# Comparing Insulin Prices in the United States to Oth"
+      },
+      {
+        "title": "U.S. Insulin Prices Are Often Five to Ten Times Higher Than Those in Other Countries",
+        "url": "https://www.rand.org/pubs/research_reports/RRA788-1.html",
+        "published": "2020-10-06T00:00:00.000Z",
+        "excerpt": "- [Skip to page content] \n\nInsulin prices have increased dramatically over the past decade in the United States. The authors compared international prices for insulins using a price index approach. They describe the shares of volume and sales for all insulins and different categories of insulin in the United States and 32 comparison countries in 2018.\n\n# Comparing Insulin Prices in the United States to Other Countries\n\nResults from a Price Index Analysis\n\n[Andrew W. Mulcahy], [Daniel Schwam], [N"
+      },
+      {
+        "title": "How Prices for the First 10 Drugs Up for U.S. Medicare Price Negotiations Compare Internationally",
+        "url": "https://www.commonwealthfund.org/publications/2024/jan/how-prices-first-10-drugs-medicare-negotiations-compare-internationally",
+        "published": "2024-01-04T00:00:00.000Z",
+        "excerpt": "Prices of Drugs Medicare Is Negotiating | Commonwealth Fund\n[Skip to main content] \nArrows iconBurger menu iconCaret down iconThick caret down iconCheck iconClose iconThick close iconFacebook iconFilled arrow up iconThin left arrow iconLinkedIn iconLogo iconMail iconOpen iconPlay iconPrint iconThin right arrow iconSearch iconShare iconTriangle iconTwitter icon\nBy continuing on our website, you agree to our use of the cookie for statistical and personalization purpose.[Learn More] \nAccept\n[![The "
+      },
+      {
+        "title": "Table A.6, Average Gross Price per SU, Overall and by Insulin Type, 34 Select OECD Countries, 2022",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK611299/table/updatedresults.app.tab6/",
+        "published": "2024-02-01T00:00:00.000Z",
+        "excerpt": "**The .gov means it's official.**\nFederal government websites often end in .gov or .mil. Before\nsharing sensitive information, make sure you're on a federal\ngovernment site.\n\n**The site is secure.**\nThe **https://** ensures that you are connecting to the\nofficial website and that any information you provide is encrypted\nand transmitted securely.\n\n[Access keys] [NCBI Homepage] [MyNCBI Homepage] [Main Content] [Main Navigation] \n\nNCBI Bookshelf. A service of the National Library of Medicine, Natio"
+      },
+      {
+        "title": "",
+        "url": "https://www.commonwealthfund.org/sites/default/files/2023-12/PDF_Gumas_IRA_drugs_intl_price_comparison_exhibits.pdf",
+        "published": "2023-12-18T00:00:00.000Z",
+        "excerpt": "Evan D. Gumas\nPaige Huffman\nIrene Papanicolas\nReginald D. Williams II\nJanuary 2024\nHow Prices for the First 10 Drugs Up \nfor U.S. Medicare Price Negotiations \nCompare Internationally\nEvan D. Gumas et al., \u201cHow Prices for the First 10 Drugs Up for U.S. Medicare Price Negotiations Compare \nInternationally,\u201d chartpack, Commonwealth Fund, Jan. 4, 2024. https://doi.org/10.26099/szw4-d082\nFor a basket of the 10 selected drugs in 2021, the price in the U.S. is \nthree to eight times the price in every c"
+      },
+      {
+        "title": "How Prices for the First 10 Drugs Up for U.S. Medicare Price Negotiations Compare Internationally",
+        "url": "https://www.commonwealthfund.org/publications/2024/jan/how-prices-first-10-drugs-medicare-negotiations-compare-internationally",
+        "published": "2024-01-04T00:00:00.000Z",
+        "excerpt": "Prices of Drugs Medicare Is Negotiating | Commonwealth Fund\n[Skip to main content] \nArrows iconBurger menu iconCaret down iconThick caret down iconCheck iconClose iconThick close iconFacebook iconFilled arrow up iconThin left arrow iconLinkedIn iconLogo iconMail iconOpen iconPlay iconPrint iconThin right arrow iconSearch iconShare iconTriangle iconTwitter icon\nBy continuing on our website, you agree to our use of the cookie for statistical and personalization purpose.[Learn More] \nAccept\n[![The "
+      },
+      {
+        "title": "Medicare Data Hub - International Comparisons",
+        "url": "https://www.commonwealthfund.org/medicare-data-hub/international-comparisons",
+        "published": "2021-10-01T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\nArrows iconBurger menu iconCaret down iconThick caret down iconCheck iconClose iconThick close iconFacebook iconFilled arrow up iconThin left arrow iconLinkedIn iconLogo iconMail iconOpen iconPlay iconPrint iconThin right arrow iconSearch iconTriangle iconTwitter icon\n\nBy continuing on our website, you agree to our use of the cookie for statistical and personalization purpose.\n[Learn More] \n\nAccept\n\nOur Scorecard ranks every state\u2019s health care system based on how well i"
+      },
+      {
+        "title": "Prices",
+        "url": "https://www.commonwealthfund.org/prices",
+        "published": "2023-10-26T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\nArrows iconBurger menu iconCaret down iconThick caret down iconCheck iconClose iconThick close iconFacebook iconFilled arrow up iconThin left arrow iconLinkedIn iconLogo iconMail iconOpen iconPlay iconPrint iconThin right arrow iconSearch iconTriangle iconTwitter icon\n\nBy continuing on our website, you agree to our use of the cookie for statistical and personalization purpose.\n[Learn More] \n\nAccept\n\nOur Scorecard ranks every state\u2019s health care system based on how well i"
+      },
+      {
+        "title": "Drug Price Moderation in Germany: Lessons for U.S. Reform Efforts",
+        "url": "https://www.commonwealthfund.org/publications/issue-briefs/2020/jan/drug-price-moderation-germany-lessons-us-reform-efforts",
+        "published": "2020-01-23T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\nArrows iconBurger menu iconCaret down iconThick caret down iconCheck iconClose iconThick close iconFacebook iconFilled arrow up iconThin left arrow iconLinkedIn iconLogo iconMail iconOpen iconPlay iconPrint iconThin right arrow iconSearch iconTriangle iconTwitter icon\n\nBy continuing on our website, you agree to our use of the cookie for statistical and personalization purpose.\n[Learn More] \n\nAccept\n\nOur Scorecard ranks every state\u2019s health care system based on how well i"
+      },
+      {
+        "title": "Paying for Prescription Drugs Around the World: Why Is the U.S. an Outlier?",
+        "url": "https://www.commonwealthfund.org/sites/default/files/documents/___media_files_publications_issue_brief_2017_oct_sarnak_paying_for_rx_ib_v2.pdf",
+        "published": "2017-10-05T00:00:00.000Z",
+        "excerpt": "ABSTRACT\nISSUE: Compared with other high-income countries, the United States \nspends the most per capita on prescription drugs.\nGOAL: To compare drug spending levels and trends in the U.S. and nine \nother high-income countries \u2014 Australia, Canada, France, Germany, the \nNetherlands, Norway, Sweden, Switzerland, and the United Kingdom; \nconsider potential explanations for higher U.S. spending; and explore \npatients\u2019 exposure to pharmaceutical costs.\nMETHOD: Analysis of health data from the Organis"
+      },
+      {
+        "title": "",
+        "url": "https://www.commonwealthfund.org/sites/default/files/2022-01/Medicare_Data_Hub_Intl_Comparisons.pdf",
+        "published": "2022-01-12T00:00:00.000Z",
+        "excerpt": "MEDICARE DATA HUB \nInternational Comparisons\nOctober 2021\nSource: The Commonwealth Fund/London School of Economics 2020 International Profiles of Health Care Systems, June 2020. 2\nIn the U.S. Medicare program, private plans offer primary, \nsupplemental, and prescription drug\u2013only coverage, similar \nto models of private plans in other countries. \nINTERNATIONAL COMPARISONS\nCoverage \nType\nPrimary \nSupplementa\nl\nPrescription \nDrug\nAustralia France\nGermany Switzerland\nCanada\nUnited States Netherlands"
+      },
+      {
+        "title": "",
+        "url": "https://www.commonwealthfund.org/publications/issue-briefs/2017/oct/paying-prescription-drugs-around-world-why-us-outlier",
+        "published": "2017-10-05T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\nBy continuing on our website, you agree to our use of the cookie for statistical and personalization purpose.\n[Learn More] \n\nAccept\n\nRoughly 55 percent of Medicaid enrollees are working full or part time, and a number aren\u2019t eligible for health insurance through their jobs. Read more in an explainer [here].\n\nArea of Focus\n\n[Controlling Health Care Costs] \n\nIssue Briefs\n\n/\n\nOctober 5, 2017\n\n# Paying for Prescription Drugs Around the World: Why Is the U.S. an Outlier?\n\n- H"
+      },
+      {
+        "title": "Prescription Drug Accessibility and Affordability in the United States and Abroad",
+        "url": "https://www.commonwealthfund.org/sites/default/files/documents/___media_files_publications_issue_brief_2010_jun_1408_morgan_prescription_drug_accessibility_us_intl_ib.pdf",
+        "published": "2010-06-01T00:00:00.000Z",
+        "excerpt": "Issues in International Health Policy\nJune 2010\nPrescription Drug Accessibility \nand Affordability in the \nUnited States and Abroad\nSteve Morgan and Jae Kennedy\nABSTRACT: This issue brief contrasts prescription drug access, affordability, and costs in the \nUnited States with six other high-income countries, drawing from Commonwealth Fund sur\u0002vey data of patient experiences as well as international spending and pricing data. The analysis \nreveals that Americans, particularly the relatively young "
+      },
+      {
+        "title": "",
+        "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RRA700/RRA788-3/RAND_RRA788-3.pdf",
+        "published": "2023-11-29T00:00:00.000Z",
+        "excerpt": "C O R P O R A T I O N\nANDREW W. MULCAHY, DANIEL SCHWAM, SUSAN L. LOVEJOY\nInternational \nPrescription Drug \nPrice Comparisons\nEstimates Using 2022 Data\nResearch Report\nFor more information on this publication, visit www.rand.org/t/RRA788-3.\nAbout RAND\nThe RAND Corporation is a research organization that develops solutions to public policy challenges to help make communities \nthroughout the world safer and more secure, healthier and more prosperous. RAND is nonprofit, nonpartisan, and committed to"
+      },
+      {
+        "title": "Negotiation of Drug Prices in Medicare Part D",
+        "url": "https://sgp.fas.org/crs/misc/IF11318.pdf",
+        "published": "2019-09-24T00:00:00.000Z",
+        "excerpt": "www.crs.gov | 7-5700\nSeptember 23, 2019\nNegotiation of Drug Prices in Medicare Part D\nThe 116th Congress is considering a number of approaches \nto address prescription drug prices and spending, including\nproposals to allow the Secretary of Health and Human \nServices (the Secretary) to negotiate prices in the Medicare \nPart D program. This In Focus provides an overview of \nhow drug prices are established under Part D and describes \nelements of various proposals for Secretarial negotiation.\nOvervi"
+      },
+      {
+        "title": "The Politics of Medicare and Drug-Price Negotiation (Updated)",
+        "url": "https://www.healthaffairs.org/content/forefront/politics-medicare-and-drug-price-negotiation-updated",
+        "published": "2016-09-19T00:00:00.000Z",
+        "excerpt": "#### Cookies Notification\n\nThis site uses cookies. By continuing to browse\nthe site you are agreeing to our use of cookies.\n[Find out more.] \n\n[\u00d7] \n\n### Health Affairs Forefront\n\n[Drugs And Medical Innovation] \n\nRelated Topics:\n\n- [Prescription drugs] \n- [Medicare Part D] \n- [Pharmaceuticals] \n- [Affordable Care Act] \n- [Drug pricing] \n- [Politics] \n- [Medicare Part B] \n- [Medicare] \n- [Pharmaceutical industry] \n- [Pharmaceutical companies] \n\n# The Politics of Medicare and Drug-Price Negotiation"
+      },
+      {
+        "title": "Drug Prices in Medicare",
+        "url": "https://www.cbo.gov/system/files/2019-05/55270-DrugPricesMedicare.pdf",
+        "published": "2019-05-17T00:00:00.000Z",
+        "excerpt": "CONGRESSIONAL BUDGET OFFICE Keith Hall, Director\nU.S. Congress\nWashington, DC 20515\nMay 17, 2019\nHonorable Chuck Grassley\nChairman\nCommittee on Finance\nUnited States Senate\nWashington, DC 20510\nRE: Negotiation Over Drug Prices in Medicare\nDear Mr. Chairman:\nYou asked for updated answers to two questions that CBO addressed in a letter to Senator \nWyden in 2007.\n1 Those questions relate to the Medicare Part D prescription drug benefit \nand options for allowing the Secretary of Health and Human Ser"
+      },
+      {
+        "title": "The Real Reason Medicare Is a Lousy Drug Negotiator: It Can\u2019t Say No",
+        "url": "https://www.nytimes.com/2016/02/02/upshot/the-real-reason-medicare-is-a-lousy-drug-negotiator-it-cant-say-no.html?_r=0",
+        "published": "2016-02-02T00:00:00.000Z",
+        "excerpt": "[The Upshot] \\|The Real Reason Medicare Is a Lousy Drug Negotiator: It Can\u2019t Say No\n\nhttps://www.nytimes.com/2016/02/02/upshot/the-real-reason-medicare-is-a-lousy-drug-negotiator-it-cant-say-no.html\n\n- Share full article\n\n- [109] \n\n\nAdvertisement\n\n[SKIP ADVERTISEMENT] \n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\nA good negotiator needs to be able to walk away.\n\nThat is a rule that, surely, Donald "
+      },
+      {
+        "title": "Alternative Approaches to Reducing Prescription Drug Prices",
+        "url": "https://www.cbo.gov/system/files/2024-10/58793-rx-drug-prices.pdf",
+        "published": "2024-10-03T00:00:00.000Z",
+        "excerpt": "Congressional Budget Office \\y\nNonpartisan Analysis for the U.S. Congress\n\nAlternative Approaches to\nReducing Prescription Drug Prices\n\nOCTOBER | 2024\n\nAt a Glance\nIn this report, the Congressional Budget Office discusses the factors underlying prescription drug \nprices and examines a set of policy approaches aimed at reducing those prices. The agency assesses \nhow each approach, if implemented in 2025, would affect average drug prices for purchasers in the \nUnited States in 2031. Inclusion or e"
+      },
+      {
+        "title": "Issues Regarding Drug Price Negotiation in Medicare",
+        "url": "https://www.cbo.gov/sites/default/files/110th-congress-2007-2008/reports/drugpricenegotiation.pdf",
+        "published": "2007-04-10T00:00:00.000Z",
+        "excerpt": "www.cbo.gov\nCONGRESSIONAL BUDGET OFFICE Peter R. Orszag, Director\nU.S. Congress\nWashington, DC 20515\nApril 10, 2007\nHonorable Ron Wyden\nUnited States Senate\nWashington, DC 20510\nDear Senator:\nYou asked a number of questions relating to the Medicare drug benefit and options for allowing\nthe Secretary of Health and Human Services (HHS) to negotiate over the prices paid for drugs\nunder that benefit. The Medicare Modernization Act contained a provision that prohibits the\nSecretary both from interfer"
+      },
+      {
+        "title": "Medicare Drug Price Negotiations: All You Need to Know",
+        "url": "https://www.commonwealthfund.org/publications/explainer/2025/may/medicare-drug-price-negotiations-all-you-need-know",
+        "published": "2025-05-15T00:00:00.000Z",
+        "excerpt": "Medicare Drug Price Negotiations: All You Need to Know | Commonwealth Fund\n[Skip to main content] \nArrows iconBurger menu iconCaret down iconThick caret down iconCheck iconClose iconThick close iconFacebook iconFilled arrow up iconThin left arrow iconLinkedIn iconLogo iconMail iconOpen iconPlay iconPrint iconThin right arrow iconSearch iconShare iconTriangle iconTwitter icon\nBy continuing on our website, you agree to our use of the cookie for statistical and personalization purpose.[Learn More] "
+      },
+      {
+        "title": "Political History of Medicare and Prescription Drug Coverage",
+        "url": "https://www.kff.org/medicare/political-history-of-medicare-and-prescription-drug/",
+        "published": "2004-06-01T00:00:00.000Z",
+        "excerpt": "Political History of Medicare and Prescription Drug Coverage | KFF\n[Skip to main content] \nThe independent source for health policy research, polling, and news.\n[] \n* [Topics] \nBack\n## Topics\n* [Affordable Care Act] \n* [Elections] \n* [Global Health Policy] \n* [Health Costs] \n* [Health Information and Trust] \n* [HIV/AIDS] \n* [Immigrant Health] \n* [LGBTQ] \n* [Medicaid] \n* [Medicare] \n* [Mental Health] \n* [Patient and Consumer Protections] \n* [Public Opinion] \n* [Private Insurance] \n* [Racial Equit"
+      },
+      {
+        "title": "",
+        "url": "https://www.cms.gov/files/document/fact-sheetrevised-drug-price-negotiation-program-guidance-june-2023.pdf",
+        "published": "2023-06-29T00:00:00.000Z",
+        "excerpt": "Fact Sheet: Medicare Drug \nPrice Negotiation Program \nRevised Guidance \u001f\u001e\u001d\u001c\u001b\nCENTERS FOR MEDICARE & MEDICAID SERVICES\n\u001a\u001e\u0019\u0018\u0017\u0017\nNEGOTIATION PROGRAM\nMEDICARE\nIn August 2022, President Biden signed the Inflation \nReduction Act (IRA) of 2022 (P.L. 117-169) into law. The \nnew law makes improvements to Medicare that will \nexpand benefits, lower drug costs, and improve the \nsustainability of the Medicare program for generations \nto come. The law provides meaningful financial relief for \nmillions of peopl"
+      },
+      {
+        "title": "Policy Proposal: Allow Medicare to Negotiate Drug Prices in Part D",
+        "url": "https://www.pewtrusts.org/en/research-and-analysis/fact-sheets/2017/12/policy-proposal-allow-medicare-to-negotiate-drug-prices-in-part-d",
+        "published": "2024-11-22T00:00:00.000Z",
+        "excerpt": "Fact Sheet\nDecember 5, 2017\nRead time:\n\nProjects:[Drug Spending Research Initiative] \n\nShare\n\n[Twitter\\\nTwitter] [Facebook\\\nFacebook] [LinkedIn\\\nLinkedIn] [Email\\\nEmail] [Print\\\nPrint] \n\nShare\n\nShare\n\n- [Twitter] \n- [LinkedIn] \n- [Facebook] \n- [Email] \n- [Print] \n\nDownloads\n\nDownloads\n\n- Policy Proposal: Allow Medicare to Negotiate Drug Prices in Part D (PDF)\n\nRead Mode\n\nPolicy Proposal: Allow Medicare to Negotiate Drug Prices in Part D\n\n![Medicare drug prices] \n\n\u00a9 Getty Images\n\n_This fact sheet"
+      }
+    ],
+    "search_queries": [
+      "Search #1: US drug prices compared to Canada UK Germany same medication...",
+      "Search #2: prescription drug price comparison United States versus othe...",
+      "Search #3: why are pharmaceutical prices higher in America than Europe ...",
+      "Search #4: RAND study US drug prices 2.5 times higher OECD countries sp...",
+      "Search #5: government price regulation pharmaceutical drugs Canada UK G...",
+      "Search #6: UK NICE drug pricing approval health technology assessment p...",
+      "Search #7: specific examples insulin Humira drug prices United States c...",
+      "Search #8: Commonwealth Fund Medicare 10 drugs price comparison Germany...",
+      "Search #9: why United States lacks government drug price negotiation Me..."
+    ],
+    "search_count": 9,
+    "time_seconds": 64.43111205101013
+  },
+  "claude": {
+    "analysis_text": "I'll search for information comparing US drug pricing to Canada, UK, and Germany. Let me conduct approximately 10 targeted searches.Let me conduct a few more searches to gather additional specific information.Now I have comprehensive information from approximately 10 distinct searches. Let me compile the analysis following the requested format.\n\n---\n\n## 1. KEY FINDINGS\n\n### Overall Price Comparisons\n\n**Claim:** In 2022, US prescription drug prices were 2.78 times higher than prices in 33 other OECD countries.\n**Quote:** \"In 2022, U.S. prices across all drugs (brands and generics) were nearly 2.78 times as high as prices in the comparison countries.\"\n**Source:** https://aspe.hhs.gov/reports/comparing-prescription-drugs\n\n**Claim:** For brand-name drugs specifically, US prices were 4.22 times higher than comparison countries in 2022.\n**Quote:** \"The gap between prices in the United States and other countries is even larger for brand-named drugs, with U.S. prices averaging 4.22 times those in comparison nations.\"\n**Source:** https://www.rand.org/news/press/2024/02/01.html\n\n**Claim:** In 2019, the US spent $1,126 per capita on prescribed medicines while comparable countries spent $552 on average.\n**Quote:** \"In 2019 (the latest year with internationally comparable data from the OECD), the U.S. spent $1,126 per capita on prescribed medicines, while comparable countries spent $552 on average.\"\n**Source:** https://www.healthsystemtracker.org/chart-collection/how-do-prescription-drug-costs-in-the-united-states-compare-to-other-countries/\n\n### Specific Country Comparisons\n\n**Claim:** Among G7 nations, the UK, France, and Italy have the lowest prescription drug prices, while Canada, Germany, and Japan tend to have higher prices.\n**Quote:** \"among G7 nations, the United Kingdom, France, and Italy generally have the lowest prescription drug prices, while Canada, Germany, and Japan tend to have higher prices.\"\n**Source:** https://www.rand.org/news/press/2021/01/28.html\n\n**Claim:** France and Japan generally have the lowest prices among comparison countries for brand-name drugs, while Canada, Germany, and UK tend to have higher prices.\n**Quote:** \"France and Japan generally have the lowest prices among the comparison countries for all drugs and for brand-name originator, biologics, and nonbiologic drugs separately. Canada, Germany, and the United Kingdom tend to have higher prices across each subset of drugs.\"\n**Source:** https://pmc.ncbi.nlm.nih.gov/articles/PMC11147645/\n\n**Claim:** US retail prices for commonly prescribed drugs were 5 to 117 percent higher than in other countries, with Germany at 95 (5% higher) and UK at 46 (117% higher).\n**Quote:** \"Index values ranged from 95 in Germany to 46 in the United Kingdom, reflecting that U.S. retail prices for commonly prescribed drugs were 5 percent to 117 percent higher than prices in the other six countries included in the study\"\n**Source:** https://www.commonwealthfund.org/publications/issue-briefs/2017/oct/paying-prescription-drugs-around-world-why-us-outlier\n\n### Specific Drug Examples\n\n**Claim:** Humira costs 423% more in the US than in the UK and 186% more than in Germany.\n**Quote:** \"the price of Humira in the U.S. is 423% more expensive that the price in the U.K. and 186% more than that in Germany.\"\n**Source:** https://www.healthsystemtracker.org/chart-collection/how-do-prescription-drug-costs-in-the-united-states-compare-to-other-countries/\n\n**Claim:** US insulin prices in 2022 were about seven times higher than Germany and more than six times higher than Canada.\n**Quote:** \"Average gross prices in the U.S. were more than 10 times prices in France and the United Kingdom; nearly nine times prices in Italy; more than eight times prices in Japan; about seven times prices in Germany; and more than six times prices in Canada.\"\n**Source:** https://aspe.hhs.gov/sites/default/files/documents/d5541b529a379d1f908ed2f9c00a9255/aspe-cover-idr-pricing-availability.pdf\n\n**Claim:** In 2018, average American insulin users spent $3,490 annually compared to $725 for Canadians.\n**Quote:** \"The average American insulin user spent $3490 on insulin in 2018 compared with $725 among Canadians.\"\n**Source:** https://pubmed.ncbi.nlm.nih.gov/35135692/\n\n### Generic Drug Pricing\n\n**Claim:** US prices for unbranded generic drugs are about 67% of the average in comparison countries.\n**Quote:** \"prices for unbranded generic drugs\u2014which account for 90 percent of prescription volume in the United States\u2014are about 67 percent of the average cost in the comparison nations.\"\n**Source:** https://www.rand.org/news/press/2024/02/01.html\n\n**Claim:** Generic drug prices were not consistently lower in either the US or Canada, with significant variation.\n**Quote:** \"The lowest priced generic medications were not consistently found in either the US or Canada.\"\n**Source:** https://pubmed.ncbi.nlm.nih.gov/18774867/\n\n### Regulatory Differences Explaining Price Gaps\n\n**Claim:** The US does not directly regulate or negotiate drug prices, unlike other countries, allowing higher prices for drugs without competitors.\n**Quote:** \"In the U.S., drugs with no competitors can be more expensive than in other countries, in part because the U.S. does not directly regulate or negotiate the price of drugs.\"\n**Source:** https://www.healthsystemtracker.org/chart-collection/how-do-prescription-drug-costs-in-the-united-states-compare-to-other-countries/\n\n**Claim:** Germany uses reference pricing and negotiates prices based on clinical value assessments, resulting in substantially lower prices than the US.\n**Quote:** \"Germany's system, which uses centralized drug assessment and price negotiation for new drugs coupled with reference pricing for noninnovative drugs, has resulted in substantially lower drug prices compared with the United States.\"\n**Source:** https://www.commonwealthfund.org/publications/issue-briefs/2020/jan/drug-price-moderation-germany-lessons-us-reform-efforts\n\n**Claim:** In Germany, price negotiations are structured as bilateral monopoly between one buyer (Sickness Funds) and one seller (drug maker).\n**Quote:** \"Price negotiations in Germany are structured as a bilateral monopoly, with a single buyer, the umbrella organization of Sickness Funds, facing a single seller, the drug maker.\"\n**Source:** https://bcht.berkeley.edu/drug-assessment-and-pricing-germany\n\n**Claim:** The UK uses NICE to evaluate cost-effectiveness of drugs, which constrains prices through its binding recommendations on the NHS.\n**Quote:** \"NICE conducts a health technology assessment comparing the cost-effectiveness of the product to existing alternatives to determine whether the National Health Service (NHS) should cover the drug.\"\n**Source:** https://journalofethics.ama-assn.org/article/what-should-us-policymakers-learn-international-drug-pricing-transparency-strategies/2022-11\n\n**Claim:** Canada's PMPRB regulates patented medicine prices to ensure they are not excessive, operating as an independent quasi-judicial body.\n**Quote:** \"Created in 1987 under the Patent Act as an independent quasi-judicial tribunal, the PMPRB limits the prices set by patentees for all patented medicines, new and existing, sold in Canada, under prescription or over the counter, to ensure they are not excessive\"\n**Source:** https://www.canada.ca/en/patented-medicine-prices-review/corporate/media-inquiries/frequently-asked-questions.html\n\n### Market Context\n\n**Claim:** The US accounted for 62% of global drug sales in 2022 but only 24% of prescription volume.\n**Quote:** \"The United States accounted for 62 percent of sales, but just 24 percent of the volume.\"\n**Source:** https://www.rand.org/news/press/2024/02/01.html\n\n**Claim:** Even after adjusting US prices for rebates and discounts, brand-name drug prices remained more than three times higher than other countries.\n**Quote:** \"Even after adjusting U.S. prices downward to account for these discounts, U.S. prices for brand name drugs remained more than three times higher than those in other countries.\"\n**Source:** https://www.rand.org/news/press/2024/02/01.html\n\n**Claim:** Drug price differences between the US and other countries appear to explain current and historical disparities in pharmaceutical spending.\n**Quote:** \"the prices at which drugs are sold in the U.S. are substantially higher. These price differences appear to at least partly explain current and historical disparities in spending on pharmaceutical drugs.\"\n**Source:** https://www.commonwealthfund.org/sites/default/files/documents/___media_files_publications_issue_brief_2017_oct_sarnak_paying_for_rx_ib_v2.pdf\n\n## 2. SOURCE QUALITY ASSESSMENT\n\n**High Quality Sources:**\n- The RAND Corporation studies (commissioned by HHS/ASPE) represent peer-reviewed, methodologically rigorous analyses using comprehensive IQVIA MIDAS data from 2018 and 2022 covering 32-33 OECD countries. These are the gold standard for international price comparisons.\n- Peterson-KFF Health System Tracker and Commonwealth Fund reports provide well-documented policy analyses from respected non-partisan health policy organizations.\n- Government sources (HHS/ASPE, GAO, Canadian PMPRB, UK Parliament) offer official data and regulatory information.\n- PubMed/PMC indexed peer-reviewed studies provide academically vetted research.\n\n**Methodological Strengths:**\n- Multiple studies using consistent methodologies across different time periods (2018, 2022) showing persistent patterns\n- Price index approaches that control for differences in drug mix and volume\n- Sensitivity analyses testing different assumptions\n\n**Limitations Noted in Sources:**\n- Most studies use manufacturer gross prices rather than net prices (after rebates), though adjustments were made\n- International net prices are generally not publicly available, making true comparisons challenging\n- Rebates and discounts vary substantially by drug class and are confidential\n- Some variation in data coverage by country\n\n## 3. GAPS OR CONTRADICTIONS\n\n**Key Gaps:**\n\n1. **Net Price Data:** Most comparisons use gross/list prices. True net prices after confidential rebates and discounts are not systematically available for any country, making actual price differences potentially larger than reported.\n\n2. **Within-Country Variation:** Limited data on price variation within countries, particularly for countries like Germany and Canada where regional differences may exist.\n\n3. **Recent Policy Changes:** Sources primarily cover 2018-2022 data. The Inflation Reduction Act (2022) in the US and Canada's new PMPRB guidelines (2026) represent significant policy changes not fully reflected in the data.\n\n4. **Generic Drug Pricing:** Far less comprehensive analysis of generic drug pricing compared to brand-name drugs, with some contradictory findings about US-Canada generic comparisons.\n\n**Minor Contradictions:**\n\n- **Germany's relative position:** Some sources place Germany among higher-priced countries within Europe (alongside Canada and UK), while others emphasize Germany's lower prices compared to the US. This reflects Germany being mid-range in Europe but far below US prices.\n\n- **Generic drugs:** One study found US generics \"slightly lower\" than other countries, another found them at 67% of comparison countries, while a US-Canada comparison found inconsistent patterns. This likely reflects different methodologies and time periods.\n\n**NOTE:** These aren't true contradictions but rather reflect different comparison groups and methodologies. [INFERENCE - synthesized from multiple sources]\n\n## 4. RECOMMENDED NEXT STEPS\n\n**For Deeper Understanding:**\n\n1. **Updated Post-IRA Analysis:** Research the impact of the Inflation Reduction Act's Medicare drug price negotiations (first 10 drugs negotiated in 2024) on US pricing trends.\n\n2. **Net Price Transparency:** Investigate efforts to increase transparency around actual net prices paid after rebates in both US and comparison countries, as this is a significant data gap.\n\n3. **Specific Therapeutic Class Analysis:** Examine pricing patterns for specific drug categories (cancer drugs, rare disease treatments, biosimilars) as these may show different patterns than overall averages.\n\n4. **Patient Out-of-Pocket Costs:** Research actual patient cost-sharing and out-of-pocket expenses across countries, as insurance design affects what patients actually pay versus system-level prices.\n\n5. **Market Access Timing:** Investigate whether lower prices in other countries correlate with delayed market access or reduced availability of new medications.\n\n6. **Regulatory Mechanism Details:** Deep dive into how Germany's AMNOG system, UK's NICE evaluations, and Canada's PMPRB actually function in practice, including case studies of specific drug pricing negotiations.\n\n7. **Impact on Innovation:** Examine evidence regarding pharmaceutical industry claims that lower international prices reduce R&D investment and innovation.\n\n8. **Recent Developments (2024-2026):** Search for analyses of Canada's new PMPRB guidelines effective January 2026 and any US policy changes under current administration.",
+    "sources": [
+      {
+        "title": "International Prescription Drug Price Comparisons: Estimates Using 2022 Data - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11147645/",
+        "page_age": null
+      },
+      {
+        "title": "Prescription Drug Prices in the United States Are 2.56 Times Those in Other Countries | RAND",
+        "url": "https://www.rand.org/news/press/2021/01/28.html",
+        "page_age": "January 28, 2021"
+      },
+      {
+        "title": "How do prescription drug costs in the United States compare to other countries? - Peterson-KFF Health System Tracker",
+        "url": "https://www.healthsystemtracker.org/chart-collection/how-do-prescription-drug-costs-in-the-united-states-compare-to-other-countries/",
+        "page_age": "July 8, 2024"
+      },
+      {
+        "title": "How Drug Prices Differ in the U.S. Versus Other Countries - BioSpace",
+        "url": "https://www.biospace.com/how-drug-prices-differ-in-the-u-s-versus-other-countries",
+        "page_age": "August 19, 2024"
+      },
+      {
+        "title": "A Painful Pill to Swallow: U.S. vs. International Prescription Drug Prices",
+        "url": "https://democrats-waysandmeans.house.gov/sites/evo-subsites/democrats-waysandmeans.house.gov/files/documents/U.S.%20vs.%20International%20Prescription%20Drug%20Prices_0.pdf",
+        "page_age": null
+      },
+      {
+        "title": "Prescription Drug Spending: Why Is the U.S. an Outlier?",
+        "url": "https://www.commonwealthfund.org/publications/issue-briefs/2017/oct/paying-prescription-drugs-around-world-why-us-outlier",
+        "page_age": "October 5, 2017"
+      },
+      {
+        "title": "US Drug Prices vs. The World",
+        "url": "https://www.drugwatch.com/featured/us-drug-prices-higher-vs-world/",
+        "page_age": "June 26, 2025"
+      },
+      {
+        "title": "Chart: U.S. Drug Prices Sky-High in International Comparison | Statista",
+        "url": "https://www.statista.com/chart/27932/us-prescription-drug-prices-in-international-comparison/",
+        "page_age": null
+      },
+      {
+        "title": "International Prescription Drug Price Comparisons",
+        "url": "https://aspe.hhs.gov/sites/default/files/documents/277371265a705c356c968977e87446ae/international-price-comparisons.pdf",
+        "page_age": null
+      },
+      {
+        "title": "ABSTRACT ISSUE: Compared with other high-income countries, the United States",
+        "url": "https://www.commonwealthfund.org/sites/default/files/documents/___media_files_publications_issue_brief_2017_oct_sarnak_paying_for_rx_ib_v2.pdf",
+        "page_age": null
+      },
+      {
+        "title": "How do prescription drug costs in the United States compare to other countries? - Peterson-KFF Health System Tracker",
+        "url": "https://www.healthsystemtracker.org/chart-collection/how-do-prescription-drug-costs-in-the-united-states-compare-to-other-countries/",
+        "page_age": "July 8, 2024"
+      },
+      {
+        "title": "Comparing Prescription Drugs in the U.S. and Other Countries: Prices and Availability | ASPE",
+        "url": "https://aspe.hhs.gov/reports/comparing-prescription-drugs",
+        "page_age": null
+      },
+      {
+        "title": "Prescription Drug Prices in the U.S. Are 2.78 Times Those in Other Countries | RAND",
+        "url": "https://www.rand.org/news/press/2024/02/01.html",
+        "page_age": "February 1, 2024"
+      },
+      {
+        "title": "International Prescription Drug Price Comparisons: Estimates Using 2022 Data - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11147645/",
+        "page_age": null
+      },
+      {
+        "title": "Biden Is Right. The US Generally Pays Double That of Other Countries for Rx Drugs. - KFF Health News",
+        "url": "https://kffhealthnews.org/news/article/fact-check-biden-prescription-drug-prices-nation-comparison/",
+        "page_age": "March 6, 2024"
+      },
+      {
+        "title": "Comparing Prescription Drugs in the U.S. and Other ...",
+        "url": "https://aspe.hhs.gov/sites/default/files/documents/d5541b529a379d1f908ed2f9c00a9255/aspe-cover-idr-pricing-availability.pdf",
+        "page_age": null
+      },
+      {
+        "title": "Setting the Record Straight: Comparing U.S. drug prices to those in foreign countries hurts patients | PhRMA",
+        "url": "https://phrma.org/blog/setting-the-record-straight-comparing-us-drug-prices-to-those-in-foreign-countries-hurts-patients",
+        "page_age": null
+      },
+      {
+        "title": "Prescription Drug Prices in the United States Are 2.56 Times Those in Other Countries | RAND",
+        "url": "https://www.rand.org/news/press/2021/01/28.html",
+        "page_age": "January 28, 2021"
+      },
+      {
+        "title": "Chart: U.S. Drug Prices Sky-High in International Comparison | Statista",
+        "url": "https://www.statista.com/chart/27932/us-prescription-drug-prices-in-international-comparison/",
+        "page_age": null
+      },
+      {
+        "title": "A Painful Pill to Swallow: U.S. vs. International Prescription Drug Prices",
+        "url": "https://democrats-waysandmeans.house.gov/sites/evo-subsites/democrats-waysandmeans.house.gov/files/documents/U.S.%20vs.%20International%20Prescription%20Drug%20Prices_0.pdf",
+        "page_age": null
+      },
+      {
+        "title": "International Prescription Drug Price Comparisons: Estimates Using 2022 Data - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11147645/",
+        "page_age": null
+      },
+      {
+        "title": "Pharmaceutical Pricing Policy project - OECD",
+        "url": "https://www.oecd.org/els/health-systems/pharmaceutical-pricing-policy.htm",
+        "page_age": null
+      },
+      {
+        "title": "Comparing Prescription Drugs in the U.S. and Other Countries: Prices and Availability | ASPE",
+        "url": "https://aspe.hhs.gov/reports/comparing-prescription-drugs",
+        "page_age": null
+      },
+      {
+        "title": "Assistant Secretary for Planning and Evaluation (ASPE)",
+        "url": "https://aspe.hhs.gov/sites/default/files/documents/277371265a705c356c968977e87446ae/international-price-comparisons.pdf",
+        "page_age": null
+      },
+      {
+        "title": "C O N T R A C T O R P R O J E C T R E P O R T",
+        "url": "https://aspe.hhs.gov/sites/default/files/documents/8e057b0a094e6f9b9d01171fce6698f4/international-price-comparisons.pdf",
+        "page_age": null
+      },
+      {
+        "title": "International Prescription Drug Price Comparisons: Estimates Using 2022 Data - Comparing Prescription Drugs in the U.S. and Other Countries: Prices and Availability - NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK611303/",
+        "page_age": null
+      },
+      {
+        "title": "Prescription Drug Prices in the U.S. Are 2.78 Times Those in Other Countries | RAND",
+        "url": "https://www.rand.org/news/press/2024/02/01.html",
+        "page_age": "February 1, 2024"
+      },
+      {
+        "title": "How Medicare negotiated drug prices compare to other countries - Peterson-KFF Health System Tracker",
+        "url": "https://www.healthsystemtracker.org/brief/how-medicare-negotiated-drug-prices-compare-to-other-countries/",
+        "page_age": "December 19, 2024"
+      },
+      {
+        "title": "U.S. Prescription Drug Prices Are 2.5 Times Those in Other OECD Countries | RAND",
+        "url": "https://www.rand.org/pubs/research_briefs/RBA1296-1.html",
+        "page_age": "April 14, 2021"
+      },
+      {
+        "title": "Comparing U.S. and International Market Size and Average Pricing for Prescription Drugs, 2017-2022 - NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK611829/",
+        "page_age": null
+      },
+      {
+        "title": "What Other Countries Could Teach the U.S. About Bringing Down Drug Prices | Stanford Graduate School of Business",
+        "url": "https://www.gsb.stanford.edu/insights/what-other-countries-could-teach-us-about-bringing-down-drug-prices",
+        "page_age": null
+      },
+      {
+        "title": "Prescription Drugs: U.S. Prices for Selected Brand Drugs Were Higher on Average than Prices in Australia, Canada, and France | U.S. GAO",
+        "url": "https://www.gao.gov/products/gao-21-282",
+        "page_age": null
+      },
+      {
+        "title": "International Prescription Drug Price Comparisons: Estimates Using 2022 Data - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11147645/",
+        "page_age": null
+      },
+      {
+        "title": "Why Are Prescription Drugs More Expensive in the U.S. than in Other Countries? - GoodRx",
+        "url": "https://www.goodrx.com/drugs/savings/why-are-prescription-drugs-more-expensive-in-the-us-than-in-other-countries",
+        "page_age": "October 19, 2022"
+      },
+      {
+        "title": "Differences in generic drug prices between the US and Canada - PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18774867/",
+        "page_age": null
+      },
+      {
+        "title": "US Prescription Drug Prices 256% Higher Than Other Countries | TechTarget",
+        "url": "https://www.techtarget.com/pharmalifesciences/news/366605984/US-Prescription-Drug-Prices-256-Higher-Than-Other-Countries",
+        "page_age": null
+      },
+      {
+        "title": "Prescription Drug Prices in the U.S. Are 2.78 Times Those in Other Countries | RAND",
+        "url": "https://www.rand.org/news/press/2024/02/01.html",
+        "page_age": "February 1, 2024"
+      },
+      {
+        "title": "Assistant Secretary for Planning and Evaluation (ASPE)",
+        "url": "https://aspe.hhs.gov/sites/default/files/documents/d5541b529a379d1f908ed2f9c00a9255/aspe-cover-idr-pricing-availability.pdf",
+        "page_age": null
+      },
+      {
+        "title": "Prescription Drug Prices in the United States Are 2.56 Times Those in Other Countries | RAND",
+        "url": "https://www.rand.org/news/press/2021/01/28.html",
+        "page_age": "January 28, 2021"
+      },
+      {
+        "title": "Why the US has higher drug prices than other countries",
+        "url": "https://theconversation.com/why-the-us-has-higher-drug-prices-than-other-countries-111256",
+        "page_age": "October 2, 2025"
+      },
+      {
+        "title": "Comparing Insulin Prices in the United States to Other Countries: Updated Results Using 2022 Data - Comparing Prescription Drugs in the U.S. and Other Countries: Prices and Availability - NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK611299/",
+        "page_age": null
+      },
+      {
+        "title": "Insulin Prices 8x Higher in the US Compared to Similar Nations | TechTarget",
+        "url": "https://www.techtarget.com/pharmalifesciences/news/366607468/Insulin-Prices-8x-Higher-in-the-US-Compared-to-Similar-Nations",
+        "page_age": null
+      },
+      {
+        "title": "Comparing Insulin Prices in the United States to Other ...",
+        "url": "https://aspe.hhs.gov/sites/default/files/documents/7ec40da6efd90a2a71cf3399a5b3b24d/insulin-price-comparisons.pdf",
+        "page_age": null
+      },
+      {
+        "title": "Cost of Insulin by Country 2026",
+        "url": "https://worldpopulationreview.com/country-rankings/cost-of-insulin-by-country",
+        "page_age": "1 week ago"
+      },
+      {
+        "title": "Comparisons of Insulin Spending and Price Between Canada and the United States - PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35135692/",
+        "page_age": null
+      },
+      {
+        "title": "RESEARCH REPORT Comparing Insulin Prices in the U.S. to Other Countries",
+        "url": "https://aspe.hhs.gov/sites/default/files/private/pdf/264056/Comparing-Insulin-Prices.pdf",
+        "page_age": null
+      },
+      {
+        "title": "World of Statistics on X: \"The average cost of insulin by country: \ud83c\uddfa\ud83c\uddf8 U.S.: $99 \ud83c\udde8\ud83c\uddf1 Chile: $21 \ud83c\uddf2\ud83c\uddfd Mexico: $16 \ud83c\uddef\ud83c\uddf5 Japan: $14 \ud83c\udde8\ud83c\udded Switzerland: $12 \ud83c\udde8\ud83c\udde6 Canada: $12 \ud83c\udde9\ud83c\uddea Germany: $11 \ud83c\uddf0\ud83c\uddf7 Korea: $10 \ud83c\uddf1\ud83c\uddfa Luxembourg: $10 \ud83c\uddee\ud83c\uddf9 Italy: $10 \ud83c\uddf3\ud83c\uddf1 Netherlands: $10 \ud83c\uddee\ud83c\uddea Ireland: $10 \ud83c\uddea\ud83c\uddea Estonia: $10 \ud83c\uddeb\ud83c\uddf7 France: $9 \ud83c\uddea\ud83c\uddf8 Spain: $9 \ud83c\uddeb\ud83c\uddee\" / X",
+        "url": "https://x.com/stats_feed/status/1903040508722610508",
+        "page_age": null
+      },
+      {
+        "title": "Why Insulin is So Much Cheaper in Germany Than in the U.S. | TIME",
+        "url": "https://time.com/5706668/insulin-pricing-us-germany/",
+        "page_age": "October 24, 2019"
+      },
+      {
+        "title": "Comparing Insulin Prices in the U.S. to Other Countries | ASPE",
+        "url": "https://aspe.hhs.gov/reports/comparing-insulin-prices-us-other-countries",
+        "page_age": null
+      },
+      {
+        "title": "Comparisons of Insulin Spending and Price Between Canada and the United States - ScienceDirect",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0025619621008831",
+        "page_age": "February 5, 2022"
+      },
+      {
+        "title": "Drug Assessment and Pricing in Germany | Berkeley Center for Health Technology - BCHT",
+        "url": "https://bcht.berkeley.edu/drug-assessment-and-pricing-germany",
+        "page_age": null
+      },
+      {
+        "title": "Drug Price Moderation in Germany: Lessons for U.S. Reform Efforts | Commonwealth Fund",
+        "url": "https://www.commonwealthfund.org/publications/issue-briefs/2020/jan/drug-price-moderation-germany-lessons-us-reform-efforts",
+        "page_age": "January 23, 2020"
+      },
+      {
+        "title": "Reference Pricing in Germany: Implications U.S. Drug Purchasing | Commonwealth Fund",
+        "url": "https://www.commonwealthfund.org/publications/issue-briefs/2019/jan/reference-pricing-germany-implications",
+        "page_age": "February 4, 2019"
+      },
+      {
+        "title": "What is Germany's experience on reference based drug pricing and the etiology of adverse health outcomes or substitution? - PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10182296/",
+        "page_age": null
+      },
+      {
+        "title": "Germany\u2019s Model For Drug Price Regulation Could Work In The US | Health Affairs Forefront",
+        "url": "https://www.healthaffairs.org/do/10.1377/forefront.20161229.058150/",
+        "page_age": null
+      },
+      {
+        "title": "Germany again to reform drug pricing and reimbursement laws \u2013 With \u201cconfidential reimbursements prices\u201d that impede international reference pricing | Inside EU Life Sciences",
+        "url": "https://www.insideeulifesciences.com/2024/02/16/germany-again-to-reform-drug-pricing-and-reimbursement-laws-with-confidential-reimbursements-prices-that-impede-international-reference-pricing/",
+        "page_age": "February 16, 2024"
+      },
+      {
+        "title": "Reference Pricing in Germany: Implications for U.S. ...",
+        "url": "https://www.commonwealthfund.org/sites/default/files/2019-02/Robinson_reference_pricing_germany_ib.pdf",
+        "page_age": null
+      },
+      {
+        "title": "BfArM - Reference Pricing",
+        "url": "https://www.bfarm.de/EN/Medicinal-products/Information-on-medicinal-products/Reference-Pricing/_node.html",
+        "page_age": null
+      },
+      {
+        "title": "Pricing in Germany \u2014 German Market Access \u2013 Simplified",
+        "url": "https://germanmarketaccesssimplified.com/pricing-in-germany/",
+        "page_age": "September 29, 2023"
+      },
+      {
+        "title": "From reimbursement price to final pharmacy price",
+        "url": "https://germanmarketaccesssimplified.com/drug-prices-and-treatment-costs-in-germany/",
+        "page_age": "April 19, 2024"
+      },
+      {
+        "title": "The Pharmaceutical Price Regulation Scheme - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1808121/",
+        "page_age": null
+      },
+      {
+        "title": "Pharmaceutical Price Regulation Scheme - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pharmaceutical_Price_Regulation_Scheme",
+        "page_age": "August 25, 2025"
+      },
+      {
+        "title": "How are medicines prices set in the UK?",
+        "url": "https://commonslibrary.parliament.uk/how-are-medicines-prices-set-in-the-uk/",
+        "page_age": "December 12, 2025"
+      },
+      {
+        "title": "Number 364 October 2010 Drug Pricing",
+        "url": "https://www.parliament.uk/globalassets/documents/post/postpn_364_Drug_Pricing.pdf",
+        "page_age": null
+      },
+      {
+        "title": "How the United Kingdom Controls Pharmaceutical Prices and Spending: Learning From Its Experience - Marc A. Rodwin, 2021",
+        "url": "https://journals.sagepub.com/doi/abs/10.1177/0020731421997094",
+        "page_age": null
+      },
+      {
+        "title": "'Free' pricing in the UK: the influence of NICE and NHS England | pharmaphorum",
+        "url": "https://pharmaphorum.com/views-and-analysis/pas-free-pricing-uk-nice-nhs-england",
+        "page_age": null
+      },
+      {
+        "title": "expert reaction to announcement on UK-US pharmaceuticals deal and changes to NICE\u2019s cost-effectiveness thresholds | Science Media Centre",
+        "url": "https://www.sciencemediacentre.org/expert-reaction-to-announcement-on-uk-us-pharmaceuticals-deal-and-changes-to-nices-cost-effectiveness-thresholds/",
+        "page_age": null
+      },
+      {
+        "title": "What Should US Policymakers Learn From International Drug Pricing Transparency Strategies? | Journal of Ethics | American Medical Association",
+        "url": "https://journalofethics.ama-assn.org/article/what-should-us-policymakers-learn-international-drug-pricing-transparency-strategies/2022-11",
+        "page_age": "November 1, 2022"
+      },
+      {
+        "title": "Pricing & Reimbursement Laws 2025 | United Kingdom",
+        "url": "https://www.globallegalinsights.com/practice-areas/pricing-reimbursement-laws-and-regulations/united-kingdom/",
+        "page_age": "August 27, 2025"
+      },
+      {
+        "title": "December 2013 The Pharmaceutical Price Regulation Scheme 2014",
+        "url": "https://assets.publishing.service.gov.uk/media/5a8203f440f0b6230269a61b/The_pharmaceutical_price_regulation_scheme_2014.pdf",
+        "page_age": null
+      },
+      {
+        "title": "Patented Medicine Prices Review Board - Canada.ca",
+        "url": "https://www.canada.ca/en/patented-medicine-prices-review.html",
+        "page_age": null
+      },
+      {
+        "title": "Protecting Canadians from Excessive Drug Prices - Canada.ca",
+        "url": "https://www.canada.ca/en/health-canada/programs/consultation-regulations-patented-medicine/document.html",
+        "page_age": null
+      },
+      {
+        "title": "PMPRB Guidelines - Canada.ca",
+        "url": "https://www.canada.ca/en/patented-medicine-prices-review/services/legislation/about-guidelines/guidelines.html",
+        "page_age": null
+      },
+      {
+        "title": "Frequently Asked Questions, Consumers",
+        "url": "https://www.pmprb-cepmb.gc.ca/view.asp?ccid=1049",
+        "page_age": null
+      },
+      {
+        "title": "Frequently Asked Questions",
+        "url": "http://www.pmprb-cepmb.gc.ca/about-us/frequently-asked-questions",
+        "page_age": null
+      },
+      {
+        "title": "Frequently Asked Questions - Canada.ca",
+        "url": "https://www.canada.ca/en/patented-medicine-prices-review/corporate/media-inquiries/frequently-asked-questions.html",
+        "page_age": null
+      },
+      {
+        "title": "Walking a tightrope: Navigating US most-favored-nation prescription drug pricing in Canada | Global law firm | Norton Rose Fulbright",
+        "url": "https://www.nortonrosefulbright.com/en/knowledge/publications/64f59794/walking-a-tightrope-navigating-us-most-favored-nation",
+        "page_age": null
+      },
+      {
+        "title": "2023-24 Departmental Plan: Patented Medicine Prices Review Board - Canada.ca",
+        "url": "https://www.canada.ca/en/patented-medicine-prices-review/corporate/transparency/departmental-plan/2023-24-departmental-plan.html",
+        "page_age": null
+      },
+      {
+        "title": "Guidelines for PMPRB Staff - Canada.ca",
+        "url": "https://www.canada.ca/en/patented-medicine-prices-review/services/legislation/guidelines.html",
+        "page_age": null
+      },
+      {
+        "title": "Canada\u2019s new drug pricing guidelines are industry-friendly",
+        "url": "https://theconversation.com/canadas-new-drug-pricing-guidelines-are-industry-friendly-261062",
+        "page_age": "October 9, 2025"
+      }
+    ],
+    "search_count": 0,
+    "time_seconds": 87.6903281211853
+  },
+  "metrics": {
+    "exa_traceability": 100.0,
+    "exa_supported": 10,
+    "exa_tier_a": 31,
+    "exa_tier_a_pct": 35.22727272727273,
+    "exa_cost": 0.145,
+    "claude_traceability": 100.0,
+    "claude_supported": 19,
+    "claude_tier_a": 28,
+    "claude_tier_a_pct": 35.0,
+    "claude_cost": 0.5423
+  }
+}

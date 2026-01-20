@@ -1,0 +1,1086 @@
+{
+  "timestamp": "2026-01-20T01:44:14.959993",
+  "query": "Identify companies with repeat OSHA violations in warehouse safety",
+  "query_category": "Investigative Patterns",
+  "app_type": "general",
+  "webset_category": null,
+  "search_type": "neural",
+  "num_results": 10,
+  "exa": {
+    "analysis_text": "Now let me compile a comprehensive analysis based on the sources found. I have sufficient information to provide a detailed report on companies with repeat OSHA violations in warehouse safety.\n\n## 1. KEY FINDINGS\n\n### Amazon - Multiple Violations Across Facilities\n\n**Claim:** OSHA investigated 10 Amazon warehouse facilities nationwide in 2022, resulting in citations at multiple locations.\n**Quote:** \"The Occupational Safety and Health Administration began a series of investigations at 10 Amazon facilities around the country in 2022\"\n**Source:** https://seattletimes.com/business/amazon/amazon-osha-reach-settlement-over-warehouse-safety-citations\n\n**Claim:** Amazon received citations for ergonomic hazards at three warehouse facilities for exposing workers to repeated heavy lifting.\n**Quote:** \"Federal regulators issued three safety violations to Amazon this week, saying workers at its warehouses in three states are spending too many hours repeatedly lifting heavy packages.\"\n**Source:** https://www.news9.com/story/63dc1b05db185e768edbf0ff/amazon-cited-for-warehouse-dangers-in-second-osha-slap-in-a-month\n\n**Claim:** Amazon failed to record and report worker injuries and illnesses at six warehouse facilities.\n**Quote:** \"Federal safety inspections at six Amazon warehouse facilities find company failed to record, report worker injuries, illnesses\"\n**Source:** https://www.osha.gov/news/newsreleases/national/12162022\n\n**Claim:** Amazon reached a corporate-wide settlement in December 2024 covering violations at 10 facilities across multiple dockets.\n**Quote:** \"OSHA reaches largest-of-its-kind settlement with Amazon over allegations of hazardous workplace conditions\"\n**Source:** https://abcnews.go.com/Politics/osha-reaches-kind-settlement-amazon-hazardous-working-conditions/story?id=116952521\n\n**Claim:** Amazon agreed to pay $145,000 in penalties as part of the settlement agreement.\n**Quote:** \"Amazon will pay a $145,000 penalty and submit to oversight on 10 facilities.\"\n**Source:** https://abcnews.go.com/Politics/osha-reaches-kind-settlement-amazon-hazardous-working-conditions/story?id=116952521\n\n### Walmart - Repeat Violations and Legal Challenges\n\n**Claim:** Walmart was cited by OSHA in 2017 for workplace safety violations that resulted in serious worker injuries from falling merchandise.\n**Quote:** \"Walmart was originally cited in 2017 when stored merchandise fell and seriously injured an employee.\"\n**Source:** https://www.securitymagazine.com/articles/99013-osha-panel-affirms-walmart-violated-workplace-safety-standards\n\n**Claim:** A federal panel upheld OSHA's findings against Walmart after years of litigation.\n**Quote:** \"Federal panel upholds $10K US Department of Labor citation litigated by Walmart for years over hazardous shelving\"\n**Source:** https://www.osha.gov/news/newsreleases/national/02242023\n\n### Government Reports on Warehouse Safety Crisis\n\n**Claim:** A 2023 Department of Labor Inspector General report identified high injury rates at warehouse facilities that OSHA needs to address more effectively.\n**Quote:** \"OSHA NEEDS TO DO MORE TO ADDRESS HIGH INJURY RATES OF WAREHOUSE WORKERS\"\n**Source:** https://oig.dol.gov/public/reports/oa/2023/19-23-013-10-105.pdf\n\n**Claim:** A 2024 GAO report found that OSHA should take additional steps to identify and address ergonomic hazards at warehouses and delivery companies.\n**Quote:** \"OSHA Should Take Steps to Better Identify and Address Ergonomic Hazards at Warehouses and Delivery Companies\"\n**Source:** https://www.gao.gov/products/gao-24-106413\n\n**Claim:** Three major hazards cause most injuries in e-commerce warehouses according to government analysis.\n**Quote:** \"Three major hazards caused most of the injuries and illnesses in general warehousing (which includes e-commerce warehouses)\"\n**Source:** https://www.gao.gov/assets/gao-24-106413-highlights.pdf\n\n### OSHA Enforcement Programs Targeting Repeat Violators\n\n**Claim:** OSHA expanded its Severe Violator Enforcement Program in 2022 to focus on employers with willful, repeated, or failure-to-abate violations.\n**Quote:** \"Program focuses on employers who repeatedly disregard workers' safety, health\"\n**Source:** https://www.dol.gov/newsroom/releases/osha/osha20220915\n\n**Claim:** OSHA launched a National Emphasis Program in July 2023 specifically targeting warehouse and distribution center operations.\n**Quote:** \"Department of Labor announces national emphasis program aimed at reducing, preventing workplace hazards in warehouses, distribution centers\"\n**Source:** https://www.osha.gov/news/newsreleases/national/07132023\n\n**Claim:** The warehouse National Emphasis Program became effective immediately upon announcement with no prior public notice.\n**Quote:** \"The new NEP was signed-off by the Head of OSHA a month ago \u2013 on June 14, 2023 \u2013 so it became effective as of July 13\"\n**Source:** https://oshadefensereport.com/2023/07/14/osha-launches-enforcement-national-emphasis-program-targeting-warehouses-distribution-centers-and-high-risk-retailers/\n\n### Industry Patterns\n\n**Claim:** The U.S. warehousing market experienced tremendous growth driven by e-commerce, increasing worker safety concerns.\n**Quote:** \"The U.S. warehousing market experienced tremendous growth in recent years, driven largely by e-commerce.\"\n**Source:** https://www.osha.gov/sites/default/files/publications/OSHA4384.pdf\n\n**Note:** While multiple sources document repeat violations at Amazon specifically, documentation of repeat violations at other major warehouse operators (Walmart, UPS, FedEx, Target) is more limited in these search results, though OSHA's inspection database shows violations at these companies. [INFERENCE - pattern suggests focused enforcement on Amazon as largest warehouse operator]\n\n## 2. SOURCE QUALITY ASSESSMENT\n\n**High Quality Sources:**\n- Official OSHA news releases and settlement documents (osha.gov domain) - Primary government sources\n- Government Accountability Office (GAO) reports - Independent oversight agency\n- Department of Labor Office of Inspector General audits - Independent auditor\n- OSHRC (Occupational Safety and Health Review Commission) legal decisions - Official adjudication records\n- Major news outlets (New York Times, Reuters, Bloomberg, Seattle Times) - Established journalism\n\n**Strengths:**\n- Multiple independent corroborating sources on Amazon violations\n- Direct access to official settlement agreements and inspection reports\n- Government oversight bodies (GAO, OIG) providing independent analysis\n- Legal documents from formal adjudication proceedings\n\n**Limitations:**\n- Limited detailed information on specific repeat violations at companies other than Amazon\n- Some OSHA database links provide limited excerpt information\n- Recent settlement (December 2024) may limit long-term outcome analysis\n\n## 3. GAPS OR CONTRADICTIONS\n\n**Information Gaps:**\n\n1. **Other Major Warehouse Operators:** While Amazon's violations are extensively documented, there is less detailed public information about the frequency and severity of repeat violations at other major warehouse operators like Target, Home Depot, and smaller regional warehouse companies.\n\n2. **Comparative Violation Data:** The sources don't provide systematic comparison of violation rates across warehouse companies of similar size, making it difficult to assess whether certain operators are disproportionate violators.\n\n3. **Chewy Citation:** One source references an OSHRC decision for Chewy, Inc. (docket 19-0868) from 2022, but the excerpt doesn't provide violation details.\n\n4. **Settlement Outcomes:** The December 2024 Amazon settlement is too recent to assess effectiveness of remedial measures or whether violations truly cease.\n\n5. **Industry-Wide Statistics:** While individual company violations are documented, comprehensive data on what percentage of warehouse operators have repeat violations is not provided in these sources.\n\n**Potential Contradictions:**\n\n1. **Settlement vs. Admission:** Amazon settled by dropping 9 of 10 citations and paying $145,000, which may not represent full liability for the violations alleged across 10 facilities. The settlement structure suggests negotiated resolution rather than complete acceptance of all charges.\n\n2. **Enforcement Intensity:** The sources show dramatically increased OSHA focus on warehouse safety beginning in 2022-2023 (Inspector General report, new NEP, Severe Violator Program expansion), which could mean either: (a) violations are increasing, or (b) enforcement priorities shifted. The sources don't clearly distinguish these factors.\n\n## 4. RECOMMENDED NEXT STEPS\n\n**Further Research Priorities:**\n\n1. **Access OSHA's Establishment Search Database:** Conduct systematic searches of OSHA's inspection database for major warehouse operators to quantify repeat violation patterns. The search results included several database links that could be explored more fully.\n\n2. **Review Senate Investigation Reports:** The search results reference a Senate Health, Education, Labor, and Pensions Committee investigation into Amazon with reports from July and December 2024. These reports may contain detailed findings on injury patterns and company knowledge.\n\n3. **Examine Severe Violator Enforcement Program List:** Request or search OSHA's current SVEP list to identify which warehouse operators have been designated as severe violators, indicating pattern of willful or repeated violations.\n\n4. **Industry Injury Rate Analysis:** Obtain Bureau of Labor Statistics data on injury and illness rates for NAICS code 493 (Warehousing and Storage) to compare specific companies against industry averages.\n\n5. **State OSHA Programs:** Research violations cited by state-plan OSHA programs (California, Washington, etc.) which may have additional enforcement actions not captured in federal OSHA data.\n\n6. **Follow-up on Amazon Settlement:** Monitor compliance with the corporate-wide settlement agreement terms, including required ergonomic assessments and injury reduction targets, to determine if repeat violations continue.\n\n7. **Worker Compensation Records:** Examine workers' compensation claim data in states with public databases to identify facilities with high injury claim frequencies as indicator of unsafe conditions.\n\n8. **Staffing Agency Violations:** Investigate violations involving temporary staffing agencies in warehouse operations, as OSHA's Temporary Worker Initiative specifically addresses this area of concern.",
+    "sources": [
+      {
+        "title": "CHEWY, INC. OSHRC DOCKET No. 19-0868",
+        "url": "https://www.oshrc.gov/wp-content/uploads/19-0868_Decision_and_Order.html",
+        "published": "2022-03-29T00:00:00.000Z",
+        "excerpt": "CHEWY, INC. OSHRC DOCKET No. 19-0868\nUnited States of America\nOCCUPATIONAL SAFETY AND HEALTH REVIEW COMMISSION\n1120 20th Street, N.W., Ninth Floor\nWashington, DC 20036-3457\nSECRETARY OF LABOR,\n|\n|\nComplainant,\n|\n|\nv.\n|\nOSHRC DOCKET NO. 19-0868\n|\nCHEWY, INC.,\n|\n|\nRespondent.\n|\n|\nAppearances:\u00a0 \u00a0\u00a0\u00a0Elena S. Goldstein, Deputy Solicitor of Labor\nTremelle I. Howard, Regional Solicitor\nKaren E. Mock, Counsel\nLydia J. Chastain, Senior Trial Attorney\nU.S. Department of Labor, Atlanta, Georgia\nFor the Comp"
+      },
+      {
+        "title": "Amazon Reaches Settlement to Resolve Federal Safety Accusations",
+        "url": "https://www.nytimes.com/2024/12/19/business/amazon-settlement-osha.html",
+        "published": "2024-12-19T00:00:00.000Z",
+        "excerpt": "[Business] \\|Amazon Reaches Settlement to Resolve Federal Safety Accusations\n\nhttps://www.nytimes.com/2024/12/19/business/amazon-settlement-osha.html\n\n- Share full article\n\n\nAdvertisement\n\n[SKIP ADVERTISEMENT] \n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\nFederal health and safety regulators on Thursday announced a corporate-wide settlement with Amazon, bringing an end to cases involving accusation"
+      },
+      {
+        "title": "Amazon, OSHA reach settlement over warehouse safety citations",
+        "url": "https://seattletimes.com/business/amazon/amazon-osha-reach-settlement-over-warehouse-safety-citations",
+        "published": "2024-12-19T00:00:00.000Z",
+        "excerpt": "[Skip to content] \n\nBy\n\n[Lauren Rosenblatt] \n\nSeattle Times business reporter\n\nFederal safety regulators have dropped nine of 10 citations accusing Amazon of putting warehouse workers at a high risk of injury, part of a settlement agreement that requires the company to continue finding ways to reduce injuries.\n\nThe Occupational Safety and Health Administration began a series of investigations at 10 Amazon facilities around the country in 2022, resulting in [allegations that the company had creat"
+      },
+      {
+        "title": "Federal safety inspections at three Amazon warehouse facilities find company exposed workers to ergonomic, struck-by hazards | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/news/newsreleases/national/01182023",
+        "published": "2023-01-18T00:00:00.000Z",
+        "excerpt": "Federal safety inspections at three Amazon warehouse facilities find company exposed workers to ergonomic, struck-by hazards | Occupational Safety and Health Administration[Skip to main content] \n![U.S. flag] \nAn official website of the United States government.\nHere\u2019s how you know\nHere\u2019s how you know\n![Dot gov] \n**The .gov means it\u2019s official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you\u2019re on a federal government site.\n![Https] \n*"
+      },
+      {
+        "title": "Federal safety inspections at six Amazon warehouse facilities find company failed to record, report worker injuries, illnesses",
+        "url": "https://www.osha.gov/news/newsreleases/national/12162022",
+        "published": "2022-12-16T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n- [Home] \n- [News Releases] \n- Federal safety inspections at six Amazon warehouse facilities find company failed to record, report worker injuries, illnesses\n\n* * *\n\n### ![Department of Labor Logo] OSHA National News Release\n\n* * *\n\nU.S. Department of Labor\n\nDecember 16, 2022\n\n#### **Federal safety inspections at six Amazon warehouse facilities** **find company failed to record, report worker injuries, illnesses**\n\n_Investigation ongoing in Colorado, Florida, Idaho, Illi"
+      },
+      {
+        "title": "",
+        "url": "https://www.osha.gov/sites/default/files/2024-12/12202024-OSHA-Amazon-Ergo-Agreement-Fully-Executed-Public-Facing-Addresses-Redacted.pdf",
+        "published": "2024-12-18T00:00:00.000Z",
+        "excerpt": "UNITED STATES OF AMERICA \nOCCUPATIONAL SAFETY AND HEALTH REVIEW COMMISSION \nJULIE A. SU, Acting Secretary ofLabor, \nUnited States Department of Labor, \nComplainant, \nV. \nAMAZON.COM SERVICES LLC d/b/a \nALB1, B012, DCS3, DENS, ONKS, DY01, \nMC02, MOWS, TEB3, DPP7, \nRespondent. \nOSHRC Docket Nos. 23-0298, 23-0295, \n23-0376, 23-0292, 23-0761, 23-0227, \n23-0195, 23-0229, 23-1182, &23-\n1172 \nCORPORATE-WIDE STIPULATION AND SETTLEMENT AGREEMENT \nI. \nScope and Intent ofSettlement Agreement \nComplainant, t"
+      },
+      {
+        "title": "",
+        "url": "https://www.dol.gov/sites/dolgov/files/OPA/newsreleases/2023/04/23-785-NAT.AmazonCitations%2C042623.pdf",
+        "published": "2023-04-17T00:00:00.000Z",
+        "excerpt": "U.S. Department of Labor\n04/18/2023\nAmazon.com Services LLC \u2013 ALB1 Fulfillment Center\nand its successors\n1835 U.S. 9\nCastleton On Hudson, NY 12033\nDear Employer:\nEnclosed you will find citations for violations of the Occupational Safety and Health Act of 1970 (the Act) which \nmay have accompanying proposed penalties. Also enclosed is a booklet entitled, \u201cEmployer Rights and \nResponsibilities Following an OSHA Inspection\u201d, (OSHA 3000-04R) revised 2018, which explains your rights \nand responsibili"
+      },
+      {
+        "title": "Amazon (AMZN) to Pay $145,000 Penalty to Settle Worker Safety Citations",
+        "url": "https://www.bloomberg.com/news/articles/2024-12-19/amazon-to-pay-145-000-penalty-to-settle-worker-safety-citations",
+        "published": "2024-12-19T00:00:00.000Z",
+        "excerpt": "[Technology] \n\n# Amazon to Pay $145,000 Penalty to Settle Worker Safety Citations\n\nFacebookXLinkedInEmailLink\n\nGift\n\nExpand\n\n![Employees work in a packing area at an Amazon fulfillment center.] \n\nEmployees work in a packing area at an Amazon fulfillment center.Photographer: Bing Guan/Bloomberg\n\nFacebookXLinkedInEmailLink\n\nGiftGift this article\n\n[How easy or hard was it to use Bloomberg.com today?\\\nShare feedbackNew Window] \n\n[Have a confidential tip for our reporters? Get in Touch] [Before it\u2019s "
+      },
+      {
+        "title": "US Department of Labor cites Idaho transformer manufacturer more than $986K for safety violations | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/news/newsreleases/san-francisco/20251208",
+        "published": "2025-12-08T00:00:00.000Z",
+        "excerpt": "US Department of Labor cites Idaho transformer manufacturer more than $986K for safety violations | Occupational Safety and Health Administration[Skip to main content] \n![U.S. flag] \nAn official website of the United States government.\nHere\u2019s how you know\nHere\u2019s how you know\n![Dot gov] \n**The .gov means it\u2019s official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you\u2019re on a federal government site.\n![Https] \n**The site is secure.**\nThe*"
+      },
+      {
+        "title": "Amazon agrees to worker safety measures to settle US probe",
+        "url": "https://www.reuters.com/technology/amazon-agrees-worker-safety-measures-settle-us-probe-2024-12-19/",
+        "published": "2024-12-19T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[Exclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv] \n\n![Operations on Cyber Monday at the Amazon's fulfillment center in Robbinsville, New Jersey] \n\nA worker moves products during Cyber Monday at the Amazon's fulfillment center in Robbinsville, New Jersey, U.S., November 27, 2023. REUTERS/Mike Segar//File Photo [Purchase Licensing Rights, opens new tab] \n\n- Companies\n\n- [Amazon.com Inc] \n\n\n\nFollow\n\n\nDec 19 (Reuters) - Amazon.c"
+      },
+      {
+        "title": "Amazon Reaches Settlement to Resolve Federal Safety Accusations",
+        "url": "https://www.nytimes.com/2024/12/19/business/amazon-settlement-osha.html",
+        "published": "2024-12-19T00:00:00.000Z",
+        "excerpt": "[Business] \\|Amazon Reaches Settlement to Resolve Federal Safety Accusations\n\nhttps://www.nytimes.com/2024/12/19/business/amazon-settlement-osha.html\n\n- Share full article\n\n\nAdvertisement\n\n[SKIP ADVERTISEMENT] \n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\nFederal health and safety regulators on Thursday announced a corporate-wide settlement with Amazon, bringing an end to cases involving accusation"
+      },
+      {
+        "title": "Amazon, OSHA reach settlement over warehouse safety citations",
+        "url": "https://seattletimes.com/business/amazon/amazon-osha-reach-settlement-over-warehouse-safety-citations",
+        "published": "2024-12-19T00:00:00.000Z",
+        "excerpt": "[Skip to content] \n\nBy\n\n[Lauren Rosenblatt] \n\nSeattle Times business reporter\n\nFederal safety regulators have dropped nine of 10 citations accusing Amazon of putting warehouse workers at a high risk of injury, part of a settlement agreement that requires the company to continue finding ways to reduce injuries.\n\nThe Occupational Safety and Health Administration began a series of investigations at 10 Amazon facilities around the country in 2022, resulting in [allegations that the company had creat"
+      },
+      {
+        "title": "Federal safety inspections at three Amazon warehouse facilities find company exposed workers to ergonomic, struck-by hazards | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/news/newsreleases/national/01182023",
+        "published": "2023-01-18T00:00:00.000Z",
+        "excerpt": "Federal safety inspections at three Amazon warehouse facilities find company exposed workers to ergonomic, struck-by hazards | Occupational Safety and Health Administration[Skip to main content] \n![U.S. flag] \nAn official website of the United States government.\nHere\u2019s how you know\nHere\u2019s how you know\n![Dot gov] \n**The .gov means it\u2019s official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you\u2019re on a federal government site.\n![Https] \n*"
+      },
+      {
+        "title": "Amazon Cited For Warehouse Dangers In Second OSHA Slap In A Month",
+        "url": "https://www.news9.com/story/63dc1b05db185e768edbf0ff/amazon-cited-for-warehouse-dangers-in-second-osha-slap-in-a-month",
+        "published": "2025-05-13T00:00:00.000Z",
+        "excerpt": "![]![]![] \n\n# Amazon Cited For Warehouse Dangers In Second OSHA Slap In A Month\n\nFederal regulators\u00a0issued\u00a0three safety violations to Amazon this week, saying workers at its warehouses in three states are spending too many hours repeatedly lifting heavy packages.\n\nThursday, February 2nd 2023, 2:16 pm\n\nBy: CBS News\n\n![Amazon Prime Day Comes Amid Slowdown In Online Sales Growth] Credit: Associated Press\n\nFederal regulators\u00a0[issued] \u00a0three safety violations to Amazon this week, saying workers at it"
+      },
+      {
+        "title": "Amazon fulfillment center receives $7K fine, hazard alert letters after OSHA investigates workplace safety complaint",
+        "url": "https://www.osha.gov/news/newsreleases/region3/01122016",
+        "published": "2016-01-12T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n- [News Releases] \n- Amazon fulfillment center receives $7K fine, hazard alert letters after OSHA investigates workplace safety complaint\n\n* * *\n\n### ![Department of Labor Logo] OSHA Regional News Brief - Region 3\n\n* * *\n\nU.S. Department of Labor\n\nPlease note: As of January 20, 2021, information in some news releases may be out of date or not reflect current policies.\n\nJan. 12, 2016\n\n**Amazon fulfillment center receives $7K fine, hazard alert letters**\n\n**after OSHA inve"
+      },
+      {
+        "title": "Federal safety inspections at six Amazon warehouse facilities find company failed to record, report worker injuries, illnesses",
+        "url": "https://www.osha.gov/news/newsreleases/national/12162022",
+        "published": "2022-12-16T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n- [Home] \n- [News Releases] \n- Federal safety inspections at six Amazon warehouse facilities find company failed to record, report worker injuries, illnesses\n\n* * *\n\n### ![Department of Labor Logo] OSHA National News Release\n\n* * *\n\nU.S. Department of Labor\n\nDecember 16, 2022\n\n#### **Federal safety inspections at six Amazon warehouse facilities** **find company failed to record, report worker injuries, illnesses**\n\n_Investigation ongoing in Colorado, Florida, Idaho, Illi"
+      },
+      {
+        "title": "",
+        "url": "https://www.osha.gov/sites/default/files/2024-12/12202024-OSHA-Amazon-Ergo-Agreement-Fully-Executed-Public-Facing-Addresses-Redacted.pdf",
+        "published": "2024-12-18T00:00:00.000Z",
+        "excerpt": "UNITED STATES OF AMERICA \nOCCUPATIONAL SAFETY AND HEALTH REVIEW COMMISSION \nJULIE A. SU, Acting Secretary ofLabor, \nUnited States Department of Labor, \nComplainant, \nV. \nAMAZON.COM SERVICES LLC d/b/a \nALB1, B012, DCS3, DENS, ONKS, DY01, \nMC02, MOWS, TEB3, DPP7, \nRespondent. \nOSHRC Docket Nos. 23-0298, 23-0295, \n23-0376, 23-0292, 23-0761, 23-0227, \n23-0195, 23-0229, 23-1182, &23-\n1172 \nCORPORATE-WIDE STIPULATION AND SETTLEMENT AGREEMENT \nI. \nScope and Intent ofSettlement Agreement \nComplainant, t"
+      },
+      {
+        "title": "Amazon agrees to worker safety measures to settle US probe",
+        "url": "https://www.reuters.com/technology/amazon-agrees-worker-safety-measures-settle-us-probe-2024-12-19/",
+        "published": "2024-12-19T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[Exclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv] \n\n![Operations on Cyber Monday at the Amazon's fulfillment center in Robbinsville, New Jersey] \n\nA worker moves products during Cyber Monday at the Amazon's fulfillment center in Robbinsville, New Jersey, U.S., November 27, 2023. REUTERS/Mike Segar//File Photo [Purchase Licensing Rights, opens new tab] \n\n- Companies\n\n- [Amazon.com Inc] \n\n\n\nFollow\n\n\nDec 19 (Reuters) - Amazon.c"
+      },
+      {
+        "title": "Amazon (AMZN) to Pay $145,000 Penalty to Settle Worker Safety Citations",
+        "url": "https://www.bloomberg.com/news/articles/2024-12-19/amazon-to-pay-145-000-penalty-to-settle-worker-safety-citations",
+        "published": "2024-12-19T00:00:00.000Z",
+        "excerpt": "[Technology] \n\n# Amazon to Pay $145,000 Penalty to Settle Worker Safety Citations\n\nFacebookXLinkedInEmailLink\n\nGift\n\nExpand\n\n![Employees work in a packing area at an Amazon fulfillment center.] \n\nEmployees work in a packing area at an Amazon fulfillment center.Photographer: Bing Guan/Bloomberg\n\nFacebookXLinkedInEmailLink\n\nGiftGift this article\n\n[How easy or hard was it to use Bloomberg.com today?\\\nShare feedbackNew Window] \n\n[Have a confidential tip for our reporters? Get in Touch] [Before it\u2019s "
+      },
+      {
+        "title": "OSHA reaches largest-of-its-kind settlement with Amazon over hazardous working conditions",
+        "url": "https://abcnews.go.com/Politics/osha-reaches-kind-settlement-amazon-hazardous-working-conditions/story?id=116952521",
+        "published": "2024-12-19T00:00:00.000Z",
+        "excerpt": "# OSHA reaches largest-of-its-kind settlement with Amazon over hazardous working conditions\n\nAmazon will pay a $145,000 penalty and submit to oversight on 10 facilities.\n\nBy[Kyra Phillips] and Diana Paulsen\n\nDecember 19, 2024, 1:06 PM\n\nThe Occupational Safety and Health Administration (OSHA) has reached a settlement with Amazon over allegations of hazardous workplace conditions, ABC News first reported Thursday. The settlement requires that Amazon adopt \"corporate-wide ergonomic measures\" to red"
+      },
+      {
+        "title": "Instance-by-Instance Citation Policy for Serious, Repeat, and Other-Than-Serious Violations | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/memos/2024-04-17/instance-instance-citation-policy-serious-repeat-and-other-serious-violations",
+        "published": null,
+        "excerpt": "Instance-by-Instance Citation Policy for Serious, Repeat, and Other-Than-Serious Violations | Occupational Safety and Health Administration[Skip to main content] \n![U.S. flag] \nAn official website of the United States government.\nHere\u2019s how you know\nHere\u2019s how you know\n![Dot gov] \n**The .gov means it\u2019s official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you\u2019re on a federal government site.\n![Https] \n**The site is secure.**\nThe**https"
+      },
+      {
+        "title": "",
+        "url": "https://www.osha.gov/sites/default/files/publications/OSHA4384.pdf",
+        "published": "2023-10-26T00:00:00.000Z",
+        "excerpt": "Temporary Worker Initiative\nWarehousing Industry Employment\nThis is part of a series of guidance documents developed under the \nOccupational Safety and Health Administration\u2019s (OSHA\u2019s) Temporary Worker \nInitiative (TWI). The TWI focuses on compliance with safety and health \nrequirements when temporary workers are jointly employed by a staffing \nagency and a host employer.\nIntroduction\nThe U.S. warehousing market experienced \ntremendous growth in recent years, driven \nlargely by e-commerce. The r"
+      },
+      {
+        "title": "",
+        "url": "https://www.dol.gov/sites/dolgov/files/OPA/newsreleases/2023/01/OSHA20230063b.pdf",
+        "published": null,
+        "excerpt": "1\nU.S. Department of Labor Occupational Safety and Health Administration\n Jacksonville Area Office \n 1851 Executive Center Drive, Suite 227\n Jacksonville, FL 32207\nJanuary 17, 2023\nAmazon.com Services LLC-MCO2\nStephen Waller, Site Manager\n2600 N. Normandy Blvd. \nDeltona, FL 32725\nRe: Inspection #1608788\nDear Mr. Waller, \nAn inspection of your workplace at 2600 N Normandy Blvd., Deltona, FL 32725, beginning on July \n18, 2022, was conducted pursuant to a referral filed with the Jacksonville Area O"
+      },
+      {
+        "title": "Warehousing - Hazards and Solutions | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/warehousing/hazards-solutions",
+        "published": "2008-02-11T00:00:00.000Z",
+        "excerpt": "Warehousing - Hazards and Solutions | Occupational Safety and Health Administration[Skip to main content] \n![U.S. flag] \nAn official website of the United States government.\nHere\u2019s how you know\nHere\u2019s how you know\n![Dot gov] \n**The .gov means it\u2019s official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you\u2019re on a federal government site.\n![Https] \n**The site is secure.**\nThe**https://**ensures that you are connecting to the official web"
+      },
+      {
+        "title": "Warehousing - Overview | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/warehousing",
+        "published": "2023-10-13T00:00:00.000Z",
+        "excerpt": "Warehousing - Overview | Occupational Safety and Health Administration[Skip to main content] \n![U.S. flag] \nAn official website of the United States government.\nHere\u2019s how you know\nHere\u2019s how you know\n![Dot gov] \n**The .gov means it\u2019s official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you\u2019re on a federal government site.\n![Https] \n**The site is secure.**\nThe**https://**ensures that you are connecting to the official website and that"
+      },
+      {
+        "title": "Workplace Safety and Health:\n                           OSHA Should Take Steps to Better Identify and Address Ergonomic Hazards at Warehouses and Delivery Companies",
+        "url": "https://www.gao.gov/products/gao-24-106413",
+        "published": "2024-09-18T00:00:00.000Z",
+        "excerpt": "Workplace Safety and Health: OSHA Should Take Steps to Better Identify and Address Ergonomic Hazards at Warehouses and Delivery Companies | U.S. GAO[Skip to main content] \n*[![Home] \nU.S. Government Accountability Office\n] *\nMenu\n# Workplace Safety and Health:OSHA Should Take Steps to Better Identify and Address Ergonomic Hazards at Warehouses and Delivery Companies\n**GAO-24-106413******Published: Sep 18, 2024. Publicly Released: Oct 08, 2024.\n* [] \n* [] \n* [] \n* [] \n[Jump To:] \n## Fast Facts\nE-"
+      },
+      {
+        "title": "Ergonomics - Standards and Enforcement FAQs | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/ergonomics/faqs",
+        "published": "2024-10-15T00:00:00.000Z",
+        "excerpt": "Ergonomics - Standards and Enforcement FAQs | Occupational Safety and Health Administration[Skip to main content] \n![U.S. flag] \nAn official website of the United States government.\nHere\u2019s how you know\nHere\u2019s how you know\n![Dot gov] \n**The .gov means it\u2019s official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you\u2019re on a federal government site.\n![Https] \n**The site is secure.**\nThe**https://**ensures that you are connecting to the offi"
+      },
+      {
+        "title": "Federal safety inspections at three Amazon warehouse facilities find company exposed workers to ergonomic, struck-by hazards | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/news/newsreleases/national/01182023",
+        "published": "2023-01-18T00:00:00.000Z",
+        "excerpt": "Federal safety inspections at three Amazon warehouse facilities find company exposed workers to ergonomic, struck-by hazards | Occupational Safety and Health Administration[Skip to main content] \n![U.S. flag] \nAn official website of the United States government.\nHere\u2019s how you know\nHere\u2019s how you know\n![Dot gov] \n**The .gov means it\u2019s official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you\u2019re on a federal government site.\n![Https] \n*"
+      },
+      {
+        "title": "Severe Violator Enforcement Program (SVEP) | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/enforcement/svep",
+        "published": "2025-01-03T00:00:00.000Z",
+        "excerpt": "Severe Violator Enforcement Program (SVEP) | Occupational Safety and Health Administration[Skip to main content] \n![U.S. flag] \nAn official website of the United States government.\nHere\u2019s how you know\nHere\u2019s how you know\n![Dot gov] \n**The .gov means it\u2019s official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you\u2019re on a federal government site.\n![Https] \n**The site is secure.**\nThe**https://**ensures that you are connecting to the offic"
+      },
+      {
+        "title": "",
+        "url": "https://www.gao.gov/assets/gao-24-106413.pdf",
+        "published": "2024-09-12T00:00:00.000Z",
+        "excerpt": "WORKPLACE \nSAFETY AND \nHEALTH \nOSHA Should Take \nSteps to Better \nIdentify and Address \nErgonomic Hazards at \nWarehouses and \nDelivery Companies\nReport to the Ranking Member, \nCommittee on Education and the \nWorkforce, House of Representatives\nSeptember 2024\nGAO-24-106413\nUnited States Government Accountability Office\nUnited States Government Accountability Office\nHighlights of GAO-24-106413, a report to the \nRanking Member, Committee on Education \nand the Workforce, House of Representatives\nSep"
+      },
+      {
+        "title": "Severe Violator Enforcement Program (SVEP) | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/enforcement/svep",
+        "published": "2025-01-03T00:00:00.000Z",
+        "excerpt": "Severe Violator Enforcement Program (SVEP) | Occupational Safety and Health Administration[Skip to main content] \n![U.S. flag] \nAn official website of the United States government.\nHere\u2019s how you know\nHere\u2019s how you know\n![Dot gov] \n**The .gov means it\u2019s official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you\u2019re on a federal government site.\n![Https] \n**The site is secure.**\nThe**https://**ensures that you are connecting to the offic"
+      },
+      {
+        "title": "",
+        "url": "https://www.osha.gov/sites/default/files/enforcement/directives/CPL_02-00-169.pdf",
+        "published": "2022-09-01T00:00:00.000Z",
+        "excerpt": "ABSTRACT\nPurpose: This Instruction updates enforcement policies and procedures for the \nOccupational Safety and Health Administration\u2019s (OSHA\u2019s) Severe \nViolator Enforcement Program (SVEP) to focus inspection resources on \nemployers that have demonstrated indifference to their Occupational \nSafety and Health (OSH) Act obligations by committing willful, repeated, \nor failure-to-abate violations.\nScope: OSHA-wide.\nReferences: See Section III.\nCancellations: See Section IV.\nState Impact: State noti"
+      },
+      {
+        "title": "",
+        "url": "https://www.osha.gov/sites/default/files/enforcement/directives/CPL_02-00-149.pdf",
+        "published": "2010-06-16T00:00:00.000Z",
+        "excerpt": "Abstract - 1 \nDIRECTIVE NUMBER: CPL 02-00-149 EFFECTIVE DATE: June 18, 2010 \nSUBJECT: Severe Violator Enforcement Program (SVEP) \nABSTRACT \nPurpose: This Instruction establishes enforcement policies and procedures for \nOSHA\u2019s Severe Violator Enforcement Program (SVEP), which \nconcentrates resources on inspecting employers who have demonstrated \nindifference to their OSH Act obligations by willful, repeated, or failure\u0002to-abate violations. This Instruction replaces OSHA\u2019s Enhanced \nEnforcement Pr"
+      },
+      {
+        "title": "Severe Violator Enforcement Program (SVEP) | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/enforcement/directives/cpl-02-00-149",
+        "published": "2010-06-18T00:00:00.000Z",
+        "excerpt": "Severe Violator Enforcement Program (SVEP) | Occupational Safety and Health Administration[Skip to main content] \n![U.S. flag] \nAn official website of the United States government.\nHere\u2019s how you know\nHere\u2019s how you know\n![Dot gov] \n**The .gov means it\u2019s official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you\u2019re on a federal government site.\n![Https] \n**The site is secure.**\nThe**https://**ensures that you are connecting to the offic"
+      },
+      {
+        "title": "Department of Labor announces national emphasis program aimed at reducing, preventing workplace hazards in warehouses, distribution centers | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/news/newsreleases/national/07132023",
+        "published": "2023-07-13T00:00:00.000Z",
+        "excerpt": "Department of Labor announces national emphasis program aimed at reducing, preventing workplace hazards in warehouses, distribution centers | Occupational Safety and Health Administration[Skip to main content] \n![U.S. flag] \nAn official website of the United States government.\nHere\u2019s how you know\nHere\u2019s how you know\n![Dot gov] \n**The .gov means it\u2019s official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you\u2019re on a federal government si"
+      },
+      {
+        "title": "",
+        "url": "https://www.osha.gov/news/newsreleases/national/09152022",
+        "published": null,
+        "excerpt": "[Skip to main content] \n\n- [Home] \n- [News Releases] \n- US Department of Labor announces changes to OSHA\u2019s Severe Violator Enforcement Program to strengthen enforcement, improve compliance\n\n* * *\n\n### ![Department of Labor Logo] OSHA National News Release\n\n* * *\n\nU.S. Department of Labor\n\nSeptember 15, 2022\n\n#### **US Department of Labor announces changes to OSHA's Severe Violator** **Enforcement Program to strengthen enforcement, improve compliance**\n\n_Program focuses on employers who repeatedl"
+      },
+      {
+        "title": "US Department of Labor announces changes to OSHA\u2019s Severe Violator Enforcement Program to strengthen enforcement, improve compliance",
+        "url": "https://www.dol.gov/newsroom/releases/osha/osha20220915",
+        "published": "2022-09-15T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\nNews Release\n\n# US Department of Labor announces changes to OSHA\u2019s Severe Violator Enforcement Program to strengthen enforcement, improve compliance\n\nProgram focuses on employers who repeatedly disregard workers\u2019 safety, health\n\n**WASHINGTON**\u2013 To strengthen enforcement and improve compliance with workplace safety standards and reduce worker injuries and illnesses, the U.S. Department of Labor is expanding the criteria for placement in the Occupational Safety and Health "
+      },
+      {
+        "title": "",
+        "url": "https://www.osha.gov/sites/default/files/publications/OSHA4384.pdf",
+        "published": "2023-10-26T00:00:00.000Z",
+        "excerpt": "Temporary Worker Initiative\nWarehousing Industry Employment\nThis is part of a series of guidance documents developed under the \nOccupational Safety and Health Administration\u2019s (OSHA\u2019s) Temporary Worker \nInitiative (TWI). The TWI focuses on compliance with safety and health \nrequirements when temporary workers are jointly employed by a staffing \nagency and a host employer.\nIntroduction\nThe U.S. warehousing market experienced \ntremendous growth in recent years, driven \nlargely by e-commerce. The r"
+      },
+      {
+        "title": "OSHA Launches Enforcement National Emphasis Program Targeting Warehouses, Distribution Centers and High-Risk Retailers",
+        "url": "https://oshadefensereport.com/2023/07/14/osha-launches-enforcement-national-emphasis-program-targeting-warehouses-distribution-centers-and-high-risk-retailers/",
+        "published": "2023-07-14T00:00:00.000Z",
+        "excerpt": "_By_ [_Eric J. Conn_] _and_ [_Darius Rohani-Shukla_] _of Conn Maciel Carey LLP\u2019s_ [_National OSHA Practice_] \n\nOn July 13, 2023, OSHA [announced] a new enforcement [**National Emphasis Program focused on Warehousing and Distribution Center Operations**].\u00a0 The new NEP was signed-off by the Head of OSHA a month ago \u2013 on June 14, 2023 [![]] \u2013 so it became **effective as of July 13**, just as the public was first learning about it.\u00a0 We have combed through the Directive for OSHA\u2019s new Warehouses NEP "
+      },
+      {
+        "title": "",
+        "url": "https://www.osha.gov/sites/default/files/enforcement/directives/CPL-02-01-067.pdf",
+        "published": "2025-04-17T00:00:00.000Z",
+        "excerpt": "U.S. DEPARTMENT OF LABOR Occupational Safety and Health Administration\nDIRECTIVE NUMBER: CPL 02-01-067\nSUBJECT: Site-Specific Targeting (SST)\nDIRECTORATE: Directorate of Enforcement Programs\nSIGNATURE DATE: 4/8/2025 EFFECTIVE DATE: 5/20/2025\nABSTRACT\nPurpose: This Instruction provides guidance for OSHA\u2019s Site-Specific Targeting (SST) \ninspection program. This program applies only to general industry \nestablishments. \nScope: OSHA-wide. \nReferences: OSHA Instruction CPL 02-00-025, Scheduling Syste"
+      },
+      {
+        "title": "Federal panel upholds $10K US Department of Labor citation litigated by Walmart for years over hazardous shelving",
+        "url": "https://www.osha.gov/news/newsreleases/national/02242023",
+        "published": "2023-02-24T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n- [Home] \n- [News Releases] \n- Federal panel upholds $10K US Department of Labor citation litigated by Walmart for years over hazardous shelving\n\n* * *\n\n### ![Department of Labor Logo] OSHA National News Release\n\n* * *\n\nU.S. Department of Labor\n\nFebruary 24, 2023\n\n#### **Federal panel upholds $10K US Department of Labor citation** **litigated by Walmart for years over hazardous shelving**\n\n_Affirms OSHA findings, penalties after worker's 2017 injuries_\n\n**WASHINGTON** \u2013 "
+      },
+      {
+        "title": "",
+        "url": "https://www.oshrc.gov/wp-content/uploads/Walmart_Dist_Ctr%5E17-0949%5EDecision%5E12-31-2020%5EsignatureFinal.pdf",
+        "published": "2021-01-05T00:00:00.000Z",
+        "excerpt": "United States of America\nOCCUPATIONAL SAFETY AND HEALTH REVIEW COMMISSION\n1120 20th Street, N.W., Ninth Floor\nWashington, DC 20036-3457\nSECRETARY OF LABOR,\nComplainant,\nv. \nWALMART, INC.,\nRespondent. \nOSHRC Docket No. 17-0949 \nON BRIEFS:\nJuan C. Lopez, Appellate Attorney; Heather R. Phillips, Counsel for Appellate Litigation; Edmund \nBaird, Acting Associate Solicitor of Labor for Occupational Safety and Health; Kate S. \nO\u2019Scannlain, Solicitor of Labor; U.S. Department of Labor, Washington, D.C.\n"
+      },
+      {
+        "title": "Wal-Mart Stores, Inc. | Occupational Safety and Health Administration osha.gov",
+        "url": "https://www.osha.gov/ords/imis/establishment.violation_detail?id=1093171.015&citation_id=02003A",
+        "published": "2025-05-14T00:00:00.000Z",
+        "excerpt": "Powered by [![Google] Translate]"
+      },
+      {
+        "title": "Walmart Stores East, LP, d/b/a Walmart Distribution Center #7035., OSHRC DOCKET No. 16-0272",
+        "url": "https://www.oshrc.gov/wp-content/uploads/16-0272.pdf",
+        "published": "2017-06-01T00:00:00.000Z",
+        "excerpt": "United States of America\n OCCUPATIONAL SAFETY AND HEALTH REVIEW COMMISSION\n1924 Building - Room 2R90, 100 Alabama Street, S.W.\nAtlanta, Georgia 30303-3104 \nAppearances: \nAmy R. Walker, Esquire, and Joseph Gilliland, Esquire, U.S. Department of Labor, Office of the Solicitor,\nAtlanta, Georgia\nFor the Secretary\nSteven R. McCown, Esquire, and Kimberly J. Doud, Esquire, Littler Mendelson, P.C.\n For the Respondent\nBEFORE: Administrative Law Judge Heather A. Joys\nDECISION AND ORDER\nWal-Mart Stores Eas"
+      },
+      {
+        "title": "",
+        "url": "https://www.justice.gov/d9/2025-02/1475g.pdf",
+        "published": "2025-02-13T00:00:00.000Z",
+        "excerpt": "17 OCAHO no. 1475g\nUNITED STATES DEPARTMENT OF JUSTICE\nEXECUTIVE OFFICE FOR IMMIGRATION REVIEW\nOFFICE OF THE CHIEF ADMINISTRATIVE HEARING OFFICER\nMarch 22, 2024\nUNITED STATES OF AMERICA, )\nComplainant, )\n) 8 U.S.C. \u00a7 1324a Proceeding\nv. ) OCAHO Case No. 2023A00015\n)\nWALMART INC. (BETHLEHEM), )\nRespondent. )\n__________________________________________)\nORDER DECLINING TO MODIFY OR VACATE THE CHIEF ADMINISTRATIVE LAW \nJUDGE\u2019S ORDER ON MOTION TO DISMISS FIRST AMENDED COMPLAINT\nI. INTRODUCTION AND PR"
+      },
+      {
+        "title": "Walmart - 08/07/2013 | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/enforcement/cwsa/walmart-08072013",
+        "published": "2013-07-08T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n1. [Corporate-Wide Settlement Agreements - Publication Date] \n2. Walmart\n\n### Corporate Wide Settlement Agreement between OSHA and Walmart\n\n#### August 7, 2013 - \\[ [PDF] 2 MB\\]"
+      },
+      {
+        "title": "Wal-Mart safety citation vacated on appeal  - Business Insurance",
+        "url": "https://www.businessinsurance.com/article/20160408/NEWS08/160409819",
+        "published": "2016-04-08T00:00:00.000Z",
+        "excerpt": "[Login] [Register] [Subscribe] \n\n- [Risk Management] \n - [Cyber Risks] \n - [Pricing Trends] \n - [Mergers & Acquisitions] \n - [Insurtech] \n - [Coronavirus] \n - [WSIA] \n - [Riskworld] \n- [Workers Comp] \n - [Pain Management] \n - [Workers Comp Cost Control] \n - [Workplace Safety] \n- [International] \n - [EMEA] \n - [Asia-Pacific] \n - [Latin America] \n- [Research & Reports] \n - [Best Places to Work] \n - [Pricing] \n - [Rankings & Directories] \n - [Risk Perspectives] \n - [Top 100 Brokers] \n - [Webinars] "
+      },
+      {
+        "title": "Wal-Mart Stores",
+        "url": "https://www.oshrc.gov/wal-mart-stores/",
+        "published": "2024-11-15T00:00:00.000Z",
+        "excerpt": "Wal-Mart Stores - Occupational Safety and Health\n![U.S. flag] An official website of the United States government.[**Here\u2019s how you know**] \nSlide\nMandatory e-filing for all parties and intervenors | See updated[Commission Rule 8(c)], 29 C.F.R. \u00a72200.8(c).\nSlide\nMandatory e-filing for all parties and intervenors | See updated[Commission Rule 8(c)], 29 C.F.R. \u00a72200.8(c).\n[Skip to content] \n[![occupational Safety and health review commission]] \n[E-filing Login] \nSearchSearch\n[![occupational Safety"
+      },
+      {
+        "title": "OSHA panel affirms Walmart violated workplace safety standards",
+        "url": "https://www.securitymagazine.com/articles/99013-osha-panel-affirms-walmart-violated-workplace-safety-standards",
+        "published": "2023-03-02T00:00:00.000Z",
+        "excerpt": "[Physical] [Security Newswire] [Fire & Life Safety] [Physical Security] [Transportation/Logistics/Supply Chain/Distribution/ Warehousing] \n\n# OSHA panel affirms Walmart violated workplace safety standards\n\nBy [Security Staff] \n\n![shelves of hard hats] \n\nMarch 2, 2023\n\nWalmart's violation of federal workplace safety standards was affirmed by a federal panel. Walmart was originally cited in 2017 when stored merchandise fell and seriously injured an employee.\n\nThe decision by the Occupational Safet"
+      },
+      {
+        "title": "Establishment Search Results | Occupational Safety and Health Administration osha.gov",
+        "url": "https://www.osha.gov/ords/imis/establishment.search?establishment=Walmart&state=all&officetype=all&office=all&sitezip=100000&startmonth=09&startday=11&startyear=2016&endmonth=09&endday=11&endyear=2021&p_case=all&p_violations_exist=both&p_start=&p_finish=200&p_sort=2&p_desc=ASC&p_direction=Next&p_show=20",
+        "published": "2025-06-22T00:00:00.000Z",
+        "excerpt": "Powered by [Translate]"
+      },
+      {
+        "title": "Fedex Freight, Inc. | Occupational Safety and Health Administration osha.gov",
+        "url": "https://www.osha.gov/ords/imis/establishment.violation_detail?id=108003.015&citation_id=01001",
+        "published": "2025-07-15T00:00:00.000Z",
+        "excerpt": "Powered by [Translate]"
+      },
+      {
+        "title": "Department of Labor announces national emphasis program aimed at reducing, preventing workplace hazards in warehouses, distribution centers | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/news/newsreleases/national/07132023",
+        "published": "2023-07-13T00:00:00.000Z",
+        "excerpt": "Department of Labor announces national emphasis program aimed at reducing, preventing workplace hazards in warehouses, distribution centers | Occupational Safety and Health Administration[Skip to main content] \n![U.S. flag] \nAn official website of the United States government.\nHere\u2019s how you know\nHere\u2019s how you know\n![Dot gov] \n**The .gov means it\u2019s official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you\u2019re on a federal government si"
+      },
+      {
+        "title": "Federated Logistics Inc | Occupational Safety and Health Administration osha.gov",
+        "url": "https://www.osha.gov/ords/imis/establishment.violation_detail?id=1521367.015&citation_id=01001B",
+        "published": "2025-05-15T00:00:00.000Z",
+        "excerpt": "Powered by [![Google] Translate]"
+      },
+      {
+        "title": "United Parcel Service | Occupational Safety and Health Administration osha.gov",
+        "url": "https://www.osha.gov/ords/imis/establishment.violation_detail?id=303150817&citation_id=01008",
+        "published": "2025-05-14T00:00:00.000Z",
+        "excerpt": "Powered by [![Google] Translate]"
+      },
+      {
+        "title": "Establishment Search Results | Occupational Safety and Health Administration osha.gov",
+        "url": "https://www.osha.gov/ords/imis/establishment.search?establishment=UPS&state=all&officetype=all&office=all&sitezip=100000&startmonth=07&startday=20&startyear=2017&endmonth=07&endday=20&endyear=2022&p_case=all&p_violations_exist=both&p_start=&p_finish=60&p_sort=2&p_desc=DESC&p_direction=Next&p_show=20",
+        "published": "2025-04-09T00:00:00.000Z",
+        "excerpt": "Powered by [Translate]"
+      },
+      {
+        "title": "Oakland Logistics Inc. | Occupational Safety and Health Administration osha.gov",
+        "url": "https://www.osha.gov/ords/imis/establishment.violation_detail?id=402663.015&citation_id=02001",
+        "published": "2025-05-15T00:00:00.000Z",
+        "excerpt": "Oakland Logistics Inc. | Occupational Safety and Health Administration osha.gov\nPowered by[![Google] Translate] \n![U.S. flag] \nAn official website of the United States government.\nHere's how you know\n![Dot gov] \n**The .gov means it's official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site.\n![Https] \n**The site is secure.**\nThe**https://**ensures that you are connecting to the official website and that "
+      },
+      {
+        "title": "",
+        "url": "https://www.osha.gov/sites/default/files/enforcement/directives/CPL-02-01-067.pdf",
+        "published": "2025-04-17T00:00:00.000Z",
+        "excerpt": "U.S. DEPARTMENT OF LABOR Occupational Safety and Health Administration\nDIRECTIVE NUMBER: CPL 02-01-067\nSUBJECT: Site-Specific Targeting (SST)\nDIRECTORATE: Directorate of Enforcement Programs\nSIGNATURE DATE: 4/8/2025 EFFECTIVE DATE: 5/20/2025\nABSTRACT\nPurpose: This Instruction provides guidance for OSHA\u2019s Site-Specific Targeting (SST) \ninspection program. This program applies only to general industry \nestablishments. \nScope: OSHA-wide. \nReferences: OSHA Instruction CPL 02-00-025, Scheduling Syste"
+      },
+      {
+        "title": "National Emphasis Program on Warehousing and Distribution Center Operations | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/enforcement/directives/cpl-03-00-026",
+        "published": "2023-07-13T00:00:00.000Z",
+        "excerpt": "National Emphasis Program on Warehousing and Distribution Center Operations | Occupational Safety and Health Administration[Skip to main content] \n![U.S. flag] \nAn official website of the United States government.\nHere\u2019s how you know\nHere\u2019s how you know\n![Dot gov] \n**The .gov means it\u2019s official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you\u2019re on a federal government site.\n![Https] \n**The site is secure.**\nThe**https://**ensures tha"
+      },
+      {
+        "title": "Acme Distribution Centers | Occupational Safety and Health Administration osha.gov",
+        "url": "https://www.osha.gov/ords/imis/establishment.violation_detail?id=307455279&citation_id=01002",
+        "published": "2025-05-14T00:00:00.000Z",
+        "excerpt": "Powered by [![Google] Translate]"
+      },
+      {
+        "title": "U.S. Department of Labor Cites UPS Inc. for Exposing Employees To Fire, Other Hazards at Massachusetts Facility",
+        "url": "https://www.dol.gov/newsroom/releases/osha/osha20191211",
+        "published": "2019-12-11T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n**Please note:** As of 01/20/2025, information in some news releases may be out of date or not reflect current policies.\n\nNews Release\n\n# U.S. Department of Labor Cites UPS Inc. for Exposing Employees To Fire, Other Hazards at Massachusetts Facility\n\n**BRAINTREE, MA**\u2013 The U.S. Department of Labor\u2019s Occupational Safety and Health Administration (OSHA) has cited United Parcel Service Inc. for exposing employees to multiple hazards including exit access, fire and electrica"
+      },
+      {
+        "title": "Warehousing - Hazards and Solutions | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/warehousing/hazards-solutions",
+        "published": "2008-02-11T00:00:00.000Z",
+        "excerpt": "Warehousing - Hazards and Solutions | Occupational Safety and Health Administration[Skip to main content] \n![U.S. flag] \nAn official website of the United States government.\nHere\u2019s how you know\nHere\u2019s how you know\n![Dot gov] \n**The .gov means it\u2019s official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you\u2019re on a federal government site.\n![Https] \n**The site is secure.**\nThe**https://**ensures that you are connecting to the official web"
+      },
+      {
+        "title": "",
+        "url": "https://oig.dol.gov/public/reports/oa/2023/19-23-013-10-105.pdf",
+        "published": "2023-09-27T00:00:00.000Z",
+        "excerpt": "REPORT TO THE OCCUPATIONAL\nSAFETY AND HEALTH\nADMINISTRATION\nCOVID-19: OSHA NEEDS TO DO MORE \nTO ADDRESS HIGH INJURY RATES OF \nWAREHOUSE WORKERS\nDATE ISSUED: SEPTEMBER 27, 2023\nREPORT NUMBER: 19-23-013-10-105\nU.S. Department of Labor\nOffice of Inspector General\nAudit\nBRIEFLY\u2026 \nCOVID-19: OSHA NEEDS TO DO MORE TO \nADDRESS HIGH INJURY RATES OF\nWAREHOUSE WORKERS\nSeptember 27, 2023\nWHY OIG CONDUCTED THE AUDIT\nOSHA\u2019s mission is to ensure safe and healthful \nworking conditions for workers nationwide, \ni"
+      },
+      {
+        "title": "Workplace Safety and Health:\n                           OSHA Should Take Steps to Better Identify and Address Ergonomic Hazards at Warehouses and Delivery Companies",
+        "url": "https://www.gao.gov/products/gao-24-106413",
+        "published": "2024-09-18T00:00:00.000Z",
+        "excerpt": "Workplace Safety and Health: OSHA Should Take Steps to Better Identify and Address Ergonomic Hazards at Warehouses and Delivery Companies | U.S. GAO[Skip to main content] \n*[![Home] \nU.S. Government Accountability Office\n] *\nMenu\n# Workplace Safety and Health:OSHA Should Take Steps to Better Identify and Address Ergonomic Hazards at Warehouses and Delivery Companies\n**GAO-24-106413******Published: Sep 18, 2024. Publicly Released: Oct 08, 2024.\n* [] \n* [] \n* [] \n* [] \n[Jump To:] \n## Fast Facts\nE-"
+      },
+      {
+        "title": "",
+        "url": "https://www.gao.gov/assets/gao-24-106413.pdf",
+        "published": "2024-09-12T00:00:00.000Z",
+        "excerpt": "WORKPLACE \nSAFETY AND \nHEALTH \nOSHA Should Take \nSteps to Better \nIdentify and Address \nErgonomic Hazards at \nWarehouses and \nDelivery Companies\nReport to the Ranking Member, \nCommittee on Education and the \nWorkforce, House of Representatives\nSeptember 2024\nGAO-24-106413\nUnited States Government Accountability Office\nUnited States Government Accountability Office\nHighlights of GAO-24-106413, a report to the \nRanking Member, Committee on Education \nand the Workforce, House of Representatives\nSep"
+      },
+      {
+        "title": "",
+        "url": "https://www.osha.gov/sites/default/files/publications/OSHA4384.pdf",
+        "published": "2023-10-26T00:00:00.000Z",
+        "excerpt": "Temporary Worker Initiative\nWarehousing Industry Employment\nThis is part of a series of guidance documents developed under the \nOccupational Safety and Health Administration\u2019s (OSHA\u2019s) Temporary Worker \nInitiative (TWI). The TWI focuses on compliance with safety and health \nrequirements when temporary workers are jointly employed by a staffing \nagency and a host employer.\nIntroduction\nThe U.S. warehousing market experienced \ntremendous growth in recent years, driven \nlargely by e-commerce. The r"
+      },
+      {
+        "title": "",
+        "url": "https://www.gao.gov/assets/gao-24-106413-highlights.pdf",
+        "published": null,
+        "excerpt": "United States Government Accountability Office\nHighlights of GAO-24-106413, a report to the \nRanking Member, Committee on Education \nand the Workforce, House of Representatives\nSeptember 2024\nWORKPLACE SAFETY AND HEALTH\nOSHA Should Take Steps to Better Identify and \nAddress Ergonomic Hazards at Warehouses and \nDelivery Companies\nWhat GAO Found\nThree major hazards caused most of the injuries and illnesses in general \nwarehousing (which includes e-commerce warehouses) and the companies that \ndeliv"
+      },
+      {
+        "title": "Warehousing - Overview | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/warehousing",
+        "published": "2023-10-13T00:00:00.000Z",
+        "excerpt": "Warehousing - Overview | Occupational Safety and Health Administration[Skip to main content] \n![U.S. flag] \nAn official website of the United States government.\nHere\u2019s how you know\nHere\u2019s how you know\n![Dot gov] \n**The .gov means it\u2019s official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you\u2019re on a federal government site.\n![Https] \n**The site is secure.**\nThe**https://**ensures that you are connecting to the official website and that"
+      },
+      {
+        "title": "",
+        "url": "https://www.dir.ca.gov/dosh/dosh_publications/Warehouse-Employer-fs.pdf",
+        "published": "2024-09-25T00:00:00.000Z",
+        "excerpt": "California Department of Industrial Relations\nDivision of Occupational Safety & Health\nPublications Unit\nS A F E T Y & H E A LT H | FACT SHEET\nWarehousing and Storage\nThere are approximately 2,100 employers with \n162,000 employees working in warehousing, \nstorage facilities and distribution centers in \nCalifornia. These are employers that primarily \noperate warehousing and storage facilities for \ngeneral merchandise, refrigerated goods, and \nother warehouse products. They generally do \nnot sell "
+      },
+      {
+        "title": "",
+        "url": "https://www.osha.gov/sites/default/files/OSHA_SIR_Annual_Report-2022-2023_final.pdf",
+        "published": "2025-01-07T00:00:00.000Z",
+        "excerpt": "2022 & 2023\nSUMMARY OF\nSEVERE INJURY\nREPORTS\nA summary of employer-reported work-related\ninpatient hospitalizations, amputations, and eye losses\nwww.osha.gov/severeinjury\n \n \n \n \n \n \n \n \n \n \n \n \n \nEvery year, thousands of workers in the United States are injured on\nthe job, sometimes with permanent injuries or disabilities. OSHA\u2019s\nregulation at 29 CFR 1904.39 requires establishments to report to\nOSHA any work-related fatality and severe injury or illness that\nresults in inpatient hospitalization"
+      },
+      {
+        "title": "Warehousing - Know the Law | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/warehousing/standards-enforcement",
+        "published": "2022-01-01T00:00:00.000Z",
+        "excerpt": "Warehousing - Know the Law | Occupational Safety and Health Administration[Skip to main content] \n![U.S. flag] \nAn official website of the United States government.\nHere\u2019s how you know\nHere\u2019s how you know\n![Dot gov] \n**The .gov means it\u2019s official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you\u2019re on a federal government site.\n![Https] \n**The site is secure.**\nThe**https://**ensures that you are connecting to the official website and "
+      },
+      {
+        "title": "Workplace Safety and Health:\n                           OSHA Should Take Steps to Better Identify and Address Ergonomic Hazards at Warehouses and Delivery Companies",
+        "url": "https://www.gao.gov/products/gao-24-106413",
+        "published": null,
+        "excerpt": "Workplace Safety and Health: OSHA Should Take Steps to Better Identify and Address Ergonomic Hazards at Warehouses and Delivery Companies | U.S. GAO[Skip to main content] \n*[![Home] \nU.S. Government Accountability Office\n] *\nMenu\n# Workplace Safety and Health:OSHA Should Take Steps to Better Identify and Address Ergonomic Hazards at Warehouses and Delivery Companies\n**GAO-24-106413******Published: Sep 18, 2024. Publicly Released: Oct 08, 2024.\n* [] \n* [] \n* [] \n* [] \n[Jump To:] \n## Fast Facts\nE-"
+      },
+      {
+        "title": "",
+        "url": "https://www.gao.gov/assets/gao-24-106413.pdf",
+        "published": "2024-09-12T00:00:00.000Z",
+        "excerpt": "WORKPLACE \nSAFETY AND \nHEALTH \nOSHA Should Take \nSteps to Better \nIdentify and Address \nErgonomic Hazards at \nWarehouses and \nDelivery Companies\nReport to the Ranking Member, \nCommittee on Education and the \nWorkforce, House of Representatives\nSeptember 2024\nGAO-24-106413\nUnited States Government Accountability Office\nUnited States Government Accountability Office\nHighlights of GAO-24-106413, a report to the \nRanking Member, Committee on Education \nand the Workforce, House of Representatives\nSep"
+      },
+      {
+        "title": "",
+        "url": "https://www.gao.gov/assets/gao-24-106413-highlights.pdf",
+        "published": null,
+        "excerpt": "United States Government Accountability Office\nHighlights of GAO-24-106413, a report to the \nRanking Member, Committee on Education \nand the Workforce, House of Representatives\nSeptember 2024\nWORKPLACE SAFETY AND HEALTH\nOSHA Should Take Steps to Better Identify and \nAddress Ergonomic Hazards at Warehouses and \nDelivery Companies\nWhat GAO Found\nThree major hazards caused most of the injuries and illnesses in general \nwarehousing (which includes e-commerce warehouses) and the companies that \ndeliv"
+      },
+      {
+        "title": "",
+        "url": "https://www.help.senate.gov/imo/media/doc/help_committee_amazon_interim_report.pdf",
+        "published": "2024-07-15T00:00:00.000Z",
+        "excerpt": "United States Senate\nHEALTH, EDUCATION, LABOR, & PENSIONS COMMITTEE\nBernard Sanders, Chair\nAmazon Investigation Interim Report\nJuly 15, 2024\n1 \nPEAK SEASONS, PEAK INJURIES: \nAmazon Warehouses Are Especially Dangerous\nDuring Prime Day and the Holiday Season\u2014and the Company Knows It\nOn July 16 and 17, 2024, Amazon will hold its annual Prime Day event, where it discounts \nproducts for Amazon Prime subscribers.\n1\n The event is a major source of revenue for the \ncompany: in 2023, Amazon recorded $12."
+      },
+      {
+        "title": "GAO Urges OSHA to Address Ergonomic Hazards in E-Commerce Warehouses, Deliveries",
+        "url": "https://www.insurancejournal.com/magazines/mag-features/2024/11/18/801351.htm",
+        "published": "2024-11-18T00:00:00.000Z",
+        "excerpt": "- [Article] \n\nThe federal Occupational Safety and Health Administration (OSHA) must do more to address ergonomic hazards at warehouses and delivery companies, where the number of injured workers in the growing sector are on the rise, a new report advises.\n\nThe Government Accountability Office (GAO) conducted a report on workplace safety in e-commerce workhouses and last-mile delivery companies. The office reviewed the types and causes of injuries and how OSHA identifies and addresses ergonomic h"
+      },
+      {
+        "title": "As Online Shopping Increases, So Do Concerns About Delivery and Warehouse Workers' Safety",
+        "url": "https://www.gao.gov/blog/online-shopping-increases-so-do-concerns-about-delivery-and-warehouse-workers-safety",
+        "published": "2024-10-09T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n## [< WatchBlog: Following the Federal Dollar] \n\nPosted on October 09, 2024\n\nNext-day delivery. Overnight shipping. Online sales in the U.S. have nearly doubled in the last few years. So has the number of employees supporting the warehouses that pack items and the delivery services that drop packages at your door.\n\nWhile convenient for customers, the hustle of e-commerce has exposed these workers to dangerous workplace conditions. And workers have experienced a growing n"
+      },
+      {
+        "title": "",
+        "url": "https://www.help.senate.gov/imo/media/doc/amazon_investigation.pdf",
+        "published": "2024-12-15T00:00:00.000Z",
+        "excerpt": "The \u201cInjury-Productivity Trade-off\u201d:\nHow Amazon\u2019s Obsession with Speed Creates \nUniquely Dangerous Warehouses\nUnited States Senate \nCommittee on Health, Education, Labor, and Pensions\nChairman Bernard Sanders \nMajority Staff Report\nDecember 2024\n1 \nTable of Contents\nEXECUTIVE SUMMARY .......................................................................................................................... 4\nA. Key Findings .........................................................................."
+      },
+      {
+        "title": "GAO Wants OSHA to Do More to Address Ergonomic Hazards in Growing e-Commerce Sector",
+        "url": "https://www.claimsjournal.com/news/national/2024/10/21/326813.htm",
+        "published": "2024-10-21T00:00:00.000Z",
+        "excerpt": "- [Article] \n\nOSHA must do more to address ergonomic hazards at warehouses and delivery companies, where the number of injured workers in the growing sector are on the rise, a new report shows.\n\nThe Government Accountability Office conducted [a report on workplace safety in e-commerce workhouses and last-mile delivery companies]. The office reviewed the types and causes of injuries and how OSHA identifies and addresses ergonomic hazards in these workplaces.\n\nTo quickly fill orders, e-commerce wa"
+      },
+      {
+        "title": "Science & Tech Spotlight:\n                           Wearable Technologies in the Workplace",
+        "url": "https://www.gao.gov/products/gao-24-107303",
+        "published": "2024-03-04T00:00:00.000Z",
+        "excerpt": "Science &amp; Tech Spotlight: Wearable Technologies in the Workplace | U.S. GAO[Skip to main content] \n*[![Home] \nU.S. Government Accountability Office\n] *\nMenu\n# Science &amp; Tech Spotlight:Wearable Technologies in the Workplace\n**GAO-24-107303******Published: Mar 04, 2024. Publicly Released: Mar 04, 2024.\n* [] \n* [] \n* [] \n* [] \n[Jump To:] \n## Fast Facts\nIn 2022, workers in warehousing, manufacturing, and construction experienced over 700,000 nonfatal injuries and over 2,000 fatal accidents. "
+      },
+      {
+        "title": "",
+        "url": "https://oig.dol.gov/public/reports/oa/2023/19-23-013-10-105.pdf",
+        "published": "2023-09-27T00:00:00.000Z",
+        "excerpt": "REPORT TO THE OCCUPATIONAL\nSAFETY AND HEALTH\nADMINISTRATION\nCOVID-19: OSHA NEEDS TO DO MORE \nTO ADDRESS HIGH INJURY RATES OF \nWAREHOUSE WORKERS\nDATE ISSUED: SEPTEMBER 27, 2023\nREPORT NUMBER: 19-23-013-10-105\nU.S. Department of Labor\nOffice of Inspector General\nAudit\nBRIEFLY\u2026 \nCOVID-19: OSHA NEEDS TO DO MORE TO \nADDRESS HIGH INJURY RATES OF\nWAREHOUSE WORKERS\nSeptember 27, 2023\nWHY OIG CONDUCTED THE AUDIT\nOSHA\u2019s mission is to ensure safe and healthful \nworking conditions for workers nationwide, \ni"
+      },
+      {
+        "title": "",
+        "url": "https://oig.dol.gov/public/reports/oa/2023/19-23-013-10-105.pdf",
+        "published": "2023-09-27T00:00:00.000Z",
+        "excerpt": "REPORT TO THE OCCUPATIONAL\nSAFETY AND HEALTH\nADMINISTRATION\nCOVID-19: OSHA NEEDS TO DO MORE \nTO ADDRESS HIGH INJURY RATES OF \nWAREHOUSE WORKERS\nDATE ISSUED: SEPTEMBER 27, 2023\nREPORT NUMBER: 19-23-013-10-105\nU.S. Department of Labor\nOffice of Inspector General\nAudit\nBRIEFLY\u2026 \nCOVID-19: OSHA NEEDS TO DO MORE TO \nADDRESS HIGH INJURY RATES OF\nWAREHOUSE WORKERS\nSeptember 27, 2023\nWHY OIG CONDUCTED THE AUDIT\nOSHA\u2019s mission is to ensure safe and healthful \nworking conditions for workers nationwide, \ni"
+      },
+      {
+        "title": "Workplace Safety and Health:\n                           OSHA Should Take Steps to Better Identify and Address Ergonomic Hazards at Warehouses and Delivery Companies",
+        "url": "https://www.gao.gov/products/gao-24-106413",
+        "published": null,
+        "excerpt": "Workplace Safety and Health: OSHA Should Take Steps to Better Identify and Address Ergonomic Hazards at Warehouses and Delivery Companies | U.S. GAO[Skip to main content] \n*[![Home] \nU.S. Government Accountability Office\n] *\nMenu\n# Workplace Safety and Health:OSHA Should Take Steps to Better Identify and Address Ergonomic Hazards at Warehouses and Delivery Companies\n**GAO-24-106413******Published: Sep 18, 2024. Publicly Released: Oct 08, 2024.\n* [] \n* [] \n* [] \n* [] \n[Jump To:] \n## Fast Facts\nE-"
+      },
+      {
+        "title": "",
+        "url": "https://oig.dol.gov/public/oaprojects/COVID-19%20OSHA%27s%20Actions%20to%20Address%20Engagement%20Letter_122921.pdf",
+        "published": "2021-12-29T00:00:00.000Z",
+        "excerpt": "U.S. Department of Labor Office of Inspector General\nWashington, DC 20210\nDecember 29, 2021\nMEMORANDUM FOR: DOUGLAS PARKER\nAssistant Secretary of Labor for \nOccupational Safety and Health\n \nFROM:\nSUBJECT:\nCAROLYN R. HANTZ\nAssistant Inspector General \nfor Audit\nAudit of COVID-19 OSHA\u2019s Actions to Address \nIncreasing & Severe Injuries at Warehouse Facilities of \nLarge Online Retailers\nPlease be advised the Office of Inspector General is initiating an audit to \ndetermine what actions OSHA has taken"
+      },
+      {
+        "title": "",
+        "url": "https://www.gao.gov/assets/gao-24-106413.pdf",
+        "published": "2024-09-12T00:00:00.000Z",
+        "excerpt": "WORKPLACE \nSAFETY AND \nHEALTH \nOSHA Should Take \nSteps to Better \nIdentify and Address \nErgonomic Hazards at \nWarehouses and \nDelivery Companies\nReport to the Ranking Member, \nCommittee on Education and the \nWorkforce, House of Representatives\nSeptember 2024\nGAO-24-106413\nUnited States Government Accountability Office\nUnited States Government Accountability Office\nHighlights of GAO-24-106413, a report to the \nRanking Member, Committee on Education \nand the Workforce, House of Representatives\nSep"
+      },
+      {
+        "title": "Injury and illness rates in warehouses are too high, OIG tells OSHA",
+        "url": "https://www.safetyandhealthmagazine.com/articles/24546-injury-and-illness-rates-in-warehouses-are-too-high-oig-tells-osha",
+        "published": "2023-10-05T00:00:00.000Z",
+        "excerpt": "Injury and illness rates in warehouses are too high, OIG tells OSHA | Safety+Health\nWe use cookies to provide you with a better experience. By continuing to browse the site you are agreeing to our use of cookies in accordance with our[Privacy Policy].\n[] \n[![Safety+Health]] \n[] [] [] [] \n[![NSC Safety Congress & Expo]] \n[Home] &raquo; Injury and illness rates in warehouses are too high, OIG tells OSHA\n[NSC Labor Division news] [Federal agencies] [Inspections] [Recordkeeping] # Injury and illness"
+      },
+      {
+        "title": "Federal safety inspections at three Amazon warehouse facilities find company exposed workers to ergonomic, struck-by hazards",
+        "url": "https://www.dol.gov/newsroom/releases/osha/osha20230118",
+        "published": "2023-01-18T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\nNews Release\n\n# Federal safety inspections at three Amazon warehouse facilities find company exposed workers to ergonomic, struck-by hazards\n\nMulti-state investigation is largest enforcement effort on ergonomics\n\n**WASHINGTON** \u2013 The U.S. Department of Labor today announced that its Occupational Safety and Health Administration has cited Amazon for failing to keep workers safe, and has issued [hazard alert letters] after inspections at three warehouse facilities \u2013 in Del"
+      },
+      {
+        "title": "",
+        "url": "https://oig.dol.gov/public/reports/oa/2023/19-23-001-10-105.pdf",
+        "published": "2022-11-01T00:00:00.000Z",
+        "excerpt": "REPORT TO THE OCCUPATIONAL \nSAFETY AND HEALTH \nADMINISTRATION \nCOVID-19: OSHA\u2019S ENFORCEMENT \nACTIVITIES DID NOT SUFFICIENTLY\nPROTECT WORKERS FROM PANDEMIC \nHEALTH HAZARDS\nDATE ISSUED: OCTOBER 31, 2022\nREPORT NUMBER: 19-23-001-10-105\nU.S. Department of Labor\nOffice of Inspector General\nAudit\nBRIEFLY\u2026 \nCOVID-19: OSHA\u2019S ENFORCEMENT \nACTIVITIES DID NOT SUFFICIENTLY\nPROTECT WORKERS FROM PANDEMIC \nHEALTH HAZARDS\nOctober 31, 2022\nWHY OIG CONDUCTED THE AUDIT\nThe Occupational Safety and Health \nAdministr"
+      },
+      {
+        "title": "Department of Labor announces national emphasis program aimed at reducing, preventing workplace hazards in warehouses, distribution centers | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/news/newsreleases/national/07132023",
+        "published": "2023-07-13T00:00:00.000Z",
+        "excerpt": "Department of Labor announces national emphasis program aimed at reducing, preventing workplace hazards in warehouses, distribution centers | Occupational Safety and Health Administration[Skip to main content] \n![U.S. flag] \nAn official website of the United States government.\nHere\u2019s how you know\nHere\u2019s how you know\n![Dot gov] \n**The .gov means it\u2019s official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you\u2019re on a federal government si"
+      },
+      {
+        "title": "OIG Audit Report Briefly - COVID-19: OSHA's Enforcement Activities Did Not Sufficiently Protect Workers From Pandemic Health Hazards",
+        "url": "https://oig.dol.gov/public/reports/oa/2023/19-23-001-10-105b.pdf",
+        "published": "2022-11-02T00:00:00.000Z",
+        "excerpt": "U.S. Department of Labor\nOffice of Inspector General\nAudit\nBRIEFLY\u2026 \nCOVID-19: OSHA\u2019S ENFORCEMENT \nACTIVITIES DID NOT SUFFICIENTLY\nPROTECT WORKERS FROM PANDEMIC \nHEALTH HAZARDS\nOctober 31, 2022\nWHY OIG CONDUCTED THE AUDIT\nThe Occupational Safety and Health \nAdministration (OSHA) is responsible for \nensuring safe and healthful working conditions \nfor 130 million workers employed at more than \n8 million worksites. It does so by setting and \nenforcing standards and by providing training, \noutreach,"
+      },
+      {
+        "title": "",
+        "url": "https://www.osha.gov/sites/default/files/publications/OSHA4384.pdf",
+        "published": "2023-10-26T00:00:00.000Z",
+        "excerpt": "Temporary Worker Initiative\nWarehousing Industry Employment\nThis is part of a series of guidance documents developed under the \nOccupational Safety and Health Administration\u2019s (OSHA\u2019s) Temporary Worker \nInitiative (TWI). The TWI focuses on compliance with safety and health \nrequirements when temporary workers are jointly employed by a staffing \nagency and a host employer.\nIntroduction\nThe U.S. warehousing market experienced \ntremendous growth in recent years, driven \nlargely by e-commerce. The r"
+      }
+    ],
+    "search_queries": [
+      "Search #1: companies repeat OSHA violations warehouse safety penalties...",
+      "Search #2: Amazon warehouse OSHA violations safety fines repeated...",
+      "Search #3: warehouse employers OSHA citations repeat violators ergonomi...",
+      "Search #4: OSHA severe violator enforcement program warehouses distribu...",
+      "Search #5: Walmart warehouse OSHA violations repeat citations safety fi...",
+      "Search #6: Target FedEx UPS warehouse distribution center OSHA repeat v...",
+      "Search #7: OSHA repeat violations warehouse injury rates musculoskeleta...",
+      "Search #8: GAO report 2024 warehouse injury rates Amazon ergonomic haza...",
+      "Search #9: DOL inspector general report warehouse workers high injury r..."
+    ],
+    "search_count": 9,
+    "time_seconds": 73.62593293190002
+  },
+  "claude": {
+    "analysis_text": "I'll search for information about companies with repeat OSHA violations in warehouse safety.Let me search for additional specific companies with repeat violations to strengthen the findings.Based on my research, I now have sufficient information to provide a comprehensive analysis. Let me format this according to the user's specific requirements.\n\n---\n\n## 1. KEY FINDINGS\n\n### Amazon - Multiple Repeat OSHA Violations Across Warehouses\n\n**Claim:** Amazon received citations at six warehouse facilities in 2022-2023 for exposing workers to ergonomic hazards and musculoskeletal disorders.\n**Quote:** \"At all six locations, OSHA investigators found Amazon exposed warehouse workers to a high risk of low back injuries\"\n**Source:** https://www.osha.gov/news/newsreleases/national/02012023\n\n**Claim:** Amazon workers made up almost half of all warehouse injuries in 2019 according to safety advocates.\n**Quote:** \"Amazon workers made up almost half of all warehouse injuries in 2019\"\n**Source:** https://www.arnolditkin.com/blog/work-accidents/injuries-osha-violations-the-dangers-of-warehous/\n\n**Claim:** OSHA cited Amazon for 14 recordkeeping violations at six facilities, indicating systematic compliance failures.\n**Quote:** \"In December 2022, OSHA cited Amazon for 14 recordkeeping violations as part of the same investigation\"\n**Source:** https://www.osha.gov/news/newsreleases/national/02012023\n\n**Claim:** Amazon reached a corporate-wide settlement with OSHA in December 2024 addressing ergonomic violations across its nationwide facilities.\n**Quote:** \"This settlement requires Amazon to take action at the corporate level to ensure corporate-wide ergonomic requirements are effectively implemented\"\n**Source:** https://www.osha.gov/news/newsreleases/osha-national-news-release/20241219\n\n**Claim:** OSHA found Amazon failed to provide proper medical treatment to injured employees at multiple locations, including Castleton, New York.\n**Quote:** \"At least six employees with head injuries and four with back injuries did not receive timely, necessary medical care\"\n**Source:** https://www.osha.gov/news/newsreleases/national/04282023\n\n**Claim:** Minnesota OSHA cited Amazon in 2024 for ergonomic hazards and warehouse distribution worker safety violations at its Shakopee facility.\n**Quote:** \"MNOSHA Compliance issued a $10,500 penalty to Amazon in Shakopee, Minnesota, regarding worker safety hazards\"\n**Source:** https://www.dli.mn.gov/news/minnesota-osha-issues-citations-amazon-warehouse-distribution-worker-safety-and-ergonomic\n\n### Adidas - Repeat Warehouse Safety Violations\n\n**Claim:** Adidas America paid $235,000 in penalties for repeated workplace violations after failing to correct hazards originally cited in 2021.\n**Quote:** \"company had failed to correct hazards originally cited in 2021, including missing guardrails and the use of an unsafe ladder\"\n**Source:** https://ohsonline.com/articles/2025/06/04/adidas-reaches-federal-settlement-following-repeat-warehouse-safety-violations.aspx\n\n### FedEx - Pattern of Safety Violations\n\n**Claim:** FedEx has been cited for safety violations in its warehouses including failing to properly train workers on forklift safety.\n**Quote:** \"This package delivery company has been cited for safety violations in its warehouses, including failing to properly train workers on forklift safety\"\n**Source:** https://www.arnolditkin.com/blog/work-accidents/injuries-osha-violations-the-dangers-of-warehous/\n\n**Claim:** FedEx was cited for seven safety violations after a worker death in 2022, with fines of only $26,000 despite $94 billion in annual revenue.\n**Quote:** \"TOSHA cited FedEx for seven safety violations, including failing to ensure workers weren't using damaged equipment\"\n**Source:** https://mlk50.com/2023/03/01/fedex-says-its-a-safe-workplace-so-why-is-jessica-james-dead/\n\n**Claim:** FedEx Ground received $44,000 in fines for a repeat violation involving failure to guard a conveyor belt at its Massachusetts distribution center.\n**Quote:** \"FedEx Ground Packaging System Inc. faces $44,000 in fines after the federal Occupational Safety and Health Administration cited the company for a repeat violation\"\n**Source:** https://www.workcompcentral.com/news/article/id/4b382c19e23d6633b775df2cb92f689ccfc2fdff\n\n### Target - Multiple Location Safety Issues\n\n**Claim:** Target paid $464,750 in 2020 to settle violations involving blocked emergency exits and unsafe storage at eight locations across four northeastern states.\n**Quote:** \"cited eight Target locations in Connecticut, Massachusetts and New York for numerous violations involving blocked or obstructed access to emergency exits\"\n**Source:** https://www.osha.gov/news/newsreleases/region2/10192020\n\n**Claim:** Target was fined nearly $30,000 after a worker death in Pennsylvania in 2024, the second employee death at a Target facility in less than a year.\n**Quote:** \"Federal regulators fined Target nearly $30,000 after a workplace death in Pennsylvania, less than a year after the Minneapolis-based retailer received a much higher fine\"\n**Source:** https://www.startribune.com/target-osha-workplace-deaths-fines/601353471\n\n### Walmart - Warehouse Storage Violations\n\n**Claim:** Walmart was cited for violating storage safety standards after an employee was seriously injured when merchandise fell from storage at a New York warehouse in 2017.\n**Quote:** \"OSHA cited the global discount retailer correctly for failing to meet the agency's safety standard for storage of material\"\n**Source:** https://www.osha.gov/news/newsreleases/national/02242023\n\n**Claim:** Walmart has been listed as one of the nation's \"Dirty Dozen\" employers by the National Council for Occupational Safety and Health in both 2019 and 2024.\n**Quote:** \"The National Council for Occupational Safety and Health (COSH) listed Walmart as one of the nation's 'Dirty Dozen' employers in 2019 and again in 2024\"\n**Source:** https://stock.walmart.com/sec-filings/all-sec-filings/content/0001214659-24-007828/e430240px14a6g.htm\n\n### OSHA's Severe Violator Enforcement Program (SVEP) Expansion\n\n**Claim:** OSHA expanded its Severe Violator Enforcement Program in September 2022 to include employers with at least two willful or repeated violations.\n**Quote:** \"Employers with at least two willful or repeated violations can expect to be placed in the program\"\n**Source:** https://www.arnolditkin.com/blog/work-accidents/injuries-osha-violations-the-dangers-of-warehous/\n\n**Claim:** Repeat violations within three years can result in penalties of up to $165,514 per violation as of 2025.\n**Quote:** \"When a violation is repeated within three years, companies will face stiffer penalties of up to $165,514\"\n**Source:** https://www.safetybydesigninc.com/osha-violation-types-osha-fines-list/\n\n### OSHA's National Emphasis Program on Warehousing\n\n**Claim:** OSHA launched a three-year National Emphasis Program targeting warehouse safety inspections beginning in July 2023.\n**Quote:** \"In July 2024, OSHA launched a three-year National Emphasis Program focusing on the warehousing industry\"\n**Source:** https://www.pacificworkers.com/blog/2024/december/workers-beware-the-impact-of-osha-s-2025-changes/\n\n**Claim:** OSHA has conducted over 600 warehouse inspections under the NEP program and proposed $2.4 million in penalties, with forklift violations being a significant percentage.\n**Quote:** \"To date, OSHA has led over 600 inspections under the program and proposed $2.4 million in penalties\"\n**Source:** https://na.bhs1.com/blog/post/osha-forklift-violations-in-nep-warehouse-inspections\n\n## 2. SOURCE QUALITY ASSESSMENT\n\n**Primary Sources:** Official OSHA press releases and government documents provide the highest quality evidence, including specific inspection numbers, penalty amounts, and detailed violation descriptions. These sources are authoritative and directly traceable.\n\n**Industry Publications:** Safety trade publications (Occupational Health & Safety magazine, SupplyChainBrain) provide reliable secondary reporting with proper citations to government records.\n\n**Legal and Investigative Journalism:** Bloomberg Law and investigative journalism from MLK50 provide well-documented accounts with access to court records and OSHA documents.\n\n**Limitations:** Some sources cite aggregate statistics without providing underlying data sources. Worker testimony, while valuable for understanding workplace culture, cannot be independently verified from these searches. Some penalty amounts and specific violation counts may have been adjusted through settlement negotiations not reflected in initial citations.\n\n## 3. GAPS OR CONTRADICTIONS\n\n**Gap 1: Limited Information on Smaller Companies** - Search results heavily favor large national employers (Amazon, FedEx, Target, Walmart). Smaller warehouse operators with repeat violations are underrepresented, likely due to less media coverage despite potentially having worse safety records.\n\n**Gap 2: Settlement vs. Citation Data** - Many citations are contested and settled for reduced amounts. Initial penalty figures don't reflect final outcomes, making it difficult to assess true financial consequences.\n\n**Gap 3: State OSHA Programs** - Federal OSHA data doesn't capture violations in states with their own OSHA plans (like California, Washington, Michigan), meaning the complete picture of repeat violators is incomplete.\n\n**Gap 4: Recent 2025 Data** - Most comprehensive data extends through 2024, with limited 2025 information available at this search date (January 2026).\n\n**Gap 5: Injury Rate Context** - While violation counts are documented, corresponding injury and illness rates that demonstrate the actual harm from repeat violations are not consistently paired with enforcement data.\n\n**Contradiction:** Amazon simultaneously reached a corporate-wide settlement with OSHA while federal prosecutors continue investigating whether the company engaged in fraudulent schemes to hide injury rates\u2014suggesting disagreement about the severity and systemic nature of violations.\n\n## 4. RECOMMENDED NEXT STEPS\n\n**Research Action 1:** Query OSHA's Severe Violator Enforcement Program (SVEP) public log directly to identify all warehouse/distribution companies currently listed as severe violators. This would provide a comprehensive list beyond just major retailers.\n\n**Research Action 2:** Conduct state-specific OSHA searches for California (Cal/OSHA), Washington, Michigan, and other state-plan jurisdictions to capture repeat violators not in federal databases.\n\n**Research Action 3:** Search OSHA's establishment-specific injury and illness data (Form 300A logs) to correlate repeat violations with actual injury rates, determining which companies have both high violations AND high injury rates.\n\n**Research Action 4:** Review Occupational Safety and Health Review Commission (OSHRC) case records to identify patterns of contested citations and final determinations, revealing which companies consistently fight enforcement.\n\n**Research Action 5:** Search for corporate-wide settlement agreements (CWSA) in OSHA databases, as these indicate systemic multi-facility problems requiring company-wide corrective actions.\n\n**Research Action 6:** Investigate third-party logistics (3PL) providers and smaller regional warehouse operators, as these may have repeat violations with less public visibility.\n\n**Research Action 7:** Review GAO and OIG reports on OSHA warehouse enforcement effectiveness to understand systematic enforcement gaps and which types of violations go under-cited.\n\n**Research Action 8:** Search for private lawsuits against warehouse operators for workplace injuries, as these often reveal patterns of violations not captured in OSHA enforcement alone.\n\n[INFERENCE - not directly stated in sources]: The concentration of repeat violations among large national employers (Amazon, FedEx, Walmart, Target) suggests that rapid growth and pressure for speed in e-commerce and retail logistics may create systematic safety culture problems that persist despite regulatory enforcement. The relatively small financial penalties compared to company revenues ($235,000 for Adidas, $464,750 for Target) may not provide sufficient deterrence for companies with multi-billion dollar operations.",
+    "sources": [
+      {
+        "title": "Most Common OSHA Violations in Warehouses",
+        "url": "https://www.damotech.com/blog/common-osha-violations-in-warehouses",
+        "page_age": "October 27, 2025"
+      },
+      {
+        "title": "OSHA Violations, Citations, and Fines List for 2025 Guide",
+        "url": "https://www.safetybydesigninc.com/osha-violation-types-osha-fines-list/",
+        "page_age": "March 13, 2025"
+      },
+      {
+        "title": "Injuries & OSHA Violations: The Dangers of Warehouses",
+        "url": "https://www.arnolditkin.com/blog/work-accidents/injuries-osha-violations-the-dangers-of-warehous/",
+        "page_age": null
+      },
+      {
+        "title": "Adidas Reaches Federal Settlement Following Repeat Warehouse Safety Violations -- Occupational Health & Safety",
+        "url": "https://ohsonline.com/articles/2025/06/04/adidas-reaches-federal-settlement-following-repeat-warehouse-safety-violations.aspx",
+        "page_age": null
+      },
+      {
+        "title": "OSHA Penalties | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/penalties",
+        "page_age": null
+      },
+      {
+        "title": "7 Ways Your Warehouse Probably Isn\u2019t OSHA-Compliant",
+        "url": "https://www.sstlift.com/blog/osha-compliance-warehouse-violations",
+        "page_age": "April 4, 2025"
+      },
+      {
+        "title": "US Department of Labor finds Amazon exposed workers to unsafe conditions, ergonomic hazards at three more warehouses in Colorado, Idaho, New York | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/news/newsreleases/national/02012023",
+        "page_age": null
+      },
+      {
+        "title": "What Are OSHA Violations? \u2013 Quality Material Handling Inc. Blog",
+        "url": "https://www.qmhinc.com/what-are-osha-violations/",
+        "page_age": "August 15, 2024"
+      },
+      {
+        "title": "OSHA\u2019s top 10+ warehouse safety risks [Infographic] - Arrowhead",
+        "url": "https://www.arrowheadgrp.com/blog/oshas-top-10-warehouse-safety-risks/",
+        "page_age": "April 11, 2023"
+      },
+      {
+        "title": "Industrial Warehouse Safety: OSHA Violations and Guidance",
+        "url": "https://spisafety.blog/2022/11/07/warehouse_safety/",
+        "page_age": "November 10, 2022"
+      },
+      {
+        "title": "US Department of Labor finds Amazon exposed workers to unsafe conditions, ergonomic hazards at three more warehouses in Colorado, Idaho, New York | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/news/newsreleases/national/02012023",
+        "page_age": null
+      },
+      {
+        "title": "Federal safety inspections at three Amazon warehouse facilities find company exposed workers to ergonomic, struck-by hazards | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/news/newsreleases/national/01182023",
+        "page_age": null
+      },
+      {
+        "title": "US Department of Labor finds Amazon failed to provide injured employees proper medical treatment at Castleton, New York, fulfillment facility | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/news/newsreleases/national/04282023",
+        "page_age": null
+      },
+      {
+        "title": "Minnesota OSHA issues citations to Amazon for warehouse distribution worker safety and ergonomic hazards | Minnesota Department of Labor and Industry",
+        "url": "https://www.dli.mn.gov/news/minnesota-osha-issues-citations-amazon-warehouse-distribution-worker-safety-and-ergonomic",
+        "page_age": null
+      },
+      {
+        "title": "Federal safety inspections at six Amazon warehouse facilities find company failed to record, report worker injuries, illnesses | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/news/newsreleases/national/12162022",
+        "page_age": null
+      },
+      {
+        "title": "Federal inspectors again find ergonomic hazards, inadequate medical care exposing Amazon fulfillment center employees to safety, health risks | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/news/newsreleases/region2/08032023",
+        "page_age": null
+      },
+      {
+        "title": "US Department of Labor announces settlement with Amazon requiring corporate-wide ergonomic measures at facilities across the country | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/news/newsreleases/osha-national-news-release/20241219",
+        "page_age": null
+      },
+      {
+        "title": "Amazon Warehouses, Drivers & OSHA Violations: Understanding Your Rights to Workers\u2019 Compensation | Pisanchyn Law Firm | Personal Injury Attorneys",
+        "url": "https://pisanchynlawfirm.com/whats-new/amazon-warehouses-drivers-osha-violations-understanding-your-rights-to-workers-compensation/",
+        "page_age": "October 15, 2025"
+      },
+      {
+        "title": "Southern District of New York | Amazon Cited By OSHA Based On SDNY Referrals For Serious Violations That Exposed Workers To Safety Hazards | United States Department of Justice",
+        "url": "https://www.justice.gov/usao-sdny/pr/amazon-cited-osha-based-sdny-referrals-serious-violations-exposed-workers-safety",
+        "page_age": "July 20, 2023"
+      },
+      {
+        "title": "US Department of Labor cites Amazon for again exposing workers to ergonomic hazards, this time at Colorado Springs delivery station | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/news/newsreleases/national/02232023-0",
+        "page_age": null
+      },
+      {
+        "title": "OSHA Penalties | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/penalties",
+        "page_age": null
+      },
+      {
+        "title": "OSHA Violations, Citations, and Fines List for 2025 Guide",
+        "url": "https://www.safetybydesigninc.com/osha-violation-types-osha-fines-list/",
+        "page_age": "March 13, 2025"
+      },
+      {
+        "title": "OSHA civil penalty amounts adjusted for 2024 | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/news/newsreleases/trade/01112024",
+        "page_age": null
+      },
+      {
+        "title": "OSHA News Releases \u2013 Enforcement | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/news/newsreleases/enforcement",
+        "page_age": null
+      },
+      {
+        "title": "US Department of Labor announces adjusted OSHA civil penalty amounts for 2025 | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/news/newsreleases/osha-trade-release/20250114",
+        "page_age": null
+      },
+      {
+        "title": "Enforcement Cases with Initial Penalties of $40,000 or Above | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/enforcement/toppenalties/bystate",
+        "page_age": null
+      },
+      {
+        "title": "Top OSHA Violations of 2024 and Higher Penalties for 2025 | NAHB",
+        "url": "https://www.nahb.org/blog/2025/01/osha-violations-2024",
+        "page_age": null
+      },
+      {
+        "title": "2025 OSHA Violations, Penalties, and Fines List | TRADESAFE",
+        "url": "https://trdsf.com/blogs/news/osha-violations-and-fines",
+        "page_age": "April 8, 2024"
+      },
+      {
+        "title": "OSHA\u2019s 2025 Updates: How This Affects Warehouse, Manufacturing, and Delivery Workers",
+        "url": "https://www.pacificworkers.com/blog/2024/december/workers-beware-the-impact-of-osha-s-2025-changes/",
+        "page_age": null
+      },
+      {
+        "title": "OSHA Adjusts Penalty Amounts for Safety Violations for 2025 -- Occupational Health & Safety",
+        "url": "https://ohsonline.com/Articles/2025/01/15/OSHA-Adjusts-Penalty-Amounts-for-Safety-Violations-for-2025.aspx",
+        "page_age": null
+      },
+      {
+        "title": "Severe Violator Enforcement Program (SVEP) | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/enforcement/svep",
+        "page_age": null
+      },
+      {
+        "title": "US Department of Labor announces changes to OSHA\u2019s Severe Violator Enforcement Program to strengthen enforcement, improve compliance | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/news/newsreleases/national/09152022",
+        "page_age": null
+      },
+      {
+        "title": "Severe Violator Enforcement Program (SVEP)",
+        "url": "https://www.osha.gov/sites/default/files/enforcement/directives/CPL_02-00-169.pdf",
+        "page_age": null
+      },
+      {
+        "title": "Severe Violator Enforcement Program | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/stateplans/adoption/directives/2022-09-15",
+        "page_age": null
+      },
+      {
+        "title": "A Look at OSHA's Severe Violator Enforcement Program -- Occupational Health & Safety",
+        "url": "https://ohsonline.com/articles/2022/12/27/a-look-at-oshas.aspx",
+        "page_age": null
+      },
+      {
+        "title": "5 Things Employers Should Know About OSHA's Severe Violator Enforcement Program",
+        "url": "https://www.hchlawyers.com/blog/2024/october/osha-severe-violator-enforcement-program-5-thing/",
+        "page_age": "October 24, 2024"
+      },
+      {
+        "title": "Severe Violator Enforcement Program (SVEP)",
+        "url": "https://www.michigan.gov/leo/-/media/Project/Websites/leo/Documents/MIOSHA/Policies-and-Procedures/Instructions/Agency-Instructions/MIOSHA-COM-11-2.pdf",
+        "page_age": null
+      },
+      {
+        "title": "OSHA Significantly Expands Severe Violator Enforcement Program: FAQs for Employers | Fisher Phillips",
+        "url": "https://www.fisherphillips.com/en/news-insights/osha-significantly-expands-severe-violator-enforcement-program-faqs-for-employers.html",
+        "page_age": null
+      },
+      {
+        "title": "OSHA Severe Violator Enforcement Program Update - GovDocs",
+        "url": "https://www.govdocs.com/osha-severe-violator-enforcement-program-update/",
+        "page_age": "November 15, 2022"
+      },
+      {
+        "title": "OSHA SVEP: What Manufacturers Need to Know | Ease.io",
+        "url": "https://www.ease.io/blog/osha-svep/",
+        "page_age": "November 19, 2024"
+      },
+      {
+        "title": "Common OSHA Forklift Violations and Industries With the Most Citations",
+        "url": "https://www.sstlift.com/blog/osha-forklift-violations",
+        "page_age": "January 17, 2025"
+      },
+      {
+        "title": "OSHA Forklift Fine Risks: Protecting Your Workplace - Top Osha Forklift Certification",
+        "url": "https://www.forkliftacademy.com/osha-forklift-fine-risks/",
+        "page_age": "3 weeks ago"
+      },
+      {
+        "title": "9 Common Forklift OSHA Violations and How To Prevent Them",
+        "url": "https://firstqualityforklifttraining.com/9-common-forklift-osha-violations-and-how-to-prevent-them/",
+        "page_age": "October 2, 2025"
+      },
+      {
+        "title": "OSHA Forklift Violations in NEP Warehouse Inspections - Blog",
+        "url": "https://na.bhs1.com/blog/post/osha-forklift-violations-in-nep-warehouse-inspections",
+        "page_age": "April 2, 2025"
+      },
+      {
+        "title": "OSHA Violations and Fines: Better Safe than Sorry",
+        "url": "https://www.certifyme.net/osha-violations-and-fines-better-safe-than-sorry/",
+        "page_age": null
+      },
+      {
+        "title": "What OSHA Forklift Safety Compliance Means For Your Warehouse - Fleet Team",
+        "url": "https://fleetteam.com/what-osha-forklift-safety-compliance-means-for-your-warehouse/",
+        "page_age": "June 20, 2025"
+      },
+      {
+        "title": "OSHA Forklift Rules, Safety Standards & Training Requirements | CertifyMe",
+        "url": "https://www.certifyme.net/osha-blog/complete-guide-to-osha-forklift-regulations/",
+        "page_age": "September 23, 2025"
+      },
+      {
+        "title": "How to Stay Safe and Compliant With OSHA\u2019s Forklift Standards - KPA",
+        "url": "https://kpa.io/blog/how-to-stay-safe-and-compliant-with-oshas-forklift-standards/",
+        "page_age": "June 2, 2025"
+      },
+      {
+        "title": "OSHA Penalties | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/penalties",
+        "page_age": null
+      },
+      {
+        "title": "HD Supply: According to PacerMonitor, Hall alleges forklift battery fire and \u201cunsafe warehouse\u201d at GA02; OSHA cited | OCNJ Daily",
+        "url": "https://ocnjdaily.com/news/2026/jan/06/hd-supply-according-to-pacermonitor-hall-alleges-forklift-battery-fire-and-unsafe-warehouse-at-ga02-osha-cited/",
+        "page_age": "2 weeks ago"
+      },
+      {
+        "title": "Fedex Ground Package Systems, Inc. | Occupational Safety and Health Administration osha.gov",
+        "url": "https://www.osha.gov/ords/imis/establishment.violation_detail?id=306449448&citation_id=01001",
+        "page_age": null
+      },
+      {
+        "title": "OSHA Cites FedEx Ground Packaging for Repeat Violation Involving Lack of a Conveyor Belt Guard| Workers Compensation News | WorkCompCentral",
+        "url": "https://www.workcompcentral.com/news/article/id/4b382c19e23d6633b775df2cb92f689ccfc2fddf",
+        "page_age": null
+      },
+      {
+        "title": "Injuries & OSHA Violations: The Dangers of Warehouses",
+        "url": "https://www.arnolditkin.com/blog/work-accidents/injuries-osha-violations-the-dangers-of-warehous/",
+        "page_age": null
+      },
+      {
+        "title": "fedex | Violation Tracker",
+        "url": "https://violationtracker.goodjobsfirst.org/parent/fedex",
+        "page_age": null
+      },
+      {
+        "title": "Inspection Detail | Occupational Safety and Health Administration osha.gov",
+        "url": "https://www.osha.gov/ords/imis/establishment.inspection_detail?id=1153649.015",
+        "page_age": null
+      },
+      {
+        "title": "Safety mirage at FedEx Ground - Tempest",
+        "url": "https://tempestmag.org/2021/07/safety-mirage-at-fedex-ground/",
+        "page_age": "July 26, 2021"
+      },
+      {
+        "title": "FedEx Freight Cited by Iowa OSHA for Mishandling Hazardous Materials -- Occupational Health & Safety",
+        "url": "https://ohsonline.com/articles/2022/02/17/fedex-freight-cited-by-iowa-osha-for-mishandling-hazardous-materials.aspx",
+        "page_age": null
+      },
+      {
+        "title": "Five takeaways from our investigation into FedEx and worker safety - MLK50: Justice Through Journalism",
+        "url": "https://mlk50.com/2020/12/28/five-takeaways-from-our-investigation-into-fedex-and-worker-safety/",
+        "page_age": "January 23, 2024"
+      },
+      {
+        "title": "FedEx says it\u2019s a safe workplace. So why is Jessica James dead? - MLK50: Justice Through Journalism",
+        "url": "https://mlk50.com/2023/03/01/fedex-says-its-a-safe-workplace-so-why-is-jessica-james-dead/",
+        "page_age": "October 30, 2024"
+      },
+      {
+        "title": "fedex corporation - Violation Tracker",
+        "url": "https://violationtracker.goodjobsfirst.org/violation-tracker/in-fedex-corporation",
+        "page_age": null
+      },
+      {
+        "title": "Federal panel upholds $10K US Department of Labor citation litigated by Walmart for years over hazardous shelving | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/news/newsreleases/national/02242023",
+        "page_age": null
+      },
+      {
+        "title": "Amazon, Walmart and Dollar General Hit with OSHA Violations - Facility Management Maintenance & Operations Quick Read",
+        "url": "https://www.facilitiesnet.com/maintenanceoperations/tip/Amazon-Walmart-and-Dollar-General-Hit-with-OSHA-Violations--51200",
+        "page_age": null
+      },
+      {
+        "title": "Walmart Distribution Center Store 7017 | Occupational Safety and Health Administration osha.gov",
+        "url": "https://www.osha.gov/ords/imis/establishment.violation_detail?id=1052277.015&citation_id=01001",
+        "page_age": null
+      },
+      {
+        "title": "Establishment Search Results | Occupational Safety and Health Administration osha.gov",
+        "url": "https://www.osha.gov/ords/imis/establishment.search?establishment=walmart&state=all&officetype=all&office=all&sitezip=100000&startmonth=03&startday=08&startyear=2012&endmonth=07&endday=05&endyear=2021&p_case=all&p_violations_exist=both&p_start=&p_finish=80&p_sort=12&p_desc=ASC&p_direction=Next&p_show=20",
+        "page_age": null
+      },
+      {
+        "title": "Inspection: 1052277.015 - Walmart Distribution Center ...",
+        "url": "https://www.osha.gov/ords/imis/establishment.inspection_detail?id=1052277.015",
+        "page_age": null
+      },
+      {
+        "title": "Walmart Distribution Center | Occupational Safety and Health Administration osha.gov",
+        "url": "https://www.osha.gov/ords/imis/establishment.violation_detail?id=1020314.015&citation_id=01001",
+        "page_age": null
+      },
+      {
+        "title": "OSHA\u2019s Citation and Fine of Wal-Mart Vacated - EHSLeaders",
+        "url": "https://ehsleaders.org/2019/01/oshas-citation-and-fine-of-wal-mart-vacated/",
+        "page_age": "July 25, 2025"
+      },
+      {
+        "title": "April 30, 2024 - PX14A6G: Notice of exempt solicitation | Walmart Inc. (WMT)",
+        "url": "https://stock.walmart.com/sec-filings/all-sec-filings/content/0001214659-24-007828/e430240px14a6g.htm",
+        "page_age": null
+      },
+      {
+        "title": "Violation Tracker",
+        "url": "https://violationtracker.goodjobsfirst.org/?parent=walmart&order=penalty&sort=asc",
+        "page_age": null
+      },
+      {
+        "title": "Wal-Mart Stores East, LP, d/b/a Walmart Distribution Center #7035., Docket No. 16-0272",
+        "url": "https://www.oshrc.gov/wp-content/uploads/Wal-Mart_Stores_East_LP_d_b_a_Walmart_Distribution_Center__7035._Docket_No._16-0272.htm",
+        "page_age": null
+      },
+      {
+        "title": "Warehousing - Know the Law | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/warehousing/standards-enforcement",
+        "page_age": null
+      },
+      {
+        "title": "Target Corp. to Correct Exit and Storage Hazards, Enhance Safety At 200 Northeast U.S. Stores in U.S. Department of Labor Settlement | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/news/newsreleases/region2/10192020",
+        "page_age": null
+      },
+      {
+        "title": "OSHA Enforcement Initiative Targets Warehouse, Home Center, Delivery Services, Supermarkets, Others - Jackson Lewis",
+        "url": "https://www.jacksonlewis.com/insights/osha-enforcement-initiative-targets-warehouse-home-center-delivery-services-supermarkets-others",
+        "page_age": "August 11, 2023"
+      },
+      {
+        "title": "OSHA hits Target with nearly $30,000 in fines after Pennsylvania worker crushed to death",
+        "url": "https://www.startribune.com/target-osha-workplace-deaths-fines/601353471",
+        "page_age": "May 15, 2025"
+      },
+      {
+        "title": "Most Common OSHA Violations in Warehouses",
+        "url": "https://www.damotech.com/blog/common-osha-violations-in-warehouses",
+        "page_age": "October 27, 2025"
+      },
+      {
+        "title": "Target",
+        "url": "https://corporate.target.com/getmedia/3683e8f8-7396-404b-8f83-41a833298e60/Target_Code-of-Ethics.pdf",
+        "page_age": null
+      },
+      {
+        "title": "Target Corp. to Correct Exit and Storage Hazards, Enhance ...",
+        "url": "https://www.dol.gov/newsroom/releases/osha/osha20201019-1",
+        "page_age": null
+      },
+      {
+        "title": "Target Corp., OSHA Settle Eight Worker Safety Cases for $465,000",
+        "url": "https://news.bloomberglaw.com/safety/target-corp-osha-settle-eight-worker-safety-cases-for-465-000",
+        "page_age": "October 19, 2020"
+      },
+      {
+        "title": "Target Corporation | Occupational Safety and Health Administration osha.gov",
+        "url": "https://www.osha.gov/ords/imis/establishment.violation_detail?id=1422803.015&citation_id=01001",
+        "page_age": null
+      },
+      {
+        "title": "TARGET Corporation | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/enforcement/cwsa/target-corporation--10142020_0",
+        "page_age": null
+      },
+      {
+        "title": "Enforcement Cases with Initial Penalties of $40,000 or Above | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/enforcement/toppenalties/bystate",
+        "page_age": null
+      },
+      {
+        "title": "Severe Violator Enforcement Program (SVEP) | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/enforcement/svep",
+        "page_age": null
+      },
+      {
+        "title": "OSHA Penalties | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/penalties",
+        "page_age": null
+      },
+      {
+        "title": "OSHA Violations, Citations, and Fines List for 2025 Guide",
+        "url": "https://www.safetybydesigninc.com/osha-violation-types-osha-fines-list/",
+        "page_age": "March 13, 2025"
+      },
+      {
+        "title": "5 Things Employers Should Know About OSHA's Severe Violator Enforcement Program",
+        "url": "https://www.hchlawyers.com/blog/2024/october/osha-severe-violator-enforcement-program-5-thing/",
+        "page_age": "October 24, 2024"
+      },
+      {
+        "title": "Establishment Search | Occupational Safety and Health Administration osha.gov",
+        "url": "https://www.osha.gov/ords/imis/establishment.html",
+        "page_age": null
+      },
+      {
+        "title": "OSHA Expands Severe Violator List Eligibility - Orr & Reno",
+        "url": "https://orr-reno.com/osha-expands-severe-violator-list-eligibility/",
+        "page_age": "December 1, 2022"
+      },
+      {
+        "title": "OSHA\u2019s 2024 Violation Highlights and What\u2019s Ahead in 2025 Industrial Safety - Global Industrial | Knowledge Center",
+        "url": "https://www.globalindustrial.com/knowledge-center/article/top-10-osha-safety-violations-regulations-2024",
+        "page_age": null
+      },
+      {
+        "title": "OSHA News Releases \u2013 Enforcement | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/news/newsreleases/enforcement",
+        "page_age": null
+      },
+      {
+        "title": "More Employers to Land on OSHA\u2019s Severe Violator List - Jackson Lewis",
+        "url": "https://www.jacksonlewis.com/insights/more-employers-land-oshas-severe-violator-list",
+        "page_age": "April 1, 2023"
+      },
+      {
+        "title": "United PARCEL Service - 01/09/2009 | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/enforcement/cwsa/united-parcel-service-01092009",
+        "page_age": null
+      },
+      {
+        "title": "OSHA cites UPS for 'excessive heat' exposure after NBC investigation",
+        "url": "https://www.nbcnews.com/business/economy/osha-cites-ups-excessive-heat-exposure-after-nbc-investigation-n1046991",
+        "page_age": "August 28, 2019"
+      },
+      {
+        "title": "United Parcel Service - 02/27/1992 | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/enforcement/cwsa/united-parcel-service-02271992",
+        "page_age": null
+      },
+      {
+        "title": "Ups, Inc. | Occupational Safety and Health Administration osha.gov",
+        "url": "https://www.osha.gov/ords/imis/establishment.violation_detail?id=1411576.015&citation_id=01001",
+        "page_age": null
+      },
+      {
+        "title": "OSHA\u2019s Dropped UPS Safety Warrants Point to Long-Game Strategy",
+        "url": "https://news.bloomberglaw.com/daily-labor-report/oshas-dropped-ups-safety-warrants-point-to-long-game-strategy",
+        "page_age": "October 30, 2024"
+      },
+      {
+        "title": "U.S. Department of Labor Cites UPS Inc. for Exposing ...",
+        "url": "https://www.dol.gov/newsroom/releases/osha/osha20191211",
+        "page_age": null
+      },
+      {
+        "title": "Establishment Search Results | Occupational Safety and Health Administration osha.gov",
+        "url": "https://www.osha.gov/ords/imis/establishment.search?p_logger=1&establishment=UPS&State=all&officetype=all&Office=all&sitezip=&p_case=all&p_violations_exist=all&startmonth=10&startday=24&startyear=2013&endmonth=10&endday=24&endyear=2018",
+        "page_age": null
+      },
+      {
+        "title": "Hochul Weighs Warehouse Safety Bill as Injuries\u2026 | New York Focus",
+        "url": "https://nysfocus.com/2024/12/13/amazon-ups-warehouse-safety-new-york",
+        "page_age": "December 13, 2024"
+      },
+      {
+        "title": "Termination of the January 2009 Corporate-Wide Settlement Agreement between United Parcel Service (UPS) and OSHA; Enforcement of 20 CFR 1910.37(a)(3) and 29 CFR 1910.36(g)(2) | Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/laws-regs/standardinterpretations/2019-06-18",
+        "page_age": null
+      },
+      {
+        "title": "\u2018Culture of Fear\u2019 Grips UPS: Workers Say Injuries Are Underreported | 2019-12-10 | SupplyChainBrain",
+        "url": "https://www.supplychainbrain.com/articles/30598-culture-of-fear-grips-ups-workers-say-injuries-are-underreported",
+        "page_age": "December 11, 2019"
+      }
+    ],
+    "search_count": 0,
+    "time_seconds": 85.04581332206726
+  },
+  "metrics": {
+    "exa_traceability": 100.0,
+    "exa_supported": 14,
+    "exa_tier_a": 81,
+    "exa_tier_a_pct": 90.0,
+    "exa_cost": 0.1526,
+    "claude_traceability": 100.0,
+    "claude_supported": 18,
+    "claude_tier_a": 50,
+    "claude_tier_a_pct": 50.0,
+    "claude_cost": 0.5194
+  }
+}

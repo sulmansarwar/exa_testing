@@ -1,0 +1,635 @@
+{
+  "timestamp": "2026-01-19T23:27:36.003903",
+  "query": "Verify claims that Meta laid off 15% of its workforce today - find official sources",
+  "query_category": "Fact-Checking & Verification",
+  "app_type": "general",
+  "webset_category": null,
+  "search_type": "neural",
+  "num_results": 10,
+  "exa": {
+    "analysis_text": "## 1. KEY FINDINGS\n\n**THE CLAIM OF 15% LAYOFFS IS FALSE.** Based on multiple official sources, Meta announced a **5% workforce reduction**, not 15%.\n\n**Claim:** Meta announced it will cut approximately 5% of its workforce based on performance ratings on January 14, 2025.\n**Quote:** \"Meta plans to lay off up to 5 percent of its employees based on performance ratings, according to an internal memo\"\n**Source:** https://www.nytimes.com/2025/01/14/technology/meta-layoffs.html\n\n**Claim:** The layoffs will affect more than 3,600 employees out of Meta's total workforce.\n**Quote:** \"Meta is cutting 5% of its workforce, or more than 3,600 employees\"\n**Source:** https://www.cbsnews.com/news/meta-layoffs-5-percent-workforce-cuts-low-performers/\n\n**Claim:** Meta will target \"lowest performers\" in this round of layoffs according to CEO Mark Zuckerberg.\n**Quote:** \"Meta Platforms will trim about 5% of its 'lowest performers' and plans to hire for the impacted roles\"\n**Source:** https://www.reuters.com/technology/meta-lay-off-5-lowest-performers-plans-hire-impacted-roles-2025-01-14/\n\n**Claim:** Zuckerberg stated this is preparation for an \"intense year\" and raising performance standards.\n**Quote:** \"This is going to be an intense year, and I want to make sure we have the best people\"\n**Source:** https://www.washingtonpost.com/technology/2025/01/14/meta-mark-zuckerberg-low-performers-cut/\n\n**Claim:** Meta plans to backfill many of these positions with new hires throughout 2025.\n**Quote:** \"Meta Platforms will trim about 5% of its 'lowest performers' and plans to hire for the impacted roles this year\"\n**Source:** https://www.reuters.com/technology/meta-lay-off-5-lowest-performers-plans-hire-impacted-roles-2025-01-14/\n\n**Note:** The 15% figure does NOT appear in any credible sources. The most recent major percentage was 13% in November 2022. [INFERENCE - based on absence of 15% in all sources and presence of historical 13% figure]\n\n**Claim:** In November 2022, Meta previously laid off 13% of its workforce (over 11,000 employees).\n**Quote:** \"I've decided to reduce the size of our team by about 13% and let more than 11,000 of our talented employees go\"\n**Source:** https://www.sec.gov/Archives/edgar/data/1326801/000132680122000116/nov092022exhibit991.htm\n\n## 2. SOURCE QUALITY ASSESSMENT\n\n**High credibility sources confirmed:**\n- **Reuters** - Major wire service with verification standards\n- **New York Times** - Tier 1 news organization that viewed internal memo\n- **CNBC** - Major business news outlet with access to internal communications\n- **SEC filing** - Official regulatory document for historical comparison\n- **CBS News, CNN, Washington Post** - All major established news organizations\n\nAll sources consistently report **5% layoffs**, not 15%. The consistency across independent news organizations and reference to viewing actual internal memos from Mark Zuckerberg provides strong verification.\n\n## 3. GAPS OR CONTRADICTIONS\n\n**Critical Gap:** No official Meta statement, press release, or SEC filing was found in the search results. The information comes from internal memos \"viewed by\" journalists rather than publicly posted official announcements.\n\n**No Contradictions Found:** All credible sources uniformly report 5% workforce reduction. There are no conflicting percentages in legitimate news sources.\n\n**Timeline Clarity:** The announcement was made on January 14, 2025 (Tuesday) according to multiple sources. Whether this qualifies as \"today\" depends on when the question was asked.\n\n**Missing Information:**\n- Exact number of employees affected (sources say \"more than 3,600\" but not precise figure)\n- Which specific departments or roles will be most impacted\n- Timeline for when layoffs will be completed\n\n## 4. RECOMMENDED NEXT STEPS\n\n1. **Check Meta's official investor relations page** at investor.fb.com for any SEC Form 8-K filing about the layoffs\n2. **Search for Mark Zuckerberg's actual memo** on Meta's official newsroom (about.fb.com) \n3. **Verify the date assumption** - confirm whether \"today\" in the question refers to January 14, 2025 or a different date\n4. **Search for the source of the 15% claim** - investigate where this incorrect percentage originated to understand if it's misinformation\n5. **Monitor Meta's Q1 2025 earnings call** for official statements about workforce size and restructuring plans\n\n**CONCLUSION:** The claim that Meta laid off **15% of its workforce is FALSE**. The actual figure is **5%** based on multiple credible news sources reporting on internal company memos from January 14, 2025.",
+    "sources": [
+      {
+        "title": "Meta\u2019s \u2018permanent\u2019 efficiency layoffs affected about 100 employees, including engineering and business roles",
+        "url": "https://fortune.com/2024/10/17/meta-permanent-efficiency-layoffs-100-employees-engineers-monetization-mark-zuckerberg/",
+        "published": "2024-10-17T00:00:00.000Z",
+        "excerpt": "Meta&#x27;s quest for &#x27;efficiency&#x27; sparks new wave of layoffs across departments | Fortune\nSearch\n[] \nSubscribe\n* [Home] \n* [Latest] \n* [Fortune 500] \n* [Finance] \n* [Tech] \n* [Leadership] \n* [Lifestyle] \n* [Rankings] \n* [Multimedia] \n[Meta] \n# Meta\u2019s \u2018permanent\u2019 efficiency layoffs affected about 100 employees, including engineering and business roles\nBy\n[Kali Hays] \nKali Hays\nDown Arrow Button Icon\nBy\n[Kali Hays] \nKali Hays\nDown Arrow Button Icon\nOctober 17, 2024, 2:27 PM ET\nAdd us on"
+      },
+      {
+        "title": "Meta to Cut 5% of Its Workers in New Round of Layoffs",
+        "url": "https://www.nytimes.com/2025/01/14/technology/meta-layoffs.html",
+        "published": "2025-01-14T00:00:00.000Z",
+        "excerpt": "[Technology] \\|Meta to Cut 5% of Its Workers in New Round of Layoffs\n\nhttps://www.nytimes.com/2025/01/14/technology/meta-layoffs.html\n\n- Share full article\n\n\nAdvertisement\n\n[SKIP ADVERTISEMENT] \n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\nMeta plans to lay off up to 5 percent of its employees based on performance ratings, according to an internal memo to workers on Tuesday viewed by The New York T"
+      },
+      {
+        "title": "Meta layoffs: A timeline of the company's staff cuts and hiring freezes",
+        "url": "https://www.businessinsider.com/meta-layoffs",
+        "published": "2024-10-21T00:00:00.000Z",
+        "excerpt": "Meta Layoffs: Timeline of Company's Staff Cuts, Hiring Freezes - Business Insider\n[Business Insider] \n[Subscribe] [Newsletters] \n[Tech] \n# Meta layoffs: A timeline of the company&#x27;s staff cuts and hiring freezes\nBy[Sarah Jackson] \nYou're currently following this author! Want to unfollow? Unsubscribe via the link in your email.\nFollow\nNewFollow authors and never miss a story!\n## Follow Sarah Jackson\nEvery time Sarah publishes a story, you\u2019ll get an alert straight to your inbox!\nEnter your ema"
+      },
+      {
+        "title": "Meta lays off staff at WhatsApp and Instagram to align with \u2018strategic goals\u2019",
+        "url": "https://apnews.com/article/meta-layoffs-whatsapp-instagram-4af727c7fb75f89bc50c84284fef2fee",
+        "published": "2024-10-17T00:00:00.000Z",
+        "excerpt": "Meta lays off staff at WhatsApp and Instagram to align with &#x27;strategic goals&#x27; | AP News \n \n \n[![AP Logo]] \nMenu\n* [World] \nSECTIONS\n[Israel-Hamas War] [Russia-Ukraine War] [Espa\u00f1ol] [China] [Asia Pacific] [Latin America] [Europe] [Africa] \nTOP STORIES\n* [Moscow agrees with Trump that Ukraine is holding up a peace deal, the Kremlin says] \n* [Venezuela\u2019s new leader calls for opening oil industry to foreign investment and warmer US ties] \n* [Canada agrees to cut its 100% tariff on Chinese"
+      },
+      {
+        "title": "A comprehensive list of 2025 tech layoffs",
+        "url": "https://techcrunch.com/2024/12/04/tech-layoffs-2024-list/",
+        "published": "2024-12-04T00:00:00.000Z",
+        "excerpt": "A comprehensive list of 2025 tech layoffs | TechCrunch\n[![] TechCrunch Desktop Logo] [![] TechCrunch Mobile Logo] \nSearch\nSubmit\n* Site Search Toggle\nMega Menu Toggle\n### Topics\n[Latest] \n[AI] \n[Amazon] \n[Apps] \n[Biotech &amp; Health] \n[Climate] \n[Cloud Computing] \n[Commerce] \n[Crypto] \n[Enterprise] \n[EVs] \n[Fintech] \n[Fundraising] \n[Gadgets] \n[Gaming] \n[Google] \n[Government &amp; Policy] \n[Hardware] \n[Instagram] \n[Layoffs] \n[Media &amp; Entertainment] \n[Meta] \n[Microsoft] \n[Privacy] \n[Robotics]"
+      },
+      {
+        "title": "What we know about the layoffs at Meta",
+        "url": "https://techcrunch.com/2024/10/19/what-we-know-about-the-layoffs-at-meta/",
+        "published": "2024-10-19T00:00:00.000Z",
+        "excerpt": "What we know about the layoffs at Meta | TechCrunch\n[![] TechCrunch Desktop Logo] [![] TechCrunch Mobile Logo] \nSearch\nSubmit\n* Site Search Toggle\nMega Menu Toggle\n### Topics\n[Latest] \n[AI] \n[Amazon] \n[Apps] \n[Biotech &amp; Health] \n[Climate] \n[Cloud Computing] \n[Commerce] \n[Crypto] \n[Enterprise] \n[EVs] \n[Fintech] \n[Fundraising] \n[Gadgets] \n[Gaming] \n[Google] \n[Government &amp; Policy] \n[Hardware] \n[Instagram] \n[Layoffs] \n[Media &amp; Entertainment] \n[Meta] \n[Microsoft] \n[Privacy] \n[Robotics] \n["
+      },
+      {
+        "title": "Meta to lay off 5% of 'lowest performers', plans to hire for impacted roles",
+        "url": "https://www.reuters.com/technology/meta-lay-off-5-lowest-performers-plans-hire-impacted-roles-2025-01-14/",
+        "published": "2025-01-14T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[Exclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv] \n\n![Headquarters of Facebook parent company Meta Platforms Inc in Mountain View] \n\nMorning commute traffic streams past the Meta sign outside the headquarters of Facebook parent company Meta Platforms Inc in Mountain View, California, U.S. November 9, 2022. REUTERS/Peter DaSilva/File photo [Purchase Licensing Rights, opens new tab] \n\nJan 14 (Reuters) - Meta Platforms [(META.O"
+      },
+      {
+        "title": "Meta announces 5% cuts in preparation for 'intense year' \u2014 read the internal memo",
+        "url": "https://www.cnbc.com/2025/01/14/meta-targeting-lowest-performing-employees-in-latest-round-of-layoffs.html",
+        "published": "2025-01-14T00:00:00.000Z",
+        "excerpt": "Meta announces 5% cuts targeting low performers. Read the memo\n[Skip Navigation] \n[![CNBC]] \n[Markets] \n* [Pre-Markets] \n* [U.S. Markets] \n* [Currencies] \n* [Cryptocurrency] \n* [Futures &amp; Commodities] \n* [Bonds] \n* [Funds &amp; ETFs] \n[Business] \n* [Economy] \n* [Finance] \n* [Health &amp; Science] \n* [Media] \n* [Real Estate] \n* [Energy] \n* [Climate] \n* [Transportation] \n* [Investigations] \n* [Industrials] \n* [Retail] \n* [Wealth] \n* [Sports] \n* [Life] \n* [Small Business] \n[Investing] \n* [Perso"
+      },
+      {
+        "title": "Meta shares sink on higher AI spending, light revenue forecast",
+        "url": "https://www.reuters.com/technology/meta-raises-2024-expenses-forecast-support-ai-development-2024-04-24/",
+        "published": "2024-04-24T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[Exclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv] \n\nApril 24 (Reuters) - Meta Platforms [(META.O), opens new tab] disappointed investors on Wednesday with forecasts of higher expenses and lighter-than-expected revenue, knocking nearly $200 billion off its stock market value and raising fears the surging cost of AI is outpacing its benefits.\n\nShares of the Facebook and Instagram parent dropped about 15% in extended trade foll"
+      },
+      {
+        "title": "Meta Cuts 600 Jobs at A.I. Superintelligence Labs",
+        "url": "https://www.nytimes.com/2025/10/22/technology/meta-plans-to-cut-600-jobs-at-ai-superintelligence-labs.html",
+        "published": "2025-10-22T00:00:00.000Z",
+        "excerpt": "Advertisement\n\n[SKIP ADVERTISEMENT] \n\nMeta said on Wednesday that it cut approximately 600 jobs in its artificial intelligence division, according to a memo sent to employees that was relayed to The New York Times, as the company seeks to keep pace with competitors in the furious contest over the technology.\n\nThe layoffs were in Meta\u2019s so-called Superintelligence Labs, which is the umbrella name for the company\u2019s A.I. efforts. The division has around 3,000 employees, though the exact number of w"
+      },
+      {
+        "title": "Meta lays off 600 from 'bloated' AI unit as Wang cements leadership",
+        "url": "https://www.cnbc.com/2025/10/22/meta-layoffs-ai.html#:~:text=Meta%20will%20lay%20off%20roughly,in%20a%20memo%20to%20staff.",
+        "published": "2025-10-22T00:00:00.000Z",
+        "excerpt": "Meta lays off 600 from 'bloated' AI unit as Wang cements leadership\n[Skip Navigation] \n[![CNBC]] \n[Markets] \n* [Pre-Markets] \n* [U.S. Markets] \n* [Currencies] \n* [Cryptocurrency] \n* [Futures &amp; Commodities] \n* [Bonds] \n* [Funds &amp; ETFs] \n[Business] \n* [Economy] \n* [Finance] \n* [Health &amp; Science] \n* [Media] \n* [Real Estate] \n* [Energy] \n* [Climate] \n* [Transportation] \n* [Investigations] \n* [Industrials] \n* [Retail] \n* [Wealth] \n* [Sports] \n* [Life] \n* [Small Business] \n[Investing] \n* ["
+      },
+      {
+        "title": "Meta cutting 600 AI jobs even as it continues to hire more for its superintelligence lab",
+        "url": "https://apnews.com/article/meta-ai-layoffs-600-artificial-intelligence-7f7b77ba002f7095984f17ebd034bf60",
+        "published": "2025-10-22T00:00:00.000Z",
+        "excerpt": "Meta cutting 600 AI jobs even as it continues to hire more for its superintelligence lab | AP News \n \n \n[![AP Logo]] \nMenu\n* [World] \nSECTIONS\n[Israel-Hamas War] [Russia-Ukraine War] [Espa\u00f1ol] [China] [Asia Pacific] [Latin America] [Europe] [Africa] \nTOP STORIES\n* [European troops arrive in Greenland as talks with US highlight 'disagreement' over island's future] \n* [LIVEUN Security Council discusses Iran's deadly protests after US request] \n* [What's next for Greenland and Denmark after difficu"
+      },
+      {
+        "title": "Mark Zuckerberg\u2019s Message to Meta Employees",
+        "url": "https://about.fb.com/news/2022/11/mark-zuckerberg-layoff-message-to-employees/",
+        "published": "2022-11-09T00:00:00.000Z",
+        "excerpt": "Mark Zuckerberg\u2019s Message to Meta Employees\n[Skip to content] \nViewing this site in\nEnglishPortugeseGermanFrenchJapaneseKoreanSpanish (LTAM)Spanish (ES)\nVoc\u00ea est\u00e1 visualizando este site em\nIngl\u00easPortugu\u00easAlem\u00e3oFranc\u00easJapon\u00easCoreanoEspanhol (LTAM)Espanhol (ES)\nDiese Seite anzeigen auf\nEnglischPortugiesischDeutschFranz\u00f6sischJapanischKoreanischSpanisch (LTAM)Spanisch (ES)\nVous consultez ce site en\nAnglaisPortugaisAllemandFran\u00e7aisJaponaisCor\u00e9enEspagnol (LTAM)Espagnol (ES)\n\u3053\u306e\u30b5\u30a4\u30c8\u3092\u6b21\u306e\u8a00\u8a9e\u3067\u8868\u793a\u82f1\u8a9e\u30dd\u30eb\u30c8\u30ac\u30eb\u8a9e\u30c9\u30a4\u30c4\u8a9e\u30d5\u30e9"
+      },
+      {
+        "title": "Document",
+        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000116/nov092022exhibit991.htm",
+        "published": null,
+        "excerpt": "EX-99.12nov092022exhibit991.htmEX-99.1Document\nExhibit 99.1\nMark Zuckerberg's Message to Meta Employees\nNovember 9, 2022\nMark Zuckerberg just shared the following with Meta employees&#58;\nToday I'm sharing some of the most difficult changes we've made in Meta's history. I've decided to reduce the size of our team by about 13% and let more than 11,000 of our talented employees go. We are also taking a number of additional steps to become a leaner and more efficient company by cutting discretionar"
+      },
+      {
+        "title": "Meta to lay off 5% of 'lowest performers', plans to hire for impacted roles",
+        "url": "https://www.reuters.com/technology/meta-lay-off-5-lowest-performers-plans-hire-impacted-roles-2025-01-14/",
+        "published": "2025-01-14T00:00:00.000Z",
+        "excerpt": "Morning commute traffic streams past the Meta sign outside the headquarters of Facebook parent company Meta Platforms Inc in Mountain View, California, U.S. November 9, 2022. REUTERS/Peter DaSilva/File photo [Purchase Licensing Rights, opens new tab] \n\nJan 14 (Reuters) - Meta Platforms\n\n[(META.O), opens new tab] \n\nwill trim about 5% of its \"lowest performers\" and plans to hire for the impacted roles this year, a company spokesperson said on Tuesday.\n\nCEO Mark Zuckerberg has also warned employees"
+      },
+      {
+        "title": "Meta lays off 600 in AI division despite billion-dollar AI push",
+        "url": "https://mashable.com/article/meta-lay-off-600-ai",
+        "published": "2025-10-22T00:00:00.000Z",
+        "excerpt": "Meta lays off 600 in AI division despite billion-dollar AI push | Mashable\n[Home] \\>[Tech] \n# Meta lays off 600 in AI division despite billion-dollar AI push\nMeta says it&#039;s still hiring for AI despite layoffs affecting teams across infrastructure and research.\nBy\n[Christianna Silva] \n![Mashable Image] \nChristianna Silva\nSenior Culture Reporter\nChristianna Silva is a senior culture reporter covering social platforms and the creator economy, with a focus on the intersection of social media, p"
+      },
+      {
+        "title": "Meta is cutting 5% of its workforce, or more than 3,600 employees",
+        "url": "https://www.cbsnews.com/news/meta-layoffs-5-percent-workforce-cuts-low-performers/",
+        "published": "2025-01-15T00:00:00.000Z",
+        "excerpt": "Meta is cutting 5% of its workforce, or more than 3,600 employees - CBS News\n[] [] \n[] \n[] \n[] [\nWatch CBS News\n] \n[MoneyWatch] \n# Meta is cutting 5% of its workforce, or more than 3,600 employees\nBy\nAimee Picchi\n[\nAimee Picchi\nAssociate Managing Editor, MoneyWatch\n] \nAimee Picchi is the associate managing editor for CBS MoneyWatch, where she covers business and personal finance. She previously worked at Bloomberg News and has written for national news outlets including USA Today and Consumer Re"
+      },
+      {
+        "title": "Meta Cuts 600 Jobs In AI Unit Amid Push For Leaner Operations And Faster Progress",
+        "url": "https://www.nasdaq.com/articles/meta-cuts-600-jobs-ai-unit-amid-push-leaner-operations-and-faster-progress",
+        "published": null,
+        "excerpt": "Meta Cuts 600 Jobs In AI Unit Amid Push For Leaner Operations And Faster Progress | Nasdaq\n[Skip to main content] \nData is currently not available\nSearch Nasdaq.comClear\nSearch\n### We couldn&rsquo;t find any results matching your search.\nPlease try using other words for your search or explore other sections of the website for relevant information.\n### We&rsquo;re sorry, we are currently experiencing some issues, please try again later.\nOur team is working diligently to resolve the issue. Thank y"
+      },
+      {
+        "title": "Document",
+        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000116/nov092022exhibit991.htm",
+        "published": null,
+        "excerpt": "EX-99.12nov092022exhibit991.htmEX-99.1Document\nExhibit 99.1\nMark Zuckerberg's Message to Meta Employees\nNovember 9, 2022\nMark Zuckerberg just shared the following with Meta employees&#58;\nToday I'm sharing some of the most difficult changes we've made in Meta's history. I've decided to reduce the size of our team by about 13% and let more than 11,000 of our talented employees go. We are also taking a number of additional steps to become a leaner and more efficient company by cutting discretionar"
+      },
+      {
+        "title": "Mark Zuckerberg\u2019s Message to Meta Employees",
+        "url": "https://about.fb.com/news/2022/11/mark-zuckerberg-layoff-message-to-employees/",
+        "published": "2022-11-09T00:00:00.000Z",
+        "excerpt": "Mark Zuckerberg\u2019s Message to Meta Employees\n[Skip to content] \nViewing this site in\nEnglishPortugeseGermanFrenchJapaneseKoreanSpanish (LTAM)Spanish (ES)\nVoc\u00ea est\u00e1 visualizando este site em\nIngl\u00easPortugu\u00easAlem\u00e3oFranc\u00easJapon\u00easCoreanoEspanhol (LTAM)Espanhol (ES)\nDiese Seite anzeigen auf\nEnglischPortugiesischDeutschFranz\u00f6sischJapanischKoreanischSpanisch (LTAM)Spanisch (ES)\nVous consultez ce site en\nAnglaisPortugaisAllemandFran\u00e7aisJaponaisCor\u00e9enEspagnol (LTAM)Espagnol (ES)\n\u3053\u306e\u30b5\u30a4\u30c8\u3092\u6b21\u306e\u8a00\u8a9e\u3067\u8868\u793a\u82f1\u8a9e\u30dd\u30eb\u30c8\u30ac\u30eb\u8a9e\u30c9\u30a4\u30c4\u8a9e\u30d5\u30e9"
+      },
+      {
+        "title": "Mark Zuckerberg - I just shared this update on our Year of...",
+        "url": "https://www.facebook.com/zuck/posts/pfbid0382gobPjUPCEGVWwrJJvuNCEhoZHgxT1q9mm3BMm9hMYKKqSxj2zaqaPeYBw3GFFel",
+        "published": "2016-01-02T00:00:00.000Z",
+        "excerpt": "Mark Zuckerberg - I just shared this update on our Year of...\n**\nFacebook\n[\nLog In\n] \n## Mark Zuckerberg&#x27;s Post\n[\n] \n### [**Mark Zuckerberg**] Verified account\n[March 14, 2023] \u00b7Shared with Public\nI just shared this update on our Year of Efficiency with Meta employees...\n--\nMeta is building the future of human connection, and today I want to share some updates on our Year of Efficiency that will help us do that. The goals of this work are: (1) to make us a better technology company and (2) "
+      },
+      {
+        "title": "Meta Cuts 600 Jobs at A.I. Superintelligence Labs",
+        "url": "https://www.nytimes.com/2025/10/22/technology/meta-plans-to-cut-600-jobs-at-ai-superintelligence-labs.html",
+        "published": "2025-10-22T00:00:00.000Z",
+        "excerpt": "Advertisement\n\n[SKIP ADVERTISEMENT] \n\nMeta said on Wednesday that it cut approximately 600 jobs in its artificial intelligence division, according to a memo sent to employees that was relayed to The New York Times, as the company seeks to keep pace with competitors in the furious contest over the technology.\n\nThe layoffs were in Meta\u2019s so-called Superintelligence Labs, which is the umbrella name for the company\u2019s A.I. efforts. The division has around 3,000 employees, though the exact number of w"
+      },
+      {
+        "title": "Update on Meta\u2019s Year of Efficiency",
+        "url": "https://about.fb.com/news/2023/03/mark-zuckerberg-meta-year-of-efficiency/",
+        "published": "2023-03-14T00:00:00.000Z",
+        "excerpt": "Update on Meta\u2019s Year of Efficiency\n[Skip to content] \nViewing this site in\nEnglishPortugeseGermanFrenchJapaneseKoreanSpanish (LTAM)Spanish (ES)\nVoc\u00ea est\u00e1 visualizando este site em\nIngl\u00easPortugu\u00easAlem\u00e3oFranc\u00easJapon\u00easCoreanoEspanhol (LTAM)Espanhol (ES)\nDiese Seite anzeigen auf\nEnglischPortugiesischDeutschFranz\u00f6sischJapanischKoreanischSpanisch (LTAM)Spanisch (ES)\nVous consultez ce site en\nAnglaisPortugaisAllemandFran\u00e7aisJaponaisCor\u00e9enEspagnol (LTAM)Espagnol (ES)\n\u3053\u306e\u30b5\u30a4\u30c8\u3092\u6b21\u306e\u8a00\u8a9e\u3067\u8868\u793a\u82f1\u8a9e\u30dd\u30eb\u30c8\u30ac\u30eb\u8a9e\u30c9\u30a4\u30c4\u8a9e\u30d5\u30e9\u30f3\u30b9\u8a9e\u65e5\u672c\u8a9e\u97d3\u56fd"
+      },
+      {
+        "title": "Read the memo Mark Zuckerberg sent to employees announcing Meta's plans to lay off more than 11,000 people",
+        "url": "https://www.businessinsider.com/meta-memo-mark-zuckerberg-employees-mass-layoffs-job-cuts-2022-11",
+        "published": "2022-11-09T12:00:25.000Z",
+        "excerpt": "Read the Memo Mark Zuckerberg Sent to Staff Announcing Meta Layoffs - Business Insider\n[Business Insider] \n[Subscribe] [Newsletters] \n[Tech] \n# Read the memo Mark Zuckerberg sent to employees announcing Meta&#x27;s plans to lay off more than 11,000 people\nBy[Kate Duffy] \n![Facebook CEO Mark Zuckerberg speaks about &quot;News Tab&quot; at the Paley Center, in New York on October 25, 2019.] \nMeta CEO Mark Zuckerberg sent a note to employees on Wednesday about layoffs.AP Photo/Mark Lennihan\n2022-11"
+      },
+      {
+        "title": "Meta announces 5% cuts in preparation for 'intense year' \u2014 read the internal memo",
+        "url": "https://www.nbcnews.com/business/business-news/meta-announces-5-percent-cuts-preparation-intense-year-internal-memo-rcna187657",
+        "published": "2025-01-14T19:00:28.000Z",
+        "excerpt": "Meta announces 5% cuts in preparation for &#x27;intense year&#x27; \u2014read the internal memo\nIE 11 is not supported. For an optimal experience visit our site on another browser.\nSkip to Content\n[Business News] \n# Meta announces 5% cuts in preparation for &#x27;intense year&#x27; \u2014read the internal memo\nMeta specified that it is \u201cexiting approximately 5% of our lowest performers\u201d in a separate message posted by a company director.\n![Mark Zuckerberg.] \nMark Zuckerberg\u00a0in Menlo Park, Calif., in Septe"
+      },
+      {
+        "title": "Meta cuts 5% of jobs to lose 'lowest performers'",
+        "url": "https://www.bbc.com/news/articles/c3e18lnl20po",
+        "published": "2025-01-14T00:00:00.000Z",
+        "excerpt": "Meta to cut 5% of jobs and shed &quot;low performers faster&quot;\n[Skip to content] \n[Watch Live] \n[British Broadcasting Corporation] \n[Home] \nNews\n[Sport] \nBusiness\nInnovation\n[Health] \nCulture\nArts\nTravel\nEarth\nAudio\nVideo\nLive\nDocumentaries\n[Weather] \n[Newsletters] \n[Watch Live] \n# Meta cuts 5% of jobs to lose &#x27;lowest performers&#x27;\n14 January 2025\nShareSave\nNatalie ShermanBBC News\nShareSave\n![]![Getty Images Meta boss Mark Zuckerberg smiles and points a finger] Getty Images\nMeta, the "
+      },
+      {
+        "title": "Meta plans to cut 5% of its workforce, focusing on the lowest performers. Read the memo Mark Zuckerberg sent to staff.",
+        "url": "https://www.businessinsider.com/meta-performance-cuts-mark-zuckerberg-memo",
+        "published": "2025-01-14T00:00:00.000Z",
+        "excerpt": "Meta Plans to Make Performance-Based Cuts \u2014Read the Memo - Business Insider\n[Business Insider] \n[Subscribe] [Newsletters] \n[Tech] \n# Meta plans to cut 5% of its workforce, focusing on the lowest performers. Read the memo Mark Zuckerberg sent to staff.\nBy[Jyoti Mann] and[Hugh Langley] \n![Mark Zuckerberg] \nMark Zuckerberg told staff he &quot;decided to raise the bar on performance management.&quot;Brendan Smialowski/AFP/Getty\n2025-01-14T15:36:04.970Z\nShare\nCopy link[Email] FacebookWhatsAppX Linked"
+      },
+      {
+        "title": "Meta to Cut 5% of Its Workers in New Round of Layoffs",
+        "url": "https://www.nytimes.com/2025/01/14/technology/meta-layoffs.html",
+        "published": "2025-01-14T00:00:00.000Z",
+        "excerpt": "[Technology] \\|Meta to Cut 5% of Its Workers in New Round of Layoffs\n\nhttps://www.nytimes.com/2025/01/14/technology/meta-layoffs.html\n\n- Share full article\n\n\nAdvertisement\n\n[SKIP ADVERTISEMENT] \n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\nMeta plans to lay off up to 5 percent of its employees based on performance ratings, according to an internal memo to workers on Tuesday viewed by The New York T"
+      },
+      {
+        "title": "Meta to Cut 5% of Its Workers in New Round of Layoffs",
+        "url": "https://www.nytimes.com/2025/01/14/technology/meta-layoffs.html",
+        "published": "2025-01-14T00:00:00.000Z",
+        "excerpt": "[Technology] \\|Meta to Cut 5% of Its Workers in New Round of Layoffs\n\nhttps://www.nytimes.com/2025/01/14/technology/meta-layoffs.html\n\n- Share full article\n\n\nAdvertisement\n\n[SKIP ADVERTISEMENT] \n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\nMeta plans to lay off up to 5 percent of its employees based on performance ratings, according to an internal memo to workers on Tuesday viewed by The New York T"
+      },
+      {
+        "title": "Meta to lay off 5% of 'lowest performers', plans to hire for impacted roles",
+        "url": "https://www.reuters.com/technology/meta-lay-off-5-lowest-performers-plans-hire-impacted-roles-2025-01-14/",
+        "published": "2025-01-14T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[Exclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv] \n\n![Headquarters of Facebook parent company Meta Platforms Inc in Mountain View] \n\nMorning commute traffic streams past the Meta sign outside the headquarters of Facebook parent company Meta Platforms Inc in Mountain View, California, U.S. November 9, 2022. REUTERS/Peter DaSilva/File photo [Purchase Licensing Rights, opens new tab] \n\nJan 14 (Reuters) - Meta Platforms [(META.O"
+      },
+      {
+        "title": "Meta announces 5% cuts in preparation for 'intense year' \u2014 read the internal memo",
+        "url": "https://www.cnbc.com/2025/01/14/meta-targeting-lowest-performing-employees-in-latest-round-of-layoffs.html",
+        "published": "2025-01-14T00:00:00.000Z",
+        "excerpt": "Meta announces 5% cuts targeting low performers. Read the memo\n[Skip Navigation] \n[![CNBC]] \n[Markets] \n* [Pre-Markets] \n* [U.S. Markets] \n* [Currencies] \n* [Cryptocurrency] \n* [Futures &amp; Commodities] \n* [Bonds] \n* [Funds &amp; ETFs] \n[Business] \n* [Economy] \n* [Finance] \n* [Health &amp; Science] \n* [Media] \n* [Real Estate] \n* [Energy] \n* [Climate] \n* [Transportation] \n* [Investigations] \n* [Industrials] \n* [Retail] \n* [Wealth] \n* [Sports] \n* [Life] \n* [Small Business] \n[Investing] \n* [Perso"
+      },
+      {
+        "title": "Meta is cutting 5% of its \u2018lowest performers\u2019",
+        "url": "https://www.cnn.com/2025/01/14/business/meta-layoffs-low-performers/index.html",
+        "published": "2025-01-14T00:00:00.000Z",
+        "excerpt": "Meta is cutting 5% of its \u2018lowest performers\u2019 | CNN Business[] \n### CNN values your feedback\n1. How relevant is this ad to you?\n2. Did you encounter any technical issues?\nVideo player was slow to load contentVideo content never loadedAd froze or did not finish loadingVideo content did not start after adAudio on ad was too loudOther issues\nAd never loadedAd prevented/slowed the page from loadingContent moved around while ad loadedAd was repetitive to ads I&#x27;ve seen previouslyOther issues\nCanc"
+      },
+      {
+        "title": "Meta is cutting 5% of its workforce, or more than 3,600 employees",
+        "url": "https://www.cbsnews.com/news/meta-layoffs-5-percent-workforce-cuts-low-performers/",
+        "published": "2025-01-15T00:00:00.000Z",
+        "excerpt": "Meta is cutting 5% of its workforce, or more than 3,600 employees - CBS News\n[] [] \n[] \n[] \n[] [\nWatch CBS News\n] \n[MoneyWatch] \n# Meta is cutting 5% of its workforce, or more than 3,600 employees\nBy\nAimee Picchi\n[\nAimee Picchi\nAssociate Managing Editor, MoneyWatch\n] \nAimee Picchi is the associate managing editor for CBS MoneyWatch, where she covers business and personal finance. She previously worked at Bloomberg News and has written for national news outlets including USA Today and Consumer Re"
+      },
+      {
+        "title": "Meta to cut roughly 5% of staff, targeting lowest performers",
+        "url": "https://fortune.com/2025/01/14/meta-cut-5-percent-staff-lowest-performers-layoffs",
+        "published": "2025-01-14T00:00:00.000Z",
+        "excerpt": "Meta to cut roughly 5% of staff, targeting lowest performers | Fortune\nSearch\n[] \nSubscribe\n* [Home] \n* [Latest] \n* [Fortune 500] \n* [Finance] \n* [Tech] \n* [Leadership] \n* [Lifestyle] \n* [Rankings] \n* [Multimedia] \n[Tech] [] \n# Meta to cut roughly 5% of staff, targeting lowest performers\nBy\n[Bloomberg] \nBloomberg\nDown Arrow Button Icon\nBy\n[Bloomberg] \nBloomberg\nDown Arrow Button Icon\nJanuary 14, 2025, 10:12 PM ET\nAdd us on\n![Mark Zuckerberg making a disappointed face] \nMeta expects its headcount"
+      },
+      {
+        "title": "Meta to cut roughly 5% of its workforce based on performance",
+        "url": "https://techcrunch.com/2025/01/14/meta-to-cut-roughly-5-of-its-workforce-based-on-performance/",
+        "published": "2025-01-14T00:00:00.000Z",
+        "excerpt": "Meta to cut roughly 5% of its workforce based on performance | TechCrunch\n[![] TechCrunch Desktop Logo] [![] TechCrunch Mobile Logo] \nSearch\nSubmit\n* Site Search Toggle\nMega Menu Toggle\n### Topics\n[Latest] \n[AI] \n[Amazon] \n[Apps] \n[Biotech &amp; Health] \n[Climate] \n[Cloud Computing] \n[Commerce] \n[Crypto] \n[Enterprise] \n[EVs] \n[Fintech] \n[Fundraising] \n[Gadgets] \n[Gaming] \n[Google] \n[Government &amp; Policy] \n[Hardware] \n[Instagram] \n[Layoffs] \n[Media &amp; Entertainment] \n[Meta] \n[Microsoft] \n[P"
+      },
+      {
+        "title": "Zuckerberg plans Meta layoffs as company culls \u2018low performers\u2019 faster",
+        "url": "https://www.washingtonpost.com/technology/2025/01/14/meta-mark-zuckerberg-low-performers-cut/",
+        "published": "2025-01-14T00:00:00.000Z",
+        "excerpt": "Mark Zuckerberg says Meta will push out \u2018low performers\u2019 faster - The Washington Post\nDemocracy Dies in Darkness\n# Zuckerberg plans Meta layoffs as company culls \u2018low performers\u2019 faster\nLayoffs could affect 5 percent of the workforce as its CEO seeks to \u201craise the bar on performance management,\u201d according to a memo viewed by The Post.\nJanuary 14, 2025More than**1yearago**\n2 min\n[Make us preferred on Google] \n![] \n\u201cThis is going to be an intense year, and I want to make sure we have the best peop"
+      },
+      {
+        "title": "Zuckerberg to cut 5% of Meta based on performance",
+        "url": "https://www.axios.com/2025/01/14/meta-layoffs-2025-employees-low-perfomers",
+        "published": "2025-01-14T00:00:00.000Z",
+        "excerpt": "Manage your consent preferences\n\nWe use cookies and similar methods to recognize visitors and remember their preferences. We may also use them to measure ad campaign effectiveness, target ads, and analyze site traffic. Depending on your location, you may opt-in or opt out of the use of these technologies.\n\nManage targeted advertising and similar data sales or sharing\nOn\n\nWe use cookies and other tracking technologies to deliver and manage advertisements on Axios and across other websites and pla"
+      },
+      {
+        "title": "Meta is cutting 5% of its \u2018lowest performers\u2019",
+        "url": "https://www.cnn.com/2025/01/14/business/meta-layoffs-low-performers",
+        "published": null,
+        "excerpt": "Meta is cutting 5% of its \u2018lowest performers\u2019 | CNN Business[] \n### CNN values your feedback\n1. How relevant is this ad to you?\n2. Did you encounter any technical issues?\nVideo player was slow to load contentVideo content never loadedAd froze or did not finish loadingVideo content did not start after adAudio on ad was too loudOther issues\nAd never loadedAd prevented/slowed the page from loadingContent moved around while ad loadedAd was repetitive to ads I&#x27;ve seen previouslyOther issues\nCanc"
+      },
+      {
+        "title": "Meta Cuts 600 Jobs at A.I. Superintelligence Labs",
+        "url": "https://www.nytimes.com/2025/10/22/technology/meta-plans-to-cut-600-jobs-at-ai-superintelligence-labs.html",
+        "published": "2025-10-22T00:00:00.000Z",
+        "excerpt": "Advertisement\n\n[SKIP ADVERTISEMENT] \n\nMeta said on Wednesday that it cut approximately 600 jobs in its artificial intelligence division, according to a memo sent to employees that was relayed to The New York Times, as the company seeks to keep pace with competitors in the furious contest over the technology.\n\nThe layoffs were in Meta\u2019s so-called Superintelligence Labs, which is the umbrella name for the company\u2019s A.I. efforts. The division has around 3,000 employees, though the exact number of w"
+      },
+      {
+        "title": "Meta to lay off 5% of 'lowest performers', plans to hire for impacted roles",
+        "url": "https://www.reuters.com/technology/meta-lay-off-5-lowest-performers-plans-hire-impacted-roles-2025-01-14/",
+        "published": "2025-01-14T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[Exclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv] \n\n![Headquarters of Facebook parent company Meta Platforms Inc in Mountain View] \n\nMorning commute traffic streams past the Meta sign outside the headquarters of Facebook parent company Meta Platforms Inc in Mountain View, California, U.S. November 9, 2022. REUTERS/Peter DaSilva/File photo [Purchase Licensing Rights, opens new tab] \n\nJan 14 (Reuters) - Meta Platforms [(META.O"
+      },
+      {
+        "title": "Meta to cut roughly 5% of staff, targeting lowest performers",
+        "url": "https://fortune.com/2025/01/14/meta-cut-5-percent-staff-lowest-performers-layoffs",
+        "published": "2025-01-14T00:00:00.000Z",
+        "excerpt": "Meta to cut roughly 5% of staff, targeting lowest performers | Fortune\nSearch\n[] \nSubscribe\n* [Home] \n* [Latest] \n* [Fortune 500] \n* [Finance] \n* [Tech] \n* [Leadership] \n* [Lifestyle] \n* [Rankings] \n* [Multimedia] \n[Tech] [] \n# Meta to cut roughly 5% of staff, targeting lowest performers\nBy\n[Bloomberg] \nBloomberg\nDown Arrow Button Icon\nBy\n[Bloomberg] \nBloomberg\nDown Arrow Button Icon\nJanuary 14, 2025, 10:12 PM ET\nAdd us on\n![Mark Zuckerberg making a disappointed face] \nMeta expects its headcount"
+      },
+      {
+        "title": "Meta announces 5% cuts in preparation for 'intense year' \u2014 read the internal memo",
+        "url": "https://www.cnbc.com/2025/01/14/meta-targeting-lowest-performing-employees-in-latest-round-of-layoffs.html",
+        "published": "2025-01-14T00:00:00.000Z",
+        "excerpt": "Meta announces 5% cuts targeting low performers. Read the memo\n[Skip Navigation] \n[![CNBC]] \n[Markets] \n* [Pre-Markets] \n* [U.S. Markets] \n* [Currencies] \n* [Cryptocurrency] \n* [Futures &amp; Commodities] \n* [Bonds] \n* [Funds &amp; ETFs] \n[Business] \n* [Economy] \n* [Finance] \n* [Health &amp; Science] \n* [Media] \n* [Real Estate] \n* [Energy] \n* [Climate] \n* [Transportation] \n* [Investigations] \n* [Industrials] \n* [Retail] \n* [Wealth] \n* [Sports] \n* [Life] \n* [Small Business] \n[Investing] \n* [Perso"
+      },
+      {
+        "title": "Meta to Cut 5% of Its Workers in New Round of Layoffs",
+        "url": "https://www.nytimes.com/2025/01/14/technology/meta-layoffs.html",
+        "published": "2025-01-14T00:00:00.000Z",
+        "excerpt": "[Technology] \\|Meta to Cut 5% of Its Workers in New Round of Layoffs\n\nhttps://www.nytimes.com/2025/01/14/technology/meta-layoffs.html\n\n- Share full article\n\n\nAdvertisement\n\n[SKIP ADVERTISEMENT] \n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\nMeta plans to lay off up to 5 percent of its employees based on performance ratings, according to an internal memo to workers on Tuesday viewed by The New York T"
+      },
+      {
+        "title": "Meta lays off 600 from 'bloated' AI unit as Wang cements leadership",
+        "url": "https://www.cnbc.com/2025/10/22/meta-layoffs-ai.html#:~:text=Meta%20will%20lay%20off%20roughly,in%20a%20memo%20to%20staff.",
+        "published": "2025-10-22T00:00:00.000Z",
+        "excerpt": "Meta lays off 600 from 'bloated' AI unit as Wang cements leadership\n[Skip Navigation] \n[![CNBC]] \n[Markets] \n* [Pre-Markets] \n* [U.S. Markets] \n* [Currencies] \n* [Cryptocurrency] \n* [Futures &amp; Commodities] \n* [Bonds] \n* [Funds &amp; ETFs] \n[Business] \n* [Economy] \n* [Finance] \n* [Health &amp; Science] \n* [Media] \n* [Real Estate] \n* [Energy] \n* [Climate] \n* [Transportation] \n* [Investigations] \n* [Industrials] \n* [Retail] \n* [Wealth] \n* [Sports] \n* [Life] \n* [Small Business] \n[Investing] \n* ["
+      },
+      {
+        "title": "Meta is cutting 5% of its workforce, or more than 3,600 employees",
+        "url": "https://www.cbsnews.com/news/meta-layoffs-5-percent-workforce-cuts-low-performers/",
+        "published": "2025-01-15T00:00:00.000Z",
+        "excerpt": "Meta is cutting 5% of its workforce, or more than 3,600 employees - CBS News\n[] [] \n[] \n[] \n[] [\nWatch CBS News\n] \n[MoneyWatch] \n# Meta is cutting 5% of its workforce, or more than 3,600 employees\nBy\nAimee Picchi\n[\nAimee Picchi\nAssociate Managing Editor, MoneyWatch\n] \nAimee Picchi is the associate managing editor for CBS MoneyWatch, where she covers business and personal finance. She previously worked at Bloomberg News and has written for national news outlets including USA Today and Consumer Re"
+      },
+      {
+        "title": "Meta is cutting 5% of its \u2018lowest performers\u2019",
+        "url": "https://www.cnn.com/2025/01/14/business/meta-layoffs-low-performers/index.html",
+        "published": "2025-01-14T00:00:00.000Z",
+        "excerpt": "Meta is cutting 5% of its \u2018lowest performers\u2019 | CNN Business[] \n### CNN values your feedback\n1. How relevant is this ad to you?\n2. Did you encounter any technical issues?\nVideo player was slow to load contentVideo content never loadedAd froze or did not finish loadingVideo content did not start after adAudio on ad was too loudOther issues\nAd never loadedAd prevented/slowed the page from loadingContent moved around while ad loadedAd was repetitive to ads I&#x27;ve seen previouslyOther issues\nCanc"
+      },
+      {
+        "title": "Meta CEO Mark Zuckerberg went all in on the metaverse. Now Reality Labs is facing big cuts.",
+        "url": "https://www.businessinsider.com/meta-job-cuts-metaverse-reality-labs-ai-2025-12",
+        "published": "2025-12-04T00:00:00.000Z",
+        "excerpt": "Meta Plans Budget Cuts for Reality Labs Group As It Doubles Down on AI - Business Insider\n[Business Insider] \n[Subscribe] [Newsletters] \n[Tech] \n# Meta CEO Mark Zuckerberg went all in on the metaverse. Now Reality Labs is facing big cuts.\nBy[Jyoti Mann] and[Pranav Dixit] \n![Mark Zuckerberg] \nIn 2021, CEO Mark Zuckerberg rebranded Facebook to Meta as part of his focus on the metaverse. FacebookFacebook\n2025-12-04T18:33:20.973Z\nShare\nCopy link[Email] FacebookWhatsAppX LinkedIn BlueskyThreadslighni"
+      },
+      {
+        "title": "Meta plans to cut 5% of its workforce, focusing on the lowest performers. Read the memo Mark Zuckerberg sent to staff.",
+        "url": "https://www.businessinsider.com/meta-performance-cuts-mark-zuckerberg-memo",
+        "published": "2025-01-14T00:00:00.000Z",
+        "excerpt": "Meta Plans to Make Performance-Based Cuts \u2014Read the Memo - Business Insider\n[Business Insider] \n[Subscribe] [Newsletters] \n[Tech] \n# Meta plans to cut 5% of its workforce, focusing on the lowest performers. Read the memo Mark Zuckerberg sent to staff.\nBy[Jyoti Mann] and[Hugh Langley] \n![Mark Zuckerberg] \nMark Zuckerberg told staff he &quot;decided to raise the bar on performance management.&quot;Brendan Smialowski/AFP/Getty\n2025-01-14T15:36:04.970Z\nShare\nCopy link[Email] FacebookWhatsAppX Linked"
+      }
+    ],
+    "search_queries": [
+      "Search #1: Meta layoffs 15% workforce 2024...",
+      "Search #2: Meta official announcement layoffs today...",
+      "Search #3: Mark Zuckerberg Meta workforce reduction statement...",
+      "Search #4: Meta 15 percent layoffs January 2025...",
+      "Search #5: Meta workforce reduction percentage 2025 announcement..."
+    ],
+    "search_count": 5,
+    "time_seconds": 39.578263998031616
+  },
+  "claude": {
+    "analysis_text": "I'll search for information about Meta layoffs today to verify this claim.Let me search for more specific information about the 15% claim and check for any official Meta statements.## 1. KEY FINDINGS\n\n**Claim:** Meta laid off approximately 10% of its Reality Labs division, affecting around 1,000-1,500 employees.\n**Quote:** \"Meta Platforms Inc. is beginning to cut more than 1,000 jobs from the company's Reality Labs division\"\n**Source:** https://www.bloomberg.com/news/articles/2026-01-13/meta-begins-jobs-cuts-after-shifting-focus-from-metaverse-to-phones\n\n**Claim:** The layoffs were announced on Tuesday, January 13, 2026, not today (January 19, 2026).\n**Quote:** \"The layoff, the Bay Area tech industry's first big job cut of 2026, was announced Tuesday morning\"\n**Source:** https://www.sfgate.com/tech/article/meta-layoff-1000-first-2026-21293134.php\n\n**Claim:** Employees were notified starting Tuesday morning via an internal post from CTO Andrew Bosworth.\n**Quote:** \"Affected employees will be notified of the layoffs starting Tuesday morning, according to an internal post from Chief Technology Officer Andrew Bosworth\"\n**Source:** https://www.bloomberg.com/news/articles/2026-01-13/meta-begins-jobs-cuts-after-shifting-focus-from-metaverse-to-phones\n\n**Claim:** The layoffs affected the Reality Labs division specifically, not Meta's entire workforce of 78,000 employees.\n**Quote:** \"The cuts won't touch Facebook, Instagram or WhatsApp; they're within Meta's Reality Labs arm\"\n**Source:** https://www.sfgate.com/tech/article/meta-layoff-1000-first-2026-21293134.php\n\n**Claim:** Meta confirmed the layoffs with an official statement from spokesperson Tracy Clayton.\n**Quote:** \"We said last month that we were shifting some of our investment from Metaverse toward Wearables\"\n**Source:** https://www.sfgate.com/tech/article/meta-layoff-1000-first-2026-21293134.php\n\n**Claim:** Some reports mentioned 10-15% estimates for Reality Labs cuts, but confirmed figures settled at approximately 10%.\n**Quote:** \"Meta is reportedly looking to cut 10 to 15 percent of Reality Labs\"\n**Source:** https://kotaku.com/meta-game-quest-vr-facebook-deadpool-sanzaru-twisted-pixel-layoffs-2000659376\n\n**Claim:** Reality Labs has approximately 15,000 employees, representing about 19% of Meta's total workforce.\n**Quote:** \"Reality Labs currently represents about 19% of Meta's total global workforce of roughly 78,000\"\n**Source:** https://www.geekwire.com/2026/report-meta-plans-to-cut-around-10-of-reality-labs-workforce/\n\n**Claim:** Three VR game development studios were closed as part of the restructuring.\n**Quote:** \"The studios that are closing as part of the latest changes include Armature Studio, Twisted Pixel, and Sanzaru\"\n**Source:** https://www.cnbc.com/2026/01/13/meta-lays-off-vr-employees-underscoring-zuckerbergs-pivot-to-ai.html\n\n**Note:** The claim of \"15% of its workforce\" is INACCURATE. The layoffs affected approximately 10% of the Reality Labs division (1,000-1,500 out of 15,000 employees), which represents only about 1.9% of Meta's total workforce of 78,000. [INFERENCE - calculated from reported figures]\n\n**Note:** The claim these layoffs happened \"today\" (January 19, 2026) is INCORRECT. The layoffs were announced on January 13, 2026 (Tuesday), nearly a week before today. [INFERENCE - based on multiple timestamped sources]\n\n## 2. SOURCE QUALITY ASSESSMENT\n\n**Strong Sources:**\n- Bloomberg News - Tier 1 business publication with direct access to internal memo from CTO Andrew Bosworth\n- CNBC - Major business news outlet with confirmation from sources\n- The New York Times - Initially broke the story on January 12-13, 2026\n- Meta spokesperson Tracy Clayton - Official company confirmation provided to multiple outlets\n\n**Medium-Quality Sources:**\n- SFGate - Regional tech coverage, confirmed details with Meta spokesperson\n- InformationWeek, GeekWire - Industry-focused publications with consistent reporting\n- Fast Company, TechCrunch - Tech industry publications citing primary sources\n\n**Weaker Sources:**\n- Glass Almanac, THR Digest - Secondary reporting, less established outlets\n- No official Meta Newsroom announcement found regarding these specific layoffs\n\n**Key Limitation:** No direct press release found on Meta's official newsroom (about.fb.com/news) or investor relations site, though the company did provide statements to journalists.\n\n## 3. GAPS OR CONTRADICTIONS\n\n**Major Discrepancies:**\n\n1. **Percentage Claim:** The user's claim of \"15% of its workforce\" is fundamentally incorrect:\n   - Reality Labs layoffs: ~10% of 15,000 = 1,000-1,500 employees\n   - As percentage of total Meta workforce: 1,500/78,000 = 1.9%\n   - Early speculation mentioned \"10-15%\" but final confirmed reports settled on ~10%\n\n2. **Date Discrepancy:** Layoffs were announced January 13, 2026 (Tuesday), not January 19, 2026 (today)\n\n3. **Number Variation:** Sources cite different specific numbers:\n   - \"More than 1,000 jobs\" (Bloomberg, SFGATE)\n   - \"About 1,500 employees\" (InformationWeek, multiple sources)\n   - \"Roughly 1,500 jobs\" (Android Central)\n   - All agree on approximately 10% of 15,000-person division\n\n**Missing Information:**\n- No official Meta press release or SEC filing found\n- No WARN (Worker Adjustment and Retraining Notification) documents filed as of January 13\n- Geographic breakdown of affected employees not specified\n- Severance package details not publicly disclosed\n\n**Context Not Mentioned in Original Claim:**\n- These are separate from Meta's February 2025 performance-based layoffs of 5% (~3,600 employees)\n- Reality Labs has lost over $70-77 billion since 2020\n- This is a strategic shift from VR/metaverse to AI wearables, not company-wide cuts\n\n## 4. RECOMMENDED NEXT STEPS\n\n**To Verify Official Information:**\n1. Check Meta's SEC filings (8-K forms) at investor.atmeta.com for official disclosure\n2. Monitor California WARN notice database for detailed layoff documentation\n3. Check Meta's official newsroom (about.fb.com/news) for any delayed announcements\n4. Review Meta's next earnings call transcript for management discussion of restructuring\n\n**For Complete Picture:**\n5. Search for Andrew Bosworth's full internal memo (reportedly reviewed by Bloomberg)\n6. Track affected employee LinkedIn posts for real-time impact assessment\n7. Monitor tech layoff trackers (layoffs.fyi, trueup.io) for aggregated data\n8. Review Meta's Q4 2025 earnings (likely late January/early February 2026) for financial context\n\n**To Clarify Conflicting Details:**\n9. Search for any Meta investor relations statements on restructuring costs\n10. Check business wire services (PR Newswire, Business Wire) for official releases\n11. Review statements from Reality Labs head Andrew Bosworth on future strategy\n\n**Red Flags to Investigate:**\n- Why no official press release despite confirmation to journalists?\n- Discrepancy between \"more than 1,000\" and \"1,500\" - verify final count\n- Confirm whether additional waves of layoffs are planned beyond this initial announcement",
+    "sources": [
+      {
+        "title": "How Meta layoffs in 2026 highlight the shift from performance to strategy",
+        "url": "https://www.thehrdigest.com/how-meta-layoffs-in-2026-highlight-the-shift-from-performance-to-strategy/",
+        "page_age": "4 days ago"
+      },
+      {
+        "title": "Meta is reportedly slashing another 1,500 jobs, and it looks pretty bad for Meta Quest exclusives | Android Central",
+        "url": "https://www.androidcentral.com/gaming/virtual-reality/reality-labs-january-2026-rumored-cuts",
+        "page_age": "6 days ago"
+      },
+      {
+        "title": "Meta Reveals 10% Reality Labs Layoffs In 2026, Why It Matters Now - Glass Almanac",
+        "url": "https://glassalmanac.com/meta-reveals-10-reality-labs-layoffs-in-2026-why-it-matters-now/",
+        "page_age": "2 days ago"
+      },
+      {
+        "title": "Meta layoffs today: Facebook parent is slashing hundreds of workers from Reality Labs VR division",
+        "url": "https://www.fastcompany.com/91474082/meta-layoffs-today-jobs-slashed-at-reality-labs-vr-division",
+        "page_age": "6 days ago"
+      },
+      {
+        "title": "\u201cWe Said Last Month That We Were Shifting\u201d Sparks Layoffs Debate In January 2026 - Glass Almanac",
+        "url": "https://glassalmanac.com/we-said-last-month-that-we-were-shifting-sparks-layoffs-debate-in-january-2026/",
+        "page_age": "13 hours ago"
+      },
+      {
+        "title": "Meta Begins Jobs Cuts After Shifting Focus From Metaverse to Phones - Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-01-13/meta-begins-jobs-cuts-after-shifting-focus-from-metaverse-to-phones",
+        "page_age": "6 days ago"
+      },
+      {
+        "title": "2026 tech company layoffs",
+        "url": "https://www.informationweek.com/it-staffing-careers/2026-tech-company-layoffs",
+        "page_age": "3 days ago"
+      },
+      {
+        "title": "Meta cuts more than 1,000 in Bay Area tech's first big layoff of 2026",
+        "url": "https://www.sfgate.com/tech/article/meta-layoff-1000-first-2026-21293134.php",
+        "page_age": "6 days ago"
+      },
+      {
+        "title": "Meta layoffs in 2026 hit Reality Labs",
+        "url": "https://americanbazaaronline.com/2026/01/15/meta-layoffs-in-2026-hit-reality-labs-473299/",
+        "page_age": "4 days ago"
+      },
+      {
+        "title": "Bad Day",
+        "url": "https://aftermath.site/meta-ubisoft-unity-layoffs-2026/",
+        "page_age": "3 days ago"
+      },
+      {
+        "title": "How Meta layoffs in 2026 highlight the shift from performance to strategy",
+        "url": "https://www.thehrdigest.com/how-meta-layoffs-in-2026-highlight-the-shift-from-performance-to-strategy/",
+        "page_age": "4 days ago"
+      },
+      {
+        "title": "Meta cuts more than 1,000 in Bay Area tech's first big layoff of 2026",
+        "url": "https://www.sfgate.com/tech/article/meta-layoff-1000-first-2026-21293134.php",
+        "page_age": "6 days ago"
+      },
+      {
+        "title": "Report: Meta plans to cut around 10% of Reality Labs workforce \u2013 GeekWire",
+        "url": "https://www.geekwire.com/2026/report-meta-plans-to-cut-around-10-of-reality-labs-workforce/",
+        "page_age": "5 days ago"
+      },
+      {
+        "title": "2026 begins with big layoffs: Meta, Citigroup, BlackRock reduce staff | World News - Business Standard",
+        "url": "https://www.business-standard.com/world-news/meta-citigroup-blackrock-tech-layoffs-2026-ai-restructuring-reality-labs-126011300642_1.html",
+        "page_age": "1 week ago"
+      },
+      {
+        "title": "Meta To Lay Off Up To 1500 Roles In Its Reality Labs Division",
+        "url": "https://afrotech.com/meta-layoffs-2",
+        "page_age": null
+      },
+      {
+        "title": "Meta Begins Jobs Cuts After Shifting Focus From Metaverse to Phones - Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-01-13/meta-begins-jobs-cuts-after-shifting-focus-from-metaverse-to-phones",
+        "page_age": "6 days ago"
+      },
+      {
+        "title": "Do Meta\u2019s Metaverse Budget Cuts Signal Incoming Layoffs?",
+        "url": "https://www.thehrdigest.com/do-metas-metaverse-budget-cuts-signal-incoming-layoffs/",
+        "page_age": "December 5, 2025"
+      },
+      {
+        "title": "Meta Layoffs 2026: VR Reality Labs Hit by 10% Job Cuts",
+        "url": "https://www.finalroundai.com/blog/meta-reality-labs-layoffs-2026",
+        "page_age": null
+      },
+      {
+        "title": "Mark Zuckerberg's Meta to Lay Off 10% of 'Reality Labs' Workforce as Metaverse Plans Fade",
+        "url": "https://www.breitbart.com/tech/2026/01/14/mark-zuckerbergs-meta-to-cut-10-of-reality-labs-workforce-as-metaverse-plans-fade/",
+        "page_age": "15 hours ago"
+      },
+      {
+        "title": "Meta to Cut 10% of Reality Labs Workforce as Metaverse Vision Faces Reckoning - WinBuzzer",
+        "url": "https://winbuzzer.com/2026/01/13/meta-to-cut-10-of-reality-labs-workforce-as-metaverse-vision-faces-reckoning-xcxwbn/",
+        "page_age": "6 days ago"
+      },
+      {
+        "title": "Mark Zuckerberg\u2019s Message to Meta Employees",
+        "url": "https://about.fb.com/news/2022/11/mark-zuckerberg-layoff-message-to-employees/",
+        "page_age": "November 9, 2022"
+      },
+      {
+        "title": "Meta Lays Off Thousands of VR Workers as Zuckerberg's Vision Fails",
+        "url": "https://futurism.com/future-society/meta-reality-vr-layoffs",
+        "page_age": "1 day ago"
+      },
+      {
+        "title": "Meta cuts more than 1,000 in Bay Area tech's first big layoff of 2026",
+        "url": "https://www.sfgate.com/tech/article/meta-layoff-1000-first-2026-21293134.php",
+        "page_age": "6 days ago"
+      },
+      {
+        "title": "Mark Zuckerberg's Meta to Lay Off 10% of 'Reality Labs' Workforce as Metaverse Plans Fade",
+        "url": "https://www.breitbart.com/tech/2026/01/14/mark-zuckerbergs-meta-to-cut-10-of-reality-labs-workforce-as-metaverse-plans-fade/",
+        "page_age": "15 hours ago"
+      },
+      {
+        "title": "Mark Zuckerberg warned employees to prepare for an \u2018intense year.\u2019 He just laid off 3,600 workers\u2014including some who claim they got glowing reviews | Fortune",
+        "url": "https://fortune.com/2025/02/11/mark-zuckerberg-meta-layoffs-low-performers/",
+        "page_age": "February 12, 2025"
+      },
+      {
+        "title": "Meta to Lay Off 5% of Employees: Aiming to Boost Company Performance - nss magazine",
+        "url": "https://www.nssmag.com/en/lifestyle/39666/meta-layoffs-5-percent-performance",
+        "page_age": null
+      },
+      {
+        "title": "Meta cuts 1,000+ jobs at metaverse unit amid wearables push",
+        "url": "https://www.newsbytesapp.com/news/business/meta-cuts-1-000-jobs-at-metaverse-unit-amid-wearables-push/story",
+        "page_age": "5 days ago"
+      },
+      {
+        "title": "Meta's VR layoffs, studio closures underscore Zuckerberg's massive pivot to AI",
+        "url": "https://www.cnbc.com/2026/01/13/meta-lays-off-vr-employees-underscoring-zuckerbergs-pivot-to-ai.html",
+        "page_age": "5 days ago"
+      },
+      {
+        "title": "Meta To Lay Off More Than 3,600 Employees As CEO Mark Zuckerberg Axes 'Low Performers' - AfroTech",
+        "url": "https://afrotech.com/meta-lay-off-3600-employees-ceo-mark-zuckerberg-axes-low-performers",
+        "page_age": null
+      },
+      {
+        "title": "Read the leaked email Meta sent to the employees it just fired - TheStreet",
+        "url": "https://www.thestreet.com/employment/read-the-leaked-email-meta-sent-to-the-employees-it-just-fired",
+        "page_age": "October 25, 2025"
+      },
+      {
+        "title": "How Meta layoffs in 2026 highlight the shift from performance to strategy",
+        "url": "https://www.thehrdigest.com/how-meta-layoffs-in-2026-highlight-the-shift-from-performance-to-strategy/",
+        "page_age": "4 days ago"
+      },
+      {
+        "title": "Meta cuts more than 1,000 in Bay Area tech's first big layoff of 2026",
+        "url": "https://www.sfgate.com/tech/article/meta-layoff-1000-first-2026-21293134.php",
+        "page_age": "6 days ago"
+      },
+      {
+        "title": "Meta's VR layoffs, studio closures underscore Zuckerberg's massive pivot to AI",
+        "url": "https://www.cnbc.com/2026/01/13/meta-lays-off-vr-employees-underscoring-zuckerbergs-pivot-to-ai.html",
+        "page_age": "5 days ago"
+      },
+      {
+        "title": "Meta Slashes Staff In First Major Layoffs Of 2026: Report | Palo Alto, CA Patch",
+        "url": "https://patch.com/california/paloalto/meta-slashes-staff-first-major-layoffs-2026-report",
+        "page_age": "5 days ago"
+      },
+      {
+        "title": "Meta Begins Job Cuts as It Shifts From Metaverse to AI Devices",
+        "url": "https://www.bloomberg.com/news/articles/2026-01-13/meta-begins-jobs-cuts-after-shifting-focus-from-metaverse-to-phones",
+        "page_age": "6 days ago"
+      },
+      {
+        "title": "Meta layoffs today: Jobs slashed at Reality Labs VR division - Fast Company",
+        "url": "https://www.fastcompany.com/91474082/meta-layoffs-today-jobs-slashed-at-reality-labs-vr-division",
+        "page_age": "6 days ago"
+      },
+      {
+        "title": "How Meta's Latest Job Cuts Compare to Recent Broader Tech Sector Layoffs",
+        "url": "https://finance.yahoo.com/news/metas-latest-job-cuts-compare-100537436.html",
+        "page_age": "5 days ago"
+      },
+      {
+        "title": "Meta begins job cuts as it shifts from Metaverse to AI devices",
+        "url": "https://techxplore.com/news/2026-01-meta-job-shifts-metaverse-ai.html",
+        "page_age": "5 days ago"
+      },
+      {
+        "title": "Meta is reportedly slashing another 1,500 jobs, and it looks pretty bad for Meta Quest exclusives | Android Central",
+        "url": "https://www.androidcentral.com/gaming/virtual-reality/reality-labs-january-2026-rumored-cuts",
+        "page_age": "6 days ago"
+      },
+      {
+        "title": "Major layoffs extend into 2026 as Citi, Meta, and BlackRock cut jobs \u2014 TradingView News",
+        "url": "https://www.tradingview.com/news/invezz:07adb7e92094b:0-major-layoffs-extend-into-2026-as-citi-meta-and-blackrock-cut-jobs/",
+        "page_age": "1 week ago"
+      },
+      {
+        "title": "Latest Meta Company News | Meta Newsroom",
+        "url": "https://about.fb.com/news/category/technologies/meta/",
+        "page_age": null
+      },
+      {
+        "title": "Newsroom | Meta Newsroom",
+        "url": "https://about.fb.com/news/",
+        "page_age": "October 16, 2019"
+      },
+      {
+        "title": "Meta - Press Releases",
+        "url": "https://investor.atmeta.com/investor-news/default.aspx",
+        "page_age": null
+      },
+      {
+        "title": "Meta Newsroom (@MetaNewsroom) / X",
+        "url": "https://x.com/metanewsroom?lang=en",
+        "page_age": "July 7, 2010"
+      },
+      {
+        "title": "Meta Newsroom (@metanewsroom) \u2022 Threads, Say more",
+        "url": "https://www.threads.com/@metanewsroom",
+        "page_age": null
+      },
+      {
+        "title": "Meta Platforms, Inc. (META) Latest Press Releases & Corporate News - Yahoo Finance",
+        "url": "https://finance.yahoo.com/quote/META/press-releases/",
+        "page_age": null
+      },
+      {
+        "title": "Meta news - Today\u2019s latest updates - CBS News",
+        "url": "https://www.cbsnews.com/tag/meta/",
+        "page_age": null
+      },
+      {
+        "title": "AI at Meta Blog",
+        "url": "https://ai.meta.com/blog/",
+        "page_age": null
+      },
+      {
+        "title": "Spotlight stories - Meta Data Centers",
+        "url": "https://datacenters.atmeta.com/blog/",
+        "page_age": "November 12, 2025"
+      },
+      {
+        "title": "Meta Newsroom \u2013 WordPress Showcase | WordPress.org",
+        "url": "https://wordpress.org/showcase/meta-newsroom/",
+        "page_age": null
+      },
+      {
+        "title": "Deadpool Studio And More Closed As Meta Chases AI Instead Of Gaming [Update]",
+        "url": "https://kotaku.com/meta-game-quest-vr-facebook-deadpool-sanzaru-twisted-pixel-layoffs-2000659376",
+        "page_age": "5 days ago"
+      },
+      {
+        "title": "Meta Reveals 10% Reality Labs Layoffs In 2026, Why It Matters Now - Glass Almanac",
+        "url": "https://glassalmanac.com/meta-reveals-10-reality-labs-layoffs-in-2026-why-it-matters-now/",
+        "page_age": "1 day ago"
+      },
+      {
+        "title": "How Meta layoffs in 2026 highlight the shift from performance to strategy",
+        "url": "https://www.thehrdigest.com/how-meta-layoffs-in-2026-highlight-the-shift-from-performance-to-strategy/",
+        "page_age": "4 days ago"
+      },
+      {
+        "title": "2026 begins with big layoffs: Meta, Citigroup, BlackRock reduce staff | World News - Business Standard",
+        "url": "https://www.business-standard.com/world-news/meta-citigroup-blackrock-tech-layoffs-2026-ai-restructuring-reality-labs-126011300642_1.html",
+        "page_age": "1 week ago"
+      },
+      {
+        "title": "Meta cuts more than 1,000 in Bay Area tech's first big layoff of 2026",
+        "url": "https://www.sfgate.com/tech/article/meta-layoff-1000-first-2026-21293134.php",
+        "page_age": "6 days ago"
+      },
+      {
+        "title": "Meta Slashes Staff In First Major Layoffs Of 2026: Report | Palo Alto, CA Patch",
+        "url": "https://patch.com/california/paloalto/meta-slashes-staff-first-major-layoffs-2026-report",
+        "page_age": "5 days ago"
+      },
+      {
+        "title": "Layoffs Tracker - All Tech and Startup Layoffs",
+        "url": "https://www.trueup.io/layoffs",
+        "page_age": null
+      },
+      {
+        "title": "2026 tech company layoffs",
+        "url": "https://www.informationweek.com/it-staffing-careers/2026-tech-company-layoffs",
+        "page_age": "3 days ago"
+      },
+      {
+        "title": "Report: Meta plans to cut around 10% of Reality Labs workforce \u2013 GeekWire",
+        "url": "https://www.geekwire.com/2026/report-meta-plans-to-cut-around-10-of-reality-labs-workforce/",
+        "page_age": "5 days ago"
+      },
+      {
+        "title": "Big Tech Layoffs In 2026: Meta, BlackRock, Citigroup Slash Jobs As Year Begins | Personal Finance News | Zee News",
+        "url": "https://zeenews.india.com/personal-finance/big-tech-layoffs-in-2026-meta-blackrock-citigroup-slash-jobs-as-year-begins-3006535.html",
+        "page_age": "5 days ago"
+      },
+      {
+        "title": "Major layoffs extend into 2026 as Citi, Meta, and BlackRock cut jobs \u2014 TradingView News",
+        "url": "https://www.tradingview.com/news/invezz:07adb7e92094b:0-major-layoffs-extend-into-2026-as-citi-meta-and-blackrock-cut-jobs/",
+        "page_age": "1 week ago"
+      }
+    ],
+    "search_count": 0,
+    "time_seconds": 61.50272607803345
+  },
+  "metrics": {
+    "exa_traceability": 100.0,
+    "exa_supported": 6,
+    "exa_tier_a": 31,
+    "exa_tier_a_pct": 64.58333333333334,
+    "exa_cost": 0.0877,
+    "claude_traceability": 100.0,
+    "claude_supported": 8,
+    "claude_tier_a": 6,
+    "claude_tier_a_pct": 9.836065573770492,
+    "claude_cost": 0.3513
+  }
+}

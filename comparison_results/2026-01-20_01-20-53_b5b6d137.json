@@ -1,0 +1,933 @@
+{
+  "timestamp": "2026-01-20T01:20:53.371749",
+  "query": "Track trends in remote work policies among Fortune 500 companies 2020-2024",
+  "query_category": "Trend Analysis",
+  "app_type": "general",
+  "webset_category": null,
+  "search_type": "neural",
+  "num_results": 10,
+  "exa": {
+    "analysis_text": "Now let me compile the comprehensive analysis based on the search results.\n\n## 1. KEY FINDINGS\n\n### Early Pandemic Period (2020-2021): Shift to Remote Work\n\n**Claim:** Twitter became the first major tech company to allow permanent remote work in May 2020.\n**Quote:** \"Twitter Inc on Tuesday became the first major tech company to allow employees to work from home permanently\"\n**Source:** https://www.reuters.com/article/us-health-coronavirus-twitter/twitter-to-let-some-employees-to-work-from-home-permanently-idUSKBN22O2S8/\n\n**Claim:** Facebook announced in 2020 that it expected half of its workforce to work remotely by 2030.\n**Quote:** \"Facebook expects up to half of its employees may be remote by 2030\"\n**Source:** https://www.businessinsider.com/facebook-half-of-all-employees-remote-2030-2020-5\n\n**Claim:** Facebook extended permanent remote work options to all employees whose roles could be done remotely in 2021.\n**Quote:** \"anyone whose role can be done remotely can request remote work\"\n**Source:** https://www.bbc.com/news/technology-57425636\n\n**Claim:** Amazon initially adopted a flexible hybrid approach in June 2021.\n**Quote:** \"we've decided to offer Amazonians a mix of working between the office and home\"\n**Source:** https://www.aboutamazon.com/news/workplace/amazon-updates-return-to-office-guidance\n\n**Claim:** Google planned to limit future remote work even during early reopening in 2021.\n**Quote:** \"Google speeds partial office reopening and puts limits on remote work\"\n**Source:** https://www.cnbc.com/2021/03/31/google-speeds-partial-office-reopening-and-puts-limits-on-remote-work.html\n\n**Claim:** Ford launched a flexible work-from-home plan for employees returning in summer 2021.\n**Quote:** \"Ford to launch flexible work-from-home plan as employees return to offices this summer\"\n**Source:** https://www.cnbc.com/2021/03/17/ford-launching-flexible-wfh-plan-as-employees-return-this-summer.html\n\n### Mid-Period Shift (2022-2023): Return-to-Office Begins\n\n**Claim:** Salesforce began requiring some sales workers to return to the office in December 2022.\n**Quote:** \"Salesforce Inc., one of the first tech companies to let employees work from anywhere, is requiring some sales workers to return to the office\"\n**Source:** https://www.bloomberg.com/news/articles/2022-12-01/salesforce-orders-some-workers-back-to-offices-as-growth-slows\n\n**Claim:** General Motors ended its flexible \"work appropriately\" policy in December 2023, mandating three days per week in office.\n**Quote:** \"GM orders workers back in the office 3 days per week, ending a flexible pandemic-era policy of 'work appropriately'\"\n**Source:** https://fortune.com/2023/12/05/gm-rto-hybrid-mandate-three-days-per-week-mary-barra/\n\n**Claim:** Boeing reversed its hybrid policy in December 2023, requiring thousands of workers to return full-time.\n**Quote:** \"Boeing is reversing its hybrid policy and requiring thousands of workers to return to the office full-time\"\n**Source:** https://fortune.com/2023/12/13/boeing-return-to-office-full-time-order/\n\n**Claim:** Dell mandated workers return to the office at least three days per week in May 2023.\n**Quote:** \"This is the beginning of us more clearly defining hybrid work for our company. We look forward to those near an office coming in at least three days a week\"\n**Source:** https://www.crn.com/news/computing/dell-technologies-mandates-workers-return-to-office\n\n### Acceleration Phase (2024): Five-Day Mandates Emerge\n\n**Claim:** IBM ordered managers to move close to offices or quit in January 2024.\n**Quote:** \"IBM to managers: Move close to an office or quit\"\n**Source:** https://fortune.com/2024/01/29/ibm-remote-work-policy-managers-ordered-to-move-3-days-per-week-in-office/\n\n**Claim:** Salesforce mandated October 2024 return to office for most employees.\n**Quote:** \"Effective from October 1, employees must be in the office at least three days a week\"\n**Source:** https://www.salesforceben.com/salesforce-u-turn-on-hybrid-working-return-to-office-mandate-issued-for-select-employees/#:~:text=Effective%20from%20October%201%2C%20employees,least%20three%20days%20a%20week.\n\n**Claim:** Tech CEOs backtracked on full return-to-office mandates by August 2024, with only 3% wanting full-time office presence.\n**Quote:** \"Tech CEOs are backtracking on RTO mandates\u2014now, just 3% want workers in the office full-time\"\n**Source:** https://fortune.com/2024/08/02/tech-ceos-return-to-office-mandate\n\n**Claim:** Amazon announced a five-day-per-week office mandate in September 2024, starting January 2025.\n**Quote:** \"Amazon.com will require employees to return to working at company offices five days per week beginning next year, toughening a prior three-day mandate\"\n**Source:** https://www.reuters.com/technology/amazon-mandates-five-days-week-office-starting-next-year-2024-09-16/\n\n**Claim:** AT&T dumped hybrid work in December 2024, requiring five days per week in office.\n**Quote:** \"AT&T is dumping hybrid work as it follows Amazon in demanding employees spend 5 days a week in office\"\n**Source:** https://fortune.com/2024/12/18/att-return-to-office-5-days/\n\n### Current Period (2025): Full Return-to-Office Acceleration\n\n**Claim:** JPMorgan announced five-day-per-week office requirement in January 2025.\n**Quote:** \"JPMorgan tells staff to return to the office five days a week\"\n**Source:** https://fortune.com/2025/01/10/jpmorgan-tells-staff-to-return-to-the-office-five-days-a-week/\n\n**Claim:** Dell ended all remote and hybrid work in January 2025, requiring five days per week starting March 2025.\n**Quote:** \"Dell's memo 'retiring' hybrid work and calling workers back to the office 5 days a week\"\n**Source:** https://www.businessinsider.com/dell-return-to-office-five-days-week-rto-michael-dell-2025-1?op=1\n\n**Claim:** Microsoft mandated three-day work-from-office requirement starting in 2026 (announced September 2025).\n**Quote:** \"Microsoft will require employees to work from office at least three days a week starting next year\"\n**Source:** https://www.reuters.com/business/world-at-work/microsoft-mandates-three-day-work-from-office-starting-next-year-2025-09-09/\n\n**Claim:** More than half of Fortune 100 desk workers were mandated to fully return to office by mid-2025.\n**Quote:** \"For the first time since COVID, more than half of Fortune 100 desk workers are mandated to fully return to work\"\n**Source:** https://fortune.com/2025/07/18/return-to-office-hybrid-work-fortune-100-companies/\n\n**Note:** The data shows a clear progression from embracing remote work (2020-2021) \u2192 hybrid policies (2022-2023) \u2192 strict return-to-office mandates (2024-2025). [INFERENCE - pattern derived from multiple sources]\n\n## 2. SOURCE QUALITY ASSESSMENT\n\n**Strengths:**\n- Multiple reputable news sources including Fortune, Reuters, Bloomberg, CNBC, The New York Times, and The Washington Post\n- Primary sources including company blog posts (Microsoft, Amazon, Salesforce) and official announcements\n- Consistent reporting across multiple outlets on major policy changes\n- Time-stamped articles allowing for clear chronological tracking\n- Mix of business journalism and direct company communications\n\n**Limitations:**\n- Some future dates in search results (2025-2026) indicate ongoing/planned changes rather than completed actions\n- Limited quantitative data on overall Fortune 500 adoption rates\n- Most sources focus on high-profile tech companies, potentially not representative of all Fortune 500\n- Few sources provide employee response data or compliance rates\n- BLS government data sources were returned but excerpts were limited in detail\n\n## 3. GAPS OR CONTRADICTIONS\n\n**Missing Information:**\n- Comprehensive statistics on what percentage of Fortune 500 companies have each policy type (fully remote, hybrid, full office)\n- Industry-specific breakdowns beyond tech sector\n- Data on smaller Fortune 500 companies outside major tech/finance firms\n- Employee retention and turnover data related to RTO mandates\n- Productivity metrics comparing different work arrangements\n- Regional variations in policy implementation\n\n**Contradictions:**\n- August 2024 Fortune article states \"just 3% want workers in the office full-time,\" but by July 2025, \"more than half of Fortune 100 desk workers are mandated to fully return\" - suggesting rapid acceleration\n- Some companies (Dell, Salesforce) initially championed remote work but reversed positions dramatically\n- Tech sector messaging inconsistent - early pandemic promises of permanent flexibility vs. current strict mandates\n\n**Unclear Timeline Elements:**\n- The specific triggers for policy changes (economic conditions, productivity concerns, real estate investments) are mentioned but not systematically documented\n- Whether policies apply uniformly across all company divisions and geographies\n\n## 4. RECOMMENDED NEXT STEPS\n\n**Further Research Needed:**\n\n1. **Quantitative Analysis:** Search for comprehensive surveys or databases tracking all Fortune 500 company policies with specific percentages by year\n\n2. **Industry Segmentation:** Research RTO trends by industry sector (finance vs. tech vs. manufacturing vs. retail) to identify patterns\n\n3. **Economic Correlates:** Investigate correlation between company financial performance/stock prices and RTO policy changes\n\n4. **Employee Impact Studies:** Search for research on employee attrition rates, job satisfaction, and productivity metrics tied to RTO mandates\n\n5. **Commercial Real Estate:** Examine the role of corporate real estate holdings in driving RTO decisions\n\n6. **International Comparison:** Research how Fortune 500 companies with global operations apply different policies by country/region\n\n7. **Legal/Compliance Factors:** Investigate any regulatory or tax implications affecting remote work policies\n\n8. **Long-term Predictions:** Search for industry analyst forecasts on where policies will stabilize by 2026-2027",
+    "sources": [
+      {
+        "title": "For the first time since COVID, more than half of Fortune 100 desk workers are mandated to fully return to work, report finds",
+        "url": "https://fortune.com/2025/07/18/return-to-office-hybrid-work-fortune-100-companies/",
+        "published": "2025-07-18T00:00:00.000Z",
+        "excerpt": "The majority of Fortune 100 desk workers are required to be fully in-person, not hybrid | Fortune\nSearch\n[] \nSubscribe\n* [Home] \n* [Latest] \n* [Fortune 500] \n* [Finance] \n* [Tech] \n* [Leadership] \n* [Lifestyle] \n* [Rankings] \n* [Multimedia] \n[Success] [return to office] \n# For the first time since COVID, more than half of Fortune 100 desk workers are mandated to fully return to work, report finds\n![Sasha Rogelberg] \nBy\n[Sasha Rogelberg] \nSasha Rogelberg\nReporter\nDown Arrow Button Icon\n![Sasha Ro"
+      },
+      {
+        "title": "Fortune 500 Return To Office Tracker [JAN 2026]",
+        "url": "https://buildremote.co/companies/return-to-office/",
+        "published": "2025-12-08T00:00:00.000Z",
+        "excerpt": "Fortune 500 Return To Office Tracker [JAN 2026]\n[Skip to content] \n[] \n[] \nToggle Menu\n# Fortune 500 Return To Office Tracker [JAN 2026]\n[Companies] |[News] \nBy[Henry O&#039;Loughlin] January 9, 2026January 9, 2026\nIn this database,**we keep an updated list of every publicly stated &#8220;return to office&#8221; policy for the Fortune 500 (and compile the data at the top)**. Use the links below to jump to a section that interests you.\n**You can download the full dataset below.**\n[] \n[Access the "
+      },
+      {
+        "title": "IBM to managers: Move close to an office or quit",
+        "url": "https://fortune.com/2024/01/29/ibm-remote-work-policy-managers-ordered-to-move-3-days-per-week-in-office/",
+        "published": "2024-01-29T00:00:00.000Z",
+        "excerpt": "Search\n[] \nSubscribe\n* [Home] \n* [Latest] \n* [Fortune 500] \n* [Finance] \n* [Tech] \n* [Leadership] \n* [Lifestyle] \n* [Rankings] \n* [Multimedia] \n[Success] [remote work] \n# IBM to managers: Move close to an office or quit\nBy\n[Brody Ford] \nBrody Fordand\n[Bloomberg] \nBloomberg\nDown Arrow Button Icon\nBy\n[Brody Ford] \nBrody Fordand\n[Bloomberg] \nBloomberg\nDown Arrow Button Icon\nJanuary 29, 2024, 5:03 PM ET\nAdd us on\n![Arvind Krishna] \nArvind Krishna, CEO of IBM.Tom Williams/CQ-Roll Call, Inc via Getty "
+      },
+      {
+        "title": "AT&T is dumping hybrid work as it follows Amazon in demanding employees spend 5 days a week in office",
+        "url": "https://fortune.com/2024/12/18/att-return-to-office-5-days/",
+        "published": "2024-12-18T00:00:00.000Z",
+        "excerpt": "AT&amp;T demands staff work from the office five days a week from January | Fortune\nSearch\n[] \nSubscribe\n* [Home] \n* [Latest] \n* [Fortune 500] \n* [Finance] \n* [Tech] \n* [Leadership] \n* [Lifestyle] \n* [Rankings] \n* [Multimedia] \n[Success] [return to office] \n# AT&amp;T is dumping hybrid work as it follows Amazon in demanding employees spend 5 days a week in office\n![Eleanor Pringle] \nBy\n[Eleanor Pringle] \nEleanor Pringle\nSenior Reporter, Economics and Markets\nDown Arrow Button Icon\n![Eleanor Prin"
+      },
+      {
+        "title": "JPMorgan\u2019s internal tool shows many offices aren\u2019t ready for the unpopular return-to-office mandate",
+        "url": "https://fortune.com/2025/01/31/jpmorgan-chase-return-to-work-wall-street-polaris-jamie-dimon-raises-remote-work-office/",
+        "published": "2025-01-31T00:00:00.000Z",
+        "excerpt": "JPMorgan&#x27;s internal tool shows many offices aren&#x27;t ready for the unpopular return-to-office mandate | Fortune\nSearch\n[] \nSubscribe\n* [Home] \n* [Latest] \n* [Fortune 500] \n* [Finance] \n* [Tech] \n* [Leadership] \n* [Lifestyle] \n* [Rankings] \n* [Multimedia] \n[Finance] [JPMorgan Chase] \n# JPMorgan\u2019s internal tool shows many offices aren\u2019t ready for the unpopular return-to-office mandate\n![Luisa Beltran] \nBy\n[Luisa Beltran] \nLuisa Beltran\nFinance Reporter\nDown Arrow Button Icon\n![Luisa Beltra"
+      },
+      {
+        "title": "Tech CEOs are backtracking on RTO mandates\u2014now, just 3% want workers in the office full-time",
+        "url": "https://fortune.com/2024/08/02/tech-ceos-return-to-office-mandate",
+        "published": "2024-08-02T00:00:00.000Z",
+        "excerpt": "Tech CEOs are backtracking on RTO mandates\u2014now, just 3% want workers in the office full-time | Fortune\nSearch\n[] \nSubscribe\n* [Home] \n* [Latest] \n* [Fortune 500] \n* [Finance] \n* [Tech] \n* [Leadership] \n* [Lifestyle] \n* [Rankings] \n* [Multimedia] \n[Leadership] [return to office] \n# Tech CEOs are backtracking on RTO mandates\u2014now, just 3% want workers in the office full-time\n![Orianna Rosa Royle] \nBy\n[Orianna Rosa Royle] \nOrianna Rosa Royle\nAssociate Editor, Success\nDown Arrow Button Icon\nAugust 2,"
+      },
+      {
+        "title": "JPMorgan tells staff to return to the office five days a week",
+        "url": "https://fortune.com/2025/01/10/jpmorgan-tells-staff-to-return-to-the-office-five-days-a-week",
+        "published": "2025-01-10T00:00:00.000Z",
+        "excerpt": "JPMorgan tells staff to return to the office five days a week | Fortune\nSearch\n[] \nSubscribe\n* [Home] \n* [Latest] \n* [Fortune 500] \n* [Finance] \n* [Tech] \n* [Leadership] \n* [Lifestyle] \n* [Rankings] \n* [Multimedia] \n[Finance] [return to office] \n# JPMorgan tells staff to return to the office five days a week\nBy\n[Bloomberg] \nBloomberg\nDown Arrow Button Icon\nBy\n[Bloomberg] \nBloomberg\nDown Arrow Button Icon\nJanuary 10, 2025, 3:32 PM ET\nAdd us on\n![Close up of Jamie Dimon in a navy suit] \nJPMorgan i"
+      },
+      {
+        "title": "Boeing is reversing its hybrid policy and requiring thousands of workers to return to the office full-time",
+        "url": "https://fortune.com/2023/12/13/boeing-return-to-office-full-time-order/",
+        "published": "2023-12-13T00:00:00.000Z",
+        "excerpt": "Search\n[] \nSubscribe\n* [Home] \n* [Latest] \n* [Fortune 500] \n* [Finance] \n* [Tech] \n* [Leadership] \n* [Lifestyle] \n* [Rankings] \n* [Multimedia] \n[Success] [return to office] \n# Boeing is reversing its hybrid policy and requiring thousands of workers to return to the office full-time\nBy\n[Chris Morris] \nChris Morris\nFormer Contributing Writer\nDown Arrow Button Icon\nDecember 13, 2023, 1:14 PM ET\nAdd us on\n![Boeing is insisting workers return to the office five days a week. ] \nBoeing is insisting wor"
+      },
+      {
+        "title": "GM orders workers back in the office 3 days per week, ending a flexible pandemic-era policy of \u2018work appropriately\u2019",
+        "url": "https://fortune.com/2023/12/05/gm-rto-hybrid-mandate-three-days-per-week-mary-barra/",
+        "published": "2023-12-05T22:59:05.000Z",
+        "excerpt": "GM orders workers back in the office 3 days per week, ending a flexible pandemic-era policy of \u2018work appropriately\u2019 | Fortune\nSearch\n[] \nSubscribe\n* [Home] \n* [Latest] \n* [Fortune 500] \n* [Finance] \n* [Tech] \n* [Leadership] \n* [Lifestyle] \n* [Rankings] \n* [Multimedia] \n[Success] [General Motors] \n# GM orders workers back in the office 3 days per week, ending a flexible pandemic-era policy of \u2018work appropriately\u2019\nBy\n[David Welch] \nDavid Welchand\nBloomberg\nDown Arrow Button Icon\nDecember 5, 2023, "
+      },
+      {
+        "title": "IBM to managers: Move close to an office or quit",
+        "url": "https://fortune.com/2024/01/29/ibm-remote-work-policy-managers-ordered-to-move-3-days-per-week-in-office/",
+        "published": "2024-01-29T00:00:00.000Z",
+        "excerpt": "Search\n[] \nSubscribe\n* [Home] \n* [Latest] \n* [Fortune 500] \n* [Finance] \n* [Tech] \n* [Leadership] \n* [Lifestyle] \n* [Rankings] \n* [Multimedia] \n[Success] [remote work] \n# IBM to managers: Move close to an office or quit\nBy\n[Brody Ford] \nBrody Fordand\n[Bloomberg] \nBloomberg\nDown Arrow Button Icon\nBy\n[Brody Ford] \nBrody Fordand\n[Bloomberg] \nBloomberg\nDown Arrow Button Icon\nJanuary 29, 2024, 5:03 PM ET\nAdd us on\n![Arvind Krishna] \nArvind Krishna, CEO of IBM.Tom Williams/CQ-Roll Call, Inc via Getty "
+      },
+      {
+        "title": "General Motors is mandating corporate staff return to the office at least 3 days a week next year, saying it will help 'retain company culture'",
+        "url": "https://www.businessinsider.com/general-motors-bring-back-employees-to-office-three-days-week-2023-12",
+        "published": "2023-12-07T00:00:00.000Z",
+        "excerpt": "General Motors to Mandate Office Work for at Least Three Days a Week. - Business Insider\n[Business Insider] \n[Subscribe] [Newsletters] \n[Transportation] \n# General Motors is mandating corporate staff return to the office at least 3 days a week next year, saying it will help &#x27;retain company culture&#x27;\nBy[Sawdah Bhaimiya] \n![Visitors are seen at the General Motors world headquarters office in Detroit&#x27;s Renaissance Center.] \nVisitors are seen at the General Motors world headquarters of"
+      },
+      {
+        "title": "The state of return-to-office policies: a post-Labor Day reset?",
+        "url": "https://www.cnn.com/2023/09/04/success/return-to-office-policies-labor-day",
+        "published": "2023-09-04T00:00:00.000Z",
+        "excerpt": "The state of return-to-office policies: A post-Labor Day reset? | CNN Business[] \n### CNN values your feedback\n1. How relevant is this ad to you?\n2. Did you encounter any technical issues?\nVideo player was slow to load contentVideo content never loadedAd froze or did not finish loadingVideo content did not start after adAudio on ad was too loudOther issues\nAd never loadedAd prevented/slowed the page from loadingContent moved around while ad loadedAd was repetitive to ads I&#x27;ve seen previousl"
+      },
+      {
+        "title": "For the first time since COVID, more than half of Fortune 100 desk workers are mandated to fully return to work, report finds",
+        "url": "https://fortune.com/2025/07/18/return-to-office-hybrid-work-fortune-100-companies/",
+        "published": "2025-07-18T00:00:00.000Z",
+        "excerpt": "The majority of Fortune 100 desk workers are required to be fully in-person, not hybrid | Fortune\nSearch\n[] \nSubscribe\n* [Home] \n* [Latest] \n* [Fortune 500] \n* [Finance] \n* [Tech] \n* [Leadership] \n* [Lifestyle] \n* [Rankings] \n* [Multimedia] \n[Success] [return to office] \n# For the first time since COVID, more than half of Fortune 100 desk workers are mandated to fully return to work, report finds\n![Sasha Rogelberg] \nBy\n[Sasha Rogelberg] \nSasha Rogelberg\nReporter\nDown Arrow Button Icon\n![Sasha Ro"
+      },
+      {
+        "title": "The list of major companies requiring employees to return to the office, from JPMorgan and TikTok to Ford",
+        "url": "https://www.businessinsider.com/companies-requiring-return-to-office-rto-mandate",
+        "published": "2025-07-16T00:00:00.000Z",
+        "excerpt": "The List of Companies Ordering Employees Back to the Office - Business Insider\n[Business Insider] \n[Subscribe] [Newsletters] \n[Tech] \n# The list of major companies requiring employees to return to the office, from JPMorgan and TikTok to Ford\nByBI Staff\n![TikTok sign] \nTikTok plans to track how long its e-commerce staffers are in the office, employees say.Mario Tama/Getty Images\nUpdated2025-07-16T20:07:45.968Z\nShare\nCopy link[Email] FacebookWhatsAppX LinkedIn BlueskyThreadslighning bolt iconAn ic"
+      },
+      {
+        "title": "JPMorgan tells staff to return to the office five days a week",
+        "url": "https://fortune.com/2025/01/10/jpmorgan-tells-staff-to-return-to-the-office-five-days-a-week/",
+        "published": "2025-01-10T00:00:00.000Z",
+        "excerpt": "JPMorgan tells staff to return to the office five days a week | Fortune\nSearch\n[] \nSubscribe\n* [Home] \n* [Latest] \n* [Fortune 500] \n* [Finance] \n* [Tech] \n* [Leadership] \n* [Lifestyle] \n* [Rankings] \n* [Multimedia] \n[Finance] [return to office] \n# JPMorgan tells staff to return to the office five days a week\nBy\n[Bloomberg] \nBloomberg\nDown Arrow Button Icon\nBy\n[Bloomberg] \nBloomberg\nDown Arrow Button Icon\nJanuary 10, 2025, 3:32 PM ET\nAdd us on\n![Close up of Jamie Dimon in a navy suit] \nJPMorgan i"
+      },
+      {
+        "title": "Flexible work update",
+        "url": "https://blogs.microsoft.com/blog/2025/09/09/flexible-work-update/",
+        "published": "2025-09-09T00:00:00.000Z",
+        "excerpt": "Flexible work update - The Official Microsoft Blog\n[Skip to content] \n[Skip to main content] \n[![] Microsoft] \nOfficial Microsoft Blog\n[Official Microsoft Blog] \nOfficial Microsoft Blog\nSearchSearch blogs.microsoft.com\n* No results\nCancel[0Cart0 items in shopping cart] \n# Flexible work update\nSep 9, 2025|[Amy Coleman - Executive Vice President, Chief People Officer] \n* [] \n* [] \n* [] \n* [] \n*Amy Coleman, Executive Vice President and Chief People Officer, shared the below communication with Micro"
+      },
+      {
+        "title": "Amazon updates return-to-office guidance",
+        "url": "https://www.aboutamazon.com/news/workplace/amazon-updates-return-to-office-guidance",
+        "published": "2021-06-10T00:00:00.000Z",
+        "excerpt": "# Amazon updates return-to-office guidance\nWe\u2019ve adjusted our guidance on our plans for returning to the office and added more clarity. Going forward, we\u2019ve decided to offer Amazonians a mix of working between the office and home.\nShare\n![Amazon&#x27;s Seattle Campus 2017] \n// TODO: Add audio player back\n![Amazon Staff] \nWritten byAmazon Staff\n2 min read\nShare\nUpdate:\nAs we continue to closely watch local conditions related to COVID-19, we are adjusting our guidance for corporate employees in th"
+      },
+      {
+        "title": "IBM to managers: Move close to an office or quit",
+        "url": "https://fortune.com/2024/01/29/ibm-remote-work-policy-managers-ordered-to-move-3-days-per-week-in-office/",
+        "published": "2024-01-29T00:00:00.000Z",
+        "excerpt": "Search\n[] \nSubscribe\n* [Home] \n* [Latest] \n* [Fortune 500] \n* [Finance] \n* [Tech] \n* [Leadership] \n* [Lifestyle] \n* [Rankings] \n* [Multimedia] \n[Success] [remote work] \n# IBM to managers: Move close to an office or quit\nBy\n[Brody Ford] \nBrody Fordand\n[Bloomberg] \nBloomberg\nDown Arrow Button Icon\nBy\n[Brody Ford] \nBrody Fordand\n[Bloomberg] \nBloomberg\nDown Arrow Button Icon\nJanuary 29, 2024, 5:03 PM ET\nAdd us on\n![Arvind Krishna] \nArvind Krishna, CEO of IBM.Tom Williams/CQ-Roll Call, Inc via Getty "
+      },
+      {
+        "title": "Google is tightening its \u2018Work from Anywhere\u2019 policy: Now a single day will count as a full week",
+        "url": "https://fortune.com/2025/10/09/google-is-tightening-its-work-from-anywhere-policy-now-a-single-day-will-count-as-a-full-week/",
+        "published": "2025-10-09T00:00:00.000Z",
+        "excerpt": "Google is tightening its \u2018Work from Anywhere\u2019 policy: Now a single day will count as a full week | Fortune\nSearch\n[] \nSubscribe\n* [Home] \n* [Latest] \n* [Fortune 500] \n* [Finance] \n* [Tech] \n* [Leadership] \n* [Lifestyle] \n* [Rankings] \n* [Multimedia] \n[Future of Work] [Google] \n# Google is tightening its \u2018Work from Anywhere\u2019 policy: Now a single day will count as a full week\nBy\n[Nino Paoli] \nNino Paoli\nFormer News Fellow\nDown Arrow Button Icon\nBy\n[Nino Paoli] \nNino Paoli\nFormer News Fellow\nDown A"
+      },
+      {
+        "title": "Google is accelerating partial reopening of offices and putting limits on future of remote work",
+        "url": "https://www.cnbc.com/2021/03/31/google-speeds-partial-office-reopening-and-puts-limits-on-remote-work.html",
+        "published": "2021-03-31T00:00:00.000Z",
+        "excerpt": "Google speeds partial office reopening and puts limits on remote work\n[Skip Navigation] \n[![CNBC]] \n[Markets] \n* [Pre-Markets] \n* [U.S. Markets] \n* [Europe Markets] \n* [China Markets] \n* [Asia Markets] \n* [World Markets] \n* [Currencies] \n* [Cryptocurrency] \n* [Futures &amp; Commodities] \n* [Bonds] \n* [Funds &amp; ETFs] \n[Business] \n* [Economy] \n* [Finance] \n* [Health &amp; Science] \n* [Media] \n* [Real Estate] \n* [Energy] \n* [Climate] \n* [Transportation] \n* [Investigations] \n* [Industrials] \n* [R"
+      },
+      {
+        "title": "Ford to launch flexible work-from-home plan as employees return to offices this summer",
+        "url": "https://www.cnbc.com/2021/03/17/ford-launching-flexible-wfh-plan-as-employees-return-this-summer.html",
+        "published": "2021-03-17T00:00:00.000Z",
+        "excerpt": "[Skip Navigation] \n\nFord to launch flexible work-from-home plan as employees return to offices this summer\n\n- [Livestream] \n\n\nCREATE FREE ACCOUNT\n\n[Markets] \n\n[Business] \n\n[Investing] \n\n[Tech] \n\n[Politics] \n\n[Video] \n\n[Watchlist] \n\n[Investing Club] \n\n[PRO] \n\n[Livestream] \n\nMenu\n\nKey Points\n\n- A majority of Ford Motor\u2019s roughly 86,000 employees globally who haven\u2019t returned to work yet are expected to start doing so this summer through a new hybrid work schedule.\n- How much an employee will be ab"
+      },
+      {
+        "title": "Amazon offering teams more flexibility as we return to office",
+        "url": "https://www.aboutamazon.com/news/workplace/amazon-offering-teams-more-flexibility-as-we-return-to-office",
+        "published": "2021-10-11T00:00:00.000Z",
+        "excerpt": "Amazon offering teams more flexibility as we return to office\n# Amazon offering teams more flexibility as we return to office\nToday, CEO Andy Jassy sent the following message to Amazon\u2019s employees:\nShare\n![Andy Jassy, CEO of Amazon, speaks with Alicia Boler Davis as he answers employee questions at a fireside chat. ] \n3 min read\nShare\nSubject: Updated guidance on where we work\nDear Amazonians,\nI want to update you on how we\u2019re continuing to evolve our thinking on where we work.\nFirst, it\u2019s worth"
+      },
+      {
+        "title": "Inside Google\u2019s push to nail hybrid work and bring its 165,000-person workforce back to the office part-time",
+        "url": "https://fortune.com/longform/google-return-to-office-work-hybrid-remote-bay-view-pay-reduced/",
+        "published": "2022-05-17T00:00:00.000Z",
+        "excerpt": "Inside Google&#x27;s push to bring its 165,000 employees back to the office | Fortune\nSearch\n[] \n* [Home] \n* [Latest] \n* [News] \n* [North America] \n* [Europe] \n* [Asia] \n* [Middle East] \n* [Global] \n* [Fortune 500] \n* [Fortune 500 U.S.] \n* [Fortune Global 500] \n* [Fortune 500 Europe] \n* [Fortune China 500] \n* [Fortune SEA 500] \n* [Finance] \n* [Economy] \n* [Banking] \n* [Personal Finance] \n* [Investing] \n* [Real Estate] \n* [Energy] \n* [Crypto] \n* [Tech] \n* [Big Tech] \n* [Startups &amp; Venture] \n*"
+      },
+      {
+        "title": "Microsoft mandates three-day work-from-office starting next year",
+        "url": "https://www.reuters.com/business/world-at-work/microsoft-mandates-three-day-work-from-office-starting-next-year-2025-09-09/",
+        "published": "2025-09-09T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[Exclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv] \n\nTwo people talk in front of the Microsoft logo at the Mobile World Congress trade show, in Barcelona, Spain, March 3, 2025. REUTERS/Bruna Casas/File Photo [Purchase Licensing Rights, opens new tab] \n\nSept 9 (Reuters) - Microsoft [(MSFT.O), opens new tab] will require employees to work from office at least three days a week starting next year, the company said in a [blog pos"
+      },
+      {
+        "title": "Microsoft is officially sending employees back to the office. Read the memo.",
+        "url": "https://www.businessinsider.com/microsoft-send-employees-back-to-office-rto-remote-work-2025-9",
+        "published": "2025-09-09T00:00:00.000Z",
+        "excerpt": "Microsoft Is Officially Sending Employees Back to the Office: Memo - Business Insider\n[Business Insider] \n[Subscribe] [Newsletters] \n[Tech] \n# Microsoft is officially sending employees back to the office. Read the memo.\nBy[Ashley Stewart] \nYou're currently following this author! Want to unfollow? Unsubscribe via the link in your email.\nFollow\nNewFollow authors and never miss a story!\n## Follow Ashley Stewart\nEvery time Ashley publishes a story, you\u2019ll get an alert straight to your inbox!\nEnter y"
+      },
+      {
+        "title": "Amazon Tells Employees to Return to Office Five Days a Week",
+        "url": "https://www.nytimes.com/2024/09/16/technology/amazon-return-to-office.html%20%C2%A0",
+        "published": "2024-09-16T00:00:00.000Z",
+        "excerpt": "[Technology] \\|Amazon Tells Corporate Workers to Be Back in the Office 5 Days a Week\n\nhttps://www.nytimes.com/2024/09/16/technology/amazon-return-to-office.html\n\n- Share full article\n\n\nAdvertisement\n\n[SKIP ADVERTISEMENT] \n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\nAmazon told its corporate employees on Monday that they had to return to working in the company\u2019s offices five days a week starting in"
+      },
+      {
+        "title": "",
+        "url": "https://www.reuters.com/technology/amazon-mandates-five-days-week-office-starting-next-year-2024-09-16/",
+        "published": "2024-09-16T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[Exclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv] \n\n- Companies\n\n- [Amazon.com Inc] \n\n\n\nFollow\n\n\nSept 16 (Reuters) - Amazon.com [(AMZN.O), opens new tab] will require employees to return to working at company offices five days per week beginning next year, toughening a prior three-day mandate.\n\nThe change is necessary to \"invent, collaborate and be connected\" wrote CEO Andy Jassy in a letter to employees on Monday posted to "
+      },
+      {
+        "title": "Amazon's strict new return-to-office mandate draws strong reactions",
+        "url": "https://www.seattletimes.com/business/amazon-workers-will-return-to-the-office-five-days-a-week/",
+        "published": "2024-09-16T00:00:00.000Z",
+        "excerpt": "[Skip to content] \n\nBy\n\n[Lauren Rosenblatt] \n\nSeattle Times business reporter\n\nAmazon will require employees to work from the office five days a week starting next year \u2014 a move applauded Monday by business groups in the Puget Sound region and criticized by some of the company\u2019s white-collar workers.\n\nCEO Andy Jassy said in a note to employees Monday that Amazon will return to its pre-pandemic working conditions starting on Jan. 2. The Seattle-based tech giant will also reduce the number of mana"
+      },
+      {
+        "title": "Amazon tells workers they must come to the office 5 days a week",
+        "url": "https://www.cnn.com/2024/09/16/business/amazon-return-to-work",
+        "published": "2024-09-16T18:30:33.000Z",
+        "excerpt": "Amazon tells workers they must come to the office 5 days a week | CNN Business[] \n### CNN values your feedback\n1. How relevant is this ad to you?\n2. Did you encounter any technical issues?\nVideo player was slow to load contentVideo content never loadedAd froze or did not finish loadingVideo content did not start after adAudio on ad was too loudOther issues\nAd never loadedAd prevented/slowed the page from loadingContent moved around while ad loadedAd was repetitive to ads I&#x27;ve seen previousl"
+      },
+      {
+        "title": "Amazon drops the hammer on remote work and orders employees back to the office 5 days a week starting in January",
+        "url": "https://www.businessinsider.com/amazon-ceo-return-to-office-mandate-5-days-week-2024-9",
+        "published": "2024-09-16T00:00:00.000Z",
+        "excerpt": "Amazon Drops Hammer on Remote Work, Orders Staff Back 5 Days a Week - Business Insider\n[Business Insider] \n[Subscribe] [Newsletters] \n[Tech] \n# Amazon drops the hammer on remote work and orders employees back to the office 5 days a week starting in January\nBy[Dominick Reuter] \nYou&#x27;re currently following this author! Want to unfollow? Unsubscribe via the link in your email.\nFollow\nNewFollow authors and never miss a story!\n## Follow Dominick Reuter\nEvery time Dominick publishes a story, you\u2019l"
+      },
+      {
+        "title": "Amazon tells staff to return to office five days a week",
+        "url": "https://www.washingtonpost.com/business/2024/09/16/amazon-return-to-office-five-days-week/",
+        "published": "2024-09-16T00:00:00.000Z",
+        "excerpt": "Democracy Dies in Darkness\n\n![] \n\nAmazon's new return-to-office policy comes as more companies pull back on remote work. (Gustavo Graf Maldonado/Reuters)\n\n![] \n\nBy [Danielle Abril] \n\nSAN FRANCISCO \u2014 Amazon is asking workers to return to the office five days a week starting in January, marking the first of the Big Tech companies to require a full week in office post pandemic.\n\nChief executive Andy Jassy announced the news i [n a message to employees] Monday, telling them they will be expected to "
+      },
+      {
+        "title": "Amazon tells workers to return to the office five days a week",
+        "url": "https://apnews.com/article/amazon-five-days-return-to-office-8cfa316bb5fc10c777b6bb6f05a4e74f",
+        "published": "2024-09-16T00:00:00.000Z",
+        "excerpt": "[![AP Logo]] \n\nMenu\n\n- [World] \n\n\n\n\n\n\n\n\n\nSECTIONS\n\n\n\n[Israel-Hamas war] [Russia-Ukraine War] [Espa\u00f1ol] [China] [Asia Pacific] [Latin America] [Europe] [Africa] \n\n\n\n\n\n\n\nTOP STORIES\n\n\n\n- [US and China take a step back from sky-high tariffs and agree to pause for 90 days for more talks] \n- [Hamas says it will release American-Israeli hostage Edan Alexander on Monday] \n- [Modi says India has only paused military action and will strike if any further terror attack occurs] \n\nNewsletters\n\n[The Morning "
+      },
+      {
+        "title": "Amazon orders workers to return to the office 5 days a week",
+        "url": "https://www.cbsnews.com/news/amazon-rto-return-to-office-five-days-a-week/",
+        "published": "2024-09-18T00:00:00.000Z",
+        "excerpt": "[Watch CBS News] \n\nHow many people are still working from home? \\| The Answer\n\n[How many people are still working from home? \\| The Answer01:30] \n\nAmazon wants to set its corporate clock back to before the pandemic. After four years of employees with the online retailer working from home, CEO Andrew Jassy said on Monday he wants all workers back in the office five days a week.\n\nTo foster a culture of collaboration, \"we've decided that we're going to return to being in the office the way we were "
+      },
+      {
+        "title": "These major employers are making workers return to the office",
+        "url": "https://www.cbsnews.com/news/amazon-other-companies-return-to-office-mandate/",
+        "published": "2024-09-19T00:00:00.000Z",
+        "excerpt": "These major employers are making workers return to the office - CBS News\n[] [] \n[] \n[] \n[] [\nWatch CBS News\n] \n[MoneyWatch] \n# These major employers are making workers return to the office\nBy\nMegan Cerullo\n[\nMegan Cerullo\nReporter, MoneyWatch\n] \nMegan Cerullo is a New York-based reporter for CBS MoneyWatch covering small business, workplace, health care, consumer spending and personal finance topics. She regularly appears on CBS News 24/7 to discuss her reporting.\n[Read Full Bio] \n[Megan Cerullo"
+      },
+      {
+        "title": "Internal Amazon document spells out its new RTO rule forcing employees to work from an office 5 days a week",
+        "url": "https://businessinsider.com/amazon-rto-faq-document-spells-out-new-rule-2024-9",
+        "published": "2024-09-16T22:07:41.000Z",
+        "excerpt": "Internal Amazon Document Spells Out Details of Tough New RTO Rule - Business Insider\n[Business Insider] \n[Subscribe] [Newsletters] \n[Tech] \n# Internal Amazon document spells out its new RTO rule forcing employees to work from an office 5 days a week\nBy[Ashley Stewart] \nYou&#x27;re currently following this author! Want to unfollow? Unsubscribe via the link in your email.\nFollow\nNewFollow authors and never miss a story!\n![Ashley Stewart Business Insider] \n## Follow Ashley Stewart\nEvery time Ashley"
+      },
+      {
+        "title": "",
+        "url": "https://www.bls.gov/web/empsit/cpseea41.pdf",
+        "published": "2025-08-29T00:00:00.000Z",
+        "excerpt": "HOUSEHOLD DATA\nNOT SEASONALLY ADJUSTED\nA-41. People at work by telework status and selected characteristics, December 2025\n[Numbers in thousands]\nCharacteristic\nTotal\npeople\nat work1\nPeople who teleworked or\nworked at\nhome for pay People\nwho did\nnot\ntelework\nor work\nat\nhome\nfor pay\nPercent distribution\nTotal\nTele\u0002worked\nsome\nhours2\nTele\u0002worked\nall hours\nTotal\npeople\nat work1\nPeople who teleworked or\nworked at\nhome for pay\nPeople\nwho did\nnot\ntelework\nor work\nat\nhome\nfor pay\nTotal\nTele\u0002worked\nsome"
+      },
+      {
+        "title": "Telework trends",
+        "url": "https://www.bls.gov/opub/btn/volume-14/telework-trends.htm",
+        "published": "2025-03-25T00:00:00.000Z",
+        "excerpt": "Telework trends : Beyond the Numbers: U.S. Bureau of Labor Statistics\n[Skip to Content] \n![U.S. flag] \nAn official website of the United States governmentHere is how you know\n[![Department of Labor Logo] United States Department of Labor] \n![Dot gov] \n**The .gov means it's official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information,\nmake sure you're on a federal government site.\n![Https] \n**The site is secure.**\nThe**https://**ensures that you are conn"
+      },
+      {
+        "title": "A-42. People at work by telework status, usual full- or part-time status, occupation, industry, and class of worker",
+        "url": "https://www.bls.gov/web/empsit/cpseea42.htm",
+        "published": null,
+        "excerpt": "A-42. People at work by telework status, usual full- or part-time status, occupation, industry, and class of worker\n[Skip to Content] \n![U.S. flag] \nAn official website of the United States governmentHere is how you know\n[![Department of Labor Logo] United States Department of Labor] \n![Dot gov] \n**The .gov means it's official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information,\nmake sure you're on a federal government site.\n![Https] \n**The site is secu"
+      },
+      {
+        "title": "Fortune 500 Return To Office Tracker [JAN 2026]",
+        "url": "https://buildremote.co/companies/return-to-office/",
+        "published": "2025-12-08T00:00:00.000Z",
+        "excerpt": "Fortune 500 Return To Office Tracker [JAN 2026]\n[Skip to content] \n[] \n[] \nToggle Menu\n# Fortune 500 Return To Office Tracker [JAN 2026]\n[Companies] |[News] \nBy[Henry O&#039;Loughlin] January 9, 2026January 9, 2026\nIn this database,**we keep an updated list of every publicly stated &#8220;return to office&#8221; policy for the Fortune 500 (and compile the data at the top)**. Use the links below to jump to a section that interests you.\n**You can download the full dataset below.**\n[] \n[Access the "
+      },
+      {
+        "title": "Telework during the COVID-19 pandemic: estimates using the 2021 Business Response Survey",
+        "url": "https://www.bls.gov/opub/mlr/2022/article/telework-during-the-covid-19-pandemic.htm",
+        "published": "2021-02-24T00:00:00.000Z",
+        "excerpt": "Telework during the COVID-19 pandemic: estimates using the 2021 Business Response Survey : Monthly Labor Review : U.S. Bureau of Labor Statistics\n[Skip to Content] \n![U.S. flag] \nAn official website of the United States governmentHere is how you know\n[![Department of Labor Logo] United States Department of Labor] \n![Dot gov] \n**The .gov means it's official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information,\nmake sure you're on a federal government site"
+      },
+      {
+        "title": "A-41. People at work by telework status and selected characteristics",
+        "url": "https://www.bls.gov/web/empsit/cpseea41.htm",
+        "published": null,
+        "excerpt": "A-41. People at work by telework status and selected characteristics\n[Skip to Content] \n![U.S. flag] \nAn official website of the United States governmentHere is how you know\n[![Department of Labor Logo] United States Department of Labor] \n![Dot gov] \n**The .gov means it's official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information,\nmake sure you're on a federal government site.\n![Https] \n**The site is secure.**\nThe**https://**ensures that you are conne"
+      },
+      {
+        "title": "2020 Results of the Business Response Survey : U.S. Bureau of Labor Statistics",
+        "url": "https://www.bls.gov/brs/2020-results.htm",
+        "published": "2020-12-07T00:00:00.000Z",
+        "excerpt": "Business Response Survey\n\nSHARE ON: [![share on facebook]] [![share on twitter]] [![share on linkedin]] \n\nSearch Business Response Survey\n\n[Bureau of Labor Statistics] >\n[Business Response Survey] >\n[Publications] \n\\> 2020 Results\n\n- [Business Response Survey] \n- [Publications] \n- 2020 Results\n\n# 2020 Results of the Business Response Survey\n\nThe U.S. Bureau of Labor Statistics has developed new data on how U.S. businesses changed their operations and employment since the onset of the coronavirus"
+      },
+      {
+        "title": "Working from home increased for the first time since the pandemic",
+        "url": "https://fortune.com/2024/07/12/working-from-home-remote-work-hybrid-work-generation-z-millennials-work-life-balance",
+        "published": "2024-07-12T00:00:00.000Z",
+        "excerpt": "Remote work increased for the first time since the pandemic | Fortune\nSearch\n[] \nSubscribe\n* [Home] \n* [Latest] \n* [Fortune 500] \n* [Finance] \n* [Tech] \n* [Leadership] \n* [Lifestyle] \n* [Rankings] \n* [Multimedia] \n[Success] [remote work] \n# Working from home increased for the first time since the pandemic\n![Paolo Confino] \nBy\n[Paolo Confino] \nPaolo Confino\nReporter\nDown Arrow Button Icon\n![Paolo Confino] \nBy\n[Paolo Confino] \nPaolo Confino\nReporter\nDown Arrow Button Icon\nJuly 12, 2024, 1:54 PM ET"
+      },
+      {
+        "title": "U.S. Remote Workdays Have Doubled During Pandemic",
+        "url": "https://news.gallup.com/poll/318173/remote-workdays-doubled-during-pandemic.aspx",
+        "published": "2024-10-16T00:00:00.000Z",
+        "excerpt": "U.S. Remote Workdays Have Doubled During Pandemic\n[skip to main content] \nEconomy\nU.S. Remote Workdays Have Doubled During Pandemic\n* [Share on LinkedIn] \n* [Share on Twitter] \n* [Share on Facebook] \n* [Share via Email] \n* [Print] \n* [Share on LinkedIn] \n* [Share on Twitter] \n* [Share on Facebook] \n* [Share via Email] \n* [Print] \nEconomy\nAugust 31, 2020\n# U.S. Remote Workdays Have Doubled During Pandemic\n![] \nby[Jeffrey M. Jones] \n#### Story Highlights\n* 49% of U.S. workers have ever telecommute"
+      },
+      {
+        "title": "Telework (CPS) :  U.S. Bureau of Labor Statistics",
+        "url": "https://www.bls.gov/cps/telework.htm",
+        "published": "2025-05-02T00:00:00.000Z",
+        "excerpt": "Telework (CPS) : U.S. Bureau of Labor Statistics\n[Skip to Content] \n![U.S. flag] \nAn official website of the United States governmentHere is how you know\n[![Department of Labor Logo] United States Department of Labor] \n![Dot gov] \n**The .gov means it's official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information,\nmake sure you're on a federal government site.\n![Https] \n**The site is secure.**\nThe**https://**ensures that you are connecting to the officia"
+      },
+      {
+        "title": "Dell Technologies Mandates Workers Return To Office | CRN",
+        "url": "https://www.crn.com/news/computing/dell-technologies-mandates-workers-return-to-office",
+        "published": "2023-05-09T00:00:00.000Z",
+        "excerpt": "# Dell Technologies Mandates Workers Return To Office\n\n\u2018This is the beginning of us more clearly defining hybrid work for our company. We look forward to those near an office coming in at least three days a week as soon as you can arrange it,\u2019 Dell Technologies Vice Chairman and Co-Chief Opperating Officer Jeff Clarke writes.\n\n![ARTICLE TITLE HERE] \n\nMichael Dell\n\nRemote Dell Technologies workers, you may no longer have a friend in [Michael Dell].\n\nJust eight months after CEO Dell wagged his fin"
+      },
+      {
+        "title": "Read Dell's memo 'retiring' hybrid work and calling workers back to the office 5 days a week",
+        "url": "https://www.businessinsider.com/dell-return-to-office-five-days-week-rto-michael-dell-2025-1?op=1",
+        "published": "2025-01-31T00:00:00.000Z",
+        "excerpt": "Dell Orders All Staff Back to the Office 5 Days a Week: Read the Memo - Business Insider\n[Business Insider] \n[Subscribe] [Newsletters] \nExclusive\n# Read Dell&#x27;s memo &#x27;retiring&#x27; hybrid work and calling workers back to the office 5 days a week\nBy[Polly Thompson] and[Jyoti Mann] \n![Michael Dell speaks in a black suit, gesturing with his hands.] \nCEO Michael Dell has ordered all staff back to the office five days a week from March.Joan Cros/NurPhoto via Getty Images\n2025-01-31T11:31:02"
+      },
+      {
+        "title": "After Championing Remote Work, Dell Calls Employees Back to the Office",
+        "url": "https://www.costar.com/article/2015281945/after-championing-remote-work-dell-calls-employees-back-to-the-office",
+        "published": "2024-02-05T00:00:00.000Z",
+        "excerpt": "# After Championing Remote Work, Dell Calls Employees Back to the Office\n\nTech Giant Mandates at Least Three Days Per Week as Part of Latest Corporate Crackdown\n\n![Dell Technologies' in-office policy requires most employees to show up at least three days per week. (Getty Images)] \n\nDell Technologies' in-office policy requires most employees to show up at least three days per week. (Getty Images)\n\nBy [Katie Burke] \n\nCoStar News\n\nFebruary 5, 2024 \\| 9:38 P.M.\n\n### RELATED ARTICLES\n\n* * *\n\n- [This "
+      },
+      {
+        "title": "Dell's return to office policy is raising questions about the future of work",
+        "url": "https://www.npr.org/2024/06/29/nx-s1-5021977/dells-return-to-office-policy-is-raising-questions-about-the-future-of-work",
+        "published": "2024-06-29T00:00:00.000Z",
+        "excerpt": "Dell's return to office policy is raising questions about the future of work : NPR\nAccessibility links\n* [Skip to main content] \n* [Keyboard shortcuts for audio player] \n**Dell's return to office policy is raising questions about the future of work****Business Insider's Polly Thompson tells NPR's Danielle Kurtzleben about the controversy surrounding Dell's return-to-office policies.**\n### [National] \n# Dell's return to office policy is raising questions about the future of work\nJune 29, 20248:06"
+      },
+      {
+        "title": "Dell expands RTO mandate, requiring all employees to be in-office five days a week",
+        "url": "https://www.svconline.com/proav-today/dell-reverses-remote-work",
+        "published": "2025-02-04T14:00:53.000Z",
+        "excerpt": "Dell expands RTO mandate, requiring all employees to be in-office five days a week - Sound &amp; Video Contractor\n[] [] \n[] \n###### Your browser is out-of-date!\nUpdate your browser to view this website correctly.[Update my browser now] \n[&times;] \n[] \n[] [] [Newsletter] [Subscribe] [] \n[] \n[Home] &#8250;[ProAV Today] \n# Dell expands RTO mandate, requiring all employees to be in-office five days a week\nAn internal memo states that employees will be required to return to office beginning March 3\nB"
+      },
+      {
+        "title": "Dell Technologies ending remote, hybrid work; employees return to office five days a week",
+        "url": "https://statesman.com/story/business/technology/2025/02/04/dell-technologies-ends-remote-hybrid-work-rto/78210664007",
+        "published": "2025-02-04T00:00:00.000Z",
+        "excerpt": "Dell Technologies employees return to office, end remote, hybrid work\nStatesman LogoHearst Newspapers Logo\n[Skip to main content] \n[Subscribe] \n[Statesman Logo] [Subscribe] \n[Business] //[Technology] \n# Dell Technologies ending remote, hybrid work; employees return to office five days a week\nBy[Karoline Leonard],Austin American-StatesmanUpdatedFeb 5, 2025 8:57 a.m.\n[] [] [] [] \n*This story has been updated to add video.*\n![] \nRound Rock-based Dell Technologies is ending remote and hybrid work, e"
+      },
+      {
+        "title": "Read the memo Dell sent ordering its sales staff back to the office 5 days a week",
+        "url": "https://businessinsider.com/read-memo-dell-sent-staff-rto-5-days-a-week-2024-9",
+        "published": "2024-09-27T09:09:23.000Z",
+        "excerpt": "Read the Memo Dell Sent Ordering Sales Staff to RTO for 5 Days a Week - Business Insider\n[Business Insider] \n[Subscribe] [Newsletters] \n[Tech] \n# Read the memo Dell sent ordering its sales staff back to the office 5 days a week\nBy[Jyoti Mann] and[Polly Thompson] \n![Dell Technologies sign] \nDell is requiring its sales team to work from the office 5 days a week, a memo sent to staff Thursday confirmed.Brandon Bell\n2024-09-27T09:09:23.107Z\nShare\nFacebook[Email] X LinkedInReddit BlueskyWhatsAppCopy "
+      },
+      {
+        "title": "Round Rock-based Dell reverses remote work policy, mandates in-office presence by March",
+        "url": "https://www.kvue.com/article/news/local/dell-ends-work-from-home-options-ceo-memo/269-c83891ef-02ec-4e55-b693-131d62556f7e",
+        "published": "2025-01-31T00:00:00.000Z",
+        "excerpt": "Dell confirms it is ending hybrid work after internal memo from CEO leaks | kvue.com\n![x] \n[Skip Navigation] \n* Share on Facebook\n* Share on SMS\n* Share on Email\n[![KVUE Home]] \n* [Advertise With Us] \n* [Local] \n* [Defenders] \n* [Boomtown] \n* [Sports] \n* [Honor Flight] \n* [Radar] \n* [Forever Families] \n* [Allergies] \n* [TV Listings] \nBreaking News\n* [] [More () &raquo;] \n[] \n[Local News] # Round Rock-based Dell reverses remote work policy, mandates in-office presence by March\nThe announcement co"
+      },
+      {
+        "title": "Salesforce mandates October return to office for most employees as layoffs continue",
+        "url": "https://sfstandard.com/2024/07/17/salesforce-pressures-its-workers-back-to-the-office-as-layoffs-continue/",
+        "published": "2024-07-17T00:00:00.000Z",
+        "excerpt": "Salesforce mandates October return to office for most employees as layoffs continue\nADVERTISEMENT\n[Skip to main content] \nOpen search bar and full menu\n[![The San Francisco Standard]] \n[Business] # Salesforce mandates October return to office for most employees as layoffs continue\nUsing soft language and a scary dashboard, the company says it is prioritizing \u201cin-person connection.\u201d\n![A tall, modern skyscraper topped with blue lights stands prominently in a nighttime cityscape, with a lit suspens"
+      },
+      {
+        "title": "Salesforce\u2019s Hybrid Work Guidelines",
+        "url": "https://www.salesforce.com/news/stories/hybrid-work-guidelines/",
+        "published": "2024-07-09T00:00:00.000Z",
+        "excerpt": "Salesforce\u2019s Hybrid Work Guidelines - Salesforce[\nSkip to Content\n] \n[\nSkip to Footer\n] \n0%\n# Salesforce\u2019s Hybrid Work Guidelines\n![] \n![] \n![] \nJuly 9, 20241 min read\nSalesforce is a place where connection and relationships drive success. We believe being together in person deepens relationships, sparks innovation, fosters learning, and strengthens culture \u2014ultimately, resulting in better business outcomes for our customers and for us.\nWe have always had a hybrid approach, which provides flexib"
+      },
+      {
+        "title": "Salesforce Work-From-Home Party Is Over, Employees Required to Be in Office Three to Five Days a Week",
+        "url": "https://sfist.com/2024/07/17/salesforce-work-from-home-party-is-over-employees-required-to-be-in-office-three-to-five-days-a-week",
+        "published": "2024-07-17T20:03:58.000Z",
+        "excerpt": "Salesforce Work-From-Home Party Is Over, Employees Required to Be in Office Three to Five Days a Week\n[\n* News] [\n* Politics] [\n* Business &amp; Tech] [\n* Sports] [\n* Food &amp; Drink] [\n* Arts &amp; Entertainment] [\n* Contact] \n17 July 2024/[Business &amp; Tech] /[Joe Kukura] \n# Salesforce Work-From-Home Party Is Over, Employees Required to Be in Office Three to Five Days a Week\nSF\u2019s largest private employer, Salesforce, is bringing the hammer down on its pajama-clad workers who\u2019ve gotten used "
+      },
+      {
+        "title": "San Francisco: Sweeping Salesforce changes are on the way",
+        "url": "https://www.ktvu.com/news/san-francisco-sweeping-salesforce-changes-way",
+        "published": "2024-07-17T00:00:00.000Z",
+        "excerpt": "Salesforce return to work | KTVU FOX 2\n[![KTVU FOX 2 San Francisco]![KTVU FOX 2 San Francisco]] \n[Watch Live] \n[Expand / Collapse search] \n[\u2630] \nSearch site\n# San Francisco: Sweeping Salesforce changes are on the way\n**By**[Tori Gaines] \n**Updated**July 17, 2024 1:21pm PDT\n[News] \n[KTVU FOX 2] \nShare\n* [Copy Link] \n* [Email] \n* [Facebook] \n* [Twitter] \n* [LinkedIn] \n* [Reddit] \n[] [] \n![Salesforce laid off 300 employees] \n#### [Salesforce laid off 300 employees] \nSalesforces continues to reduce e"
+      },
+      {
+        "title": "Salesforce U-Turn on Hybrid Working: Return to Office Mandate Issued for Select Employees",
+        "url": "https://www.salesforceben.com/salesforce-u-turn-on-hybrid-working-return-to-office-mandate-issued-for-select-employees/#:~:text=Effective%20from%20October%201%2C%20employees,least%20three%20days%20a%20week.",
+        "published": "2024-07-25T00:00:00.000Z",
+        "excerpt": "Salesforce U-Turn on Hybrid Working: Return to Office Mandate Issued for Select Employees | Salesforce Ben\n\u2715[![]![]] \n[Skip to content] \n[![Salesforce Ben]] \n* [Events] \n* [Career] \n* [AppAssessor] \n* [Salesforce News] \n* [Articles by Role] \n## Articles by role:\n* [Admins] \n* [DevOps] \n* [Developers] \n* [Marketers] \n* [Consultants] \n* [Architects] \n* [Business Analysts] \n## Featured\n[\nThe Great Salesforce Job Market Reset\nBy Sasha Semjonova\nDecember 09, 2024\n] [\nHow to Avoid Bad Salesforce Partn"
+      },
+      {
+        "title": "",
+        "url": "https://www.bloomberg.com/news/articles/2022-12-01/salesforce-orders-some-workers-back-to-offices-as-growth-slows",
+        "published": "2022-12-01T00:00:00.000Z",
+        "excerpt": "[Technology] \n\nTalking Tech: Layoffs Hitting Tech Hard\n\nGift this article\n\nAdd us on Google\n\n[Contact us:\\\nProvide news feedback or report an error] \n\n[Confidential tip?\\\nSend a tip to our reporters] \n\n[Site feedback:\\\nTake our Survey] \n\nBy [Brody Ford] \n\nDecember 1, 2022 at 7:27 PM UTC\n\nSave\n\nTranslate\n\nThis article is for **subscribers only**.\n\n[Salesforce Inc.], one of the first tech companies to let employees work from anywhere, is requiring some sales workers to return to the office and abi"
+      },
+      {
+        "title": "Salesforce orders some workers back to the office as growth slows",
+        "url": "https://financialpost.com/fp-work/salesforce-orders-some-workers-back-to-office-growth-slows",
+        "published": null,
+        "excerpt": "Salesforce orders some workers back to office as growth slows | Financial Post\nAdvertisement oop\nStory continues below\nThis advertisement has not loaded yet, but your article continues below.\n[Skip to Content] \n[**FP West: Energy Insider: Go behind the oilpatch's closed doors in our new subscriber-exclusive newsletter.**Sign up now \\>\\>**FP West: Energy Insider: Go behind the oilpatch's closed doors in our new subscriber-exclusive newsletter.**Sign up now \\>\\>] \nSections\nSearchSearch financialpo"
+      },
+      {
+        "title": "Salesforce Reportedly Institutes \u20184 to 5 Days A Week\u2019 RTO Mandate",
+        "url": "https://www.uctoday.com/unified-communications/salesforce-reportedly-institutes-4-to-5-days-a-week-rto-mandate/",
+        "published": "2024-07-22T00:00:00.000Z",
+        "excerpt": "Salesforce Reportedly Institutes &#039;4 to 5 Days A Week&#039; RTO Mandate - UC Today\n[![UC Today]] Powering Productive Workplaces\u200b\n[] [] [] \n[Newsletter] [Sign In / Sign Up] \n[] [] \n[Home] \u2192Unified Communications &amp; Collaboration\n# Salesforce Reportedly Institutes &#8216;4 to 5 Days A Week&#8217; RTO Mandate\nAn internal Salesforce memo told employees they must return to their desks by October 1\n4\n![Salesforce Reportedly Institutes '4-5 Days A Week' RTO Mandate] \n[Unified Communications &amp"
+      },
+      {
+        "title": "Salesforce Reverses Course, Demands Some Workers Return To Office",
+        "url": "https://www.bisnow.com/national/news/office/salesforce-reverses-course-demands-worker-return-to-office-116638",
+        "published": "2022-12-02T17:33:18.000Z",
+        "excerpt": "Salesforce Reverses Course, Demands Some Workers Return To Office\n[SUBSCRIBE] \n[![Bisnow - (almost) never boring]] \n* [Home] \n* Choose your cityNationalAtlantaAustin - San AntonioBaltimoreBostonCharlotteChicagoDallas-Fort WorthDenverDublinHoustonLondonLos AngelesNew YorkOaklandPhiladelphiaPhoenixRaleigh/DurhamSan FranciscoSouth FloridaWashington, D.C.Cities\n* [Events] \n* [Calendar] \n* [Educational Workshops] \n* [First Draft Live] \n* [Elevate] \n* [Ascent] \n* [Escape] \n* [Apply to Speak] \n* [Spons"
+      },
+      {
+        "title": "Salesforce is pushing sales employees back to the office as tech slumps",
+        "url": "https://sfstandard.com/2022/12/01/salesforce-is-pushing-sales-employees-back-to-the-office-as-tech-slumps/",
+        "published": "2022-12-01T00:00:00.000Z",
+        "excerpt": "Salesforce is pushing sales employees back to the office as tech slumps\nADVERTISEMENT\n[Skip to main content] \nOpen search bar and full menu\n[![The San Francisco Standard]] \n[Business] # Salesforce is pushing sales employees back to the office as tech slumps\nOn a Wednesday investor call, CEO Marc Benioff said that in-office work will be subject to \u201crebalancing.\u201d\n![] \nSalesforce co-CEO Marc Benioff chats with a student after speaking on a panel reflecting on the state of education in the Bay Area "
+      },
+      {
+        "title": "Facebook extends its work-at-home policy to most employees",
+        "url": "https://www.cnbc.com/2021/06/09/facebook-will-let-all-employees-who-can-work-remotely-to-request-full-time-remote-work.html",
+        "published": "2021-06-09T17:00:01.000Z",
+        "excerpt": "Facebook extends its work-at-home policy to most employees\n[Skip Navigation] \n[![CNBC]] \n[Markets] \n* [Pre-Markets] \n* [U.S. Markets] \n* [Currencies] \n* [Cryptocurrency] \n* [Futures &amp; Commodities] \n* [Bonds] \n* [Funds &amp; ETFs] \n[Business] \n* [Economy] \n* [Finance] \n* [Health &amp; Science] \n* [Media] \n* [Real Estate] \n* [Energy] \n* [Climate] \n* [Transportation] \n* [Investigations] \n* [Industrials] \n* [Retail] \n* [Wealth] \n* [Sports] \n* [Life] \n* [Small Business] \n[Investing] \n* [Personal "
+      },
+      {
+        "title": "Facebook says employees at all levels can request permanent, full-time remote work",
+        "url": "https://www.cnbc.com/2021/06/09/facebook-says-all-employees-can-request-permanent-remote-work.html",
+        "published": "2021-06-09T00:00:00.000Z",
+        "excerpt": "[Skip Navigation] \n\nRelated Stories\n\n- [WorkHow to move your career abroad, says\u00a0digital nomad who\u2019s been to 13 countries] \n- [WorkAmericans less satisfied with nearly every\u00a0aspect of their jobs than a year ago] \n- [Land the JobThe most in-demand work-from-anywhere jobs\u00a0companies are hiring for in 2024] \n- [WorkSummer Fridays are on the decline\u2014companies\u00a0may be replacing them with WFH days] \n- [WorkThe top 5 countries where companies are\u00a0scooping up American tech workers] \n\n![A giant digital sig"
+      },
+      {
+        "title": "Facebook says it will permanently shift tens of thousands of jobs to remote work",
+        "url": "https://www.theverge.com/facebook/2020/5/21/21265699/facebook-remote-work-shift-workforce-permanent-covid-19-mark-zuckerberg-interview",
+        "published": "2020-05-21T17:15:00.000Z",
+        "excerpt": "Facebook says it will permanently shift tens of thousands of jobs to remote work | The Verge\n[Skip to main content] \n[The homepageThe VergeThe Verge logo.] \n[The homepageThe VergeThe Verge logo.] \nHamburger Navigation Button\nNavigation Drawer\nThe VergeThe Verge logo.\n* [Login] \n/\n[Sign Up] closeClose\nSearch\n[Subscribe] \n* [Facebook] \n* [Threads] \n* [Instagram] \n* [Youtube] \n* [RSS] \nComments Drawer\nComments\nLoading comments\nGetting the conversation ready...\n* Facebook\nClose## Facebook\nPosts from"
+      },
+      {
+        "title": "Facebook remote working plan extended to all staff for long term",
+        "url": "https://www.bbc.com/news/technology-57425636",
+        "published": "2021-06-10T00:00:00.000Z",
+        "excerpt": "[Skip to content] \n\n[Home] \n\nNews\n\n[Sport] \n\nBusiness\n\nInnovation\n\nCulture\n\nArts\n\nTravel\n\nEarth\n\nAudio\n\n[Video] \n\nLive\n\n[Weather] \n\n[Newsletters] \n\n# Facebook remote working plan extended to all staff for long term\n\n10 June 2021\n\nShareSave\n\nShareSave\n\n![]![Getty Images Woman and dog working at home] Getty Images\n\n**Facebook will let all employees who can work away from the office do so after the Covid pandemic is over.**\n\nThe company has told employees \"anyone whose role can be done remotely can"
+      },
+      {
+        "title": "Facebook Will Allow Nearly All Employees To Work Remotely Post-Pandemic",
+        "url": "https://www.forbes.com/sites/carlieporterfield/2021/06/09/facebook-will-allow-nearly-all-employees-to-work-remotely-post-pandemic/",
+        "published": "2021-06-09T00:00:00.000Z",
+        "excerpt": "Facebook Will Allow Nearly All Employees To Work Remotely Post-Pandemic\n\nBy [Carlie Porterfield] \n\nShare\n\nSaveComment\n\n[Breaking] \n\n[Business] \n\n# Facebook Will Allow Nearly All Employees To Work Remotely Post-Pandemic\n\nBy [Carlie Porterfield],\n\nFormer Staff.\n\nI cover breaking news.\n\nJun 09, 2021, 02:39pm EDT\n\nShare\n\nSaveComment\n\nThis article is more than 3 years old.\n\n## Topline\n\nFacebook has shifted its remote work policy to let all of the company\u2019s full-time employees continue working from ho"
+      },
+      {
+        "title": "Facebook is 'opening up remote hiring aggressively' and expects half of its employees may be remote by 2030",
+        "url": "https://www.businessinsider.com/facebook-half-of-all-employees-remote-2030-2020-5",
+        "published": "2020-05-21T00:00:00.000Z",
+        "excerpt": "[Tech] \n\n# Facebook is 'opening up remote hiring aggressively' and expects half of its employees may be remote by 2030\n\nBy\n[Rob Price] \n\n![facebook ceo mark zuckerberg] \n\nFacebook CEO Mark Zuckerberg speaks at the Paley Center on Friday, Oct. 25, 2019 in New York.AP Photo/Mark Lennihan\n\n2020-05-21T17:37:51Z\n\nSaveSaved[Read in app] \n\nThis story is available exclusively to Business Insider\nsubscribers. [Become an Insider] \nand start reading now.Have an account? Log in.\n\n- **Facebook expects up to "
+      },
+      {
+        "title": "Mark Zuckerberg on taking his massive workforce remote",
+        "url": "https://www.theverge.com/2020/5/21/21265780/facebook-remote-work-mark-zuckerberg-interview-wfh",
+        "published": "2020-05-21T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[The homepageThe VergeThe Verge logo.] \n\n[The homepageThe VergeThe Verge logo.] \n\nMenuExpand\n\nNavigation Drawer\n\nThe VergeThe Verge logo.\n\n- [Login] \n/\n[Sign Up] \n\ncloseClose\n\nSearch\n\n[Subscribe] \n\n- [Facebook] \n- [Threads] \n- [Instagram] \n- [Youtube] \n- [RSS] \n\nComments Drawer\n\n- [Tech] \n\n# Mark Zuckerberg on taking his massive workforce remote\n\n\u2018We\u2019re going to be the most forward-leaning company on remote work at our scale\u2019\n\nby[Casey Newton] \n\nMay 21, 2020, 5:15 PM UTC"
+      },
+      {
+        "title": "Twitter to let some employees to work from home permanently",
+        "url": "https://www.reuters.com/article/us-health-coronavirus-twitter/twitter-to-let-some-employees-to-work-from-home-permanently-idUSKBN22O2S8/",
+        "published": "2020-05-13T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[Exclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv] \n\n![FILE PHOTO: The Twitter App loads on an iPhone in this illustration photograph] \n\nFILE PHOTO: The Twitter App loads on an iPhone in this illustration photograph taken in Los Angeles, California, U.S., July 22, 2019. REUTERS/Mike Blake/File Photo [Purchase Licensing\u00a0RightsNew Tab, opens new tab] \n\n(Reuters) - Twitter Inc on Tuesday became the first major tech company to al"
+      },
+      {
+        "title": "The new work-from-home policies at Facebook, Twitter, Apple and more",
+        "url": "https://www.cnet.com/culture/the-new-work-from-home-policies-at-facebook-twitter-apple-and-more/",
+        "published": "2020-05-29T12:00:00.000Z",
+        "excerpt": "The new work-from-home policies at Facebook, Twitter, Apple and more - CNET\nX\n* Culture\n# The new work-from-home policies at Facebook, Twitter, Apple and more\nTech giants are typically known for expecting all employees to be at their desks each day. That may permanently change with the coronavirus.\n![Headshot of Ian Sherr] \n![Headshot of Ian Sherr] \nIan SherrContributor and Former Editor at Large / News\nIan Sherr (he/him/his) grew up in the San Francisco Bay Area, so he&apos;s always had a conne"
+      },
+      {
+        "title": "Facebook's Zuckerberg embraces remote work beyond Silicon Valley",
+        "url": "https://www.reuters.com/article/us-health-coronavirus-facebook/facebooks-zuckerberg-embraces-remote-work-outside-silicon-valley-idUSKBN22X2G4/",
+        "published": "2020-05-22T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[Exclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv] \n\nSAN FRANCISCO (Reuters) - Facebook Inc will permanently embrace remote work even after coronavirus lockdowns ease, Chief Executive Mark Zuckerberg said on Thursday, accelerating the tech sector's geographic diversification away from its home in Silicon Valley.\n\nZuckerberg said the world's largest social network would start \"aggressively opening up remote hiring\" in July, ex"
+      }
+    ],
+    "search_queries": [
+      "Search #1: Fortune 500 companies remote work policies 2020-2024 trends ...",
+      "Search #2: Fortune 500 return to office mandates 2023 2024 hybrid work ...",
+      "Search #3: corporate remote work policy changes pandemic 2020 2021 2022...",
+      "Search #4: Amazon Google Microsoft Meta return to office mandate 2024...",
+      "Search #5: Fortune 500 remote work statistics percentage 2020 2021 2022...",
+      "Search #6: Dell UPS Salesforce return to office policy 2023 2024...",
+      "Search #7: Salesforce Slack remote work policy 2023 2024 return to offi...",
+      "Search #8: Fortune 500 companies permanent remote work policy 2020 2021..."
+    ],
+    "search_count": 8,
+    "time_seconds": 72.38115811347961
+  },
+  "claude": {
+    "analysis_text": "I'll search for information about remote work policy trends among Fortune 500 companies from 2020-2024.Let me continue searching for more specific information about the trends and data.Now I have gathered sufficient information from 10 searches. Let me compile the analysis in the requested format.\n\n---\n\n## 1. KEY FINDINGS\n\n### 2020: Pandemic Forces Rapid Shift to Remote Work\n\n**Claim:** Remote work among workers whose jobs could be done from home skyrocketed from 20% pre-pandemic to 71% by October 2020.\n**Quote:** \"only 20% of workers whose jobs could be done from home worked remotely some or all of the time prior to the pandemic\u2014a number that skyrocketed to 71% by October 2020\"\n**Source:** https://www.staffing.com/fortune-500-ceos-remote-work/\n\n**Claim:** More than half of the total US workforce was working remotely in April 2020.\n**Quote:** \"more than half of the total US workforce was remote in April 2020\"\n**Source:** https://www.staffing.com/fortune-500-ceos-remote-work/\n\n### 2021-2022: Initial Return-to-Office Attempts\n\n**Claim:** Fortune 500 companies began implementing early return-to-office policies in 2022, with Apple requiring employees in office at least one day per week starting April 2022.\n**Quote:** \"Starting April 11, Apple employees will be required to work from the office at least one day a week\"\n**Source:** https://deadline.com/2022/03/apple-google-twitter-set-return-to-work-policies-1234972162/\n\n**Claim:** Goldman Sachs implemented a five-day return-to-office mandate starting February 1, 2022, though only 50% of employees initially showed up.\n**Quote:** \"on the RTO day only 5,000 of the 10,000 (50%) employees that work at New York City headquarters showed up\"\n**Source:** https://buildremote.co/return-to-office/goldman-sachs/\n\n### 2023: Hybrid Work Becomes Dominant Model\n\n**Claim:** At the end of 2023, 78% of Fortune 100 desk workers were hybrid and only 5% were in-office five days a week.\n**Quote:** \"In 2023, only 5% of those employees were completely RTO\"\n**Source:** https://finance.yahoo.com/news/first-time-since-covid-more-181959713.html\n\n**Claim:** Meta announced in June 2023 that office-based workers must return three days per week starting September 2023.\n**Quote:** \"In June 2023, Meta announced a change of policy that would require all office-based workers to return to their respective offices for at least three days a week, effective from September 5\"\n**Source:** https://tech.co/news/companies-ended-fully-remote-work-2024\n\n**Claim:** Eight in ten Fortune 500 CHROs reported no plans to decrease remote work flexibility heading into 2024.\n**Quote:** \"eight in 10 chief human resources officers (CHROs) from Fortune 500 companies reported no plans to decrease remote work flexibility in the upcoming year\"\n**Source:** https://allwork.space/2023/10/remote-work-era-to-endure-through-2024-say-fortune-500-chros/\n\n### 2024: Aggressive Return-to-Office Mandates Accelerate\n\n**Claim:** As of October 2024, 57% of Fortune 500 companies (284 companies) have publicly shared their workplace policies.\n**Quote:** \"284 of the Fortune 500 companies, representing 57% of this group, have publicly shared their workplace policies\"\n**Source:** https://techrseries.com/remote-and-virtual-work/buildremote-unveils-comprehensive-research-on-fortune-500-return-to-office-policies/\n\n**Claim:** Among Fortune 500 companies with declared policies, 86% adopted hybrid work schedules as of October 2024.\n**Quote:** \"86%, of companies with a declared policy are adopting a hybrid work schedule\"\n**Source:** https://techrseries.com/remote-and-virtual-work/buildremote-unveils-comprehensive-research-on-fortune-500-return-to-office-policies/\n\n**Claim:** Only 19 Fortune 500 companies require employees in the office five days a week.\n**Quote:** \"Only 19 companies require employees to be in the office five days a week\"\n**Source:** https://techrseries.com/remote-and-virtual-work/buildremote-unveils-comprehensive-research-on-fortune-500-return-to-office-policies/\n\n**Claim:** Forty Fortune 500 companies have embraced fully remote policies.\n**Quote:** \"40 companies have embraced a fully remote policy, allowing employees to work from anywhere without mandatory office days\"\n**Source:** https://techrseries.com/remote-and-virtual-work/buildremote-unveils-comprehensive-research-on-fortune-500-return-to-office-policies/\n\n**Claim:** Amazon announced in September 2024 that all corporate employees must return to office five days a week starting January 2, 2025.\n**Quote:** \"Amazon CEO Andy Jassy sent a new memo instructing corporate employees to come into the office five days per week\"\n**Source:** https://buildremote.co/companies/companies-requiring-5-days-in-office/\n\n**Claim:** Fully remote roles sharply declined from 21% in 2023 to just 7% in 2024.\n**Quote:** \"fully remote roles sharply declined\u2013 from 21% in 2023 to just 7% in 2024\"\n**Source:** https://www.mitel.com/blog/the-state-of-work-in-2024\n\n**Claim:** Hybrid work with at least three days in office became dominant, with 53% of companies requiring this in 2024.\n**Quote:** \"hybrid work emerged as the dominant model, with 53% of companies requiring employees to work in the office at least three days a week\"\n**Source:** https://www.mitel.com/blog/the-state-of-work-in-2024\n\n### 2024: RTO Mandates Drive Employee Turnover\n\n**Claim:** Companies implementing RTO mandates saw a 14% spike in departure rates compared to pre-RTO baselines.\n**Quote:** \"companies see a 14% jump in the rate of departures following an RTO implementation compared to their pre-RTO baselines\"\n**Source:** https://fortune.com/2024/12/11/return-to-office-mandate-employees-study/\n\n**Claim:** RTO mandates disproportionately drove out women, mid- to top-level managers, and highly skilled workers.\n**Quote:** \"the people who left the company were more likely to be women, mid- to top-level managers, and those with more skills listed on their LinkedIn profiles\"\n**Source:** https://fortune.com/2024/12/11/return-to-office-mandate-employees-study/\n\n**Claim:** The University of Pittsburgh study found 54 S&P 500 companies implemented RTO mandates between April 2020 and June 2023.\n**Quote:** \"From a universe of 54 companies in the S&P 500 that implemented RTO mandates between April 2020 and June 2023\"\n**Source:** https://fortune.com/2024/12/11/return-to-office-mandate-employees-study/\n\n**Claim:** Eighty percent of companies admitted they lost talent due to RTO policies.\n**Quote:** \"8 in 10 companies say they lost talent due to RTO policies\"\n**Source:** https://archieapp.co/blog/return-to-office-statistics/\n\n**Claim:** One in four executives admitted they hoped RTO mandates would cause voluntary turnover.\n**Quote:** \"One in four (25%) VP and C-suite executives and one in five (18%) HR pros admit they hoped for some voluntary turnover during an RTO\"\n**Source:** https://www.bamboohr.com/resources/data-at-work/data-stories/2024-return-to-office\n\n### 2025: Fortune 100 Companies Lead Full RTO Push\n\n**Claim:** For the first time since COVID, more than half of Fortune 100 desk workers are mandated to work fully in-office as of 2025.\n**Quote:** \"For the first time since the onset of COVID, more than half of Fortune 100 desk workers have workplaces with fully in-office policies\"\n**Source:** https://finance.yahoo.com/news/first-time-since-covid-more-181959713.html\n\n**Claim:** Fortune 100 companies now require workers in office an average of 3.8 days per week compared to 2.6 days in 2023.\n**Quote:** \"companies require workers in the office an average of 3.8 days a week compared to 2.6 days in 2023\"\n**Source:** https://finance.yahoo.com/news/first-time-since-covid-more-181959713.html\n\n**Claim:** JPMorgan Chase mandated all employees return to office five days per week starting March 2025.\n**Quote:** \"those currently working on hybrid schedules will be mandated to return to the office five days a week starting in March\"\n**Source:** https://www.wfaa.com/article/money/business/jpmorgan-chase-ends-remote-hybrid-work-mandates-employees-return-to-office/287-68a89f54-0958-48c4-a232-4f756f15c8f7\n\n**Claim:** Dell announced in February 2025 that employees near offices must work in-office five days per week starting March 2025.\n**Quote:** \"Dell's CEO Michael Dell made the announcement that all employees living close to a Dell office will be expected to work in-office for 5 days per week from March 2025\"\n**Source:** https://hubblehq.com/blog/famous-companies-workplace-strategies\n\n**Claim:** However, the broader U.S. workforce with remote-capable jobs maintained hybrid status quo with 51% hybrid in 2025 versus 52% in 2023.\n**Quote:** \"51% working hybrid in 2025 compared to 52% in May 2023, 28% working exclusively remote compared to 29% in May 2023\"\n**Source:** https://finance.yahoo.com/news/first-time-since-covid-more-181959713.html\n\n### **[INFERENCE]** The data reveals a clear divergence: Fortune 100 companies aggressively pushed full RTO while smaller companies and the broader workforce maintained hybrid flexibility, suggesting company size and resources are key factors in RTO implementation.\n\n## 2. SOURCE QUALITY ASSESSMENT\n\n**High-Quality Sources:**\n- University of Pittsburgh peer-reviewed research analyzing 3 million LinkedIn profiles provides strong empirical evidence on RTO impacts\n- Gallup polling data offers representative workforce surveys\n- BuildRemote's Fortune 500 RTO Tracker provides comprehensive policy documentation updated monthly\n- Fortune, Bloomberg, CNBC provide verified business reporting on major company announcements\n\n**Moderate-Quality Sources:**\n- Industry-specific publications (HR Dive, Tech.co) offer useful trend analysis but may have selective coverage\n- Company-specific announcements and internal memos provide direct policy information but represent management perspectives\n- Resume Builder and BambooHR surveys provide employee sentiment but sample sizes and methodologies vary\n\n**Limitations:**\n- Some sources cite overlapping data (e.g., multiple outlets reporting the same University of Pittsburgh study)\n- Real-time policy enforcement data is harder to verify than announcements\n- Employee sentiment surveys may have response bias\n- LinkedIn data may not capture all worker demographics equally\n\n## 3. GAPS OR CONTRADICTIONS\n\n**Major Gaps:**\n- **Industry-specific breakdown:** Limited data on how RTO policies varied by sector (tech vs. finance vs. retail vs. manufacturing) within Fortune 500\n- **International operations:** Almost all data focuses on U.S. policies; Fortune 500 companies' international RTO policies are rarely mentioned\n- **Enforcement vs. announcement:** Gap between announced policies and actual enforcement (e.g., Amazon's space constraints in December 2024)\n- **Productivity metrics:** Conflicting or absent hard data on actual productivity changes post-RTO\n- **Small/mid-cap companies:** Research heavily focused on Fortune 100-500; less data on companies outside this range\n\n**Notable Contradictions:**\n- **2023 predictions vs. 2024-2025 reality:** In 2023, 80% of Fortune 500 CHROs said they wouldn't decrease flexibility, yet 2024-2025 saw aggressive RTO mandates from major players\n- **CEO statements:** Dell's CEO said in 2021 remote work is \"absolutely here to stay\" but mandated five-day RTO in 2024\n- **Productivity claims:** Companies cite productivity as RTO rationale, but research shows no clear productivity gains and employee satisfaction declined\n\n**Temporal Inconsistencies:**\n- The \"three days in office\" standard emerged as dominant in 2023-2024 but is now shifting toward full five-day mandates for Fortune 100 companies by 2025\n- Employee preferences remained stable (favoring hybrid) while company policies swung from remote-friendly to office-mandatory\n\n## 4. RECOMMENDED NEXT STEPS\n\n**For Deeper Research:**\n\n1. **Industry-specific analysis:** Search for sector-by-sector breakdown of RTO policies (e.g., \"tech companies RTO 2024\" vs. \"financial services RTO 2024\" vs. \"healthcare Fortune 500 remote work\")\n\n2. **Productivity data:** Look for empirical studies measuring actual output/revenue/profit changes pre- and post-RTO at specific companies\n\n3. **Geographic variation:** Research how policies differ by company headquarters location and regional offices (e.g., Silicon Valley vs. New York vs. Texas)\n\n4. **Demographic impact:** Investigate RTO effects on specific groups: working parents, disability accommodations, different age cohorts\n\n5. **Real estate data:** Examine commercial real estate trends, office space reduction/expansion among Fortune 500 companies 2020-2024\n\n6. **Compensation changes:** Research whether companies adjusted salaries/benefits when implementing RTO mandates\n\n7. **Long-term outcomes:** Follow companies that implemented RTO in 2022-2023 to measure 2-3 year impacts on retention, hiring, culture\n\n8. **Competitive advantage:** Compare financial performance of companies with strict RTO vs. flexible policies\n\n9. **Technology adoption:** Research investment in collaboration tools, monitoring software, and hybrid work infrastructure\n\n10. **Legal challenges:** Search for lawsuits, labor disputes, or regulatory issues arising from RTO mandates",
+    "sources": [
+      {
+        "title": "Fortune 500 Return To Office Tracker [JAN 2026]",
+        "url": "https://buildremote.co/companies/return-to-office/",
+        "page_age": "1 week ago"
+      },
+      {
+        "title": "Remote/Hybrid Work Policies at Fortune 500 Companies",
+        "url": "https://www.crossover.com/resources/remote-hybrid-work-policies-at-fortune-500-companies",
+        "page_age": null
+      },
+      {
+        "title": "Buildremote Unveils Comprehensive Research on Fortune 500 Return-to-Office Policies",
+        "url": "https://techrseries.com/remote-and-virtual-work/buildremote-unveils-comprehensive-research-on-fortune-500-return-to-office-policies/",
+        "page_age": "October 28, 2024"
+      },
+      {
+        "title": "Remote Work Era To Endure Through 2024, Say Fortune 500 CHROs",
+        "url": "https://allwork.space/2023/10/remote-work-era-to-endure-through-2024-say-fortune-500-chros/",
+        "page_age": "March 20, 2024"
+      },
+      {
+        "title": "2024's Top Fortune 500 Employers for Fully Remote Jobs: Virtual Vocations Names Workplace Innovators",
+        "url": "https://www.prweb.com/releases/2024s-top-fortune-500-employers-for-fully-remote-jobs-virtual-vocations-names-workplace-innovators-302327825.html",
+        "page_age": "December 10, 2024"
+      },
+      {
+        "title": "Fully Remote Jobs With Large Employers: 25 Fortune 500 Companies To Watch in 2024 - Remote Work From Home Job Search Tips and Advice",
+        "url": "https://www.virtualvocations.com/blog/annual-statistical-remote-work-reports/fully-remote-jobs-with-large-employers-25-fortune-500-companies-to-watch-in-2024/",
+        "page_age": "June 12, 2024"
+      },
+      {
+        "title": "Return-to-office mandates are associated with an exodus of high performers, research finds | Fortune",
+        "url": "https://fortune.com/2024/12/11/return-to-office-mandate-employees-study/",
+        "page_age": "December 17, 2024"
+      },
+      {
+        "title": "25 Fortune 500 Companies That Hire Remote Workers",
+        "url": "https://aijobs.ai/blog/fortune-500-hiring-remote-workers",
+        "page_age": null
+      },
+      {
+        "title": "Fortune 500 Executives on Remote Work: Then and Now",
+        "url": "https://www.staffing.com/fortune-500-ceos-remote-work/",
+        "page_age": "July 22, 2024"
+      },
+      {
+        "title": "Here are the Fortune 500 RTO (return to office) policies ...",
+        "url": "https://www.linkedin.com/posts/henryoloughlin_here-are-the-fortune-500-rto-return-to-office-activity-7323818565566922752-Ikk0",
+        "page_age": null
+      },
+      {
+        "title": "Fortune 500 Return To Office Tracker [JAN 2026]",
+        "url": "https://buildremote.co/companies/return-to-office/",
+        "page_age": "1 week ago"
+      },
+      {
+        "title": "Return-to-office mandates are associated with an exodus of high performers, research finds | Fortune",
+        "url": "https://fortune.com/2024/12/11/return-to-office-mandate-employees-study/",
+        "page_age": "December 17, 2024"
+      },
+      {
+        "title": "For the first time since COVID, more than half of Fortune 100 desk workers are mandated to fully return to work, report finds | Fortune",
+        "url": "https://fortune.com/2025/07/18/return-to-office-hybrid-work-fortune-100-companies/",
+        "page_age": "July 23, 2025"
+      },
+      {
+        "title": "CEOs will finally admit next year that return-to-office mandates didn\u2019t move the productivity needle, future of work experts predict | Fortune",
+        "url": "https://fortune.com/2023/12/26/return-to-office-mandates-no-productivity-impact-experts-predict/",
+        "page_age": "December 27, 2023"
+      },
+      {
+        "title": "Companies requiring a strict return-to-office risk losing their most skilled employees, new research finds | Fortune",
+        "url": "https://fortune.com/2024/12/13/return-to-office-mandate-risk-losing-top-performers-study/",
+        "page_age": "December 13, 2024"
+      },
+      {
+        "title": "RTO: Return-To-Office Statistics, Research & Trends [2026]",
+        "url": "https://archieapp.co/blog/return-to-office-statistics/",
+        "page_age": "December 16, 2025"
+      },
+      {
+        "title": "For the first time since COVID, more than half of Fortune 100 desk workers are mandated to fully return to work, report finds",
+        "url": "https://finance.yahoo.com/news/first-time-since-covid-more-181959713.html",
+        "page_age": "July 18, 2025"
+      },
+      {
+        "title": "return to office",
+        "url": "https://fortune.com/tag/return-to-office/",
+        "page_age": null
+      },
+      {
+        "title": "Creating a return to office policy that works",
+        "url": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/returning-to-the-office-focus-more-on-practices-and-less-on-the-policy",
+        "page_age": "February 14, 2025"
+      },
+      {
+        "title": "33 Major Companies Requiring 5 Days In Office",
+        "url": "https://buildremote.co/companies/companies-requiring-5-days-in-office/",
+        "page_age": "September 5, 2025"
+      },
+      {
+        "title": "Hybrid Work in 2024 | 10 Important Statistics | OfficeSpace",
+        "url": "https://www.officespacesoftware.com/blog/hybrid-work-statistics-2024/",
+        "page_age": "March 19, 2025"
+      },
+      {
+        "title": "State of Hybrid Work 2024 | US Report",
+        "url": "https://owllabs.com/state-of-hybrid-work/2024",
+        "page_age": null
+      },
+      {
+        "title": "100+ Hybrid Work Statistics and Trends in 2024",
+        "url": "https://www.flexos.work/learn/hybrid-work-statistics-and-trends",
+        "page_age": null
+      },
+      {
+        "title": "Five Hybrid Work Trends to Watch in 2025 | Brian Elliott | MIT Sloan Management Review",
+        "url": "https://sloanreview.mit.edu/article/five-hybrid-work-trends-to-watch-in-2025/",
+        "page_age": null
+      },
+      {
+        "title": "24+ hybrid work statistics for the evolving workplace [2025] | Zoom",
+        "url": "https://www.zoom.com/en/blog/hybrid-work-statistics/",
+        "page_age": null
+      },
+      {
+        "title": "80+ Hybrid Work Statistics in 2026: Productivity & Preferences",
+        "url": "https://archieapp.co/blog/hybrid-workplace-stats/",
+        "page_age": "1 week ago"
+      },
+      {
+        "title": "17 Essential Hybrid Work Trends To Watch In 2024 (And Beyond)",
+        "url": "https://www.officernd.com/blog/hybrid-work-trends/",
+        "page_age": "June 4, 2024"
+      },
+      {
+        "title": "The Future at Work: Mapping Out 2024's Hybrid Work Trends",
+        "url": "https://www.theinstantgroup.com/en-us/breakthrough-insights/research-articles/the-future-at-work-mapping-out-2024s-hybrid-work-trends",
+        "page_age": null
+      },
+      {
+        "title": "The State of Work in 2025: Remote, Hybrid, and Return-to-Office Trends | Mitel",
+        "url": "https://www.mitel.com/blog/the-state-of-work-in-2024",
+        "page_age": null
+      },
+      {
+        "title": "Remote Work Statistics and Trends for 2025",
+        "url": "https://www.roberthalf.com/us/en/insights/research/remote-work-statistics-and-trends",
+        "page_age": "November 14, 2025"
+      },
+      {
+        "title": "Aboutamazon",
+        "url": "https://www.aboutamazon.com/news/company-news/ceo-andy-jassy-latest-update-on-amazon-return-to-office-manager-team-ratio",
+        "page_age": "September 16, 2024"
+      },
+      {
+        "title": "Amazon's 6th RTO Mandate Loses Steam [DEC 2024]",
+        "url": "https://buildremote.co/return-to-office/amazon/",
+        "page_age": "June 24, 2025"
+      },
+      {
+        "title": "KUOW - Culture-building or cost-cutting? Amazon's return-to-office order raises questions, fears",
+        "url": "https://www.kuow.org/stories/culture-building-or-cost-cutting-amazon-s-return-to-office-order-raises-questions-fears",
+        "page_age": "December 31, 2024"
+      },
+      {
+        "title": "Amazon\u2019s Return-to-Office Mandate Stirs Debate on Fairness \u00b7 Babson Thought & Action",
+        "url": "https://entrepreneurship.babson.edu/return-to-office/",
+        "page_age": "September 25, 2024"
+      },
+      {
+        "title": "Amazon tells employees to return to office five days a week",
+        "url": "https://www.cnbc.com/2024/09/16/amazon-jassy-tells-employees-to-return-to-office-five-days-a-week.html",
+        "page_age": "September 16, 2024"
+      },
+      {
+        "title": "How Amazon's new return-to-office rule may impact you",
+        "url": "https://komonews.com/news/local/amazon-return-to-office-policy-downtown-seattle-bellevue-employees-business-traffic-congestion-andy-jassy-ceo-jeff-bezos-puget-sound",
+        "page_age": "January 2, 2025"
+      },
+      {
+        "title": "Amazon 'will return to being in the office the way we were' before the pandemic, CEO tells employees \u2013 GeekWire",
+        "url": "https://www.geekwire.com/2024/amazon-will-return-to-being-in-the-office-the-way-we-were-before-the-pandemic-ceo-tells-employees/",
+        "page_age": "September 22, 2024"
+      },
+      {
+        "title": "This is the day Amazon's 'return to office' policy takes effect : NPR",
+        "url": "https://www.npr.org/2025/01/02/nx-s1-5237654/this-is-the-day-amazons-return-to-office-policy-takes-effect",
+        "page_age": "January 2, 2025"
+      },
+      {
+        "title": "Amazon tells employees to return to the office five days a week - The Washington Post",
+        "url": "https://www.washingtonpost.com/business/2024/09/16/amazon-return-to-office-five-days-week/",
+        "page_age": "September 16, 2024"
+      },
+      {
+        "title": "Amazon employees are 'rage-applying' as its return-to-office mandate looms\u2014experts say that's exactly what CEO Andy Jassy wants | Fortune",
+        "url": "https://fortune.com/article/amazon-return-to-office-rto-ceo-andy-jassy-layoffs/",
+        "page_age": "December 5, 2024"
+      },
+      {
+        "title": "Fully Remote Jobs at Meta You Can Apply for in September 2024",
+        "url": "https://tech.co/news/remote-jobs-at-meta-apply-september-2024",
+        "page_age": "September 28, 2024"
+      },
+      {
+        "title": "The Official List of Every Company\u2019s Back-to-Office Strategy | Hubble",
+        "url": "https://hubblehq.com/blog/famous-companies-workplace-strategies",
+        "page_age": "October 6, 2025"
+      },
+      {
+        "title": "Is Work From Home Dead? - Amazon, Apple, Google Set The Rules Your Company May Have to Follow | IBTimes UK",
+        "url": "https://www.ibtimes.co.uk/work-home-dead-amazon-apple-google-set-rules-your-company-may-have-follow-1765933",
+        "page_age": "3 weeks ago"
+      },
+      {
+        "title": "Hybrid Work Policies: Insights from Google's Approach",
+        "url": "https://www.insightful.io/blog/hybrid-work-policies-google",
+        "page_age": null
+      },
+      {
+        "title": "The Limits to Hybrid and Remote Work - Knowledge at Wharton",
+        "url": "https://knowledge.wharton.upenn.edu/article/the-limits-to-hybrid-and-remote-work/",
+        "page_age": "September 30, 2025"
+      },
+      {
+        "title": "Apple, Google, Twitter Set Back-To-Work Policies For Their Remote Employees",
+        "url": "https://deadline.com/2022/03/apple-google-twitter-set-return-to-work-policies-1234972162/",
+        "page_age": "March 6, 2022"
+      },
+      {
+        "title": "Google has officially changed its mind about remote work",
+        "url": "https://qz.com/google-remote-work-policy-reversal-ironic-1850520264",
+        "page_age": "April 25, 2024"
+      },
+      {
+        "title": "Can You Work From Anywhere at Apple in 2025? - Work From Anywhere",
+        "url": "https://wfa.team/blog/apple-remote-work-from-anywhere-policy/",
+        "page_age": "September 16, 2025"
+      },
+      {
+        "title": "Companies That Have Ended Fully Remote Work in 2024 and 2023",
+        "url": "https://tech.co/news/companies-ended-fully-remote-work-2024",
+        "page_age": "September 17, 2024"
+      },
+      {
+        "title": "Meta's new 'in-person time policy' will crack down on remote work rebels | Fortune",
+        "url": "https://fortune.com/2023/08/21/mark-zuckerberg-meta-return-to-office-three-days-week-fired-performance-review-termination/",
+        "page_age": "August 21, 2023"
+      },
+      {
+        "title": "Fortune 500 Executives on Remote Work: Then and Now",
+        "url": "https://www.staffing.com/fortune-500-ceos-remote-work/",
+        "page_age": "July 22, 2024"
+      },
+      {
+        "title": "Remote/Hybrid Work Policies at Fortune 500 Companies",
+        "url": "https://www.crossover.com/resources/remote-hybrid-work-policies-at-fortune-500-companies",
+        "page_age": null
+      },
+      {
+        "title": "50 Fortune 500 Companies With Remote Jobs | FlexJobs",
+        "url": "https://www.flexjobs.com/blog/post/fortune-500-companies-with-remote-jobs-v2",
+        "page_age": "February 6, 2025"
+      },
+      {
+        "title": "(PDF) Effects of Remote Working in Fortune 500 Global Companies",
+        "url": "https://www.researchgate.net/publication/367416974_Effects_of_Remote_Working_in_Fortune_500_Global_Companies",
+        "page_age": "January 25, 2023"
+      },
+      {
+        "title": "Buildremote Unveils Comprehensive Research on Fortune 500 Return-to-Office Policies",
+        "url": "https://techrseries.com/remote-and-virtual-work/buildremote-unveils-comprehensive-research-on-fortune-500-return-to-office-policies/",
+        "page_age": "October 28, 2024"
+      },
+      {
+        "title": "30 Big Companies That Hire Remote and Hybrid Workers | Careers | U.S. News",
+        "url": "https://careers.usnews.com/advice/articles/big-companies-that-hire-remote-workers",
+        "page_age": "October 14, 2024"
+      },
+      {
+        "title": "47+ New Remote Work Trends (2025-2030)",
+        "url": "https://joingenius.com/statistics/remote-work-trends/",
+        "page_age": "November 14, 2024"
+      },
+      {
+        "title": "For the first time since COVID, more than half of Fortune 100 desk workers are mandated to fully return to work, report finds | Fortune",
+        "url": "https://fortune.com/2025/07/18/return-to-office-hybrid-work-fortune-100-companies/",
+        "page_age": "July 23, 2025"
+      },
+      {
+        "title": "25 Fortune 500 Companies That Hire Remote Workers",
+        "url": "https://aijobs.ai/blog/fortune-500-hiring-remote-workers",
+        "page_age": null
+      },
+      {
+        "title": "Fortune 500 Return To Office Tracker [JAN 2026]",
+        "url": "https://buildremote.co/companies/return-to-office/",
+        "page_age": "1 week ago"
+      },
+      {
+        "title": "100+ Hybrid Work Statistics and Trends in 2024",
+        "url": "https://www.flexos.work/learn/hybrid-work-statistics-and-trends",
+        "page_age": null
+      },
+      {
+        "title": "Remote Work Statistics 2025: Trends and Factors",
+        "url": "https://pumble.com/learn/collaboration/remote-work-statistics/",
+        "page_age": "May 5, 2023"
+      },
+      {
+        "title": "24+ hybrid work statistics for the evolving workplace [2025] | Zoom",
+        "url": "https://www.zoom.com/en/blog/hybrid-work-statistics/",
+        "page_age": null
+      },
+      {
+        "title": "Hybrid Work in 2024 | 10 Important Statistics | OfficeSpace",
+        "url": "https://www.officespacesoftware.com/blog/hybrid-work-statistics-2024/",
+        "page_age": "March 19, 2025"
+      },
+      {
+        "title": "Unlock the Power of Hybrid Work: 30+ Surprising Statistics That Will Make You Rethink Your Workplace Strategy",
+        "url": "https://www.officernd.com/blog/hybrid-work-statistics/",
+        "page_age": "February 25, 2025"
+      },
+      {
+        "title": "19 Important Hybrid Working Statistics To Know Now (2026)",
+        "url": "https://www.apollotechnical.com/hybrid-working-statistics/",
+        "page_age": "2 weeks ago"
+      },
+      {
+        "title": "Fortune 500 Return To Office Tracker [JAN 2026]",
+        "url": "https://buildremote.co/companies/return-to-office/",
+        "page_age": "1 week ago"
+      },
+      {
+        "title": "80+ Hybrid Work Statistics in 2026: Productivity & Preferences",
+        "url": "https://archieapp.co/blog/hybrid-workplace-stats/",
+        "page_age": "1 week ago"
+      },
+      {
+        "title": "The 5 Biggest Reasons Fortune 500 Companies Are Adopting Hybrid Workplace Models",
+        "url": "https://www.linkedin.com/pulse/5-biggest-reasons-fortune-500-companies-adopting-hybrid-garnier",
+        "page_age": "August 16, 2021"
+      },
+      {
+        "title": "30 Essential Hybrid Work Statistics [2023]: Hybrid Work Model, Data, and Productivity - Zippia",
+        "url": "https://www.zippia.com/advice/hybrid-work-statistics/",
+        "page_age": "June 16, 2023"
+      },
+      {
+        "title": "The Official List of Every Company\u2019s Back-to-Office Strategy | Hubble",
+        "url": "https://hubblehq.com/blog/famous-companies-workplace-strategies",
+        "page_age": "October 6, 2025"
+      },
+      {
+        "title": "JPMorgan plans to order all staff back to office full-time | Employee Experience | HR Grapevine USA | News",
+        "url": "https://www.hrgrapevine.com/us/content/article/2025-01-08-jpmorgan-plans-to-order-all-staff-back-to-office-full-time",
+        "page_age": "April 3, 2025"
+      },
+      {
+        "title": "Which companies are enforcing five-day office returns? - Raconteur",
+        "url": "https://www.raconteur.net/talent-culture/which-companies-are-enforcing-office-returns",
+        "page_age": "September 12, 2025"
+      },
+      {
+        "title": "Goldman Sachs Releases 7th Return To Office Mandate | Buildremote",
+        "url": "https://buildremote.co/return-to-office/goldman-sachs/",
+        "page_age": "March 5, 2025"
+      },
+      {
+        "title": "Fortune 500 Return To Office Tracker [JAN 2026]",
+        "url": "https://buildremote.co/companies/return-to-office/",
+        "page_age": "1 week ago"
+      },
+      {
+        "title": "JPMorgan Chase CEO Jamie Dimon doubles down on return-to-office",
+        "url": "https://finance.yahoo.com/news/jpmorgan-boss-jamie-dimon-renews-130732433.html",
+        "page_age": "October 28, 2025"
+      },
+      {
+        "title": "JPMorgan Chase ends remote work, mandates employees return to office",
+        "url": "https://www.wfaa.com/article/money/business/jpmorgan-chase-ends-remote-hybrid-work-mandates-employees-return-to-office/287-68a89f54-0958-48c4-a232-4f756f15c8f7",
+        "page_age": null
+      },
+      {
+        "title": "JPMorgan Is Planning a Five-Day Return-to-Office Policy - Bloomberg",
+        "url": "https://www.bloomberg.com/news/newsletters/2025-01-07/jpmorgan-is-planning-a-five-day-return-to-office-policy",
+        "page_age": "January 7, 2025"
+      },
+      {
+        "title": "JPMorgan Faces Quantifiable Morale Drop Following Return-to-Office Mandate",
+        "url": "https://allwork.space/2025/06/jpmorgan-faces-quantifiable-morale-drop-following-return-to-office-mandate/",
+        "page_age": "June 11, 2025"
+      },
+      {
+        "title": "JPMorgan and Goldman Sachs want bankers back in the office 5 days a week, but one bank CEO says he only took his $4.2 million job on the condition he could work from home",
+        "url": "https://finance.yahoo.com/news/jpmorgan-goldman-sachs-want-bankers-133133513.html",
+        "page_age": "May 22, 2024"
+      },
+      {
+        "title": "RTO Mandates Lead to Higher Turnover, Recruiting Challenges",
+        "url": "https://www.shrm.org/topics-tools/news/employee-relations/rto-mandates-lead-to-higher-turnover--recruiting-challenges",
+        "page_age": "December 17, 2024"
+      },
+      {
+        "title": "RTO mandates lead to \u2018brain drain\u2019 attrition, researchers say | HR Dive",
+        "url": "https://www.hrdive.com/news/rto-mandates-lead-to-brain-drain-attrition/734989/",
+        "page_age": "December 9, 2024"
+      },
+      {
+        "title": "Companies Issuing RTO Mandates 'Lose Their Best Talent': Study - Slashdot",
+        "url": "https://slashdot.org/story/24/12/17/2052229/companies-issuing-rto-mandates-lose-their-best-talent-study",
+        "page_age": null
+      },
+      {
+        "title": "Companies issuing RTO mandates \u201close their best talent\u201d: Study",
+        "url": "https://werd.io/2024/companies-issuing-rto-mandates-lose-their-best-talent-study",
+        "page_age": null
+      },
+      {
+        "title": "RTO: Return-To-Office Statistics, Research & Trends [2026]",
+        "url": "https://archieapp.co/blog/return-to-office-statistics/",
+        "page_age": "December 16, 2025"
+      },
+      {
+        "title": "Do Return-to-Office Mandates Help or Hurt? | Aubrey Daniels International",
+        "url": "https://aubreydaniels.com/blog/do-return-to-office-mandates-help-or-hurt",
+        "page_age": null
+      },
+      {
+        "title": "The New Surveillance Era: Visibility Beats Productivity for RTO & Remote",
+        "url": "https://www.bamboohr.com/resources/data-at-work/data-stories/2024-return-to-office",
+        "page_age": null
+      },
+      {
+        "title": "The RTO Backfire: What the Data Says About Office Mandates \u2014 Radious",
+        "url": "https://hello.radious.pro/blog/rto-backfire-data-office-mandates",
+        "page_age": "March 4, 2025"
+      },
+      {
+        "title": "Want top talent and diversity? RTO mandates aren't the answer",
+        "url": "https://testdouble.com/insights/return-to-office-mandates-impact",
+        "page_age": "September 2, 2025"
+      },
+      {
+        "title": "Study: RTO mandates lead to high turnover rate - Sound & Video Contractor",
+        "url": "https://www.svconline.com/proav-today/study-rto-mandates-high-turnover",
+        "page_age": "December 19, 2024"
+      }
+    ],
+    "search_count": 0,
+    "time_seconds": 89.14812636375427
+  },
+  "metrics": {
+    "exa_traceability": 100.0,
+    "exa_supported": 19,
+    "exa_tier_a": 26,
+    "exa_tier_a_pct": 35.61643835616438,
+    "exa_cost": 0.1432,
+    "claude_traceability": 96.0,
+    "claude_supported": 24,
+    "claude_tier_a": 7,
+    "claude_tier_a_pct": 7.777777777777778,
+    "claude_cost": 0.5675
+  }
+}

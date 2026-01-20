@@ -1,0 +1,1024 @@
+{
+  "timestamp": "2026-01-20T00:24:41.777405",
+  "query": "Track political donations from crypto executives to members of Congress",
+  "query_category": "Follow-the-Money",
+  "app_type": "general",
+  "webset_category": null,
+  "search_type": "neural",
+  "num_results": 10,
+  "exa": {
+    "analysis_text": "Now let me compile the analysis based on the research I've gathered.\n\n## 1. KEY FINDINGS\n\n### Scale of Crypto Political Spending\n\n**Claim:** Crypto PACs raised over $197 million to influence 2024 elections, making them among the largest super PAC fundraisers.\n**Quote:** \"Cryptocurrency-focused political action committees have raised more than $197 million to influence 2024 elections.\"\n**Source:** https://www.followthecrypto.org/\n\n**Claim:** The Fairshake super PAC became the top-funded super PAC in the 2024 cycle, surpassing even MAGA-affiliated groups.\n**Quote:** \"Coinbase-led political action committee (PAC) Fairshake has raised more funds than any other super PAC in the 2024 United States election cycle\"\n**Source:** https://cointelegraph.com/news/crypto-super-pac-fairshake-top-funding-spot-beats-maga-open-secrets\n\n**Claim:** In total, crypto-related PACs and groups reeled in more than $245 million according to Federal Election Commission data.\n**Quote:** \"crypto-related PACs and other groups tied to the industry reeled in more than $245 million, according to Federal Election Commission data\"\n**Source:** https://www.cnbc.com/2024/11/23/how-tech-bros-bought-americas-most-pro-crypto-congress-ever.html\n\n### Major Corporate Donors\n\n**Claim:** Coinbase committed $25 million to the Fairshake super PAC in 2024, matching contributions from other major players.\n**Quote:** \"Centralized crypto exchange Coinbase has committed to donating $25 million and Silicon Valley venture fund Andreessen Horowitz has pledged another $23 million.\"\n**Source:** https://www.cnbc.com/2024/11/04/coinbase-a16z-contribute-78-million-to-pro-crypto-pac-for-2026-election.html\n\n**Claim:** Major contributors to crypto PACs include Coinbase, Ripple, and Andreessen Horowitz as the primary funders.\n**Quote:** \"Major contributors include Coinbase, Ripple, and Andreessen Horowitz.\"\n**Source:** https://en.wikipedia.org/wiki/Fairshake\n\n**Claim:** Crypto leaders initially poured $78 million into a super PAC war chest for the 2024 elections.\n**Quote:** \"Cryptocurrency industry leaders have poured $78 million into super PAC\"\n**Source:** https://www.axios.com/2023/12/18/crypto-super-pac-fairshake-2024-elections\n\n### Success Rate and Congressional Impact\n\n**Claim:** The crypto industry achieved a 91% success rate in backing winning candidates for Congress.\n**Quote:** \"the crypto industry's effort to steer policy with cash has resulted in a 91% success rate in U.S. election battles\"\n**Source:** https://finance.yahoo.com/news/crypto-cash-fueled-53-members-090000859.html\n\n**Claim:** Crypto spending supported 53 members of the next U.S. Congress.\n**Quote:** \"crypto industry's effort to steer policy with cash has resulted in a 91% success rate\"\n**Source:** https://www.coindesk.com/news-analysis/2024/12/02/crypto-cash-fueled-53-members-of-the-next-u-s-congress\n\n**Claim:** The crypto industry's $135 million campaign was undefeated in 48 races as of November 2024.\n**Quote:** \"Crypto's $135 Million Campaign Is Undefeated in 48 Races So Far\"\n**Source:** https://www.bloomberg.com/news/articles/2024-11-08/crypto-s-135-million-campaign-is-undefeated-in-48-races-so-far\n\n### Specific High-Profile Races\n\n**Claim:** The crypto industry spent $40 million supporting Bernie Moreno in the Ohio Senate race against Sherrod Brown.\n**Quote:** \"The crypto industry spent $40 million on the hotly contested Senate race.\"\n**Source:** https://cnbc.com/2024/11/05/bitcoiners-celebrate-as-bernie-moreno-ousts-sherrod-brown-ohio-upset.html\n\n**Claim:** Crypto PAC Fairshake spent more than $10 million opposing California Democrat Katie Porter in the Senate primary.\n**Quote:** \"more than $10 million of the super PAC's spending went toward opposing the California Democratic Senate\"\n**Source:** https://en.wikipedia.org/wiki/Fairshake\n\n**Claim:** Crypto firms spent over $134 million trying to elect dozens of allies to Congress through Fairshake and affiliated groups.\n**Quote:** \"A new political network funded by the cryptocurrency industry has spent more than $134 million trying to elect dozens of allies to Congress\"\n**Source:** https://www.washingtonpost.com/business/interactive/2024/crypto-firms-candidates-house-senate-election-2024/\n\n### Bipartisan Strategy\n\n**Claim:** Crypto PAC spending supported both Democrats and Republicans, with $70.9 million for Republicans and $48.3 million for Democrats.\n**Quote:** \"$48.3M Dem $70.9M\"\n**Source:** https://www.followthecrypto.org/\n\n### Sam Bankman-Fried Historical Donations\n\n**Claim:** Sam Bankman-Fried donated approximately $40 million to political campaigns during the 2022 cycle before FTX's collapse.\n**Quote:** \"Sam Bankman-Fried, the disgraced founder of the cryptocurrency exchange FTX, was a prolific political donor, pumping about $40 million this cycle\"\n**Source:** https://www.washingtonpost.com/business/2022/12/14/sbf-ftx-political-donations/\n\n**Claim:** FTX leaders continued making political donations exceeding $1 million even weeks before the company's bankruptcy.\n**Quote:** \"FTX leaders' political donations topped $1M weeks before bankruptcy\"\n**Source:** https://rollcall.com/2023/02/23/ftx-leaders-political-donations-topped-1m-weeks-before-bankruptcy/\n\n### Lobbying Expansion\n\n**Claim:** The number of cryptocurrency lobbyists nearly tripled since 2018, showing massive industry expansion in Washington.\n**Quote:** \"Number of Cryptocurrency Lobbyists Nearly Tripled Since 20\"\n**Source:** https://www.citizen.org/article/capitol-coin-cryptocurrency-lobbying-revolving-door-report/\n\n**Claim:** Major crypto firms are fighting to remake federal law with an expensive lobbying campaign touching all parts of American politics.\n**Quote:** \"Major crypto firms are fighting to remake federal law with an expensive lobbying campaign that has left no part of American politics untouched.\"\n**Source:** https://www.washingtonpost.com/business/2024/05/25/crypto-lobbying-politics-washington/\n\n### Future Plans\n\n**Claim:** Fairshake raised $78 million for the 2026 midterm elections, signaling continued heavy political involvement.\n**Quote:** \"The pro-crypto super PAC Fairshake says it's raised $78 million for the 2026 midterms.\"\n**Source:** https://www.cnbc.com/2024/11/04/coinbase-a16z-contribute-78-million-to-pro-crypto-pac-for-2026-election.html\n\n## 2. SOURCE QUALITY ASSESSMENT\n\n**Strengths:**\n- Multiple reputable mainstream sources (Washington Post, New York Times, Reuters, CNBC, Bloomberg, AP News)\n- Data from official tracking sites (OpenSecrets, FEC records, Follow the Crypto)\n- Consistent figures across multiple independent sources\n- Mix of investigative journalism and government data repositories\n\n**Limitations:**\n- Some excerpts were truncated, limiting full context\n- Follow the Crypto site noted it's being updated, suggesting some 2024 data may be outdated\n- Limited granular detail on individual Congress member recipients in search results\n- Some sources are crypto industry publications (CoinDesk, Cointelegraph) which may have favorable bias\n\n**Overall Assessment:** High reliability. The core facts about donation amounts and election outcomes are corroborated across multiple independent sources including government data, mainstream media, and specialized political finance trackers.\n\n## 3. GAPS OR CONTRADICTIONS\n\n**Key Gaps:**\n1. **Individual Congress Member Recipients:** While sources confirm 53+ Congress members were supported, specific names and amounts for most individual recipients weren't fully detailed in the excerpts\n2. **Direct vs. PAC Contributions:** Distinction between direct donations from executives versus super PAC spending not always clear\n3. **Return on Investment:** Limited data on specific policy outcomes or regulatory changes resulting from this spending\n4. **Dark Money Concerns:** Potential for additional undisclosed contributions through 501(c)(4) groups not fully explored\n5. **Specific Executive Donations:** Besides Bankman-Fried and Brian Armstrong mentions, limited detail on other crypto executives' personal contributions\n\n**Minor Contradictions:**\n- Total amounts vary slightly across sources ($197M, $245M) likely due to different cutoff dates and whether they include only PACs or broader crypto industry political spending\n- Some sources cite 48 races, others 53 Congress members - likely representing different counting methodologies or timing\n\n## 4. RECOMMENDED NEXT STEPS\n\n**For Deeper Investigation:**\n\n1. **Individual Recipient Analysis:** Search OpenSecrets and FEC databases for complete lists of Congress members who received crypto industry support with specific amounts\n\n2. **Policy Impact Assessment:** Research votes on crypto-related legislation (FIT21, stablecoin bills, SEC oversight) to correlate with donation recipients\n\n3. **Executive Personal Donations:** Track individual contributions from named crypto executives (Brian Armstrong, Chris Larsen, Cameron/Tyler Winklevoss) separate from corporate PAC spending\n\n4. **Revolving Door Analysis:** Investigate former Congress members or staffers who joined crypto companies, and crypto executives who entered government positions\n\n5. **Regulatory Outcomes:** Document specific regulatory actions or policy changes following the 2024 elections to measure crypto industry influence\n\n6. **Comparative Analysis:** Compare crypto industry political spending to other tech sectors or financial industries for context\n\n7. **2026 Preparation:** Monitor ongoing fundraising for 2026 midterms as sources indicate another $78M already committed\n\n**Specific Search Recommendations:**\n- FEC individual contribution records for Coinbase, Ripple employees\n- House and Senate votes on HR 4763 (FIT21) and crypto-related amendments\n- OpenSecrets detailed recipient lists for Fairshake PAC expenditures\n- Lobbying disclosure forms showing specific bill numbers and Congress members contacted",
+    "sources": [
+      {
+        "title": "OpenSecrets",
+        "url": "https://www.opensecrets.org/search?q=crypto",
+        "published": "2025-01-15T00:00:00.000Z",
+        "excerpt": "[Donate] \n\n## We follow the money. You make it possible.\n\n- $35\n- $50\n- $100\n- Other\n\nDonate Today\n\n\u00d7\n\n- [Skip to Navigation] \n- [Skip to Main Content] \n- [Skip to Footer] \n\n## $1 a year\n\nIf every user like you gave just $1 a year, we could sustain our mission of transparency **forever**.\n\n[Donate Now] \n\nOpenSecrets is 100% funded through the generosity of donors.\n\nDonate to OpenSecrets to help strengthen our democracy\n\n[$35] [$50] [$100] [Custom] \n\n[Help sustain our work] \n\nPoliticians\n\nBack\n\nF"
+      },
+      {
+        "title": "More than 50 Members of the Next U.S. Congress Backed by Crypto Spending",
+        "url": "https://www.coindesk.com/news-analysis/2024/12/02/crypto-cash-fueled-53-members-of-the-next-u-s-congress",
+        "published": "2024-12-02T00:00:00.000Z",
+        "excerpt": "[BTC\\\n\\\n$107,547.27\\\n\\\n1.54%] \n\n[ETH\\\n\\\n$3,759.46\\\n\\\n3.85%] \n\n[USDT\\\n\\\n$1.0001\\\n\\\n0.04%] \n\n[BNB\\\n\\\n$1,061.19\\\n\\\n0.41%] \n\n[XRP\\\n\\\n$2.3474\\\n\\\n4.24%] \n\n[SOL\\\n\\\n$178.93\\\n\\\n5.22%] \n\n[USDC\\\n\\\n$0.9998\\\n\\\n0.01%] \n\n[TRX\\\n\\\n$0.3191\\\n\\\n1.19%] \n\n[DOGE\\\n\\\n$0.1881\\\n\\\n4.18%] \n\n[ADA\\\n\\\n$0.6179\\\n\\\n5.04%] \n\n[LINK\\\n\\\n$17.03\\\n\\\n4.24%] \n\n[HYPE\\\n\\\n$35.00\\\n\\\n2.27%] \n\n[USDE\\\n\\\n$0.9993\\\n\\\n0.04%] \n\n[XLM\\\n\\\n$0.3046\\\n\\\n4.54%] \n\n[BCH\\\n\\\n$469.07\\\n\\\n3.09%] \n\n[WBT\\\n\\\n$40.82\\\n\\\n1.25%] \n\n[SUI\\\n\\\n$2.3657\\\n\\\n6.11%] \n\n[LEO\\\n\\\n$9.08"
+      },
+      {
+        "title": "How a crypto super PAC is trying to swing 2024",
+        "url": "https://www.politico.com/news/2023/11/20/crypto-super-pac-2024-candidates-00128032",
+        "published": "2023-11-20T00:00:00.000Z",
+        "excerpt": "Skip to Main Content\n\n- [![2024 elections horizontal logo]] \n- [What post-debate polls say] \n- [How Dem delegates feel] \n- [House Dems are scrambling] \n- [Trump\u2019s best VP options] \n\n## How a crypto super PAC is trying to swing 2024\n\nA new crypto-focused super PAC has pumped over $1.2 million into television ads supporting House candidates over the last two months.\n\n![Brian Armstrong gestures while speaking at a conference.] \n\nCoinbase CEO Brian Armstrong has pledged to personally donate $1 milli"
+      },
+      {
+        "title": "About | Follow the Crypto",
+        "url": "https://www.followthecrypto.org/about",
+        "published": "2024-05-30T00:00:00.000Z",
+        "excerpt": "This website is being updated to track ongoing Congressional activity and the 2026 midterm election cycles. Current data on the site reflects the 2024 election cycle and may be outdated; it will be updated soon.\n\n[FAQ] \\| [Contact] \n\n## About\n\nThe cryptocurrency industry has been throwing money into politics unlike ever before, and that\u2019s even _after_ political donations from the industry skyrocketed in the 2022 election cycle. Despite the relatively small size of the industry, it has become one"
+      },
+      {
+        "title": "Scoop: Crypto leaders build colossal $78 million war chest for 2024",
+        "url": "https://www.axios.com/2023/12/18/crypto-super-pac-fairshake-2024-elections",
+        "published": "2023-12-18T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\nDec 18, 2023 - [Politics & Policy] \n\n# Scoop: Crypto leaders build colossal $78 million war chest for 2024\n\n![headshot] \n\n- [Andrew Solender] \n\nShare on facebook (opens in new window)\n\nShare on twitter (opens in new window)\n\nShare on linkedin (opens in new window)\n\nShare on email (opens in new window)\n\n![Illustration of pixelated coins inside of a treasure chest. ] \n\nIllustration: Maura Losch/Axios\n\n[Cryptocurrency] industry leaders have poured $78 million into [super PA"
+      },
+      {
+        "title": "Follow the Crypto",
+        "url": "https://followthecrypto.org/",
+        "published": "2024-11-02T00:00:00.000Z",
+        "excerpt": "This website is being updated to track ongoing Congressional activity and the 2026 midterm election cycles. Current data on the site reflects the 2024 election cycle and may be outdated; it will be updated soon.\n\n\u2193\n\n# Follow the crypto\n\n\u2193\n\nCryptocurrency-focused political action committees have raised more than\n\n$197 million\n\nto influence 2024 elections.\n\nThey have spent more than\n\n$133 million\n\nof it so far.\n\n## All cryptocurrency PAC expenditures by party\n\n$0.0$20M$40M$60M$48.3M\n\nDem\n\n$70.9M\n\n"
+      },
+      {
+        "title": "US congressional races where crypto is hoping for big payoffs",
+        "url": "https://www.reuters.com/technology/us-congressional-races-where-crypto-is-hoping-big-payoffs-2024-11-08/",
+        "published": "2024-11-08T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[Exclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv] \n\n![Scenes on the day U.S. President Elect Donald Trump was declared the winner of the presidential eleciton in Washington, U.S.] \n\nA Trump supporter stands next to the Capitol Reflecting Pool near the U.S. Capitol building, the day U.S. President Elect Donald Trump was declared the winner of the presidential election in Washington, U.S., November 6, 2024. REUTERS/Leah Millis"
+      },
+      {
+        "title": "Press Release: New OpenSecrets profile examines crypto industry and influence on regulation - OpenSecrets News",
+        "url": "https://www.opensecrets.org/news/2023/07/crypto-industry-influence-on-regulation",
+        "published": "2023-07-11T00:00:00.000Z",
+        "excerpt": "[Donate] \n\n## We follow the money. You make it possible.\n\n- $35\n- $50\n- $100\n- Other\n\nDonate Today\n\n\u00d7\n\n- [Skip to Navigation] \n- [Skip to Main Content] \n- [Skip to Footer] \n\nYour Opinion Counts! [Take a quick survey to help make OpenSecrets even better. \u00a0\u203a] \n\n## Can you give just $1?\n\nYou are one of **7 million** annual visitors to OpenSecrets. If you each donated just $1 a year, we'd never worry about funding again.\n\n[Donate Now] \n\n**We run on donations!**\n\n[Open Secrets following the money in "
+      },
+      {
+        "title": "Influenced Elections | Follow the Crypto",
+        "url": "https://www.followthecrypto.org/elections",
+        "published": "2024-11-06T00:00:00.000Z",
+        "excerpt": "This website is being updated to track ongoing Congressional activity and the 2026 midterm election cycles. Current data on the site reflects the 2024 election cycle and may be outdated; it will be updated soon.\n\n# Elections\n\nThese PACs have already spent heavily to influence the outcome of multiple Congressional races.\n\n## Races influenced by crypto industry money\n\nPlaceholder for a missing image of person.\n\nPlaceholder for a missing image of person.\n\nPlaceholder for a missing image of person.\n"
+      },
+      {
+        "title": "How the Crypto Industry\u2019s Political Spending Is Paying Off",
+        "url": "https://www.nytimes.com/2025/04/12/technology/crypto-congress-financing-lobbying.html?searchResultPosition=6",
+        "published": "2025-04-12T00:00:00.000Z",
+        "excerpt": "[Technology] \\|How the Crypto Industry\u2019s Political Spending Is Paying Off\n\nhttps://www.nytimes.com/2025/04/12/technology/crypto-congress-financing-lobbying.html\n\n- Share full article\n\n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\nCredit...Timo Lenzen\n\nSupported by\n\n[SKIP ADVERTISEMENT] \n\nListen to this article \u00b7 9:11 min [Learn more] \n\n- Share full article\n\n\nBy [David Yaffe-Bellany] \n\nReporting from"
+      },
+      {
+        "title": "OpenSecrets",
+        "url": "https://www.opensecrets.org/search?q=crypto",
+        "published": "2025-01-15T00:00:00.000Z",
+        "excerpt": "[Donate] \n\n## We follow the money. You make it possible.\n\n- $35\n- $50\n- $100\n- Other\n\nDonate Today\n\n\u00d7\n\n- [Skip to Navigation] \n- [Skip to Main Content] \n- [Skip to Footer] \n\n## $1 a year\n\nIf every user like you gave just $1 a year, we could sustain our mission of transparency **forever**.\n\n[Donate Now] \n\nOpenSecrets is 100% funded through the generosity of donors.\n\nDonate to OpenSecrets to help strengthen our democracy\n\n[$35] [$50] [$100] [Custom] \n\n[Help sustain our work] \n\nPoliticians\n\nBack\n\nF"
+      },
+      {
+        "title": "More than 50 Members of the Next U.S. Congress Backed by Crypto Spending",
+        "url": "https://www.coindesk.com/news-analysis/2024/12/02/crypto-cash-fueled-53-members-of-the-next-u-s-congress",
+        "published": "2024-12-02T00:00:00.000Z",
+        "excerpt": "[BTC\\\n\\\n$107,547.27\\\n\\\n1.54%] \n\n[ETH\\\n\\\n$3,759.46\\\n\\\n3.85%] \n\n[USDT\\\n\\\n$1.0001\\\n\\\n0.04%] \n\n[BNB\\\n\\\n$1,061.19\\\n\\\n0.41%] \n\n[XRP\\\n\\\n$2.3474\\\n\\\n4.24%] \n\n[SOL\\\n\\\n$178.93\\\n\\\n5.22%] \n\n[USDC\\\n\\\n$0.9998\\\n\\\n0.01%] \n\n[TRX\\\n\\\n$0.3191\\\n\\\n1.19%] \n\n[DOGE\\\n\\\n$0.1881\\\n\\\n4.18%] \n\n[ADA\\\n\\\n$0.6179\\\n\\\n5.04%] \n\n[LINK\\\n\\\n$17.03\\\n\\\n4.24%] \n\n[HYPE\\\n\\\n$35.00\\\n\\\n2.27%] \n\n[USDE\\\n\\\n$0.9993\\\n\\\n0.04%] \n\n[XLM\\\n\\\n$0.3046\\\n\\\n4.54%] \n\n[BCH\\\n\\\n$469.07\\\n\\\n3.09%] \n\n[WBT\\\n\\\n$40.82\\\n\\\n1.25%] \n\n[SUI\\\n\\\n$2.3657\\\n\\\n6.11%] \n\n[LEO\\\n\\\n$9.08"
+      },
+      {
+        "title": "Crypto cash is flooding the 2024 election. Here\u2019s who\u2019s benefiting.",
+        "url": "https://www.washingtonpost.com/business/interactive/2024/crypto-firms-candidates-house-senate-election-2024/",
+        "published": "2024-10-18T10:05:59.000Z",
+        "excerpt": "Crypto cash is flooding the 2024 election. Here\u2019s who benefiting. - Washington Post\n# Crypto cash is flooding the 2024 election. Here\u2019s who\u2019s benefiting.\n(Illustration by Shira Inbar for The Washington Post)\nBy[Tony Romm] \n,\n[Eric Lau] \n,\n[Adriana Navarro] \nand\n[Kevin Schaul] \nOctober 18, 2024 at 6:05 a.m. EDT\n10 min\nSorry, a summary is not available for this article at this time. Please try again later.\nA new political network funded by the cryptocurrency industry has spent more than $134 milli"
+      },
+      {
+        "title": "Follow the Crypto",
+        "url": "https://www.followthecrypto.org/",
+        "published": "2024-11-02T00:00:00.000Z",
+        "excerpt": "This website is being updated to track ongoing Congressional activity and the 2026 midterm election cycles. Current data on the site reflects the 2024 election cycle and may be outdated; it will be updated soon.\n\n\u2193\n\n# Follow the crypto\n\n\u2193\n\nCryptocurrency-focused political action committees have raised more than\n\n$197 million\n\nto influence 2024 elections.\n\nThey have spent more than\n\n$133 million\n\nof it so far.\n\n## All cryptocurrency PAC expenditures by party\n\n$0.0$20M$40M$60M$48.3M\n\nDem\n\n$70.9M\n\n"
+      },
+      {
+        "title": "US congressional races where crypto is hoping for big payoffs",
+        "url": "https://www.reuters.com/technology/us-congressional-races-where-crypto-is-hoping-big-payoffs-2024-11-08/",
+        "published": "2024-11-08T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[Exclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv] \n\n![Scenes on the day U.S. President Elect Donald Trump was declared the winner of the presidential eleciton in Washington, U.S.] \n\nA Trump supporter stands next to the Capitol Reflecting Pool near the U.S. Capitol building, the day U.S. President Elect Donald Trump was declared the winner of the presidential election in Washington, U.S., November 6, 2024. REUTERS/Leah Millis"
+      },
+      {
+        "title": "About | Follow the Crypto",
+        "url": "https://www.followthecrypto.org/about",
+        "published": "2024-05-30T00:00:00.000Z",
+        "excerpt": "This website is being updated to track ongoing Congressional activity and the 2026 midterm election cycles. Current data on the site reflects the 2024 election cycle and may be outdated; it will be updated soon.\n\n[FAQ] \\| [Contact] \n\n## About\n\nThe cryptocurrency industry has been throwing money into politics unlike ever before, and that\u2019s even _after_ political donations from the industry skyrocketed in the 2022 election cycle. Despite the relatively small size of the industry, it has become one"
+      },
+      {
+        "title": "The crypto trio: How the cryptocurrency industry has made its mark on 2024 elections - OpenSecrets News",
+        "url": "https://www.opensecrets.org/news/2024/11/the-crypto-trio-how-the-cryptocurrency-industry-has-made-its-mark-on-2024-elections/",
+        "published": "2024-11-01T00:00:00.000Z",
+        "excerpt": "[Donate] \n\n## We follow the money. You make it possible.\n\n- $35\n- $50\n- $100\n- Other\n\nDonate Today\n\n\u00d7\n\n- [Skip to Navigation] \n- [Skip to Main Content] \n- [Skip to Footer] \n\n## $1 a year\n\nIf every user like you gave just $1 a year, we could sustain our mission of transparency **forever**.\n\n[Donate Now] \n\nOpenSecrets is 100% funded through the generosity of donors.\n\nDonate to OpenSecrets to help strengthen our democracy\n\n[$35] [$50] [$100] [Custom] \n\n[Help sustain our work] \n\nPoliticians\n\nBack\n\nF"
+      },
+      {
+        "title": "As crypto cash floods Washington, Congress eyes gentler regulations",
+        "url": "https://www.washingtonpost.com/business/2024/05/25/crypto-lobbying-politics-washington/",
+        "published": "2024-05-25T00:00:00.000Z",
+        "excerpt": "As crypto cash floods Washington, Congress eyes gentler regulations - The Washington Post\nDemocracy Dies in Darkness\n[Economic Policy] # As crypto cash floods Washington, Congress eyes gentler regulations\nMajor crypto firms are fighting to remake federal law with an expensive lobbying campaign that has left no part of American politics untouched.\nMay 25, 2024More than**1yearago**\n11 min\n![] \n(Maria Jesus Contreras for The Washington Post)\n![] \nBy[Tony Romm] \nCryptocurrency companies and investor"
+      },
+      {
+        "title": "",
+        "url": "https://www.cnn.com/2024/11/17/politics/crypto-industry-donald-trump-reelection/index.html",
+        "published": "2024-11-17T00:00:00.000Z",
+        "excerpt": "Ad Feedback\n\n# The crypto industry plowed tens of millions into the election. Now, it\u2019s looking for a return on that investment\n\n[![Fredreka Schouten]] \n\nBy [Fredreka Schouten], CNN\n\n7 minute read\n\nPublished\n5:00 AM EST, Sun November 17, 2024\n\nLink Copied!\n\nFollow:\n\nPACs[See your latest updates] \n\n![20241115-trump-crypto-GFX.jpg] \n\nIllustration: Ian Berry/CNN/Getty Images\n\nCNN\n\u2014\n\nThe cryptocurrency industry\u2019s leading super PACs plowed $131 million into congressional races this election cycle to "
+      },
+      {
+        "title": "FTX\u2019s Bankman-Fried donated about $40M this political cycle. Here\u2019s who benefited.",
+        "url": "https://www.washingtonpost.com/business/2022/12/14/sbf-ftx-political-donations/",
+        "published": "2022-12-14T00:00:00.000Z",
+        "excerpt": "Democracy Dies in Darkness\n\nBy [Isaac Stanley-Becker] \n,\n\n[Chris Zubak-Skees] \nand\n\n[Nick Mourtoupalas] \n\ncorrectionA previous version of a graphic in this story incorrectly identified Rep. Norma Torres (D-Calif.) as a recipient of political donations from Sam Bankman-Fried due to a data processing error. The recipient was Rep. Ritchie Torres (D-N.Y.).\n\nSam Bankman-Fried, the disgraced founder of the cryptocurrency exchange FTX, was a prolific political donor, pumping about $40 million this cycl"
+      },
+      {
+        "title": "Browse Individual contributions - FEC.gov",
+        "url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor\\_name=FTX&amp;contributor\\_name=FTX+US&amp;contributor\\_name=Sam+Bankman-Fried&amp;two\\_year\\_transaction\\_period=2022&amp;min\\_date=01%2F01%2F2021&amp;max\\_date=12%2F31%2F2022",
+        "published": "2022-01-01T00:00:00.000Z",
+        "excerpt": "## Your web browser is not supported\n\nYou're using Internet Explorer, some features might not work. Please switch to another browser like Chrome, Firefox, or Edge for a better experience.\n\n [skip navigation] \n\nEdit filters\n\nRecipient Name or IDLimit 10 recipient names or IDs\n\nSearch\n\nContributor details\n\nNameLimit 10 contributor names or IDs\n\nSearch\n\nZIP codeLimit 10 ZIP codes\n\nSearch\n\nCityLimit 10 cities\n\nSearch\n\nOccupationUse the employer field to search by occupation in reports filed before 2"
+      },
+      {
+        "title": "Donor Lookup",
+        "url": "https://www.opensecrets.org/donor-lookup/results?name=&amp;cycle=&amp;state=&amp;zip=&amp;employ=FTX&amp;occupation=&amp;jurisdiction=&amp;cand=&amp;type=",
+        "published": "2023-01-19T00:00:00.000Z",
+        "excerpt": "[Donate] \n\n## We follow the money. You make it possible.\n\n- $35\n- $50\n- $100\n- Other\n\nDonate Today\n\n\u00d7\n\n- [Skip to Navigation] \n- [Skip to Main Content] \n- [Skip to Footer] \n\nYour Opinion Counts! [Take a quick survey to help make OpenSecrets even better. \u00a0\u203a] \n\n## Can you give just $1?\n\nYou are one of **7 million** annual visitors to OpenSecrets. If you each donated just $1 a year, we'd never worry about funding again.\n\n[Donate Now] \n\n**We run on donations!**\n\nClose\n\nFind our donor lookup data use"
+      },
+      {
+        "title": "Lawmakers quick to unload FTX founder's contributions",
+        "url": "https://apnews.com/article/ftx-campaign-contributions-offloaded-a6dcd8bc5dd430e0a816c676acf2b207",
+        "published": "2022-12-16T00:00:00.000Z",
+        "excerpt": "Menu\n\n[![AP Logo]] \n\nMenu\n\n- [World] \n\n- [U.S.] \n\n- [Election 2024] \n\n- [Politics] \n\n- [Sports] \n\n- [Entertainment] \n\n- [Business] \n\n- [Science] \n\n- [Fact Check] \n\n- [Oddities] \n\n- [Be Well] \n\n- [Newsletters] \n\n- [Video] \n\n- [Photography] \n\n- [Climate] \n\n- [Health] \n\n- [Personal Finance] \n\n- [AP Investigations] \n\n- [Tech] \n\n- [Lifestyle] \n\n- [Religion] \n\n- [AP Buyline Personal Finance] \n\n- [AP Buyline Shopping] \n\n- [Press Releases] \n\n- [My Account] \n\n- ...\n\n\n\n\n\n\n\n- [World] \n\n\n\n\n\n\n\n- [Israel-Hama"
+      },
+      {
+        "title": "Inside Sam Bankman-Fried\u2019s Quest to Win Friends and Influence People",
+        "url": "https://www.nytimes.com/2022/11/22/business/ftx-sam-bankman-fried-influence.html",
+        "published": "2022-11-22T00:00:00.000Z",
+        "excerpt": "Advertisement\n\n[SKIP ADVERTISEMENT] \n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\nIn May, the founder of a Chicago nonprofit that works with recently incarcerated people got an email from the father of Sam Bankman-Fried, offering to make a donation on behalf of his son\u2019s cryptocurrency exchange.\n\nSoon after FTX pledged to give the nonprofit $600,000, a consulting firm hired by the exchange blasted "
+      },
+      {
+        "title": "Interactive: Here are the politicians who received money from FTX's Sam Bankman-Fried",
+        "url": "https://www.marketwatch.com/story/here-are-the-politicians-who-received-money-from-ftxs-sam-bankman-fried-11670359945",
+        "published": "2022-12-06T00:00:00.000Z",
+        "excerpt": "[iframe] \n\nAdvertisement\n\nAdvertisement\n\n## Washington Watch\n\n# Interactive: Here are the politicians who received money from FTX\u2019s Sam Bankman-Fried\n\nLast Updated: Dec. 13, 2022 at 3:54 p.m. ET\nFirst Published: Dec. 6, 2022 at 3:52 p.m. ET\n\nBy\n\n[**Katie Marriner**] \n\n[comments] \n\n## Sen. Kirsten Gillibrand\u2019s spokesman says she has donated the funds received to a nonprofit\n\n![] \n\n#### FTX founder Sam Bankman-Fried appears by video during the New York Times DealBook Summit in New York City.\n\nGett"
+      },
+      {
+        "title": "FTX collapse: Inside CEO Sam Bankman-Fried's political influence machine",
+        "url": "https://www.businessinsider.com/sam-bankman-fried-ftx-crypto-lobbying-campaign-donations-congress-biden-2022-12",
+        "published": "2022-12-04T00:00:00.000Z",
+        "excerpt": "[Discourse] [Tech] \n\n# Mr. Crypto goes to Washington\n\nBy\n[Rob Price],\n[Dakin Campbell],\n[Jack Newsham], and\n[Darius Rafieyan] \n\n2022-12-04T11:47:00Z\n\nSaveSaved[Read in app] \n\nThis story is available exclusively to Business Insider\nsubscribers. [Become an Insider] \nand start reading now.Have an account? Log in.\n\n> \u2014Iain Martin (@iainmartin1) [November 12, 2022] \n\nAn advisor to Bankman-Fried put it succinctly. \"Think about if you're doing Marc Benioff slash Bill Gates \u2014 like you're building basica"
+      },
+      {
+        "title": "Who are the Biggest Donors?",
+        "url": "https://www.opensecrets.org/elections-overview/biggest-donors?t0-search=FTX",
+        "published": null,
+        "excerpt": "[Donate] \n\n## We follow the money. You make it possible.\n\n- $35\n- $50\n- $100\n- Other\n\nDonate Today\n\n\u00d7\n\n- [Skip to Navigation] \n- [Skip to Main Content] \n- [Skip to Footer] \n\nYour Opinion Counts! [Take a quick survey to help make OpenSecrets even better. \u00a0\u203a] \n\n## Can you give just $1?\n\nYou are one of **7 million** annual visitors to OpenSecrets. If you each donated just $1 a year, we'd never worry about funding again.\n\n[Donate Now] \n\n**We run on donations!**\n\n[Open Secrets following the money in "
+      },
+      {
+        "title": "FTX leaders' political donations topped $1M weeks before bankruptcy - Roll Call",
+        "url": "https://rollcall.com/2023/02/23/ftx-leaders-political-donations-topped-1m-weeks-before-bankruptcy/",
+        "published": "2023-02-23T10:30:00.000Z",
+        "excerpt": "FTX leaders&#039; political donations topped $1M weeks before bankruptcy - Roll Call\n[Skip to content] \n* [Politics] \n* [Campaigns] \n* [Congress] \n* [White House] \n* [Policy] \n* [Defense] \n* [Energy/Environment] \n* [Fintech] \n* [Health Care] \n* [Technology] \n* [Transportation] \n* [All Policy] \n* [Heard on the Hill] \n* Podcasts\n* [CQ Budget] \n* [Equal Time] \n* [Fintech Beat] \n* [Political Theater] \n* [Oversight] \n* [Factba.se] \n* [Donald Trump] \n* [Donald Trump Tweets] \n* [White House Calendar] \n"
+      },
+      {
+        "title": "Inside Sam Bankman-Fried\u2019s Long, Long, Long Money Trail",
+        "url": "https://newrepublic.com/article/169104/sam-bankman-fried-ftx-political-donations-democrats-republicans-congress",
+        "published": "2022-11-23T00:00:00.000Z",
+        "excerpt": "You are using an **outdated** browser.\n\nPlease [upgrade your browser] \n\nand improve your visit to our site.\n\n[Skip Navigation] \n\nBefore the spectacular implosion of the FTX cryptocurrency exchange, Sam Bankman-Fried was angling to become one of the biggest power players in Democratic politics. He allowed reporters to write [extensive] [profiles] from his Bahamas group home. He donated over $45 million to political candidates and organizations in recent years, according to a _New Republic_ analys"
+      },
+      {
+        "title": "As crypto cash floods Washington, Congress eyes gentler regulations",
+        "url": "https://www.washingtonpost.com/business/2024/05/25/crypto-lobbying-politics-washington/",
+        "published": "2024-05-25T00:00:00.000Z",
+        "excerpt": "As crypto cash floods Washington, Congress eyes gentler regulations - The Washington Post\nDemocracy Dies in Darkness\n[Economic Policy] # As crypto cash floods Washington, Congress eyes gentler regulations\nMajor crypto firms are fighting to remake federal law with an expensive lobbying campaign that has left no part of American politics untouched.\nMay 25, 2024More than**1yearago**\n11 min\n![] \n(Maria Jesus Contreras for The Washington Post)\n![] \nBy[Tony Romm] \nCryptocurrency companies and investor"
+      },
+      {
+        "title": "Coinbase Profile: Summary",
+        "url": "https://www.opensecrets.org/orgs/coinbase/summary?id=D000072255",
+        "published": "2025-06-12T00:00:00.000Z",
+        "excerpt": "[Donate] \n\n## We follow the money. You make it possible.\n\n- $35\n- $50\n- $100\n- Other\n\nDonate Today\n\n\u00d7\n\n- [Skip to Navigation] \n- [Skip to Main Content] \n- [Skip to Footer] \n\n## Help us keep transparency accessible to all!\n\nWe're aiming for 100 new donors and $10,000 raised by May 31 \u2014 make your first gift today to support transparency in politics.\n\nOpenSecrets is 100% funded through donations.\n\n[Donate Now] \n\nDonate to OpenSecrets to help strengthen our democracy\n\n[$35] [$50] [$100] [Custom] \n\n["
+      },
+      {
+        "title": "Capitol Coin",
+        "url": "https://www.citizen.org/article/capitol-coin-cryptocurrency-lobbying-revolving-door-report/",
+        "published": "2020-11-30T00:00:00.000Z",
+        "excerpt": "Capitol Coin - Public Citizen\n[Public Citizen] \n## [Menu] \n* [Get Updates] \n[Close] \nJOIN THE MOVEMENT\n* [Act] \n* [Donate**] \n[Donate**] \n* [Donate] \n* [Join/Renew] \n* [Giving Through Your Will] \n* [Gift of Stocks or Mutual Funds] \n* [Tax-Deductible Giving] \n* [Charitable Gift Annuities] \n* [Gifts From Your Retirement Account] \n* [Life Insurance Donations] \n[Close] \nWhat are you looking for?**Search\n![] **\nMarch 8, 2022\n# Capitol Coin\n## Number of Cryptocurrency Lobbyists Nearly Tripled Since 20"
+      },
+      {
+        "title": "Coinbase Profile: Recipients",
+        "url": "https://www.opensecrets.org/orgs/coinbase/recipients?id=D000072255",
+        "published": "2025-06-12T00:00:00.000Z",
+        "excerpt": "[Donate] \n\n## We follow the money. You make it possible.\n\n- $35\n- $50\n- $100\n- Other\n\nDonate Today\n\n\u00d7\n\n- [Skip to Navigation] \n- [Skip to Main Content] \n- [Skip to Footer] \n\n## Help us keep transparency accessible to all!\n\nWe're aiming for 100 new donors and $10,000 raised by May 31 \u2014 make your first gift today to support transparency in politics.\n\nOpenSecrets is 100% funded through donations.\n\n[Donate Now] \n\nDonate to OpenSecrets to help strengthen our democracy\n\n[$35] [$50] [$100] [Custom] \n\n["
+      },
+      {
+        "title": "Search Registrations & Quarterly Activity Reports",
+        "url": "https://lda.senate.gov/filings/public/filing/search/?registrant=Coinbase&registrant_country=&registrant_ppb_country=&client=&client_state=&client_country=&client_ppb_country=&lobbyist=&lobbyist_covered_position=&lobbyist_conviction_disclosure=&lobbyist_conviction_date_range_from=&lobbyist_conviction_date_range_to=&report_period=&report_year=&report_dt_posted_from=&report_dt_posted_to=&report_amount_reported_min=&report_amount_reported_max=&report_issue_area_description=&affiliated_organization=&affiliated_organization_country=&foreign_entity=&foreign_entity_country=&foreign_entity_ppb_country=&foreign_entity_ownership_percentage_min=&foreign_entity_ownership_percentage_max=&search=search",
+        "published": "2024-01-19T00:00:00.000Z",
+        "excerpt": "# Search LD-1 & LD-2 Reports Registrations & Quarterly Activity\n\n* * *\n\n## Search LD-1 & LD-2 Reports By...\n\nClose Search\n\n##### [Registrant] \n\nName or\nID\n\nRegistrant CountryAny CountryUnited States of AmericaCanada\\-\\-\\--\\\\* UndeterminedAfghanistan\u00c5land IslandsAlbaniaAlgeriaAmerican SamoaAndorraAngolaAnguillaAntarcticaAntigua and BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBoliviaBonaire, Sint Eustatius and SabaBosn"
+      },
+      {
+        "title": "Crypto firms gave $18M to Trump\u2019s inauguration. Ripple\u2019s $4.9M gift was second biggest overall | Fortune Crypto",
+        "url": "https://fortune.com/crypto/2025/04/21/donald-trump-inauguration-fund-crypto-coinbase-ripple-circle-18-million",
+        "published": "2025-04-21T00:00:00.000Z",
+        "excerpt": "- [Home] \n- [News] \n- [Fortune 500] \n - [Fortune Global 500] \n - [Fortune 500 Europe] \n - [Fortune China 500] \n - [Fortune SEA 500] \n - [Great Place To Work] \n- [Tech] \n - [AI] \n - [Innovation] \n - [Cybersecurity] \n- [Finance] \n - [Personal Finance] \n - [Real Estate] \n - [Economy] \n - [Investing] \n - [Banking] \n - [Crypto] \n- [Leadership] \n - [Success] \n - [Future Of Work] \n - [Workplace Culture] \n - [C-Suite] \n - [CEO Initiative] \n- [Lifestyle] \n - [Arts & Entertainment] \n - [Travel & Leisure] "
+      },
+      {
+        "title": "Coinbase Lobbyists",
+        "url": "https://www.opensecrets.org/federal-lobbying/clients/lobbyists?cycle=2022&id=D000072255",
+        "published": null,
+        "excerpt": "[Donate] \n\n## We follow the money. You make it possible.\n\n- $35\n- $50\n- $100\n- Other\n\nDonate Today\n\n\u00d7\n\n- [Skip to Navigation] \n- [Skip to Main Content] \n- [Skip to Footer] \n\nYour Opinion Counts! [Take a quick survey to help make OpenSecrets even better. \u00a0\u203a] \n\n## Can you give just $1?\n\nYou are one of **7 million** annual visitors to OpenSecrets. If you each donated just $1 a year, we'd never worry about funding again.\n\n[Donate Now] \n\n**We run on donations!**\n\n[Open Secrets following the money in "
+      },
+      {
+        "title": "Coinbase Lobbying Reports",
+        "url": "https://www.opensecrets.org/federal-lobbying/clients/reports?cycle=2022&id=D000072255",
+        "published": "2024-01-01T00:00:00.000Z",
+        "excerpt": "[Donate] \n\n## We follow the money. You make it possible.\n\n- $35\n- $50\n- $100\n- Other\n\nDonate Today\n\n\u00d7\n\n- [Skip to Navigation] \n- [Skip to Main Content] \n- [Skip to Footer] \n\nYour Opinion Counts! [Take a quick survey to help make OpenSecrets even better. \u00a0\u203a] \n\n## Can you give just $1?\n\nYou are one of **7 million** annual visitors to OpenSecrets. If you each donated just $1 a year, we'd never worry about funding again.\n\n[Donate Now] \n\n**We run on donations!**\n\n[Open Secrets following the money in "
+      },
+      {
+        "title": "Coinbase Lobbying Profile",
+        "url": "https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000072255",
+        "published": null,
+        "excerpt": "[Donate] \n\n## We follow the money. You make it possible.\n\n- $35\n- $50\n- $100\n- Other\n\nDonate Today\n\n\u00d7\n\n- [Skip to Navigation] \n- [Skip to Main Content] \n- [Skip to Footer] \n\nYour Opinion Counts! [Take a quick survey to help make OpenSecrets even better. \u00a0\u203a] \n\n## Can you give just $1?\n\nYou are one of **7 million** annual visitors to OpenSecrets. If you each donated just $1 a year, we'd never worry about funding again.\n\n[Donate Now] \n\n**We run on donations!**\n\n[Open Secrets following the money in "
+      },
+      {
+        "title": "Crypto Super PAC Fairshake takes top funding spot, beats MAGA \u2014 OpenSecrets",
+        "url": "https://cointelegraph.com/news/crypto-super-pac-fairshake-top-funding-spot-beats-maga-open-secrets",
+        "published": "2024-07-29T00:00:00.000Z",
+        "excerpt": "[Alex O\u2019Donnell] \n\nJul 29, 2024\n\n# Crypto Super PAC Fairshake takes top funding spot, beats MAGA \u2014 OpenSecrets\n\nThe Coinbase-led advocacy group has raised upward of $202 million so far, according to the political donations researcher.\n\nListen 0:00\n\n1735\n\nAnalysis\n\nCOINTELEGRAPH IN YOUR SOCIAL FEED\n\nCoinbase-led political action committee (PAC) Fairshake has raised more funds than any other super PAC in the 2024 United States election cycle so far, according to data from campaign finance research"
+      },
+      {
+        "title": "Fairshake - FactCheck.org",
+        "url": "https://www.factcheck.org/2024/04/fairshake/",
+        "published": "2024-04-05T00:00:00.000Z",
+        "excerpt": "FacebookTwitterTumblrClose[Skip to main content] \n\n[FactCheck.org\u00ae] A Project of The Annenberg Public Policy Center\n\n[![Become a Facebook fan]] \n\n[![Follow us on Twitter]] \n\n[![Get the RSS feed]] \n\n[![Follow on Insta]] \n\n[![Sign up for the email newsletter]] \n\n[![Help us hold politicians accountable. ]] \n\n* * *\n\n![] \n\n**Political leanings: Pro-cryptocurrency**\n\n**2022 Spending: N/A**\n\nFairshake, [its website says], is a super PAC that \u201csupports candidates committed to securing the United States "
+      },
+      {
+        "title": "Coinbase, a16z and others pour more than $78 million into pro-crypto PAC for 2026 election",
+        "url": "https://www.cnbc.com/2024/11/04/coinbase-a16z-contribute-78-million-to-pro-crypto-pac-for-2026-election.html",
+        "published": "2024-11-04T00:00:00.000Z",
+        "excerpt": "[Skip Navigation] \n\n[Markets] \n\n[Business] \n\n[Investing] \n\n[Tech] \n\n[Politics] \n\n[Video] \n\n[Watchlist] \n\n[Investing Club] \n\n[PRO] \n\n[Livestream] \n\nMenu\n\nKey Points\n\n- The pro-crypto super PAC Fairshake says it's raised $78 million for the 2026 midterms.\n- Centralized crypto exchange Coinbase has committed to donating $25 million and Silicon Valley venture fund Andreessen Horowitz has pledged another $23 million.\n- Fairshake told CNBC it's raised around $170 million this cycle and disbursed appro"
+      },
+      {
+        "title": "Coinbase chips in another $25M to crypto super PAC Fairshake",
+        "url": "https://cointelegraph.com/news/coinbase-donates-25-million-crypto-super-pac-fairshake",
+        "published": "2024-06-04T00:00:00.000Z",
+        "excerpt": "Ecosystem\n\nEnglish\n\n[ADA$0.3963 0.79%] [HYPE$24.90 1.13%] [DOGE$0.138 1.41%] [ZEC$412.68 0.16%] [SOL$144.85 1.87%] [ETH$3,293 0.56%] [BNB$938.99 0.84%] [LINK$13.70 0.37%] [XRP$2.07 0.21%] [TRX$0.3107 0.44%] [XMR$634.20 8.07%] [BTC$95,458 0.08%] [XLM$0.2266 0.45%] [BCH$601.69 2.36%] \n\nUSD\n\nWritten by [Jesse Coghlan],Staff Writer\n\nReviewed by [Felix Ng],Staff Editor\n\n# Coinbase chips in another $25M to crypto super PAC Fairshake\n\nJun 04, 2024\n\nCoinbase has joined Andreessen Horowitz and Ripple in "
+      },
+      {
+        "title": "Fairshake",
+        "url": "https://en.wikipedia.org/wiki/Fairshake",
+        "published": "2025-03-03T00:00:00.000Z",
+        "excerpt": "[Jump to content] \n\nFrom Wikipedia, the free encyclopedia\n\nAmerican pro-crypto political action committee\n\n**Fairshake** is a [political action committee] funded by the [cryptocurrency] industry that supported candidates in the 2024 American elections.[\\[1\\]] [\\[2\\]] [\\[3\\]] [\\[4\\]] Major contributors include [Coinbase], [Ripple], and [Andreessen Horowitz].[\\[5\\]] \n\n_[The Hill] _ reported that more than $10 million of the super PAC's spending went toward opposing the California Democratic Senate"
+      },
+      {
+        "title": "",
+        "url": "https://www.coindesk.com/policy/2024/11/04/andreessen-horowitz-donates-23m-to-crypto-super-pac-fairshake-for-2026-elections",
+        "published": null,
+        "excerpt": "[Policy] \n\nShare\n\nShare this article\n\nCopy link [X iconX (Twitter)] [LinkedIn] [Facebook] [Email] \n\n# Andreessen Horowitz Donates $23M to Crypto Super Pac Fairshake for 2026 Elections\n\n## Fairshake now says it has a $78 million war chest for the upcoming midterm elections.\n\nBy [Cheyenne Ligon] \\|Edited by [Nikhilesh De] \n\nUpdated Nov 4, 2024, 6:18\u202fp.m. Published Nov 4, 2024, 3:18\u202fp.m.\n\n![Chris Dixon of a16z Crypto announces another $25 million in U.S. campaign donations at Consensus 2024. (Jesse"
+      },
+      {
+        "title": "/blog/crypto-industry-donates-over-usd78-million-to-elect-pro-innovation",
+        "url": "https://www.coinbase.com/blog/crypto-industry-donates-over-usd78-million-to-elect-pro-innovation",
+        "published": "2024-06-17T00:00:00.000Z",
+        "excerpt": "The future of cryptocurrency in the US hinges on the election of candidates and the enactment of policies that support responsible, fair rules for crypto \u2013 especially as a check on appointed regulators who have taken a regulation by enforcement approach. This approach withholds regulatory clarity at the expense of everyday Americans and drives jobs, economic activity, and innovation offshore.\n\nGiven the stakes, crypto\u2019s superpower of grassroots support will now be amplified through significant s"
+      },
+      {
+        "title": "Coinbase, Andreessen Horowitz, Circle among heavyweight donors committing $78 million to new crypto PAC | Fortune Crypto",
+        "url": "https://fortune.com/crypto/2023/12/18/coinbase-andreesen-horowitz-circle-heavyweights-commit-78-million-fairshake-crypto-super-pac",
+        "published": "2023-12-18T00:00:00.000Z",
+        "excerpt": "- [Home] \n- [Crash Course] \n- [Coins] \n- [Companies] \n- [Regulators] \n- [NFTs & Culture] \n\nSome Fortune Crypto pricing data is provided by Binance.\n\n[Regulators] \u00b7 [Congress] \n\n# Coinbase, Andreessen Horowitz, Circle among heavyweight donors committing $78 million to new crypto PAC\n\nBy [Ben Weiss] \n\nBy [Ben Weiss] Crypto Reporter\n\n[Ben Weiss] Crypto Reporter\n\nBen Weiss is a crypto reporter at _Fortune_.\n\n[SEE FULL BIO] \n\nFairshake has so far spent the most money in 2023 on Rep. Patrick McHenry ("
+      },
+      {
+        "title": "Coinbase Gives Another $25 Million to Crypto Super-PAC Fairshake",
+        "url": "https://news.bloomberglaw.com/ip-law/coinbase-gives-another-25-million-to-crypto-super-pac-fairshake",
+        "published": "2024-06-03T00:00:00.000Z",
+        "excerpt": "[IP Law] \n\n![] Print [![] Email] \n\nShare To: [![] Facebook] \n\n[![] LinkedIn] \n\n[![]] \n\nJune 3, 2024, 6:49\u202fPM UTC\n\nCoinbase Global Inc., the biggest US cryptocurrency exchange, has given another $25 million to the Fairshake SuperPAC, helping ramp-up donations geared toward electing candidates favorable to digital assets, Chief Executive Officer Brian Armstrong said in a post on the company\u2019s blog.\n\nThe political action committee and its affiliates have raised $160 million in this election cycle, "
+      },
+      {
+        "title": "Pro-crypto super PACs pouring tens of millions into 2024 elections - OpenSecrets News",
+        "url": "https://opensecretsnews.wpcomstaging.com/2024/07/pro-crypto-super-pacs-pouring-tens-of-millions-into-2024-elections/",
+        "published": "2025-04-16T00:00:00.000Z",
+        "excerpt": "- [About] \n- [Resources] \n\n[![OpenSecrets homepage]] \n\nSearchSubmit\n\n[Donate] [Menu] \n\nFilter by type\n\nAll TypesSite SearchPoliticians & LobbyistsOrganizationsDonors\n\nAll Types\n\nSearchSubmit\n\n- [Politicians & Elections] \n\n\n\n\n\n\n- [Overview\u00a0\u203a] \n- [Presidential\u00a0\u203a] \n- [Congressional Elections\u00a0\u203a] \n- [Congress\u00a0\u203a] \n- [Congressional Committees\u00a0\u203a] \n- [Joint Fundraising Committees\u00a0\u203a] \n- [Personal Finances\u00a0\u203a] \n- [Gender, Race and Money-in-Politics\u00a0\u203a] \n- [Outside Spending\u00a0\u203a] \n- [Dark Money\u00a0\u203a] \n- [Political "
+      },
+      {
+        "title": "Brian Armstrong | Follow the Crypto",
+        "url": "https://www.followthecrypto.org/individuals/brian-armstrong?sort=date",
+        "published": "2024-10-07T00:00:00.000Z",
+        "excerpt": "This website is being updated to track ongoing Congressional activity and the 2026 midterm election cycles. Current data on the site reflects the 2024 election cycle and may be outdated; it will be updated soon.\n\n![Brian Armstrong photo] [(image attribution)] \n\n# Brian Armstrong\n\nCEO at [Coinbase] \n\n### Contributions\n\n[Sort by recipient] \n\nClaudia Tenney for Congress$3,300.00\n\nClaudia Tenney principal campaign committeeRepublicanNew YorkHouse District\u00a024\n\nOctober 7, 2024\n\nJared Moskowitz for Con"
+      },
+      {
+        "title": "Coinbase Profile: Recipients",
+        "url": "https://www.opensecrets.org/orgs/coinbase/recipients?id=D000072255",
+        "published": "2025-06-12T00:00:00.000Z",
+        "excerpt": "[Donate] \n\n## We follow the money. You make it possible.\n\n- $35\n- $50\n- $100\n- Other\n\nDonate Today\n\n\u00d7\n\n- [Skip to Navigation] \n- [Skip to Main Content] \n- [Skip to Footer] \n\n## Help us keep transparency accessible to all!\n\nWe're aiming for 100 new donors and $10,000 raised by May 31 \u2014 make your first gift today to support transparency in politics.\n\nOpenSecrets is 100% funded through donations.\n\n[Donate Now] \n\nDonate to OpenSecrets to help strengthen our democracy\n\n[$35] [$50] [$100] [Custom] \n\n["
+      },
+      {
+        "title": "Browse Individual contributions | FEC",
+        "url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=coinbase",
+        "published": "2022-01-01T00:00:00.000Z",
+        "excerpt": "Browse Individual contributions | FEC\n## Your web browser is not supported\nThis site uses features that are not supported by this browser. For a better experience, please switch to a modern browser.\n[skip navigation] \nHere's how you know![US flag signifying that this is a United States Federal Government website] \nAn official website of the United States government\nHere's how you know\n![Dot gov] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in th"
+      },
+      {
+        "title": "How Coinbase Went From DC \u2018Kids Table\u2019 to Political Power Seat",
+        "url": "https://news.bloomberglaw.com/crypto/how-coinbase-went-from-dc-kids-table-to-political-power-seat",
+        "published": "2024-09-03T00:00:00.000Z",
+        "excerpt": "[Crypto] \n\n![] Print [![] Email] \n\nShare To: [![] Facebook] \n\n[![] LinkedIn] \n\n[![]] \n\nSept. 3, 2024, 12:19\u202fPM UTC\n\nAs Donald Trump embraces cryptocurrency aficionados in search of votes and campaign contributions, the deepest pockets in the industry are conspicuously absent from the list of his donors.\n\nThe crypto-world heavyweight Brian Armstrong, his exchange Coinbase Global Inc. and the super PACs they fund haven\u2019t given anything to Trump\u2019s campaign yet. Nor have they donated to his opponent"
+      },
+      {
+        "title": "Donor Lookup",
+        "url": "https://www.opensecrets.org/donor-lookup/results?name=Coinbase",
+        "published": "2018-11-01T00:00:00.000Z",
+        "excerpt": "[Donate] \n\n## We follow the money. You make it possible.\n\n- $35\n- $50\n- $100\n- Other\n\nDonate Today\n\n\u00d7\n\n- [Skip to Navigation] \n- [Skip to Main Content] \n- [Skip to Footer] \n\nYour Opinion Counts! [Take a quick survey to help make OpenSecrets even better. \u00a0\u203a] \n\n## Can you give just $1?\n\nYou are one of **7 million** annual visitors to OpenSecrets. If you each donated just $1 a year, we'd never worry about funding again.\n\n[Donate Now] \n\n**We run on donations!**\n\nClose\n\nFind our donor lookup data use"
+      },
+      {
+        "title": "Coinbase Profile: Summary",
+        "url": "https://www.opensecrets.org/orgs/coinbase/summary?id=D000072255",
+        "published": "2025-06-12T00:00:00.000Z",
+        "excerpt": "[Donate] \n\n## We follow the money. You make it possible.\n\n- $35\n- $50\n- $100\n- Other\n\nDonate Today\n\n\u00d7\n\n- [Skip to Navigation] \n- [Skip to Main Content] \n- [Skip to Footer] \n\n## Help us keep transparency accessible to all!\n\nWe're aiming for 100 new donors and $10,000 raised by May 31 \u2014 make your first gift today to support transparency in politics.\n\nOpenSecrets is 100% funded through donations.\n\n[Donate Now] \n\nDonate to OpenSecrets to help strengthen our democracy\n\n[$35] [$50] [$100] [Custom] \n\n["
+      },
+      {
+        "title": "Coinbase's big election bet is about to be tested",
+        "url": "https://www.cnbc.com/2024/11/05/coinbases-big-election-bet-is-about-to-be-tested.html",
+        "published": "2024-11-05T14:00:28.000Z",
+        "excerpt": "Coinbase's big election bet is about to be tested\n[Skip Navigation] \n[![CNBC]] \n[Markets] \n* [Pre-Markets] \n* [U.S. Markets] \n* [Currencies] \n* [Cryptocurrency] \n* [Futures &amp; Commodities] \n* [Bonds] \n* [Funds &amp; ETFs] \n[Business] \n* [Economy] \n* [Finance] \n* [Health &amp; Science] \n* [Media] \n* [Real Estate] \n* [Energy] \n* [Climate] \n* [Transportation] \n* [Investigations] \n* [Industrials] \n* [Retail] \n* [Wealth] \n* [Sports] \n* [Life] \n* [Small Business] \n[Investing] \n* [Personal Finance] "
+      },
+      {
+        "title": "Coinbase | Follow the Crypto",
+        "url": "https://www.followthecrypto.org/companies/coinbase",
+        "published": "2024-10-16T00:00:00.000Z",
+        "excerpt": "This website is being updated to track ongoing Congressional activity and the 2026 midterm election cycles. Current data on the site reflects the 2024 election cycle and may be outdated; it will be updated soon.\n\n### Contributions\n\n## Contributions by party\n\n![Coinbase logo] \n\n# Coinbase\n\nUSA \\| Related people:\n\n- [Brian Armstrong] (CEO)\n\nCoinbase is a publicly traded company that operates the Coinbase cryptocurrency exchange platform. Its investors have included [Union Square Ventures] and [And"
+      },
+      {
+        "title": "The Most Powerful Crypto Bro in Washington Has Very Weird Beliefs",
+        "url": "https://newrepublic.com/article/185738/coinbase-brian-armstrong-crypto-lobbying-washington-politicians",
+        "published": "2024-10-01T00:00:00.000Z",
+        "excerpt": "The Most Powerful Crypto Bro in Washington Has Very Weird Beliefs \\| The New Republic\n\n[Skip Navigation] \n\nBrian Armstrong has become a familiar face\u2014or should we say [pate] \u2014in the U.S. Capitol. The 41-year-old billionaire CEO of Coinbase, the [nation\u2019s largest cryptocurrency exchange] by a country mile, has regularly traveled to Washington [since at least 2018] to lobby members of Congress for friendly regulations for his industry. He was back on the Hill in June, donning a slim black suit\u2014rat"
+      },
+      {
+        "title": "How Coinbase went from DC \u2018kids table\u2019 to political power seat",
+        "url": "https://www.spokesman.com/stories/2024/sep/03/how-coinbase-went-from-dc-kids-table-to-political-/",
+        "published": "2024-09-03T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n- [X] \n- [Email] \n- [Reddit] \n- [SMS] \n\nBy Olga Kharif and Stephanie Lai Bloomberg \n\nAs Donald Trump embraces cryptocurrency aficionados in search of votes and campaign contributions, the deepest pockets in the industry are conspicuously absent from the list of his donors.\n\nThe crypto-world heavyweight Brian Armstrong, his exchange Coinbase Global Inc. and the super PACs they fund haven\u2019t given anything to Trump\u2019s campaign yet. Nor have they donated to his opponent, Vice"
+      },
+      {
+        "title": "Crypto cash is flooding the 2024 election. Here\u2019s who\u2019s benefiting.",
+        "url": "https://www.washingtonpost.com/business/interactive/2024/crypto-firms-candidates-house-senate-election-2024/",
+        "published": "2024-10-18T10:05:59.000Z",
+        "excerpt": "Crypto cash is flooding the 2024 election. Here\u2019s who benefiting. - Washington Post\n# Crypto cash is flooding the 2024 election. Here\u2019s who\u2019s benefiting.\n(Illustration by Shira Inbar for The Washington Post)\nBy[Tony Romm] \n,\n[Eric Lau] \n,\n[Adriana Navarro] \nand\n[Kevin Schaul] \nOctober 18, 2024 at 6:05 a.m. EDT\n10 min\nSorry, a summary is not available for this article at this time. Please try again later.\nA new political network funded by the cryptocurrency industry has spent more than $134 milli"
+      },
+      {
+        "title": "US congressional races where crypto is hoping for big payoffs",
+        "url": "https://www.reuters.com/technology/us-congressional-races-where-crypto-is-hoping-big-payoffs-2024-11-08/",
+        "published": "2024-11-08T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[Exclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv] \n\n![Scenes on the day U.S. President Elect Donald Trump was declared the winner of the presidential eleciton in Washington, U.S.] \n\nA Trump supporter stands next to the Capitol Reflecting Pool near the U.S. Capitol building, the day U.S. President Elect Donald Trump was declared the winner of the presidential election in Washington, U.S., November 6, 2024. REUTERS/Leah Millis"
+      },
+      {
+        "title": "Crypto cash is flooding the 2024 election. Here\u2019s who\u2019s benefiting.",
+        "url": "https://www.washingtonpost.com/business/interactive/2024/crypto-firms-candidates-house-senate-election-2024/?itid=ap_tonyromm",
+        "published": "2024-10-18T00:00:00.000Z",
+        "excerpt": "10 min\n\nSorry, a summary is not available for this article at this time. Please try again later.\n\nA new political network funded by the cryptocurrency industry has spent more than $134 million trying to elect dozens of allies to Congress, mounting an unprecedented political effort to influence voters and secure favorable regulation.\n\nThe spending comes from an organization called Fairshake, along with two other affiliated crypto-funded groups, known as super PACs, which by law can spend unlimite"
+      },
+      {
+        "title": "Crypto Super Pac spends $10m on Katie Porter attack ads in California race",
+        "url": "https://www.theguardian.com/us-news/2024/mar/01/crypto-super-pac-katie-porter-attack-ads",
+        "published": "2024-05-17T00:00:00.000Z",
+        "excerpt": "[Skip to main content] [Skip to navigation] [Skip to navigation] \n\n![woman speaking at a lectern] \n\nPorter has argued the Pac\u2019s spending against her is proof of her commitment to championing ordinary people, rather than corporate interests. Photograph: Damian Dovarganes/AP\n\n[View image in fullscreen] \n\nPorter has argued the Pac\u2019s spending against her is proof of her commitment to championing ordinary people, rather than corporate interests. Photograph: Damian Dovarganes/AP\n\nThis article is more "
+      },
+      {
+        "title": "How tech bros bought 'America's most pro-crypto Congress ever'",
+        "url": "https://www.cnbc.com/2024/11/23/how-tech-bros-bought-americas-most-pro-crypto-congress-ever.html",
+        "published": "2024-11-23T00:00:00.000Z",
+        "excerpt": "[Skip Navigation] \n\n[Markets] \n\n[Business] \n\n[Investing] \n\n[Tech] \n\n[Politics] \n\n[Video] \n\n[Watchlist] \n\n[Investing Club] \n\n[PRO] \n\n[Livestream] \n\nMenu\n\nKey Points\n\n- Crypto execs, investors and evangelists saw the election as existential to an industry that spent the past four years simultaneously trying to grow up while being repeatedly beaten down.\n- In total, crypto-related PACs and other groups tied to the industry reeled in more than $245 million, according to Federal Election Commission d"
+      },
+      {
+        "title": "More than 50 Members of the Next U.S. Congress Backed by Crypto Spending",
+        "url": "https://www.coindesk.com/news-analysis/2024/12/02/crypto-cash-fueled-53-members-of-the-next-u-s-congress",
+        "published": "2024-12-02T00:00:00.000Z",
+        "excerpt": "[BTC\\\n\\\n$107,547.27\\\n\\\n1.54%] \n\n[ETH\\\n\\\n$3,759.46\\\n\\\n3.85%] \n\n[USDT\\\n\\\n$1.0001\\\n\\\n0.04%] \n\n[BNB\\\n\\\n$1,061.19\\\n\\\n0.41%] \n\n[XRP\\\n\\\n$2.3474\\\n\\\n4.24%] \n\n[SOL\\\n\\\n$178.93\\\n\\\n5.22%] \n\n[USDC\\\n\\\n$0.9998\\\n\\\n0.01%] \n\n[TRX\\\n\\\n$0.3191\\\n\\\n1.19%] \n\n[DOGE\\\n\\\n$0.1881\\\n\\\n4.18%] \n\n[ADA\\\n\\\n$0.6179\\\n\\\n5.04%] \n\n[LINK\\\n\\\n$17.03\\\n\\\n4.24%] \n\n[HYPE\\\n\\\n$35.00\\\n\\\n2.27%] \n\n[USDE\\\n\\\n$0.9993\\\n\\\n0.04%] \n\n[XLM\\\n\\\n$0.3046\\\n\\\n4.54%] \n\n[BCH\\\n\\\n$469.07\\\n\\\n3.09%] \n\n[WBT\\\n\\\n$40.82\\\n\\\n1.25%] \n\n[SUI\\\n\\\n$2.3657\\\n\\\n6.11%] \n\n[LEO\\\n\\\n$9.08"
+      },
+      {
+        "title": "Follow the Crypto",
+        "url": "https://www.followthecrypto.org/",
+        "published": "2024-11-02T00:00:00.000Z",
+        "excerpt": "This website is being updated to track ongoing Congressional activity and the 2026 midterm election cycles. Current data on the site reflects the 2024 election cycle and may be outdated; it will be updated soon.\n\n\u2193\n\n# Follow the crypto\n\n\u2193\n\nCryptocurrency-focused political action committees have raised more than\n\n$197 million\n\nto influence 2024 elections.\n\nThey have spent more than\n\n$133 million\n\nof it so far.\n\n## All cryptocurrency PAC expenditures by party\n\n$0.0$20M$40M$60M$48.3M\n\nDem\n\n$70.9M\n\n"
+      },
+      {
+        "title": "US crypto super PACs have raised more than $100 million, report says",
+        "url": "https://www.reuters.com/world/us/us-crypto-super-pacs-have-raised-more-than-100-million-report-says-2024-05-06/",
+        "published": "2024-05-06T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[Exclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv] \n\n![Illustration shows representations of cryptocurrencies] \n\nItem 1 of 2 Representations of cryptocurrencies are seen in this illustration, August 10, 2022. REUTERS/Dado Ruvic/Illustration\n\n**\\[1/2\\]** Representations of cryptocurrencies are seen in this illustration, August 10, 2022. REUTERS/Dado Ruvic/Illustration [Purchase Licensing Rights, opens new tab] \n\n- Companies\n\n-"
+      },
+      {
+        "title": "How cryptocurrency executives helped decide the California Senate primary - Los Angeles Times",
+        "url": "https://www.latimes.com/politics/story/2024-03-14/how-cryptocurrency-executives-helped-decide-the-california-senate-primary",
+        "published": "2024-03-14T00:00:00.000Z",
+        "excerpt": "Copyright \u00a9 2025, Los Angeles Times \\| [Terms of Service] \\| [Privacy Policy] \\| [CA Notice of Collection] \\| [Do Not Sell or Share My Personal Information] \n\nAdvertisement\n\n# How cryptocurrency executives helped decide the California Senate primary\n\n![A woman in a pink top looks skeptically at a man in a blue suit and white shirt] \n\nRep. Katie Porter was targeted by a crypto-funded super PAC as she campaigned against Rep. Adam B. Schiff in the California Senate primary.\n\n(Dania Maxwell / Los An"
+      },
+      {
+        "title": "The Crypto Industry Spent Over $130 Million on the Election. It Paid Off.",
+        "url": "https://www.nytimes.com/2024/11/06/technology/crypto-industry-spending-election.html",
+        "published": "2024-11-06T00:00:00.000Z",
+        "excerpt": "Advertisement\n\n[SKIP ADVERTISEMENT] \n\nLocked in a tight race for the U.S. Senate in Ohio, the Republican candidate [Bernie Moreno] got a major boost in the weeks before the election: $40 million from the cryptocurrency industry.\n\nThe money, which [funded ads] that aired across Ohio, was the most ambitious effort in an audacious multistate campaign by crypto firms to influence dozens of crucial congressional races. On Tuesday, that push was rewarded as Mr. Moreno, a longtime crypto enthusiast, de"
+      },
+      {
+        "title": "Crypto spent millions to defeat Sherrod Brown and elect allies. It's ready for a repeat in 2026",
+        "url": "https://apnews.com/article/crypto-campaign-spending-sherrod-brown-ohio-senate-cea29489a717c9babc234f7f6b7d46f1",
+        "published": "2025-10-11T00:00:00.000Z",
+        "excerpt": "Menu\n\n- [World] \n\n\n\n\n\nSECTIONS\n\n\n\n[Israel-Hamas war] [Russia-Ukraine war] [Espa\u00f1ol] [China] [Asia Pacific] [Latin America] [Europe] [Africa] \n\n\n\n\n\n\n\nTOP STORIES\n\n\n\n- [Prime Minister Mark Carney says Canada will double its non-US exports as Canadians can't rely on US] \n- [Vance calls Israel's parliament vote on West Bank annexation an 'insult'] \n- [LIVE\u00a0**Trump pardons Binance founder Changpeng Zhao**] \n\nNewsletters\n\n[The Morning Wire\\\n\\\nOur flagship newsletter breaks down the biggest headlines o"
+      },
+      {
+        "title": "In critical Ohio Senate race, crypto cash looks to tip the scales",
+        "url": "https://www.washingtonpost.com/business/2024/09/20/ohio-senate-race-crypto-cash/",
+        "published": "2024-09-20T00:00:00.000Z",
+        "excerpt": "[Economic Policy] \n\n# In critical Ohio Senate race, crypto cash looks to tip the scales\n\nThe industry has spent over $38 million on ads touting Bernie Moreno, the GOP candidate, as it looks to send new allies to Washington in 2024\n\nSeptember 23, 2024\n\n12 min\n\n![Bernie Moreno, a Republican running for an Ohio US Senate seat, and pixilated coins.] \n\n(Illustration by Elena Lacey/The Washington Post; TWP; iStock)\n\n![] \n\nBy [Tony Romm] \n\nBernie Moreno smiles and crosses his arms, as sparks fly around"
+      },
+      {
+        "title": "Crypto Comes For Sherrod Brown: $32 Million in Ads Boosting His Opponent",
+        "url": "https://rollingstone.com/politics/politics-features/sherrod-brown-crypto-bernie-moreno-millions-1235102478",
+        "published": "2024-09-15T00:00:00.000Z",
+        "excerpt": "\u00d7\n\n[\u00d7] \n\n[Skip to main content] \n\nBy\n[Stephen Rodrick] \n\n### [Stephen Rodrick] \n\n[Contact Stephen Rodrick by Email] \n\n[View all posts by Stephen Rodrick] \n\nSeptember 15, 2024\n\nSen. Sherrod Brown (D-OH) at the U.S. Capitol on July 11, 2024 in Washington, D.C.Tierney L. Cross/Getty Images\n\nThe end of 2023 was not a great time for the [crypto] industry. In November, [Sam Bankman-Fried], the founder of the FTX [cryptocurrency] exchange, learned that no amount of [Michael Lewis gymnastics] could save"
+      },
+      {
+        "title": "Crypto industry pours tens of millions of dollars into Ohio Senate race to defeat Sherrod Brown",
+        "url": "https://spectrumnews1.com/oh/columbus/news/2024/10/17/crypto-brown-moreno-senate",
+        "published": "2024-10-17T00:00:00.000Z",
+        "excerpt": "**Open in Our App**\n\n[![]] \n\nGet the best experience and stay connected to your community with our Spectrum News app. [Learn More] \n\n* * *\n\n[Open in Spectrum News App] \n\n[Continue in Browser] \n\n[WEATHER ALERTView full list of active weather alerts] \n\n[Closings and DelaysCheck the latest school closings and delays in Central Ohio] \n\n![] \n\nThe crypto industry is hoping money\u2014either digital or fiat\u2014can make a difference in the Ohio Senate race. (Spectrum News)\n\n# Crypto industry pours tens of milli"
+      },
+      {
+        "title": "",
+        "url": "https://markets.businessinsider.com/news/currencies/crypto-pacs-dominate-ohio-senate-race-spending-40m-on-sherrod-browns-foe-1033802155",
+        "published": null,
+        "excerpt": "![] \n\nSearch markets\n\nSearch iconA magnifying glass. It indicates, \"Click to perform a search\".\n\n- [Home] \n- [News] \n- [Crypto PACs Dominate Ohio Senate Race, Spending $40M on Sherrod Brown's Foe] \n\n# Crypto PACs Dominate Ohio Senate Race, Spending $40M on Sherrod Brown's Foe\n\nCoinDesk\n\nSep. 26, 2024, 04:15 PM\n\n- Money from the political action committees backed by such crypto firms as Coinbase and Ripple Labs is helping lift the Republican challenger against Sen. Sherrod Brown, who chairs the S"
+      },
+      {
+        "title": "Bitcoiners celebrate as $40 million campaign brings down Ohio Sen. Sherrod Brown",
+        "url": "https://cnbc.com/2024/11/05/bitcoiners-celebrate-as-bernie-moreno-ousts-sherrod-brown-ohio-upset.html",
+        "published": "2024-11-05T00:00:00.000Z",
+        "excerpt": "[Skip Navigation] \n\n[Markets] \n\n[Business] \n\n[Investing] \n\n[Tech] \n\n[Politics] \n\n[Video] \n\n[Watchlist] \n\n[Investing Club] \n\n[PRO] \n\n[Livestream] \n\nMenu\n\nKey Points\n\n- Republican Bernie Moreno, a blockchain entrepreneur, won the Ohio Senate race, knocking off Democratic incumbent Sherrod Brown.\n- The crypto industry spent $40 million on the hotly contested Senate race.\n- Brown was a top target of crypto money.\n\nRepublican nominee for U.S. Senate Bernie Moreno addresses supporters at Brecksville C"
+      },
+      {
+        "title": "",
+        "url": "https://www.washingtonpost.com/politics/2024/11/06/who-is-bernie-moreno-ohio-senate-2024/",
+        "published": "2024-11-06T00:00:00.000Z",
+        "excerpt": "Democracy Dies in Darkness\n\n![] \n\nBernie Moreno stands at the podium at Dayton International Airport in Dayton, Ohio, during a Buckeye Values PAC Rally in March. (Andrew Spear for The Washington Post)\n\n![] \n\nBy [Vivian Ho] \n\nRepublican businessman Bernie Moreno has ousted longtime Democratic incumbent Sen. Sherrod Brown (D) in a crucial Senate race in Ohio that helped shift [control of the chamber] to the GOP.\n\nMoreno\u2019s victory in one of the [most expensive Senate races] this year came about wit"
+      },
+      {
+        "title": "How tech bros bought 'America's most pro-crypto Congress ever'",
+        "url": "https://www.cnbc.com/2024/11/23/how-tech-bros-bought-americas-most-pro-crypto-congress-ever.html",
+        "published": "2024-11-23T00:00:00.000Z",
+        "excerpt": "[Skip Navigation] \n\n[Markets] \n\n[Business] \n\n[Investing] \n\n[Tech] \n\n[Politics] \n\n[Video] \n\n[Watchlist] \n\n[Investing Club] \n\n[PRO] \n\n[Livestream] \n\nMenu\n\nKey Points\n\n- Crypto execs, investors and evangelists saw the election as existential to an industry that spent the past four years simultaneously trying to grow up while being repeatedly beaten down.\n- In total, crypto-related PACs and other groups tied to the industry reeled in more than $245 million, according to Federal Election Commission d"
+      },
+      {
+        "title": "",
+        "url": "https://www.axios.com/2024/10/01/moreno-brown-senate-crypto-money-trump",
+        "published": "2024-10-01T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\nOct 1, 2024 - [Business] \n\n# Bernie Moreno\u2019s crypto dream in the Ohio Senate race\n\n- [Brady Dale] \n\n- facebook (opens in new window)\n\n- twitter (opens in new window)\n\n- linkedin (opens in new window)\n\n- email (opens in new window)\n\n\n[Add Axios on Google] \n\nAdd Axios as your preferred source to\n\nsee more of our stories on Google.\n\n[Add Axios on Google] \n\nOhio Senate candidate Bernie Moreno speaking Monday at Messari Mainnet, a crypto event in New York. Photo: Brady Dale/A"
+      },
+      {
+        "title": "Crypto spent millions to defeat Sherrod Brown and elect allies. It's ready for a repeat in 2026",
+        "url": "https://spectrumnews1.com/oh/columbus/news/2025/10/11/crypto-sherrod-brown-2026-repeat",
+        "published": "2025-10-11T00:00:00.000Z",
+        "excerpt": "**Open in Our App**\n\nGet the best experience and stay connected to your community with our Spectrum News app. [Learn More] \n\n[Open in Spectrum News App] \n\n[Continue in Browser] \n\n[WEATHER ALERTView full list of active weather alerts] \n\n[Closings and DelaysCheck the latest school closings and delays in Central Ohio] \n\nThe cryptocurrency industry spent millions last year to unseat a longtime critic, Democratic Sen. Sherrod Brown in Ohio, and install its allies in Washington. It\u2019s ready for a repea"
+      },
+      {
+        "title": "More than 50 Members of the Next U.S. Congress Backed by Crypto Spending",
+        "url": "https://www.coindesk.com/news-analysis/2024/12/02/crypto-cash-fueled-53-members-of-the-next-u-s-congress",
+        "published": "2024-12-02T00:00:00.000Z",
+        "excerpt": "[BTC\\\n\\\n$107,547.27\\\n\\\n1.54%] \n\n[ETH\\\n\\\n$3,759.46\\\n\\\n3.85%] \n\n[USDT\\\n\\\n$1.0001\\\n\\\n0.04%] \n\n[BNB\\\n\\\n$1,061.19\\\n\\\n0.41%] \n\n[XRP\\\n\\\n$2.3474\\\n\\\n4.24%] \n\n[SOL\\\n\\\n$178.93\\\n\\\n5.22%] \n\n[USDC\\\n\\\n$0.9998\\\n\\\n0.01%] \n\n[TRX\\\n\\\n$0.3191\\\n\\\n1.19%] \n\n[DOGE\\\n\\\n$0.1881\\\n\\\n4.18%] \n\n[ADA\\\n\\\n$0.6179\\\n\\\n5.04%] \n\n[LINK\\\n\\\n$17.03\\\n\\\n4.24%] \n\n[HYPE\\\n\\\n$35.00\\\n\\\n2.27%] \n\n[USDE\\\n\\\n$0.9993\\\n\\\n0.04%] \n\n[XLM\\\n\\\n$0.3046\\\n\\\n4.54%] \n\n[BCH\\\n\\\n$469.07\\\n\\\n3.09%] \n\n[WBT\\\n\\\n$40.82\\\n\\\n1.25%] \n\n[SUI\\\n\\\n$2.3657\\\n\\\n6.11%] \n\n[LEO\\\n\\\n$9.08"
+      },
+      {
+        "title": "As crypto cash floods Washington, Congress eyes gentler regulations",
+        "url": "https://www.washingtonpost.com/business/2024/05/25/crypto-lobbying-politics-washington/",
+        "published": "2024-05-25T00:00:00.000Z",
+        "excerpt": "As crypto cash floods Washington, Congress eyes gentler regulations - The Washington Post\nDemocracy Dies in Darkness\n[Economic Policy] # As crypto cash floods Washington, Congress eyes gentler regulations\nMajor crypto firms are fighting to remake federal law with an expensive lobbying campaign that has left no part of American politics untouched.\nMay 25, 2024More than**1yearago**\n11 min\n![] \n(Maria Jesus Contreras for The Washington Post)\n![] \nBy[Tony Romm] \nCryptocurrency companies and investor"
+      },
+      {
+        "title": "Crypto cash is flooding the 2024 election. Here\u2019s who\u2019s benefiting.",
+        "url": "https://www.washingtonpost.com/business/interactive/2024/crypto-firms-candidates-house-senate-election-2024/",
+        "published": "2024-10-18T10:05:59.000Z",
+        "excerpt": "Crypto cash is flooding the 2024 election. Here\u2019s who benefiting. - Washington Post\n# Crypto cash is flooding the 2024 election. Here\u2019s who\u2019s benefiting.\n(Illustration by Shira Inbar for The Washington Post)\nBy[Tony Romm] \n,\n[Eric Lau] \n,\n[Adriana Navarro] \nand\n[Kevin Schaul] \nOctober 18, 2024 at 6:05 a.m. EDT\n10 min\nSorry, a summary is not available for this article at this time. Please try again later.\nA new political network funded by the cryptocurrency industry has spent more than $134 milli"
+      },
+      {
+        "title": "US congressional races where crypto is hoping for big payoffs",
+        "url": "https://www.reuters.com/technology/us-congressional-races-where-crypto-is-hoping-big-payoffs-2024-11-08/",
+        "published": "2024-11-08T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[Exclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv] \n\n![Scenes on the day U.S. President Elect Donald Trump was declared the winner of the presidential eleciton in Washington, U.S.] \n\nA Trump supporter stands next to the Capitol Reflecting Pool near the U.S. Capitol building, the day U.S. President Elect Donald Trump was declared the winner of the presidential election in Washington, U.S., November 6, 2024. REUTERS/Leah Millis"
+      },
+      {
+        "title": "How tech bros bought 'America's most pro-crypto Congress ever'",
+        "url": "https://www.cnbc.com/2024/11/23/how-tech-bros-bought-americas-most-pro-crypto-congress-ever.html",
+        "published": "2024-11-23T00:00:00.000Z",
+        "excerpt": "[Skip Navigation] \n\n[Markets] \n\n[Business] \n\n[Investing] \n\n[Tech] \n\n[Politics] \n\n[Video] \n\n[Watchlist] \n\n[Investing Club] \n\n[PRO] \n\n[Livestream] \n\nMenu\n\nKey Points\n\n- Crypto execs, investors and evangelists saw the election as existential to an industry that spent the past four years simultaneously trying to grow up while being repeatedly beaten down.\n- In total, crypto-related PACs and other groups tied to the industry reeled in more than $245 million, according to Federal Election Commission d"
+      },
+      {
+        "title": "Crypto cash is flooding the 2024 election. Here\u2019s who\u2019s benefiting.",
+        "url": "https://www.washingtonpost.com/business/interactive/2024/crypto-firms-candidates-house-senate-election-2024/?itid=ap_tonyromm",
+        "published": "2024-10-18T00:00:00.000Z",
+        "excerpt": "Crypto cash is flooding the 2024 election. Here\u2019s who benefiting. - Washington Post\n# Crypto cash is flooding the 2024 election. Here\u2019s who\u2019s benefiting.\n(Illustration by Shira Inbar for The Washington Post)\nBy[Tony Romm] \n,\n[Eric Lau] \n,\n[Adriana Navarro] \nand\n[Kevin Schaul] \nOctober 18, 2024 at 6:05 a.m. EDT\n10 min\nSorry, a summary is not available for this article at this time. Please try again later.\nA new political network funded by the cryptocurrency industry has spent more than $134 milli"
+      },
+      {
+        "title": "Crypto Cash Fueled 53 Members of the Next U.S. Congress",
+        "url": "https://finance.yahoo.com/news/crypto-cash-fueled-53-members-090000859.html",
+        "published": "2024-12-03T00:00:00.000Z",
+        "excerpt": "[![CoinDesk]] \n\nCrypto Cash Fueled 53 Members of the Next U.S. Congress\n\nJesse Hamilton\n\nUpdated Tue, Dec 3, 2024, 6:37 AM8 min read\n\nThis is the first in a series of stories examining the crypto industry's high-stakes 2024 foray into politics and campaigning.\n\nWith the last few congressional elections finally called, the score card is in, and the crypto industry's effort to steer policy with cash has resulted in a 91% success rate in U.S. election battles for the sector's favored candidates.\n\nO"
+      },
+      {
+        "title": "Crypto\u2019s $135 Million Campaign Is Undefeated in 48 Races So Far",
+        "url": "https://www.bloomberg.com/news/articles/2024-11-08/crypto-s-135-million-campaign-is-undefeated-in-48-races-so-far",
+        "published": "2024-11-08T00:00:00.000Z",
+        "excerpt": "[US Election 2024:] \n\n[Results] \n\n[Republican Trifecta] \n\n[Red Wave] \n\nBackForward\n\n[Crypto] \n\n[Politics] \n\n# Crypto\u2019s\u00a0$135\u00a0Million Campaign Is\u00a0Undefeated in 48\u00a0Races So Far\n\nThe industry is taking a victory lap \u2014\u00a0and betting its lavish and\u00a0bipartisan spending translates to\u00a0influence in Washington.\n\nFacebookXLinkedInEmailLink\n\nGift\n\nExpand\n\n![Hours after the Presidential election was called, a crypto-backed lobbying group issued a statement celebrating \u201cthe most pro-blockchain and pro-crypto Con"
+      },
+      {
+        "title": "Stand With Crypto Alliance PAC Donors",
+        "url": "https://www.opensecrets.org/political-action-committees-pacs/C00876631/donors/2024",
+        "published": "2025-11-25T00:00:00.000Z",
+        "excerpt": "\n \n \n \n Home \n \n \n PACs \n \n \n Donors \n \n \n \n \n \n Summary \n Candidate Recipients \n Donors \n Expenditures \n PAC/Party Contributions \n \n \n \n \n \n \n \n \n \n Contributor \n \n \n Occupation \n \n \n Date of Contribution \n \n \n Amount \n \n \n \n \n \n SHIRZAD, FARYAR WASHINGTON, DC 20008 \n COINBASE \n 06/30/2024 \n $5,000 \n \n \n CAMPBELL, KARA CALVERT ARLINGTON, VA 22207 \n COINBASE \n 06/28/2024 \n $5,000 \n \n \n HODGES, JASON HOUSTON, TX 77024 \n BAMBOO CAPITAL \n 06/28/2024 \n $1,000 \n \n \n GORTER, TIMOTHY SANTA BARBARA, CA "
+      },
+      {
+        "title": "The crypto trio: How the cryptocurrency industry has made its mark on 2024 elections - OpenSecrets News",
+        "url": "https://www.opensecrets.org/news/2024/11/the-crypto-trio-how-the-cryptocurrency-industry-has-made-its-mark-on-2024-elections/",
+        "published": "2024-11-01T00:00:00.000Z",
+        "excerpt": "[Donate] \n\n## We follow the money. You make it possible.\n\n- $35\n- $50\n- $100\n- Other\n\nDonate Today\n\n\u00d7\n\n- [Skip to Navigation] \n- [Skip to Main Content] \n- [Skip to Footer] \n\n## $1 a year\n\nIf every user like you gave just $1 a year, we could sustain our mission of transparency **forever**.\n\n[Donate Now] \n\nOpenSecrets is 100% funded through the generosity of donors.\n\nDonate to OpenSecrets to help strengthen our democracy\n\n[$35] [$50] [$100] [Custom] \n\n[Help sustain our work] \n\nPoliticians\n\nBack\n\nF"
+      }
+    ],
+    "search_queries": [
+      "Search #1: crypto executives political donations Congress members 2023 ...",
+      "Search #2: cryptocurrency industry campaign contributions politicians C...",
+      "Search #3: Sam Bankman-Fried FTX political donations politicians...",
+      "Search #4: Coinbase Ripple crypto lobbying spending Congress members...",
+      "Search #5: Fairshake super PAC crypto Coinbase Ripple Andreessen Horowi...",
+      "Search #6: Brian Armstrong Coinbase political donations Congress member...",
+      "Search #7: crypto PAC spending congressional races Katie Porter Bernie ...",
+      "Search #8: Sherrod Brown Bernie Moreno Ohio Senate crypto PAC $40 milli...",
+      "Search #9: crypto industry lobbying Congress members list recipients 20..."
+    ],
+    "search_count": 9,
+    "time_seconds": 74.15622305870056
+  },
+  "claude": {
+    "analysis_text": "I'll search for information about political donations from crypto executives to members of Congress.Let me search for a few more specific topics to round out the research.Now I have comprehensive information from 10 different searches covering the crypto industry's political donations. Let me compile this into the requested format.\n\n---\n\n## 1. KEY FINDINGS\n\n### Scale of Crypto Political Spending\n\n**Claim:** The crypto industry spent over $245 million on the 2024 elections, making it the dominant corporate political spender.\n**Quote:** \"The crypto industry raised more than $245 million from a mix of corporations and individual contributors this election cycle. Crypto has accounted for nearly half of all corporate money flowing into the election\"\n**Source:** https://www.cnbc.com/2024/11/05/cryptos-245-million-campaign-finance-operation-funded-non-crypto-ads.html\n\n**Claim:** Crypto corporations represented 48% of all corporate political donations in 2024, far exceeding other industries.\n**Quote:** \"roughly 48% of the $248 million of corporate funds used toward US elections in 2024 came from crypto backers \u2014 primarily Coinbase and Ripple\"\n**Source:** https://cointelegraph.com/news/crypto-firms-corporate-political-donations-us-elections-2024\n\n**Claim:** The crypto industry is now second only to fossil fuels in total election spending since Citizens United.\n**Quote:** \"Since Citizens United, the crypto corporations are now second in total election-related spending, trailing only fossil fuel corporations, which have spent $176 mil\"\n**Source:** https://www.citizen.org/article/big-crypto-big-spending-2024/\n\n### Major Corporate Donors\n\n**Claim:** Coinbase contributed over $75 million to crypto-aligned super PACs during the 2024 cycle.\n**Quote:** \"The exchange has given more than $75 million to Fairshake and its affiliated PACs\"\n**Source:** https://www.cnbc.com/2024/11/04/coinbase-a16z-contribute-78-million-to-pro-crypto-pac-for-2026-election.html\n\n**Claim:** Ripple Labs donated approximately $50 million to pro-crypto political committees.\n**Quote:** \"Ripple Labs is another major political donor this cycle that has given around $50 million to Fairshake\"\n**Source:** https://www.cnbc.com/2024/11/04/coinbase-a16z-contribute-78-million-to-pro-crypto-pac-for-2026-election.html\n\n**Claim:** Venture capital firm Andreessen Horowitz contributed over $70 million to crypto PACs.\n**Quote:** \"All in, a16z has given $70 million to Fairshake as the VC looks to support the PAC's larger mission\"\n**Source:** https://www.cnbc.com/2024/11/04/coinbase-a16z-contribute-78-million-to-pro-crypto-pac-for-2026-election.html\n\n### Individual Executive Donations\n\n**Claim:** Coinbase CEO Brian Armstrong personally donated over $1.3 million to various political candidates.\n**Quote:** \"Armstrong also personally donated over $1.3 million to various candidates across the political spectrum\"\n**Source:** https://www.ceotodaymagazine.com/2024/11/coinbase-ceo-brian-armstrongs-wealth-surges-by-2-billion-following-pro-crypto-election-wins/\n\n**Claim:** Ripple co-founder Chris Larsen donated more than $11.8 million to support Kamala Harris's campaign.\n**Quote:** \"The co-founder and chairman of Ripple has given more than $11.8 million to PACs supporting the Harris campaign, making him one of the crypto industry's largest individual donors this cycle\"\n**Source:** https://www.cnbc.com/2024/10/21/ripple-founder-has-given-more-than-11point8-million-to-harris-campaign.html\n\n**Claim:** The Winklevoss twins collectively donated $10.1 million during the 2024 election cycle.\n**Quote:** \"Cameron Winklevoss and Tyler Winklevoss were among the largest individual crypto donors this election cycle, giving a combined $10.1 million\"\n**Source:** https://www.cnbc.com/2024/11/23/how-tech-bros-bought-americas-most-pro-crypto-congress-ever.html\n\n### Fairshake Super PAC\n\n**Claim:** Fairshake PAC raised over $260 million and became one of the top-spending PACs in 2024.\n**Quote:** \"Fairshake PAC raised $260,070,709 in the 2023-2024 election cycle\"\n**Source:** https://www.opensecrets.org/political-action-committees-pacs/fairshake-pac/C00835959/summary/2024\n\n**Claim:** More than half of Fairshake's funding came directly from corporations, primarily Coinbase and Ripple.\n**Quote:** \"More than half of Fairshake's funding \u2013 $107.9 million, or 53% \u2013 came directly from corporations that stand to profit from the PAC's efforts, mostly Coinbase and Ripple\"\n**Source:** https://www.citizen.org/article/big-crypto-big-spending-2024/\n\n**Claim:** Fairshake won in 48 of 58 races it targeted, achieving an 82% success rate.\n**Quote:** \"Of the 58 races that the industry's Fairshake political action committee and its affiliates focused on in the elections last month, just five candidates lost\"\n**Source:** https://www.coindesk.com/news-analysis/2024/12/02/crypto-cash-fueled-53-members-of-the-next-u-s-congress\n\n### Ohio Senate Race - Sherrod Brown\n\n**Claim:** Crypto PACs spent $40 million to defeat Senator Sherrod Brown in Ohio's 2024 Senate race.\n**Quote:** \"Sherrod Brown, the chairman of the Senate Banking Committee who has so far spurned crypto legislation, faces on onslaught of $40 million in crypto cash backing his Ohio election opponent\"\n**Source:** https://www.coindesk.com/policy/2024/09/26/crypto-pacs-dominate-ohio-senate-race-spending-40m-on-sherrod-browns-foe\n\n**Claim:** Brown ultimately lost to Bernie Moreno, a blockchain entrepreneur backed by crypto interests.\n**Quote:** \"blockchain entrepreneur Bernie Moreno has defeated Senate Banking Chair Sherrod Brown, a three-term incumbent... Some $40 million of crypto money was directed at defeating Brown\"\n**Source:** https://www.cnbc.com/2024/11/05/bitcoiners-celebrate-as-bernie-moreno-ousts-sherrod-brown-ohio-upset.html\n\n### California Senate Race - Katie Porter\n\n**Claim:** Fairshake spent over $10 million to defeat Representative Katie Porter in California's Democratic Senate primary.\n**Quote:** \"Running in a crowded primary, Porter faced a barrage of negative ads \u2014 totaling nearly $10 million\"\n**Source:** https://www.washingtonpost.com/business/interactive/2024/crypto-firms-candidates-house-senate-election-2024/\n\n**Claim:** Porter was the single largest target of crypto spending, far exceeding attacks on other candidates.\n**Quote:** \"the PAC spent over $10 million in targeted advertisements against Porter... Jamaal Bowman was the second-most targeted candidate, with Fairshake spending nearly $2.1 million\"\n**Source:** https://www.yahoo.com/news/articles/ex-congresswoman-targeted-crypto-pac-204458314.html\n\n**Claim:** Crypto industry strategically selected Porter to make an example for other politicians.\n**Quote:** \"Fairshake, the New Yorker's piece said, literally selected Porter from a list of high-profile options, hoping to make an example... If Porter lost and other politicians saw how much money the industry had to spend on elections, they'd be more likely to support crypto\"\n**Source:** https://www.sfgate.com/tech/article/crypto-katie-porter-senate-campaign-19829644.php\n\n### Lobbying Expenditures\n\n**Claim:** The crypto industry spent $24.7 million on lobbying in 2023, an all-time high.\n**Quote:** \"Congressional efforts empowering cryptocurrency to grow coincide with a surge in industry lobbying, which hit an all-time high of $24.7 million in 2023\"\n**Source:** https://www.opensecrets.org/news/2024/05/congress-blocked-sec-guidance-on-crypto-as-industry-lobbying-surged/\n\n**Claim:** Coinbase and the Blockchain Association were the top crypto lobbyists in 2022-2023.\n**Quote:** \"Coinbase, an exchange platform, and Blockchain Association, a nonprofit organization advocating for crypto technology, spent the most lobbying in 2022 and 2023\"\n**Source:** https://www.opensecrets.org/news/2024/05/congress-blocked-sec-guidance-on-crypto-as-industry-lobbying-surged/\n\n### Congressional Recipients\n\n**Claim:** Representative Richie Torres was the top congressional recipient of crypto industry donations in 2024.\n**Quote:** \"Rep. Richie Torres (D-N.Y.), one of the Democrats who voted with House Republicans, is the top recipient of contributions from the crypto industry in the 2024 election cycle\"\n**Source:** https://www.opensecrets.org/news/2024/05/congress-blocked-sec-guidance-on-crypto-as-industry-lobbying-surged/\n\n**Claim:** Approximately 270 pro-crypto lawmakers won election or reelection to Congress in 2024.\n**Quote:** \"About 270 lawmakers who were considered to be 'pro-crypto' by the Coinbase-affiliated advocacy organization Stand With Crypto won election or reelection\"\n**Source:** https://cointelegraph.com/news/sherrod-brown-ohio-senate-crypto-pac-2026-run\n\n**Claim:** Coinbase CEO predicted the 2024 election would produce the most pro-crypto Congress ever.\n**Quote:** \"No matter what happens in this election, it's going to be the most pro-crypto Congress that we've ever had, said Coinbase Brian Armstrong in a recent CNBC interview\"\n**Source:** https://www.opensecrets.org/news/2024/11/the-crypto-trio-how-the-cryptocurrency-industry-has-made-its-mark-on-2024-elections/\n\n### Advertising Strategy\n\n**Claim:** Crypto PAC advertisements rarely mentioned cryptocurrency or digital assets.\n**Quote:** \"But watching the ads, you'd learn nothing about that agenda... In pouring money into ads, the groups weren't focused on informing voters about crypto\"\n**Source:** https://www.cnbc.com/2024/11/05/cryptos-245-million-campaign-finance-operation-funded-non-crypto-ads.html\n\n**Claim:** The strategy was to avoid mentioning crypto to prevent alienating voters.\n**Quote:** \"Not mentioning crypto assets explicitly is probably a savvy move to avoid alienating voters who prefer traditional currencies and might be put off by connections to crypto\"\n**Source:** https://www.cnbc.com/2024/11/05/cryptos-245-million-campaign-finance-operation-funded-non-crypto-ads.html\n\n### 2026 Election Cycle\n\n**Claim:** Fairshake already has $116 million on hand for the 2026 midterm elections.\n**Quote:** \"Fairshake, the super PAC bankrolled by crypto's biggest players, announced it has $116 million in cash on hand aimed at the 2026 midterm election cycle. The fundraising total, which includes $11 million in new contributions, cements Fairshake as one of the most influential political forces\"\n**Source:** https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html\n\n---\n\n## 2. SOURCE QUALITY ASSESSMENT\n\n**High-Quality Sources:**\n- OpenSecrets (opensecrets.org): Non-partisan research organization tracking money in politics with comprehensive Federal Election Commission (FEC) data\n- CNBC & Bloomberg: Established financial news outlets with direct access to industry sources\n- Washington Post: Major investigative journalism with interactive data analysis\n- Public Citizen: Consumer advocacy group with detailed research reports on corporate spending\n\n**Strengths:**\n- Multiple sources cite verifiable FEC filings and disclosure reports\n- Cross-confirmation across independent outlets (CNBC, Bloomberg, WaPo, OpenSecrets)\n- Direct quotes from industry executives and campaign officials\n- Specific dollar amounts traceable to public records\n\n**Limitations:**\n- Some sources rely on similar underlying FEC data\n- Industry perspective heavily represented through corporate spokespeople\n- Limited independent verification of strategic intentions (e.g., \"making an example\" of Katie Porter comes from The New Yorker's reporting)\n\n---\n\n## 3. GAPS OR CONTRADICTIONS\n\n**Gaps Identified:**\n\n1. **Individual Contribution Details:** While aggregate spending is well-documented, itemized breakdowns of which specific members of Congress received how much from which executives are limited. OpenSecrets has this data but it's dispersed across multiple profiles.\n\n2. **Dark Money:** The Cedar Innovation Foundation is mentioned as a \"dark money\" crypto organization that won't identify its backers, representing spending not fully captured in reported figures.\n\n3. **Indirect Influence:** Lobbying spending vs. campaign contributions are reported separately, making total influence spending harder to calculate comprehensively.\n\n4. **Long-term ROI:** No sources quantify the expected regulatory or financial benefit to crypto firms from this political spending.\n\n5. **Opposition Research:** Limited information about counter-campaigns or spending by crypto critics.\n\n**Minor Contradictions:**\n\n- Total 2024 spending varies slightly across sources ($245 million vs. $250+ million) likely due to reporting dates and whether only PAC spending or all crypto-related political spending is counted\n- Fairshake total varies between $202 million (Public Citizen) and $260 million (OpenSecrets) depending on timeframe and affiliated PACs\n\n---\n\n## 4. RECOMMENDED NEXT STEPS\n\n**Further Research Needed:**\n\n1. **Itemized Recipient Analysis:** Download complete FEC data to create a comprehensive database of every member of Congress who received crypto donations, amounts, and sources\n\n2. **Voting Record Correlation:** Cross-reference crypto donation recipients with their votes on crypto-related legislation (FIT21 Act, SAB 121 resolution, etc.)\n\n3. **Revolving Door Investigation:** Track former Congressional staffers now working as crypto lobbyists and their previous employers\n\n4. **State-Level Activity:** This research focused on federal elections; crypto industry may also be active in state-level campaigns\n\n5. **International Comparison:** How does U.S. crypto political spending compare to other jurisdictions?\n\n6. **2026 Tracking:** Monitor Fairshake's deployment of its $116 million war chest for 2026 midterms\n\n7. **",
+    "sources": [
+      {
+        "title": "Crypto cash is flooding the 2024 election. Here\u2019s who benefiting. - Washington Post",
+        "url": "https://www.washingtonpost.com/business/interactive/2024/crypto-firms-candidates-house-senate-election-2024/",
+        "page_age": "October 18, 2024"
+      },
+      {
+        "title": "Big Crypto, Big Spending: Crypto Corporations Spend an Unprecedented $119 Million Influencing Elections - Public Citizen",
+        "url": "https://www.citizen.org/article/big-crypto-big-spending-2024/",
+        "page_age": "November 20, 2024"
+      },
+      {
+        "title": "The crypto trio: How the cryptocurrency industry has made its mark on 2024 elections - OpenSecrets News",
+        "url": "https://www.opensecrets.org/news/2024/11/the-crypto-trio-how-the-cryptocurrency-industry-has-made-its-mark-on-2024-elections/",
+        "page_age": "June 2, 2025"
+      },
+      {
+        "title": "Crypto firms contributed 48% of all corporate political donations in 2024: Report",
+        "url": "https://cointelegraph.com/news/crypto-firms-corporate-political-donations-us-elections-2024",
+        "page_age": "August 21, 2024"
+      },
+      {
+        "title": "Crypto Industry Political Donations Top $200M: Biggest Donors in the 2024 Presidential Race | CCN.com",
+        "url": "https://www.ccn.com/news/crypto/crypto-industry-donations-2024-presidential-race/",
+        "page_age": "October 30, 2024"
+      },
+      {
+        "title": "Crypto industry accounts for almost half of corporate donations in 2024 election, report says",
+        "url": "https://www.cnbc.com/2024/08/23/crypto-companies-are-pouring-money-into-2024-election-public-citizen.html",
+        "page_age": "August 23, 2024"
+      },
+      {
+        "title": "Crypto's $245 million campaign finance operation filled airwaves with ads not about crypto",
+        "url": "https://www.cnbc.com/2024/11/05/cryptos-245-million-campaign-finance-operation-funded-non-crypto-ads.html",
+        "page_age": "November 6, 2024"
+      },
+      {
+        "title": "Crypto companies poured over $119 million toward influencing federal elections : NPR",
+        "url": "https://www.npr.org/2024/08/29/nx-s1-5089995/crypto-companies-poured-over-119-million-toward-influencing-federal-elections",
+        "page_age": "August 29, 2024"
+      },
+      {
+        "title": "Crypto Companies Have Made the Most Political Donations in 2024. Here's What They're Funding",
+        "url": "https://www.inc.com/chris-morris/crypto-companies-corporate-political-donations.html",
+        "page_age": "August 23, 2024"
+      },
+      {
+        "title": "Crypto is dominating corporate election spending",
+        "url": "https://www.axios.com/2024/08/22/crypto-election-spending-2024-pac-public-citizen",
+        "page_age": "August 22, 2024"
+      },
+      {
+        "title": "Cryptocurrency industry lobbying and political contributions skyrocketed in 2022 - OpenSecrets News",
+        "url": "https://www.opensecrets.org/news/2023/03/cryptocurrency-industry-lobbying-and-political-contributions-skyrocketed-in-2022/",
+        "page_age": "April 16, 2025"
+      },
+      {
+        "title": "Crypto Political Campaign Donations for Congress",
+        "url": "https://vault12.com/blog/crypto-political-donations/",
+        "page_age": "April 5, 2025"
+      },
+      {
+        "title": "Cryptocurrency \u2022 OpenSecrets",
+        "url": "https://www.opensecrets.org/news/issues/crypto",
+        "page_age": null
+      },
+      {
+        "title": "Congress blocked SEC guidance on crypto as industry lobbying surged - OpenSecrets News",
+        "url": "https://www.opensecrets.org/news/2024/05/congress-blocked-sec-guidance-on-crypto-as-industry-lobbying-surged/",
+        "page_age": "June 3, 2025"
+      },
+      {
+        "title": "The crypto trio: How the cryptocurrency industry has made its mark on 2024 elections - OpenSecrets News",
+        "url": "https://www.opensecrets.org/news/2024/11/the-crypto-trio-how-the-cryptocurrency-industry-has-made-its-mark-on-2024-elections/",
+        "page_age": "June 2, 2025"
+      },
+      {
+        "title": "Crypto industry executives spend millions on political contributions as Washington weighs industry regulations - OpenSecrets News",
+        "url": "https://www.opensecrets.org/news/2022/06/crypto-industry-executives-spend-millions-on-political-contributions-as-washington-weighs-industry-regulations/",
+        "page_age": "April 16, 2025"
+      },
+      {
+        "title": "Crypto's $245 million campaign finance operation filled airwaves with ads not about crypto",
+        "url": "https://www.cnbc.com/2024/11/05/cryptos-245-million-campaign-finance-operation-funded-non-crypto-ads.html",
+        "page_age": "November 6, 2024"
+      },
+      {
+        "title": "More than 50 Members of the Next U.S. Congress Backed by Crypto Spending",
+        "url": "https://www.coindesk.com/news-analysis/2024/12/02/crypto-cash-fueled-53-members-of-the-next-u-s-congress",
+        "page_age": "December 3, 2024"
+      },
+      {
+        "title": "Members | Congressional Blockchain Caucus",
+        "url": "https://congressionalblockchaincaucus-schweikert.house.gov/members",
+        "page_age": "August 3, 2023"
+      },
+      {
+        "title": "Crypto industry wields its influence in Washington after pouring over $30 million into campaigns",
+        "url": "https://www.cnbc.com/2022/05/17/crypto-industry-wields-its-influence-in-washington-after-pouring-over-30-million-into-campaigns.html",
+        "page_age": "May 17, 2022"
+      },
+      {
+        "title": "Brian Armstrong (businessman) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Brian_Armstrong_(businessman)",
+        "page_age": "December 17, 2025"
+      },
+      {
+        "title": "Coinbase CEO's journey from no 'political causes' to hiring DOGE staff",
+        "url": "https://cointelegraph.com/news/brian-armstrong-coinbase-political-journey",
+        "page_age": "May 20, 2025"
+      },
+      {
+        "title": "Coinbase CEO says company has donated $25M to vote anti-crypto politicians out of Congress | Fox Business",
+        "url": "https://www.foxbusiness.com/politics/coinbase-ceo-says-company-donated-25m-vote-anti-crypto-politicians-out-congress",
+        "page_age": "June 3, 2024"
+      },
+      {
+        "title": "Crypto Companies Have Made the Most Political Donations in 2024. Here's What They're Funding",
+        "url": "https://www.inc.com/chris-morris/crypto-companies-corporate-political-donations.html",
+        "page_age": "August 23, 2024"
+      },
+      {
+        "title": "Coinbase CEO Brian Armstrong Gains $2B After Election Win",
+        "url": "https://www.ceotodaymagazine.com/2024/11/coinbase-ceo-brian-armstrongs-wealth-surges-by-2-billion-following-pro-crypto-election-wins/",
+        "page_age": "November 7, 2024"
+      },
+      {
+        "title": "# Coinbase CEO Fights Back Against White House Crypto Bill Drama",
+        "url": "https://www.techbuzz.ai/articles/coinbase-ceo-fights-back-against-white-house-crypto-bill-drama",
+        "page_age": null
+      },
+      {
+        "title": "Coinbase\u2019s Brian Armstrong seeks lawmakers\u2019 backing to keep crypto incentive programs - Cryptopolitan",
+        "url": "https://www.cryptopolitan.com/brian-armstrong-crypto-incentive-programs/",
+        "page_age": "4 days ago"
+      },
+      {
+        "title": "Flood of Cash From Coinbase Gives Crypto One of the Biggest Campaign War Chests",
+        "url": "https://www.coindesk.com/policy/2024/06/03/flood-of-cash-from-coinbase-gives-crypto-one-of-the-biggest-campaign-war-chests",
+        "page_age": "July 17, 2024"
+      },
+      {
+        "title": "Coinbase, Armstrong Give to Fairshake Super-Pac Backing Pro-Crypto Politicians - Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2024-01-31/coinbase-coin-and-ceo-armstrong-prep-war-chest-for-pro-crypto-politicians",
+        "page_age": "January 31, 2024"
+      },
+      {
+        "title": "Coinbase donates $25 million to super PAC Fairshake days after Biden vetoes crypto custody bill | Fortune",
+        "url": "https://fortune.com/crypto/2024/06/03/coinbase-donates-25-million-to-super-pac-fairshake-days-after-biden-vetoes-crypto-custody-bill/",
+        "page_age": "June 6, 2024"
+      },
+      {
+        "title": "Chris Larsen - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chris_Larsen",
+        "page_age": "December 13, 2025"
+      },
+      {
+        "title": "Ripple co-founder pledges $10M in XRP to Kamala Harris campaign PAC",
+        "url": "https://cointelegraph.com/news/ripple-chris-larsen-xrp-donation-kamala-harris-campaign",
+        "page_age": "October 21, 2024"
+      },
+      {
+        "title": "Ripple Co-Founder Chris Larsen Pours Another $10M XRP Into Kamala Harris' Presidential Bid | CCN.com",
+        "url": "https://www.ccn.com/news/crypto/ripple-chris-larsen-10m-xrp-kamala-harris/",
+        "page_age": "October 22, 2024"
+      },
+      {
+        "title": "Harris PAC's $1 million contribution from Ripple's Chris Larsen shows crypto industry warming to VP",
+        "url": "https://www.cnbc.com/2024/10/15/kamala-harris-got-1-million-from-ripples-chris-larsen-crypto-warms.html",
+        "page_age": "January 27, 2025"
+      },
+      {
+        "title": "Billionaire Ripple founder has given more than $11.8 million to Harris campaign",
+        "url": "https://www.cnbc.com/2024/10/21/ripple-founder-has-given-more-than-11point8-million-to-harris-campaign.html",
+        "page_age": "October 21, 2024"
+      },
+      {
+        "title": "Crypto billionaire Chris Larsen showers cash on London Breed\u2014and scorn on her foes",
+        "url": "https://sfstandard.com/2024/03/24/chris-larsen-ripple-crypto-san-francisco-mayor-breed/",
+        "page_age": "March 24, 2024"
+      },
+      {
+        "title": "Ripple co-founder donates $1 million in XRP to Harris campaign",
+        "url": "https://cointelegraph.com/news/ripple-co-founder-donates-1-million-xrp-harris-campaign",
+        "page_age": "October 11, 2024"
+      },
+      {
+        "title": "Chris Larsen Donates $10 Million in XRP to the Kamala Harris Campaign - Brave New Coin",
+        "url": "https://bravenewcoin.com/insights/larsen-donates-1000-in-xrp-to-the-kamala-harris-campaign",
+        "page_age": "October 22, 2024"
+      },
+      {
+        "title": "Ripple commits to company bipartisanship as co-founder Chris Larsen donates $10 million XRP to Kamala Harris",
+        "url": "https://cryptoslate.com/ripple-commits-to-company-bipartisanship-as-co-founder-donates-10-million-xrp-to-kamala-harris/",
+        "page_age": "October 22, 2024"
+      },
+      {
+        "title": "Ripple Co-Founder Larsen Flooding Kamala Harris' Election Effort With XRP",
+        "url": "https://www.coindesk.com/policy/2024/10/21/ripple-co-founder-larsen-flooding-kamala-harris-election-effort-with-xrp",
+        "page_age": "October 21, 2024"
+      },
+      {
+        "title": "Fairshake - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fairshake",
+        "page_age": "November 26, 2025"
+      },
+      {
+        "title": "Pro-Crypto Political Candidates 2024: Fairshake PAC Targets Ohio's Sherrod Brown - Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2024-10-23/pro-crypto-political-candidates-2024-fairshake-pac-targets-ohio-s-sherrod-brown",
+        "page_age": "October 23, 2024"
+      },
+      {
+        "title": "PAC Profile: Fairshake PAC \u2022 OpenSecrets",
+        "url": "https://www.opensecrets.org/political-action-committees-pacs/fairshake-pac/C00835959/summary/2024",
+        "page_age": null
+      },
+      {
+        "title": "Fairshake PAC",
+        "url": "https://www.fairshakepac.com/",
+        "page_age": null
+      },
+      {
+        "title": "Crypto super PAC Fairshake has $116 million on hand to grow industry's influence in 2026 election",
+        "url": "https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html",
+        "page_age": "January 30, 2025"
+      },
+      {
+        "title": "Coinbase, a16z and others pour more than $78 million into pro-crypto PAC for 2026 election",
+        "url": "https://www.cnbc.com/2024/11/04/coinbase-a16z-contribute-78-million-to-pro-crypto-pac-for-2026-election.html",
+        "page_age": "November 5, 2024"
+      },
+      {
+        "title": "Crypto Cash Affecting Both Sides of the Democratic Divide - The American Prospect",
+        "url": "https://prospect.org/politics/2024-07-31-crypto-cash-affecting-democratic-races/",
+        "page_age": "July 31, 2024"
+      },
+      {
+        "title": "Fairshake PAC Recipients, 2024 \u2022 OpenSecrets",
+        "url": "https://www.opensecrets.org/outside-spending/detail/2024?cmte=C00835959&tab=targeted_candidates",
+        "page_age": null
+      },
+      {
+        "title": "Crypto PAC Fairshake has $78 million for the next campaign season \u2014 again",
+        "url": "https://www.axios.com/2024/11/04/fairshake-pac-23-million-2026-elections",
+        "page_age": "November 4, 2024"
+      },
+      {
+        "title": "Big Crypto, Big Spending: Crypto Corporations Spend an Unprecedented $119 Million Influencing Elections - Public Citizen",
+        "url": "https://www.citizen.org/article/big-crypto-big-spending-2024/",
+        "page_age": "November 20, 2024"
+      },
+      {
+        "title": "A16z Boosts Crypto's Election Fund by Another $25M to Seek Friendly Congress",
+        "url": "https://www.coindesk.com/policy/2024/05/30/a16z-boosts-cryptos-election-fund-by-another-25m-to-seek-friendly-congress",
+        "page_age": "May 30, 2024"
+      },
+      {
+        "title": "A16z backs crypto super PACs with $25M donation - Blockworks",
+        "url": "https://blockworks.co/news/a16z-crypto-super-pac-donation-2024",
+        "page_age": "May 30, 2024"
+      },
+      {
+        "title": "Crypto VC Giant a16z Founders Donate $5M to Trump Super PAC",
+        "url": "https://cryptopotato.com/crypto-vc-giant-a16z-founders-donate-5m-to-trump-super-pac/",
+        "page_age": "October 16, 2024"
+      },
+      {
+        "title": "A16z Raises $15B In New Funds, Its Largest Haul To Date, Promises To Back Startups Advancing U.S. Interests",
+        "url": "https://news.crunchbase.com/venture/a16z-15b-new-funds-american-dynamism-ben-horowitz/",
+        "page_age": "1 week ago"
+      },
+      {
+        "title": "a16z Crypto urges Treasury to embrace privacy tech and fair stablecoin rules",
+        "url": "https://www.cryptopolitan.com/a16z-urges-treasury-to-embrace-privacy/",
+        "page_age": "November 12, 2025"
+      },
+      {
+        "title": "A16z flexes political clout with 50-page crypto screed to SEC \u2013 DL News",
+        "url": "https://www.dlnews.com/articles/regulation/a16z-flexes-political-clout-with-50-page-screed-to-sec/",
+        "page_age": "March 20, 2025"
+      },
+      {
+        "title": "Tech Billionaire Marc Andreessen Bet Big on Trump. It\u2019s Paying Off for Silicon Valley.",
+        "url": "https://www.propublica.org/article/trump-cfpb-marc-andreessen-silicon-valley",
+        "page_age": "November 12, 2025"
+      },
+      {
+        "title": "US pro-crypto super PAC Fairshake gets $25M from Andreessen Horowitz",
+        "url": "https://cointelegraph.com/news/pro-crypto-pac-fairshake-25m-a16z-donation",
+        "page_age": "May 30, 2024"
+      },
+      {
+        "title": "Andreessen Horowitz - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Andreessen_Horowitz",
+        "page_age": "1 day ago"
+      },
+      {
+        "title": "A16z raises $15B, says crypto a \u2018key\u2019 to America winning next 100 years",
+        "url": "https://www.tradingview.com/news/cointelegraph:0a30dc411094b:0-a16z-raises-15b-says-crypto-a-key-to-america-winning-next-100-years/",
+        "page_age": "1 week ago"
+      },
+      {
+        "title": "Crypto PACs Dominate Ohio Senate Race, Spending $40M on Sherrod Brown's Foe",
+        "url": "https://www.coindesk.com/policy/2024/09/26/crypto-pacs-dominate-ohio-senate-race-spending-40m-on-sherrod-browns-foe",
+        "page_age": "September 27, 2024"
+      },
+      {
+        "title": "Pro-Crypto Political Candidates 2024: Fairshake PAC Targets Ohio's Sherrod Brown - Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2024-10-23/pro-crypto-political-candidates-2024-fairshake-pac-targets-ohio-s-sherrod-brown",
+        "page_age": "October 23, 2024"
+      },
+      {
+        "title": "Sherrod Brown, targeted by crypto PAC in 2024, to run for US Senate again",
+        "url": "https://cointelegraph.com/news/sherrod-brown-ohio-senate-crypto-pac-2026-run",
+        "page_age": "August 18, 2025"
+      },
+      {
+        "title": "Sherrod Brown challenges crypto PACs to rematch in Ohio Senate bid",
+        "url": "https://www.axios.com/2025/08/21/sherrod-brown-senate-democrats-fairshake",
+        "page_age": "August 21, 2025"
+      },
+      {
+        "title": "Crypto industry pours tens of millions into Ohio Senate race",
+        "url": "https://spectrumnews1.com/oh/columbus/news/2024/10/17/crypto-brown-moreno-senate",
+        "page_age": "October 17, 2024"
+      },
+      {
+        "title": "Why a crypto group is spending $12 million on Ohio\u2019s Senate race",
+        "url": "https://www.nbc4i.com/news/your-local-election-hq/why-a-crypto-group-is-spending-12-million-on-ohios-senate-race/",
+        "page_age": "September 3, 2024"
+      },
+      {
+        "title": "Crypto industry pours tens of millions of dollars into Ohio Senate race to \ndefeat Sherrod Brown",
+        "url": "https://spectrumnews1.com/ca/southern-california/news/2024/10/17/crypto-brown-moreno-senate",
+        "page_age": "October 17, 2024"
+      },
+      {
+        "title": "Bitcoiners celebrate as $40 million campaign brings down Ohio Sen. Sherrod Brown",
+        "url": "https://www.cnbc.com/2024/11/05/bitcoiners-celebrate-as-bernie-moreno-ousts-sherrod-brown-ohio-upset.html",
+        "page_age": "November 6, 2024"
+      },
+      {
+        "title": "Pro-crypto super PAC becomes largest spender in Ohio Senate race | Fox Business",
+        "url": "https://www.foxbusiness.com/politics/pro-crypto-super-pac-becomes-largest-spender-ohio-senate-race",
+        "page_age": "October 11, 2024"
+      },
+      {
+        "title": "Why Crypto Billionaires Want to Flip Sherrod Brown's Senate Seat",
+        "url": "https://theintercept.com/2024/10/13/sherrod-brown-race-crypto-regulation/",
+        "page_age": "November 22, 2024"
+      },
+      {
+        "title": "Crypto-Lobbing PAC Takes On Rep. Katie Porter\u2019s California Senate Campaign",
+        "url": "https://www.esquire.com/news-politics/politics/a62583035/crypto-lobbying-pac-california/",
+        "page_age": "October 12, 2024"
+      },
+      {
+        "title": "Crypto super PAC unloads on Katie Porter in California Senate race",
+        "url": "https://www.axios.com/2024/02/28/fairshake-crypto-pac-katie-porter-ads-california-senate",
+        "page_age": "February 28, 2024"
+      },
+      {
+        "title": "Ex-Congresswoman Targeted by Crypto PAC Is Running Again in California",
+        "url": "https://www.yahoo.com/news/articles/ex-congresswoman-targeted-crypto-pac-204458314.html",
+        "page_age": "October 9, 2025"
+      },
+      {
+        "title": "Crypto Money Took Her Down in 2024, Now She\u2019s Running Again",
+        "url": "https://beincrypto.com/katie-porter-crypto-war-california-governor-2026/",
+        "page_age": "October 9, 2025"
+      },
+      {
+        "title": "Crypto Politics Return as Katie Porter Enters CA Governor Race - Blockonomi",
+        "url": "https://blockonomi.com/crypto-politics-return-as-katie-porter-enters-ca-governor-race/",
+        "page_age": "October 10, 2025"
+      },
+      {
+        "title": "Crypto's 'savagery' sunk Calif. progressive's Senate run, New Yorker reports",
+        "url": "https://www.sfgate.com/tech/article/crypto-katie-porter-senate-campaign-19829644.php",
+        "page_age": "October 10, 2024"
+      },
+      {
+        "title": "Ex-Congresswoman Targeted by Crypto PAC Is Running Again in California - TodayOnChain",
+        "url": "https://www.todayonchain.com/news/article/01K75E6RNNQ1604M4F27Y5MVN8/",
+        "page_age": null
+      },
+      {
+        "title": "Katie Porter, Targeted by Crypto PAC in Past Election, Launches California Governor Bid",
+        "url": "https://www.kucoin.com/news/flash/katie-porter-targeted-by-crypto-pac-in-past-election-launches-california-governor-bid",
+        "page_age": null
+      },
+      {
+        "title": "Crypto Political Group Fairshake Targets California Senate Candidate Katie Porter",
+        "url": "https://www.coindesk.com/policy/2024/02/13/crypto-political-group-fairshake-targets-california-democrat-sen-katie-porter",
+        "page_age": "March 8, 2024"
+      },
+      {
+        "title": "Crypto Politics Return as Katie Porter Enters CA Governor Race",
+        "url": "https://bitcoinethereumnews.com/crypto/crypto-politics-return-as-katie-porter-enters-ca-governor-race/",
+        "page_age": "October 10, 2025"
+      },
+      {
+        "title": "Congress blocked SEC guidance on crypto as industry lobbying surged - OpenSecrets News",
+        "url": "https://www.opensecrets.org/news/2024/05/congress-blocked-sec-guidance-on-crypto-as-industry-lobbying-surged/",
+        "page_age": "June 3, 2025"
+      },
+      {
+        "title": "The crypto trio: How the cryptocurrency industry has made its mark on 2024 elections - OpenSecrets News",
+        "url": "https://www.opensecrets.org/news/2024/11/the-crypto-trio-how-the-cryptocurrency-industry-has-made-its-mark-on-2024-elections/",
+        "page_age": "June 2, 2025"
+      },
+      {
+        "title": "Big Crypto, Big Spending: Crypto Corporations Spend an Unprecedented $119 Million Influencing Elections - Public Citizen",
+        "url": "https://www.citizen.org/article/big-crypto-big-spending-2024/",
+        "page_age": "November 20, 2024"
+      },
+      {
+        "title": "Crypto cash is flooding the 2024 election. Here\u2019s who benefiting. - Washington Post",
+        "url": "https://www.washingtonpost.com/business/interactive/2024/crypto-firms-candidates-house-senate-election-2024/",
+        "page_age": "October 18, 2024"
+      },
+      {
+        "title": "How tech bros bought 'America's most pro-crypto Congress ever'",
+        "url": "https://www.cnbc.com/2024/11/23/how-tech-bros-bought-americas-most-pro-crypto-congress-ever.html",
+        "page_age": "January 27, 2025"
+      },
+      {
+        "title": "Mysterious crypto 'dark money' group ramps up lobbying efforts ahead of 2024 election",
+        "url": "https://www.cnbc.com/2024/01/08/crypto-dark-money-lobbies-as-industry-aims-to-influence-2024.html",
+        "page_age": "January 9, 2024"
+      },
+      {
+        "title": "Crypto Industry Is Spending More on Lobbying Than Ever",
+        "url": "https://readsludge.com/2025/07/23/crypto-industry-is-spending-more-on-lobbying-than-ever/",
+        "page_age": "July 25, 2025"
+      },
+      {
+        "title": "Crypto\u2019s $135 Million Campaign Is Undefeated in 48 Races So Far - Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2024-11-08/crypto-s-135-million-campaign-is-undefeated-in-48-races-so-far",
+        "page_age": "November 8, 2024"
+      },
+      {
+        "title": "As crypto cash floods Washington, Congress eyes gentler regulations - The Washington Post",
+        "url": "https://www.washingtonpost.com/business/2024/05/25/crypto-lobbying-politics-washington/",
+        "page_age": "May 28, 2024"
+      },
+      {
+        "title": "Paper trail for push to regulate crypto leads back to its own industry",
+        "url": "https://www.washingtonexaminer.com/news/investigations/4421190/crypto-industry-spent-millions-influencing-now-delayed-cryptocurrency-regulations/",
+        "page_age": "2 days ago"
+      }
+    ],
+    "search_count": 0,
+    "time_seconds": 98.1278293132782
+  },
+  "metrics": {
+    "exa_traceability": 100.0,
+    "exa_supported": 18,
+    "exa_tier_a": 37,
+    "exa_tier_a_pct": 42.04545454545455,
+    "exa_cost": 0.1656,
+    "claude_traceability": 100.0,
+    "claude_supported": 25,
+    "claude_tier_a": 26,
+    "claude_tier_a_pct": 28.888888888888886,
+    "claude_cost": 0.5156
+  }
+}

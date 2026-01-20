@@ -1,0 +1,1025 @@
+{
+  "timestamp": "2026-01-20T00:16:53.396551",
+  "query": "Locate FDA approval documents and clinical trial data for the new Alzheimer's drug",
+  "query_category": "Document Analysis",
+  "app_type": "general",
+  "webset_category": null,
+  "search_type": "neural",
+  "num_results": 10,
+  "exa": {
+    "analysis_text": "Based on my research, I have found comprehensive information about recent FDA approvals for Alzheimer's drugs. Let me format this according to your requirements.\n\n---\n\n## 1. KEY FINDINGS\n\n### FDA APPROVAL DOCUMENTS\n\n**Claim:** Lecanemab (Leqembi) received FDA accelerated approval on January 6, 2023, for treating Alzheimer's disease.\n**Quote:** \"Today, the U.S. Food and Drug Administration approved Leqembi (lecanemab-irmb) via the Accelerated Approval pathway for the treatment\"\n**Source:** https://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-alzheimers-disease-treatment\n\n**Claim:** Lecanemab was converted to traditional FDA approval on July 6, 2023, becoming the first treatment shown to reduce disease progression.\n**Quote:** \"The first and only approved treatment shown to reduce the rate of disease progression and to slow cognitive and functional decline\"\n**Source:** https://investors.biogen.com/news-releases/news-release-details/fda-grants-traditional-approval-leqembir-lecanemab-irmb\n\n**Claim:** Donanemab (Kisunla) received FDA approval in July 2024 for treating early symptomatic Alzheimer's disease.\n**Quote:** \"KISUNLA (donanemab-azbt) injection, for intravenous use Initial U.S. Approval: 2024\"\n**Source:** https://www.fda.gov/media/180803/download\n\n**Claim:** The FDA approved lecanemab for patients with mild cognitive impairment or mild dementia stage of disease.\n**Quote:** \"LEQEMBI is indicated for the treatment of Alzheimer's disease. Treatment with LEQEMBI should be initiated in patients with mild cognitive impairment or mild dementia\"\n**Source:** https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/761269s008lbl.pdf\n\n### CLINICAL TRIAL DATA - LECANEMAB\n\n**Claim:** The Clarity AD trial involved 1,795 participants with early Alzheimer's disease and met its primary endpoint.\n**Quote:** \"HIGHLY STATISTICALLY SIGNIFICANT REDUCTION OF CLINICAL DECLINE IN LARGE GLOBAL CLINICAL STUDY OF 1,795 PARTICIPANTS WITH EARLY ALZHEIMERS DISEASE\"\n**Source:** https://media-us.eisai.com/2022-09-27-LECANEMAB-CONFIRMATORY-PHASE-3-CLARITY-AD-STUDY-MET-PRIMARY-ENDPOINT,-SHOWING-HIGHLY-STATISTICALLY-SIGNIFICANT-REDUCTION-OF-CLINICAL-DECLINE-IN-LARGE-GLOBAL-CLINICAL-STUDY-OF-1,795-PARTICIPANTS-WITH-EARLY-ALZHEIMERS-DISEASE\n\n**Claim:** Lecanemab reduced brain amyloid levels and slowed cognitive decline by 27% over 18 months.\n**Quote:** \"lecanemab, reduces brain amyloid levels and slows down cognitive decline by 27% over an 18 month period\"\n**Source:** https://www.ean.org/research/resources/neurology-updates/detail/lecanemab-in-early-alzheimers-disease-clarity-ad\n\n**Claim:** The Clarity AD trial results were published in the New England Journal of Medicine.\n**Quote:** \"Lecanemab in Early Alzheimer's Disease\"\n**Source:** https://www.nejm.org/doi/10.1056/NEJMoa2212948\n\n**Claim:** All key secondary endpoints in the Clarity AD study also met statistical significance.\n**Quote:** \"ALL KEY SECONDARY ENDPOINTS ALSO MET, DEMONSTRATING HIGHLY STATISTICALLY SIGNIFICANT RESULTS\"\n**Source:** https://media-us.eisai.com/2022-09-27-LECANEMAB-CONFIRMATORY-PHASE-3-CLARITY-AD-STUDY-MET-PRIMARY-ENDPOINT,-SHOWING-HIGHLY-STATISTICALLY-SIGNIFICANT-REDUCTION-OF-CLINICAL-DECLINE-IN-LARGE-GLOBAL-CLINICAL-STUDY-OF-1,795-PARTICIPANTS-WITH-EARLY-ALZHEIMERS-DISEASE\n\n### CLINICAL TRIAL DATA - DONANEMAB\n\n**Claim:** Donanemab's TRAILBLAZER-ALZ 2 trial was a phase 3 randomized clinical trial published in JAMA.\n**Quote:** \"Donanemab in Early Symptomatic Alzheimer Disease: The TRAILBLAZER-ALZ 2 Randomized Clinical Trial\"\n**Source:** https://jamanetwork.com/journals/jama/fullarticle/2807533\n\n**Claim:** Donanemab significantly slowed cognitive decline, with the most pronounced effect in patients with lower cerebral tau levels.\n**Quote:** \"donanemab can significantly slow down rate of cognitive decline compared to placebo. This effect was most pronounced in those with lower levels\"\n**Source:** https://www.ean.org/research/resources/neurology-updates/detail/donanemab-in-early-symptomatic-alzheimer-disease-the-trailblazer-alz2-randomised-clinical-trial\n\n**Claim:** The TRAILBLAZER-ALZ 2 trial enrolled 1,736 participants in the overall population.\n**Quote:** \"Overall population (N=1736). Low-medium tau population (N=1182). Subset of overall population\"\n**Source:** https://kisunla.lilly.com/hcp/efficacy\n\n**Claim:** Donanemab targets a specific modified form of amyloid-beta deposited in brain plaques.\n**Quote:** \"Donanemab is an antibody that targets N3pG, a modified form of amyloid-\u03b2 (A\u03b2)\"\n**Source:** https://www.neurology.org/doi/10.1212/WNL.98.18_supplement.1688\n\n### SAFETY CONCERNS - ARIA (Amyloid-Related Imaging Abnormalities)\n\n**Claim:** Both lecanemab and donanemab carry warnings for amyloid-related imaging abnormalities (ARIA) including brain swelling.\n**Quote:** \"Monoclonal antibodies directed against aggregated forms of beta amyloid, including LEQEMBI, can cause amyloid related imaging abnormalities\"\n**Source:** https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/761269s008lbl.pdf\n\n**Claim:** The FDA recommended additional, earlier MRI monitoring for patients taking lecanemab due to brain swelling risks.\n**Quote:** \"FDA is recommending an additional, earlier magnetic resonance imaging (MRI) monitoring prior to the 3rd infusion for patients with Alzheimer's disease\"\n**Source:** https://www.fda.gov/drugs/drug-safety-and-availability/fda-recommend-additional-earlier-mri-monitoring-patients-alzheimers-disease-taking-leqembi-lecanemab\n\n**Claim:** ARIA most commonly presents as temporary brain swelling that usually resolves over time.\n**Quote:** \"ARIA most commonly presents as a temporary swelling in areas of the brain that usually resolves over time\"\n**Source:** https://www.leqembihcp.com/treat-and-monitor/monitor-for-safety\n\n**Claim:** The incidence of ARIA with lecanemab was within expectations in the Clarity AD trial.\n**Quote:** \"PROFILE OF AMYLOID-RELATED IMAGING ABNORMALITIES (ARIA) INCIDENCE WAS WITHIN EXPECTATIONS\"\n**Source:** https://media-us.eisai.com/2022-09-27-LECANEMAB-CONFIRMATORY-PHASE-3-CLARITY-AD-STUDY-MET-PRIMARY-ENDPOINT,-SHOWING-HIGHLY-STATISTICALLY-SIGNIFICANT-REDUCTION-OF-CLINICAL-DECLINE-IN-LARGE-GLOBAL-CLINICAL-STUDY-OF-1,795-PARTICIPANTS-WITH-EARLY-ALZHEIMERS-DISEASE\n\n### EARLIER APPROVAL - ADUCANUMAB (CONTROVERSIAL)\n\n**Claim:** Aducanumab (Aduhelm) was the first amyloid-targeting drug approved by the FDA in June 2021.\n**Quote:** \"Today, the U.S. Food and Drug Administration approved Aduhelm (aducanumab) for the treatment of Alzheimer's, a debilitating disease affecting 6.2 million\"\n**Source:** https://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-alzheimers-drug\n\n**Claim:** Aduhelm received its initial US approval in 2021 and is also associated with ARIA risks.\n**Quote:** \"ADUHELM\u00ae (aducanumab-avwa) injection, for intravenous use Initial U.S. Approval: 2021\"\n**Source:** https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/761178s011lbl.pdf\n\n**Note:** Aducanumab's approval was controversial and preceded the more recent approvals of lecanemab and donanemab. [INFERENCE - based on the pattern of approvals and the fact that later drugs are described as \"first and only\" for specific outcomes]\n\n### REGULATORY REVIEW DOCUMENTS\n\n**Claim:** The FDA's Center for Drug Evaluation and Research published a summary review for donanemab's approval.\n**Quote:** \"CENTER FOR DRUG EVALUATION AND RESEARCH APPLICATION NUMBER: 761248Orig1s000 SUMMARY REVIEW\"\n**Source:** https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/761248Orig1s000SumR.pdf\n\n**Claim:** The FDA held advisory committee meetings to review both lecanemab and donanemab before approval.\n**Quote:** \"Lecanemab (Leqembi) was approved on January 6, 2023, under the accelerated approval pathway\"\n**Source:** https://www.fda.gov/media/169337/download\n\n**Claim:** The FDA published Drug Trials Snapshots for both Leqembi and Kisunla to provide demographic information about trial participants.\n**Quote:** \"Drug Trials Snapshots: LEQEMBI\"\n**Source:** https://www.fda.gov/drugs/drug-approvals-and-databases/drug-trials-snapshots-leqembi\n\n## 2. SOURCE QUALITY ASSESSMENT\n\n**Official FDA Sources:** The research located multiple official FDA documents including:\n- FDA press announcements from fda.gov\n- Official drug labels from accessdata.fda.gov\n- FDA advisory committee meeting documents\n- Drug Trials Snapshots from official FDA databases\n\n**Peer-Reviewed Publications:** High-quality clinical trial data was published in:\n- New England Journal of Medicine (NEJM) - for lecanemab Clarity AD trial\n- JAMA - for donanemab TRAILBLAZER-ALZ 2 trial\n- These are tier-1 medical journals with rigorous peer review\n\n**Manufacturer Sources:** Information from Biogen, Eisai, and Lilly investor relations sites and prescribing information:\n- These provide detailed data but have potential bias as manufacturer materials\n- Cross-referenced with FDA documents to verify accuracy\n\n**Government Databases:** PubMed and NIH sources provide independent validation of findings.\n\n**Overall Assessment:** The sources are highly reliable, combining primary regulatory documents with peer-reviewed publications. The FDA approval documents represent the most authoritative evidence of regulatory decisions.\n\n## 3. GAPS OR CONTRADICTIONS\n\n**Missing Information:**\n- Long-term safety data beyond 18-24 months for these new drugs is limited\n- Real-world effectiveness data outside clinical trial populations\n- Cost-effectiveness analyses and health economics data\n- Detailed information about which specific patient subgroups benefit most\n- Complete data on discontinuation rates and reasons\n\n**Potential Concerns:**\n- The exact incidence rates of serious ARIA events vary across sources and require MRI monitoring\n- The clinical meaningfulness of the cognitive benefits (27% slowing) is debated - while statistically significant, the functional impact on daily life requires longer-term study\n- Earlier approval of aducanumab (Aduhelm) was controversial and is referenced less in recent materials\n\n**Consistency:** The core facts about FDA approvals, trial designs, and primary endpoints are consistent across sources. The 27% reduction in cognitive decline for lecanemab is consistently cited.\n\n## 4. RECOMMENDED NEXT STEPS\n\n**For Complete Research:**\n\n1. **Access Full Trial Publications:**\n   - Obtain complete NEJM article for lecanemab (van Dyck et al., 2023)\n   - Obtain complete JAMA article for donanemab (Sims et al., 2023)\n   - Review supplementary materials including safety data tables\n\n2. **Review Detailed FDA Documentation:**\n   - Download complete FDA approval packages from accessdata.fda.gov\n   - Review FDA advisory committee briefing documents and voting records\n   - Examine statistical review documents\n\n3. **Investigate Safety Profiles:**\n   - Search for post-marketing surveillance data on ARIA and other adverse events\n   - Review FDA Drug Safety Communications updates\n   - Look for real-world safety data since approval\n\n4. **Examine Medicare Coverage:**\n   - Research CMS (Centers for Medicare & Medicaid Services) coverage decisions\n   - Investigate registry requirements for reimbursement\n   - Review access and cost barriers\n\n5. **Long-term Follow-up:**\n   - Search for open-label extension study results\n   - Look for ongoing phase 4 post-marketing studies\n   - Monitor for new safety signals or efficacy data\n\n6. **Comparative Effectiveness:**\n   - Search for head-to-head comparisons (TRAILBLAZER-ALZ 4 compared donanemab to aducanumab)\n   - Review network meta-analyses if available\n   - Examine prescribing patterns and clinical practice guidelines",
+    "sources": [
+      {
+        "title": "FDA Converts Novel Alzheimer\u2019s Disease Treatment to Traditional Approval",
+        "url": "https://www.fda.gov/news-events/press-announcements/fda-converts-novel-alzheimers-disease-treatment-traditional-approval",
+        "published": "2023-06-07T00:00:00.000Z",
+        "excerpt": "FDA Converts Novel Alzheimer\u2019s Disease Treatment to Traditional Approval | FDA\n* [Skip to main content] \n* [Skip to FDA Search] \n* [Skip to in this section menu] \n* [Skip to footer links] \n![U.S. flag] An official website of the United States government[Here\u2019s how you know] \n![Dot gov] \n**The .gov means it\u2019s official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site.\n![SSL] \n**The site is secure.**\nThe**h"
+      },
+      {
+        "title": "label",
+        "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/761269s008lbl.pdf",
+        "published": null,
+        "excerpt": "HIGHLIGHTS OF PRESCRIBING INFORMATION \nThese highlights do not include all the information needed to use \nLEQEMBI\u00ae safely and effectively. See full prescribing information for \nLEQEMBI\u00ae. \nLEQEMBI\u00ae (lecanemab-irmb) injection, for intravenous use \nInitial U.S. Approval: 2023 \nWARNING: AMYLOID RELATED IMAGING ABNORMALITIES \nSee full prescribing information for complete boxed warning. \nMonoclonal antibodies directed against aggregated forms of beta \namyloid, including LEQEMBI, can cause amyloid rela"
+      },
+      {
+        "title": "FDA Grants Accelerated Approval for Alzheimer\u2019s Disease Treatment",
+        "url": "https://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-alzheimers-disease-treatment",
+        "published": "2023-06-01T00:00:00.000Z",
+        "excerpt": "- [Skip to main content] \n- [Skip to FDA Search] \n- [Skip to in this section menu] \n- [Skip to footer links] \n\n[In this section:\\\nPress Announcements] \n\n1. [Home] \n2. [News & Events] \n3. [FDA Newsroom] \n4. [Press Announcements] \n5. FDA Grants Accelerated Approval for Alzheimer\u2019s Disease Treatment\n\n1. [Press Announcements] \n\nFor Immediate Release:January 06, 2023\n\nToday, the U.S. Food and Drug Administration approved [Leqembi] (lecanemab-irmb) via the [Accelerated Approval pathway] for the treatm"
+      },
+      {
+        "title": "",
+        "url": "https://investors.biogen.com/node/27001/pdf",
+        "published": "2024-05-30T00:00:00.000Z",
+        "excerpt": "FDA Grants Traditional Approval for LEQEMBI\u00ae (lecanemab-irmb) for the Treatment of\nAlzheimer\u2019s Disease\nJuly 6, 2023\nThe first and only approved treatment shown to reduce the rate of disease progression and to slow cognitive and functional decline in adults with\nAlzheimer\u2019s disease\nThe Centers for Medicare & Medicaid Services (CMS) announced broader Medicare coverage of LEQEMBI\nTOKYO and CAMBRIDGE, Mass., July 06, 2023 (GLOBE NEWSWIRE) -- Eisai Co., Ltd. (Headquarters: Tokyo, CEO: Haruo Naito, \u201cE"
+      },
+      {
+        "title": "FDA approves treatment for adults with Alzheimer\u2019s disease",
+        "url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-treatment-adults-alzheimers-disease",
+        "published": "2024-02-07T00:00:00.000Z",
+        "excerpt": "FDA approves treatment for adults with Alzheimer\u2019s disease | FDA\n* [Skip to main content] \n* [Skip to FDA Search] \n* [Skip to in this section menu] \n* [Skip to footer links] \n![U.S. flag] An official website of the United States government[Here\u2019s how you know] \n![Dot gov] \n**The .gov means it\u2019s official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site.\n![SSL] \n**The site is secure.**\nThe**https://**ensur"
+      },
+      {
+        "title": "Drug Trials Snapshots: LEQEMBI",
+        "url": "https://www.fda.gov/drugs/drug-approvals-and-databases/drug-trials-snapshots-leqembi",
+        "published": "2024-08-10T00:00:00.000Z",
+        "excerpt": "Drug Trials Snapshots: LEQEMBI | FDA\n* [Skip to main content] \n* [Skip to FDA Search] \n* [Skip to in this section menu] \n* [Skip to footer links] \n![U.S. flag] An official website of the United States government[Here\u2019s how you know] \n![Dot gov] \n**The .gov means it\u2019s official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site.\n![SSL] \n**The site is secure.**\nThe**https://**ensures that you are connecting t"
+      },
+      {
+        "title": "Release Details",
+        "url": "https://investors.biogen.com/news-releases/news-release-details/fda-grants-traditional-approval-leqembir-lecanemab-irmb",
+        "published": "2023-07-06T00:00:00.000Z",
+        "excerpt": "FDA Grants Traditional Approval for LEQEMBI\u00ae (lecanemab-irmb) for the Treatment of Alzheimer\u2019s Disease | Biogen\n[Skip to main navigation] \n[![Biogen colored logo]![Biogen white logo]] \n[] \n# Release Details\n![A scientist inside the laboratory testing specimens] \n## FDA Grants Traditional Approval for LEQEMBI\u00ae (lecanemab-irmb) for the Treatment of Alzheimer\u2019s Disease\nJuly 6, 2023\n[PDF Version] \n*The first and only approved treatment shown to reduce the rate of disease progression and to slow cogn"
+      },
+      {
+        "title": "FDA Grants Traditional Approval for LEQEMBI\u00ae (lecanemab-irmb) for the Treatment of Alzheimer\u2019s Disease The first and only approved treatment shown to reduce the rate of disease progression and to slow cognitive and functional decline in adults with Alzheimer\u2019s disease The Centers for Medicare & Medicaid Services (CMS) announced broader Medicare coverage of LEQEMBI",
+        "url": "https://www.eisai.com/news/2023/news202349.html",
+        "published": "2023-07-07T00:00:00.000Z",
+        "excerpt": "FDA Grants Traditional Approval for LEQEMBI\u00ae (lecanemab-irmb) for the Treatment of Alzheimer\u2019s Disease | News ReleaseNews Release\uff1a2023 | Eisai Co., Ltd.\n[![/news/index.html]] \nMenu\n* [News Release] \n* [Worldwide] \n* [Japanese] \n* [Contact Us] \n* Search![] \nClose\n* [Home] \n* [News Release] \n* [2023 Release] \n* *FDA Grants Traditional Approval for LEQEMBI\u00ae (lecanemab-irmb) for the Treatment of Alzheimer\u2019s Disease*\n# FDA Grants Traditional Approval for LEQEMBI\u00ae (lecanemab-irmb) for the Treatment of"
+      },
+      {
+        "title": "June 9, 2023 Peripheral and Central Nervous System Drugs Advisory Committee Meeting",
+        "url": "https://www.fda.gov/media/169337/download",
+        "published": "2023-06-12T00:00:00.000Z",
+        "excerpt": "Introductory Comments\nTeresa Buracchio, MD\nDirector (Acting)\nOffice of Neuroscience\nCenter for Drug Evaluation and Research\nLecanemab\nPeripheral and Central Nervous System Drugs\nAdvisory Committee\nJune 9, 2023\nwww.fda.gov 2\nLecanemab\n\u2022 Lecanemab (Leqembi) was approved on January 6, 2023, under \nthe accelerated approval pathway\n\u2013 LEQEMBI is indicated for the treatment of Alzheimer\u2019s disease. Treatment with \nLEQEMBI should be initiated in patients with mild cognitive impairment or mild \ndementia s"
+      },
+      {
+        "title": "Alzheimer Drug Lecanemab Gains Traditional FDA Approval",
+        "url": "https://jamanetwork.com/journals/jama/fullarticle/2807654",
+        "published": "2023-08-08T00:00:00.000Z",
+        "excerpt": "[\\[Skip to Navigation\\]] \n\nOur website uses cookies to enhance your experience. By continuing to use our site, or clicking \"Continue,\" you are agreeing to our [Cookie Policy] \\| [Continue] \n\n[Sections] \n\n[PDF] \n\n[Share] \n\nClose\n\n[LinkedIn] [X] [WhatsApp] [Facebook] [Threads] [Bluesky] [WeChat] [Copy URL] [Email] \n\nMedical News in Brief\n\n# Alzheimer Drug Lecanemab Gains Traditional FDA Approval\n\n[Emily\u00a0Harris] \n\n[Article Information] \n\n- [CiteThis] \n\n\n\n### Citation\n\n\n\nHarris E. Alzheimer Drug Lec"
+      },
+      {
+        "title": "",
+        "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/761375s000lbl.pdf",
+        "published": "2025-09-02T00:00:00.000Z",
+        "excerpt": "\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nHIGHLIGHTS OF PRESCRIBING INFORMATION \nThese highlights do not include all the information needed to use \nLEQEMBI\u00ae safely and effectively. See full prescribing information for \nLEQEMBI\u00ae. \nLEQEMBI\u00ae (lecanemab-irmb) injection, for intravenous or subcutaneous \nuse \nInitial U.S. Approval: 2023 \nWARNING: AMYLOID RELATED IMAGING ABNORMALITIES \nSee full prescribing information for complete boxed warning. \nMonoc"
+      },
+      {
+        "title": "FDA approves treatment for adults with Alzheimer\u2019s disease",
+        "url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-treatment-adults-alzheimers-disease",
+        "published": "2024-02-07T00:00:00.000Z",
+        "excerpt": "FDA approves treatment for adults with Alzheimer\u2019s disease | FDA\n* [Skip to main content] \n* [Skip to FDA Search] \n* [Skip to in this section menu] \n* [Skip to footer links] \n![U.S. flag] An official website of the United States government[Here\u2019s how you know] \n![Dot gov] \n**The .gov means it\u2019s official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site.\n![SSL] \n**The site is secure.**\nThe**https://**ensur"
+      },
+      {
+        "title": "FDA Converts Novel Alzheimer\u2019s Disease Treatment to Traditional Approval",
+        "url": "https://www.fda.gov/news-events/press-announcements/fda-converts-novel-alzheimers-disease-treatment-traditional-approval",
+        "published": null,
+        "excerpt": "FDA Converts Novel Alzheimer\u2019s Disease Treatment to Traditional Approval | FDA\n* [Skip to main content] \n* [Skip to FDA Search] \n* [Skip to in this section menu] \n* [Skip to footer links] \n![U.S. flag] An official website of the United States government[Here\u2019s how you know] \n![Dot gov] \n**The .gov means it\u2019s official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site.\n![SSL] \n**The site is secure.**\nThe**h"
+      },
+      {
+        "title": "",
+        "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/761248Orig1s000SumR.pdf",
+        "published": "2024-07-29T00:00:00.000Z",
+        "excerpt": "CENTER FOR DRUG EVALUATION AND\nRESEARCH \nAPPLICATION NUMBER:\n761248Orig1s000\nSUMMARY REVIEW \n\n2\n1. Benefit-Risk Assessment\nBenefit-Risk Assessment Framework\nBenefit-Risk Integrated Assessment\nAlzheimer\u2019s disease (AD) is a neurodegenerative disease that causes progressive impairments in memory, language, and \nthinking, with the eventual loss of ability to perform social and functional activities in daily life. In general, the average survival \nis 4 to 8 years after a diagnosis of dementia due to "
+      },
+      {
+        "title": "FDA Grants Accelerated Approval for Alzheimer\u2019s Drug",
+        "url": "https://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-alzheimers-drug",
+        "published": "2021-07-06T00:00:00.000Z",
+        "excerpt": "- [Skip to main content] \n- [Skip to FDA Search] \n- [Skip to in this section menu] \n- [Skip to footer links] \n\n[In this section:\\\nPress Announcements] \n\n1. [Home] \n2. [News & Events] \n3. [FDA Newsroom] \n4. [Press Announcements] \n5. FDA Grants Accelerated Approval for Alzheimer\u2019s Drug\n\n1. [Press Announcements] \n\nFor Immediate Release:June 07, 2021\n\nToday, the U.S. Food and Drug Administration approved Aduhelm (aducanumab) for the treatment of Alzheimer\u2019s, a debilitating disease affecting 6.2 mill"
+      },
+      {
+        "title": "FDA\u2019s Decision to Approve New Treatment for Alzheimer\u2019s Disease",
+        "url": "https://www.fda.gov/drugs/our-perspective/fdas-decision-approve-new-treatment-alzheimers-disease",
+        "published": "2021-07-06T00:00:00.000Z",
+        "excerpt": "- [Skip to main content] \n- [Skip to FDA Search] \n- [Skip to in this section menu] \n- [Skip to footer links] \n\n[In this section:\\\nFrom Our Perspective] \n\n1. [Home] \n2. [Drugs] \n3. [News & Events for Human Drugs] \n4. [From Our Perspective] \n5. FDA\u2019s Decision to Approve New Treatment for Alzheimer\u2019s Disease\n\n1. [From Our Perspective] \n\n_By Dr. Patrizia Cavazzoni, Director, FDA Center for Drug Evaluation and Research_\n\nToday FDA approved [Aduhelm (aducanumab)] to treat patients with Alzheimer\u2019s dis"
+      },
+      {
+        "title": "Aducanumab (marketed as Aduhelm) Information",
+        "url": "https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/aducanumab-marketed-aduhelm-information",
+        "published": "2021-08-07T00:00:00.000Z",
+        "excerpt": "Aducanumab (marketed as Aduhelm) Information | FDA\n* [Skip to main content] \n* [Skip to FDA Search] \n* [Skip to in this section menu] \n* [Skip to footer links] \n![U.S. flag] An official website of the United States government[Here\u2019s how you know] \n![Dot gov] \n**The .gov means it\u2019s official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site.\n![SSL] \n**The site is secure.**\nThe**https://**ensures that you ar"
+      },
+      {
+        "title": "FDA Grants Accelerated Approval for Alzheimer\u2019s Disease Treatment",
+        "url": "https://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-alzheimers-disease-treatment",
+        "published": "2023-06-01T00:00:00.000Z",
+        "excerpt": "- [Skip to main content] \n- [Skip to FDA Search] \n- [Skip to in this section menu] \n- [Skip to footer links] \n\n[In this section:\\\nPress Announcements] \n\n1. [Home] \n2. [News & Events] \n3. [FDA Newsroom] \n4. [Press Announcements] \n5. FDA Grants Accelerated Approval for Alzheimer\u2019s Disease Treatment\n\n1. [Press Announcements] \n\nFor Immediate Release:January 06, 2023\n\nToday, the U.S. Food and Drug Administration approved [Leqembi] (lecanemab-irmb) via the [Accelerated Approval pathway] for the treatm"
+      },
+      {
+        "title": "Drug Trials Snapshots: ADUHELM",
+        "url": "https://www.fda.gov/drugs/drug-approvals-and-databases/drug-trials-snapshots-aduhelm",
+        "published": "2023-11-27T00:00:00.000Z",
+        "excerpt": "- [Skip to main content] \n- [Skip to FDA Search] \n- [Skip to in this section menu] \n- [Skip to footer links] \n\n[In this section:\\\nDrug Approvals and Databases] \n\n1. [Home] \n2. [Drugs] \n3. [Development & Approval Process \\| Drugs] \n4. [Drug Approvals and Databases] \n5. Drug Trials Snapshots: ADUHELM\n\n1. [Drug Approvals and Databases] \n\n**HOW TO USE THIS SNAPSHOT**\n\nThe information provided in Snapshots highlights who participated in the key clinical trials that supported the original FDA approval"
+      },
+      {
+        "title": "Drug Trials Snapshots: KISUNLA",
+        "url": "https://www.fda.gov/drugs/drug-approvals-and-databases/drug-trials-snapshots-kisunla",
+        "published": null,
+        "excerpt": "Drug Trials Snapshots: KISUNLA | FDA\n* [Skip to main content] \n* [Skip to FDA Search] \n* [Skip to in this section menu] \n* [Skip to footer links] \n![U.S. flag] An official website of the United States government[Here\u2019s how you know] \n![Dot gov] \n**The .gov means it\u2019s official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site.\n![SSL] \n**The site is secure.**\nThe**https://**ensures that you are connecting t"
+      },
+      {
+        "title": "FDA approves treatment for adults with Alzheimer\u2019s disease",
+        "url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-treatment-adults-alzheimers-disease",
+        "published": "2024-02-07T00:00:00.000Z",
+        "excerpt": "FDA approves treatment for adults with Alzheimer\u2019s disease | FDA\n* [Skip to main content] \n* [Skip to FDA Search] \n* [Skip to in this section menu] \n* [Skip to footer links] \n![U.S. flag] An official website of the United States government[Here\u2019s how you know] \n![Dot gov] \n**The .gov means it\u2019s official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site.\n![SSL] \n**The site is secure.**\nThe**https://**ensur"
+      },
+      {
+        "title": "FDA Grants Accelerated Approval for Alzheimer\u2019s Drug",
+        "url": "https://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-alzheimers-drug",
+        "published": "2021-07-06T00:00:00.000Z",
+        "excerpt": "- [Skip to main content] \n- [Skip to FDA Search] \n- [Skip to in this section menu] \n- [Skip to footer links] \n\n[In this section:\\\nPress Announcements] \n\n1. [Home] \n2. [News & Events] \n3. [FDA Newsroom] \n4. [Press Announcements] \n5. FDA Grants Accelerated Approval for Alzheimer\u2019s Drug\n\n1. [Press Announcements] \n\nFor Immediate Release:June 07, 2021\n\nToday, the U.S. Food and Drug Administration approved Aduhelm (aducanumab) for the treatment of Alzheimer\u2019s, a debilitating disease affecting 6.2 mill"
+      },
+      {
+        "title": "FDA\u2019s Decision to Approve New Treatment for Alzheimer\u2019s Disease",
+        "url": "https://www.fda.gov/drugs/our-perspective/fdas-decision-approve-new-treatment-alzheimers-disease",
+        "published": "2021-07-06T00:00:00.000Z",
+        "excerpt": "- [Skip to main content] \n- [Skip to FDA Search] \n- [Skip to in this section menu] \n- [Skip to footer links] \n\n[In this section:\\\nFrom Our Perspective] \n\n1. [Home] \n2. [Drugs] \n3. [News & Events for Human Drugs] \n4. [From Our Perspective] \n5. FDA\u2019s Decision to Approve New Treatment for Alzheimer\u2019s Disease\n\n1. [From Our Perspective] \n\n_By Dr. Patrizia Cavazzoni, Director, FDA Center for Drug Evaluation and Research_\n\nToday FDA approved [Aduhelm (aducanumab)] to treat patients with Alzheimer\u2019s dis"
+      },
+      {
+        "title": "",
+        "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/761178s011lbl.pdf",
+        "published": "2023-08-31T00:00:00.000Z",
+        "excerpt": "1 \nHIGHLIGHTS OF PRESCRIBING INFORMATION\nThese highlights do not include all the information needed to use \nADUHELM\u00ae safely and effectively. See full prescribing information for \nADUHELM. \nADUHELM\u00ae (aducanumab-avwa) injection, for intravenous use \nInitial U.S. Approval: 2021\nWARNING: AMYLOID RELATED IMAGING ABNORMALITIES\nSee full prescribing information for complete boxed warning.\nMonoclonal antibodies directed against aggregated forms of beta \namyloid, including ADUHELM, can cause amyloid relat"
+      },
+      {
+        "title": "FDA Converts Novel Alzheimer\u2019s Disease Treatment to Traditional Approval",
+        "url": "https://www.fda.gov/news-events/press-announcements/fda-converts-novel-alzheimers-disease-treatment-traditional-approval",
+        "published": null,
+        "excerpt": "FDA Converts Novel Alzheimer\u2019s Disease Treatment to Traditional Approval | FDA\n* [Skip to main content] \n* [Skip to FDA Search] \n* [Skip to in this section menu] \n* [Skip to footer links] \n![U.S. flag] An official website of the United States government[Here\u2019s how you know] \n![Dot gov] \n**The .gov means it\u2019s official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site.\n![SSL] \n**The site is secure.**\nThe**h"
+      },
+      {
+        "title": "Aducanumab (marketed as Aduhelm) Information",
+        "url": "https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/aducanumab-marketed-aduhelm-information",
+        "published": "2021-08-07T00:00:00.000Z",
+        "excerpt": "Aducanumab (marketed as Aduhelm) Information | FDA\n* [Skip to main content] \n* [Skip to FDA Search] \n* [Skip to in this section menu] \n* [Skip to footer links] \n![U.S. flag] An official website of the United States government[Here\u2019s how you know] \n![Dot gov] \n**The .gov means it\u2019s official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site.\n![SSL] \n**The site is secure.**\nThe**https://**ensures that you ar"
+      },
+      {
+        "title": "FDA Grants Accelerated Approval for Alzheimer\u2019s Disease Treatment",
+        "url": "https://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-alzheimers-disease-treatment",
+        "published": "2023-06-01T00:00:00.000Z",
+        "excerpt": "- [Skip to main content] \n- [Skip to FDA Search] \n- [Skip to in this section menu] \n- [Skip to footer links] \n\n[In this section:\\\nPress Announcements] \n\n1. [Home] \n2. [News & Events] \n3. [FDA Newsroom] \n4. [Press Announcements] \n5. FDA Grants Accelerated Approval for Alzheimer\u2019s Disease Treatment\n\n1. [Press Announcements] \n\nFor Immediate Release:January 06, 2023\n\nToday, the U.S. Food and Drug Administration approved [Leqembi] (lecanemab-irmb) via the [Accelerated Approval pathway] for the treatm"
+      },
+      {
+        "title": "",
+        "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/761248Orig1s000SumR.pdf",
+        "published": "2024-07-29T00:00:00.000Z",
+        "excerpt": "CENTER FOR DRUG EVALUATION AND\nRESEARCH \nAPPLICATION NUMBER:\n761248Orig1s000\nSUMMARY REVIEW \n\n2\n1. Benefit-Risk Assessment\nBenefit-Risk Assessment Framework\nBenefit-Risk Integrated Assessment\nAlzheimer\u2019s disease (AD) is a neurodegenerative disease that causes progressive impairments in memory, language, and \nthinking, with the eventual loss of ability to perform social and functional activities in daily life. In general, the average survival \nis 4 to 8 years after a diagnosis of dementia due to "
+      },
+      {
+        "title": "FDA grants accelerated approval for Alzheimer\u2019s drug",
+        "url": "https://www.nia.nih.gov/news/fda-grants-accelerated-approval-alzheimers-drug",
+        "published": null,
+        "excerpt": "FDA grants accelerated approval for Alzheimer\u2019s drug | National Institute on Aging[Skip to main content] \n![U.S. flag] \nAn official website of the United States government\nHere's how you know\nHere's how you know\n[U.S. Department of Health &amp; Human Services (HHS)] \n[National Institutes of Health (NIH)] \n![Dot gov] \n**The .gov means it\u2019s official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you\u2019re on a federal government site.\n![Https"
+      },
+      {
+        "title": "Release Details",
+        "url": "https://investors.biogen.com/news-releases/news-release-details/fda-grants-accelerated-approval-aduhelmtm-first-and-only",
+        "published": "2021-06-07T00:00:00.000Z",
+        "excerpt": "FDA grants accelerated approval for ADUHELM\u2122 as the first and only Alzheimer\u2019s disease treatment to address a defining pathology of the disease | Biogen\n[Skip to main navigation] \n[![Biogen colored logo]![Biogen white logo]] \n[] \n# Release Details\n![A scientist inside the laboratory testing specimens] \n## FDA grants accelerated approval for ADUHELM\u2122 as the first and only Alzheimer\u2019s disease treatment to address a defining pathology of the disease\nJune 7, 2021\n[PDF Version] \n*The accumulation of "
+      },
+      {
+        "title": "",
+        "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/761248Orig1s000SumR.pdf",
+        "published": "2024-07-29T00:00:00.000Z",
+        "excerpt": "CENTER FOR DRUG EVALUATION AND\nRESEARCH \nAPPLICATION NUMBER:\n761248Orig1s000\nSUMMARY REVIEW \n\n2\n1. Benefit-Risk Assessment\nBenefit-Risk Assessment Framework\nBenefit-Risk Integrated Assessment\nAlzheimer\u2019s disease (AD) is a neurodegenerative disease that causes progressive impairments in memory, language, and \nthinking, with the eventual loss of ability to perform social and functional activities in daily life. In general, the average survival \nis 4 to 8 years after a diagnosis of dementia due to "
+      },
+      {
+        "title": "",
+        "url": "https://www.fda.gov/media/180803/download",
+        "published": "2024-07-02T00:00:00.000Z",
+        "excerpt": "\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n1 \nHIGHLIGHTS OF PRESCRIBING INFORMATION \nThese highlights do not include all the information needed to use \nKISUNLA safely and effectively. See full prescribing information\nfor KISUNLA. \nKISUNLA (donanemab-azbt) injection, for intravenous use\nInitial U.S. Approval: 2024 \nWARNING: AMYLOID RELATED IMAGING ABNORMALITIES \nSee full prescribing information for complete boxed warning. \nMonoclonal antibodies directed against aggrega"
+      },
+      {
+        "title": "",
+        "url": "https://pi.lilly.com/us/kisunla-uspi.pdf?s=pi",
+        "published": null,
+        "excerpt": "1\nHIGHLIGHTS OF PRESCRIBING INFORMATION\nThese highlights do not include all the information needed to use \nKISUNLA safely and effectively. See full prescribing information \nfor KISUNLA.\nKISUNLA (donanemab-azbt) injection, for intravenous use\nInitial U.S. Approval: 2024\nWARNING: AMYLOID RELATED IMAGING ABNORMALITIES\nSee full prescribing information for complete boxed warning.\nMonoclonal antibodies directed against aggregated forms of \nbeta amyloid, including KISUNLA, can cause amyloid related \nim"
+      },
+      {
+        "title": "FDA approves treatment for adults with Alzheimer\u2019s disease",
+        "url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-treatment-adults-alzheimers-disease",
+        "published": "2024-02-07T00:00:00.000Z",
+        "excerpt": "FDA approves treatment for adults with Alzheimer\u2019s disease | FDA\n* [Skip to main content] \n* [Skip to FDA Search] \n* [Skip to in this section menu] \n* [Skip to footer links] \n![U.S. flag] An official website of the United States government[Here\u2019s how you know] \n![Dot gov] \n**The .gov means it\u2019s official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site.\n![SSL] \n**The site is secure.**\nThe**https://**ensur"
+      },
+      {
+        "title": "Drug Trials Snapshots: KISUNLA",
+        "url": "https://www.fda.gov/drugs/drug-approvals-and-databases/drug-trials-snapshots-kisunla",
+        "published": null,
+        "excerpt": "Drug Trials Snapshots: KISUNLA | FDA\n* [Skip to main content] \n* [Skip to FDA Search] \n* [Skip to in this section menu] \n* [Skip to footer links] \n![U.S. flag] An official website of the United States government[Here\u2019s how you know] \n![Dot gov] \n**The .gov means it\u2019s official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site.\n![SSL] \n**The site is secure.**\nThe**https://**ensures that you are connecting t"
+      },
+      {
+        "title": "Donanemab - LiverTox - NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK608532/",
+        "published": "2024-10-04T00:00:00.000Z",
+        "excerpt": "Donanemab - LiverTox - NCBI Bookshelf\n![U.S. flag] \nAn official website of the United States government\nHere's how you know\n![Dot gov] \n**The .gov means it's official.**\nFederal government websites often end in .gov or .mil. Before\nsharing sensitive information, make sure you're on a federal\ngovernment site.\n![Https] \n**The site is secure.**\nThe**https://**ensures that you are connecting to the\nofficial website and that any information you provide is encrypted\nand transmitted securely.\n[![NIH NL"
+      },
+      {
+        "title": "",
+        "url": "https://www.va.gov/formularyadvisor/DOC_PDF/MON_Donanemab-azbt_KISUNLA_monograph_Aug_2024.pdf",
+        "published": "2024-09-11T00:00:00.000Z",
+        "excerpt": "Donanemab Monograph \nDonanemab-azbt (KISUNLA) \nNational Drug Monograph\nAugust 2024 \nVA Pharmacy Benefits Management Services and VA National Formulary Committee\nThe purpose of VA PBM Services drug monographs is to provide a focused drug review for making formulary \ndecisions. Updates will be made if new clinical data warrant additional formulary discussion. The Product \nInformation or other resources should be consulted for detailed and most current drug information.\nFDA Approval Information\nDes"
+      },
+      {
+        "title": "Efficacy Data, Study Design & Clinical Trials | Kisunla\u2122 (donanemab-azbt)",
+        "url": "https://kisunla.lilly.com/hcp/efficacy",
+        "published": "2025-03-01T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\nView the [latest coverage information] and [registry submission form] from the Centers for Medicare & Medicaid Services (CMS).\n\n![Gray and orange bar visual] \n\n# A PHASE 3 STUDY THAT ASSESSED DISEASE PROGRESSION IN EARLY SYMPTOMATIC ALZHEIMER\u2019S DISEASE (AD) BY REDUCING AMYLOID PLAQUES1,2\n\n![Overall population and low-medium tau population image] \n\nUp\nImage Description\n\nOverall population (N=1736). Low-medium tau population (N=1182). Subset of overall population.1,2 Kisun"
+      },
+      {
+        "title": "",
+        "url": "https://www.fda.gov/media/179239/download",
+        "published": "2024-06-04T00:00:00.000Z",
+        "excerpt": "Introductory Comments\nTeresa Buracchio, MD\nDirector, Office of Neuroscience\nCenter for Drug Evaluation and Research\nDonanemab\nPeripheral and Central Nervous System Drugs\nAdvisory Committee\nJune 10, 2024\nwww.fda.gov 2\nDonanemab\n\u2022 Monoclonal antibody targeting the N-terminal, third amino acid, \npyroglutamate formulation (N3pG) epitope that is present in brain \namyloid plaques.\n\u2022 Proposed indication: Treatment of early symptomatic Alzheimer\u2019s \ndisease (e.g., mild cognitive impairment and mild demen"
+      },
+      {
+        "title": "News Release",
+        "url": "https://investor.lilly.com/news-releases/news-release-details/lillys-kisunlatm-donanemab-azbt-approved-fda-treatment-early",
+        "published": "2024-07-02T00:00:00.000Z",
+        "excerpt": "Lilly&#039;s Kisunla\u2122 (donanemab-azbt) Approved by the FDA for the Treatment of Early Symptomatic Alzheimer&#039;s Disease | Eli Lilly and Company\n[Skip to main content] \n[] MenuMenu\nClose\nSearch Lilly.com For Content...Submit search\n![Two Lilly scientists working in the lab] \n# News Release\n## Lilly&#039;s Kisunla\u2122 (donanemab-azbt) Approved by the FDA for the Treatment of Early Symptomatic Alzheimer&#039;s Disease\nJuly 2, 2024\n[Facebook] \n[LinkedIn] \n[Twitter] \n[Mail] \n[PDF Version] \n*Kisunla s"
+      },
+      {
+        "title": "Clarity AD Phase 3 Trial Data | LEQEMBI\u00ae (lecanemab-irmb)",
+        "url": "https://www.leqembihcp.com/about/study-design",
+        "published": null,
+        "excerpt": "Clarity AD Phase 3 Trial Data | LEQEMBI&#174; (lecanemab-irmb)\n* For US Healthcare Professionals Only\n* [Prescribing Information] \n* [Patients &amp; Care Partners] \n[![LEQEMBI\u00ae (lecanemab-irmb) logo]] \n[![LEQEMBI&#174; (lecanemab-irmb) logo]] \n![Rachel] \n![Rachel] \n## Study design\n**Rachel is a real LEQEMBI patient and Doug is her care partner.**\nPeople shown were compensated for their time, and information\nis accurate as of August 2025.\n#### Clarity AD: A pivotal study measuring early and long-"
+      },
+      {
+        "title": "LEQEMBI\u00ae (lecanemab-irmb) Clinical Trial Results",
+        "url": "https://www.leqembihcp.com/about/clinical-results",
+        "published": null,
+        "excerpt": "LEQEMBI&#174; (lecanemab-irmb) Clinical Trial Results\n* For US Healthcare Professionals Only\n* [Prescribing Information] \n* [Patients &amp; Care Partners] \n[![LEQEMBI\u00ae (lecanemab-irmb) logo]] \n[![LEQEMBI&#174; (lecanemab-irmb) logo]] \n![Lance and Liz] \n![Lance and Liz] \n## LEQEMBI\u00ae\nclinical results\n**Lance is a real LEQEMBI patient and Liz is his care partner.**\nPeople shown were compensated for their time, and information is accurate as of August 2025.\nJump to section\n* [Primary endpoint and lo"
+      },
+      {
+        "title": "Long\u2010term safety and efficacy of lecanemab in early Alzheimer's disease: Results from the clarity AD open\u2010label extension study",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12682705/",
+        "published": "2024-03-31T00:00:00.000Z",
+        "excerpt": "Long\u2010term safety and efficacy of lecanemab in early Alzheimer&#x27;s disease: Results from the clarity AD open\u2010label extension study - PMC[Skip to main content] \n![] \nAn official website of the United States government\nHere's how you know\nHere's how you know\n![] \n**Official websites use .gov**\nA**.gov**website belongs to an official\ngovernment organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA**lock**(LockLocked padlock icon) or**https://**means you've safely\nconnected "
+      },
+      {
+        "title": "Lecanemab clarity AD: results from a randomised, double-blind phase 3 early Alzheimer\u2019s disease trial",
+        "url": "https://jnnp.bmj.com/content/94/Suppl_1/A45.3",
+        "published": "2023-11-01T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[Email alerts] \n\nArticle Text\n\n[Article menu] \n\n- [Article Text] \n- [Article info] \n- [Citation Tools] \n- [Share] \n- [Rapid Responses] \n- [Article metrics] \n- [Alerts] \n\n[**PDF**] \n\nAssociation of British Neurologists: Annual Meeting Abstracts 2023\n\nPosters general \\| 111\n\nLecanemab clarity AD: results from a randomised, double-blind phase 3 early Alzheimer\u2019s disease trial\n\n1. van Dyck Christopher H [1],\n2. Bateman Randall [2],\n3. Cohen Sharon [3],\n4. McMurray Rob [4],\n5"
+      },
+      {
+        "title": "Lecanemab Confirmatory Phase 3 CLARITY AD Study Met Primary Endpoint, Showing Highly Statistically Significant Reduction Of Clinical Decline In Large Global Clinical Study Of 1,795 Participants With Early Alzheimer's Disease",
+        "url": "https://media-us.eisai.com/2022-09-27-LECANEMAB-CONFIRMATORY-PHASE-3-CLARITY-AD-STUDY-MET-PRIMARY-ENDPOINT,-SHOWING-HIGHLY-STATISTICALLY-SIGNIFICANT-REDUCTION-OF-CLINICAL-DECLINE-IN-LARGE-GLOBAL-CLINICAL-STUDY-OF-1,795-PARTICIPANTS-WITH-EARLY-ALZHEIMERS-DISEASE",
+        "published": "2022-09-27T00:00:00.000Z",
+        "excerpt": "Lecanemab Confirmatory Phase 3 CLARITY AD Study Met Primary Endpoint, Showing Highly Statistically Significant Reduction Of Clinical Decline In Large Global Clinical Study Of 1,795 Participants With Early Alzheimer's Disease\n\n- _ALL KEY SECONDARY ENDPOINTS ALSO MET, DEMONSTRATING HIGHLY STATISTICALLY SIGNIFICANT RESULTS_\n- _PROFILE OF AMYLOID-RELATED IMAGING ABNORMALITIES (ARIA) INCIDENCE WAS WITHIN EXPECTATIONS_\n- _EISAI AIMS TO FILE FOR TRADITIONAL APPROVAL IN THE U.S., AND TO SUBMIT MARKETING"
+      },
+      {
+        "title": "Release Details",
+        "url": "https://investors.biogen.com/news-releases/news-release-details/eisai-presents-full-results-lecanemab-phase-3-confirmatory",
+        "published": "2022-11-29T00:00:00.000Z",
+        "excerpt": "Eisai Presents Full Results of Lecanemab Phase 3 Confirmatory Clarity Ad Study for Early Alzheimer\u2019s Disease At Clinical Trials On Alzheimer\u2019s Disease (Ctad) Conference | Biogen\n[Skip to main navigation] \n[![Biogen colored logo]![Biogen white logo]] \n[] \n# Release Details\n![A scientist inside the laboratory testing specimens] \n## Eisai Presents Full Results of Lecanemab Phase 3 Confirmatory Clarity Ad Study for Early Alzheimer\u2019s Disease At Clinical Trials On Alzheimer\u2019s Disease (Ctad) Conference"
+      },
+      {
+        "title": "Release Details",
+        "url": "https://investors.biogen.com/news-releases/news-release-details/lecanemab-confirmatory-phase-3-clarity-ad-study-met-primary",
+        "published": "2022-09-27T00:00:00.000Z",
+        "excerpt": "LECANEMAB CONFIRMATORY PHASE 3 CLARITY AD STUDY MET PRIMARY ENDPOINT, SHOWING HIGHLY STATISTICALLY SIGNIFICANT REDUCTION OF CLINICAL DECLINE IN LARGE GLOBAL CLINICAL STUDY OF 1,795 PARTICIPANTS WITH EARLY ALZHEIMER\u2019S DISEASE | Biogen\n[Skip to main navigation] \n[![Biogen colored logo]![Biogen white logo]] \n[] \n# Release Details\n![A scientist inside the laboratory testing specimens] \n## LECANEMAB CONFIRMATORY PHASE 3 CLARITY AD STUDY MET PRIMARY ENDPOINT, SHOWING HIGHLY STATISTICALLY SIGNIFICANT R"
+      },
+      {
+        "title": "Lecanemab in Early Alzheimer\u2019s Disease",
+        "url": "https://www.nejm.org/doi/10.1056/NEJMoa2212948",
+        "published": "2023-01-05T00:00:00.000Z",
+        "excerpt": "Lecanemab in Early Alzheimer\u2019s Disease | New England Journal of Medicine\n[Skip to main content] \n[Sign In] |[Create Account] \n[Subscribe] \n[![The New England Journal of Medicine homepage]] \n[Sign In] |[Create Account] \n[Subscribe] \n[![The New England Journal of Medicine homepage]] \n[Sign In] |[Create Account] \n[Subscribe] \n[Advanced Search] SEARCH\nSave\n##### Create an E-mail Alert for This Article\n[Original Article] \nShare on\n* [] \n* [] \n* [] \n* [] \n* [] \n# Lecanemab in Early Alzheimer\u2019s Disease"
+      },
+      {
+        "title": "Lecanemab in Early Alzheimer\u2019s Disease (CLARITY AD)",
+        "url": "https://www.ean.org/research/resources/neurology-updates/detail/lecanemab-in-early-alzheimers-disease-clarity-ad",
+        "published": "2023-04-13T00:00:00.000Z",
+        "excerpt": "13.04.2023\n\\|\nDementia and cognitive disorders\n\n# Lecanemab in Early Alzheimer\u2019s Disease (CLARITY AD)\n\nCreated by Youssuf Saleh\n\nIn patients with early AD, lecanemab, reduces brain amyloid levels and slows down cognitive decline by 27% over an 18 month period. However, it is associated with increased serious adverse effects including infusion reactions.\n\nVan Dyck and colleagues report a double blind, multi-center, phase 3 clinical trial investigating a monoclonal antibody, lecanemab, in people w"
+      },
+      {
+        "title": "Eisai presents full results from the Clarity AD Phase III trial of lecanemab",
+        "url": "https://www.alzheimer-europe.org/news/eisai-presents-full-results-clarity-ad-phase-iii-trial-lecanemab?language_content_entity=en",
+        "published": "2025-11-24T15:06:57.000Z",
+        "excerpt": "[Skip to main content] \n\n# Eisai presents full results from the Clarity AD Phase III trial of lecanemab\n\n30/11/2022\n\nOn 30 November, Eisai and Biogen announced that the results from the Phase III Clarity AD trial of lecanemab (also known as BAN2401), an investigational anti-amyloid beta protofibril antibody, for the treatment of early Alzheimer\u2019s disease (AD) were presented at the 2022 Clinical Trials on Alzheimer's Disease (CTAD) conference in San Francisco (US). Findings were published simulta"
+      },
+      {
+        "title": "",
+        "url": "https://www.fda.gov/media/188468/download",
+        "published": "2025-08-27T00:00:00.000Z",
+        "excerpt": "FDA to recommend additional, earlier MRI monitoring for patients with Alzheimer\u2019s disease taking\nLeqembi (lecanemab)\nEarlier monitoring can potentially help identify patients experiencing brain swelling or fluid buildup and\nhelp inform treatment decision-making\n08-28-2025\nWhat Safety Concern Is FDA Announcing?\nThe U.S. Food and Drug Administration (FDA) is recommending an additional, earlier magnetic \nresonance imaging (MRI) monitoring prior to the 3rd infusion for patients with Alzheimer\u2019s dise"
+      },
+      {
+        "title": "FDA to recommend additional, earlier MRI monitoring for patients with Alzheimer\u2019s disease taking Leqembi (lecanemab)",
+        "url": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-recommend-additional-earlier-mri-monitoring-patients-alzheimers-disease-taking-leqembi-lecanemab",
+        "published": null,
+        "excerpt": "FDA to recommend additional, earlier MRI monitoring for patients with Alzheimer\u2019s disease taking Leqembi (lecanemab) | FDA\n* [Skip to main content] \n* [Skip to FDA Search] \n* [Skip to in this section menu] \n* [Skip to footer links] \n![U.S. flag] An official website of the United States government[Here\u2019s how you know] \n![Dot gov] \n**The .gov means it\u2019s official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government "
+      },
+      {
+        "title": "Treat and Monitor \u2013 Monitor for safety | LEQEMBI\u00ae (lecanemab-irmb)",
+        "url": "https://www.leqembihcp.com/treat-and-monitor/monitor-for-safety",
+        "published": "2025-01-01T00:00:00.000Z",
+        "excerpt": "![A woman tending flowers in her garden] \n\n![A woman tending flowers in her garden] \n\n### Treat & Monitor\n\n# Initiate treatment and monitor for safety\n\n## Patient counseling information\n\nAdvise the patient and/or caregiver to read the FDA-approved patient labeling (Medication Guide).1\n\n#### ARIA\n\n- Inform patients that LEQEMBI\u00ae may cause ARIA. ARIA most commonly presents as a temporary swelling in areas of the brain that usually resolves over time. Some people may also have small spots of bleedi"
+      },
+      {
+        "title": "ARIA and Safety Considerations for LEQEMBI\u00ae (lecanemab-irmb)",
+        "url": "https://www.leqembihcp.com/about/safety",
+        "published": null,
+        "excerpt": "ARIA and Safety Considerations for LEQEMBI&#174; (lecanemab-irmb)\n* For US Healthcare Professionals Only\n* [Prescribing Information] \n* [Patients &amp; Care Partners] \n[![LEQEMBI\u00ae (lecanemab-irmb) logo]] \n[![LEQEMBI&#174; (lecanemab-irmb) logo]] \n![Rachel and Doug] \n![Rachel and Doug] \n## Safety\n**Rachel is a real LEQEMBI patient and Doug is her care partner.**\nPeople shown were compensated for their time, and information\nis accurate as of August 2025.\n#### Safety matters. The incidence and timi"
+      },
+      {
+        "title": "Amyloid-related imaging abnormalities",
+        "url": "https://en.wikipedia.org/wiki/Amyloid-related_imaging_abnormalities",
+        "published": "2016-12-11T00:00:00.000Z",
+        "excerpt": "[Jump to content] \n\nFrom Wikipedia, the free encyclopedia\n\nMedical condition\n\n| Amyloid-related imaging abnormalities |\n| --- |\n| Other names | ARIA |\n| Two MRI scans demonstrating the difference between ARIA-E (left) and ARIA-H in the [parietal] region (right) |\n| [Specialty] | [Radiology], [neurology] |\n\n**Amyloid-related imaging abnormalities** ( **ARIA**) are abnormal differences seen in [magnetic resonance imaging of the brain] in patients with [Alzheimer's disease]. ARIA is associated with"
+      },
+      {
+        "title": "",
+        "url": "https://kisunla.lilly.com/hcp/safety",
+        "published": "2025-04-01T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\nView the [latest coverage information] and [registry submission form] from the Centers for Medicare & Medicaid Services (CMS).\n\n**For your patients with early symptomatic Alzheimer\u2019s disease (AD) and confirmed amyloid positivity1:**\n\n# **INTRODUCING NEW GRADUAL-TITRATION DOSING1**\n\nIn TRAILBLAZER-ALZ 6, alternative dosing regimens with Kisunla were assessed. The primary endpoint was the proportion of participants with **any occurrence of ARIA-E**.1\n\n**Assessed the impact"
+      },
+      {
+        "title": "label",
+        "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/761269s008lbl.pdf",
+        "published": null,
+        "excerpt": "HIGHLIGHTS OF PRESCRIBING INFORMATION \nThese highlights do not include all the information needed to use \nLEQEMBI\u00ae safely and effectively. See full prescribing information for \nLEQEMBI\u00ae. \nLEQEMBI\u00ae (lecanemab-irmb) injection, for intravenous use \nInitial U.S. Approval: 2023 \nWARNING: AMYLOID RELATED IMAGING ABNORMALITIES \nSee full prescribing information for complete boxed warning. \nMonoclonal antibodies directed against aggregated forms of beta \namyloid, including LEQEMBI, can cause amyloid rela"
+      },
+      {
+        "title": "Amyloid-related Imaging Abnormalities (ARIA) in the Context of Alzheimer\u2019s Disease and Amyloid-targeting Therapies: An Introduction for Advanced Practice Providers",
+        "url": "https://link.springer.com/article/10.1007/s40266-025-01253-x",
+        "published": "2025-10-03T00:00:00.000Z",
+        "excerpt": "# Amyloid-related Imaging Abnormalities (ARIA) in the Context of Alzheimer\u2019s Disease and Amyloid-targeting Therapies: An Introduction for Advanced Practice Providers\n\n- Therapy in Practice\n- [Open access] \n- Published: 03 October 2025\n\n- (2025)\n- [Cite this article] \n\nYou have full access to this [open access] article\n\n[Download PDF] \n\n[Drugs & Aging] [Aims and scope] [Submit manuscript] \n\nAmyloid-related Imaging Abnormalities (ARIA) in the Context of Alzheimer\u2019s Disease and Amyloid-targeting Th"
+      },
+      {
+        "title": "Will unpredictable side effects dim the promise of new Alzheimer\u2019s drugs?",
+        "url": "https://www.science.org/content/article/will-unpredictable-side-effects-dim-promise-new-alzheimer-s-drugs",
+        "published": "2023-08-02T00:00:00.000Z",
+        "excerpt": "Advertisement\n\n# Will unpredictable side effects dim the promise of new Alzheimer\u2019s drugs?\n\n## Despite landmark antibody approval, research into potentially serious brain swelling and bleeding still lags\n\n- 2 Aug 2023\n- 12:00 PM ET\n- By [Jennifer Couzin-Frankel] \n\n![MRI scans from brain side by side] An MRI from a woman who died after receiving lecanemab in a trial shows extreme brain swelling (right), obscuring cerebral folds visible in a pretreatment scan (left).DAUGHTERS OF GENEVIEVE ANN LANE"
+      },
+      {
+        "title": "Amyloid-related imaging abnormalities: manifestations, metrics and mechanisms",
+        "url": "https://www.nature.com/articles/s41582-024-01053-8?error=cookies_not_supported&code=8f80ae3e-e1f3-425e-aaea-df2e816cf793",
+        "published": "2025-01-10T00:00:00.000Z",
+        "excerpt": "### Subjects\n\n- [Alzheimer's disease] \n- [Stroke] \n\n## Abstract\n\nThree monoclonal antibodies directed against specific forms of the amyloid-\u03b2 (A\u03b2) peptide have been granted accelerated or traditional approval by the FDA as treatments for Alzheimer disease, representing the first step towards bringing disease-modifying treatments for this disease into clinical practice. Here, we review the detection, underlying pathophysiological mechanisms and clinical implications of amyloid-related imaging abn"
+      },
+      {
+        "title": "Donanemab in early symptomatic Alzheimer's disease: results from the TRAILBLAZER-ALZ 2 long-term extension",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41330788/",
+        "published": null,
+        "excerpt": "Donanemab in early symptomatic Alzheimer&#x27;s disease: results from the TRAILBLAZER-ALZ 2 long-term extension - PubMed\nClipboard, Search History, and several other advanced features are temporarily unavailable.\n[Skip to main page content] \n![U.S. flag] \nAn official website of the United States government\nHere's how you know\n![Dot gov] \n**The .gov means it\u2019s official.**\nFederal government websites often end in .gov or .mil. Before\nsharing sensitive information, make sure you\u2019re on a federal\ngov"
+      },
+      {
+        "title": "Trial of Donanemab in Early Symptomatic Alzheimer Disease",
+        "url": "https://jamanetwork.com/journals/jama/fullarticle/2807533",
+        "published": "2023-08-08T00:00:00.000Z",
+        "excerpt": "[\\[Skip to Navigation\\]] \n\n[_full text icon_ \\\nFull Text] [_contents icon_ \\\nContents] [_figure icon_ \\\nFigures /\\\n\\\nTables] [_multimedia icon_ \\\nMultimedia] [_attach icon_ \\\nSupplemental\\\n\\\nContent] [_references icon_ \\\nReferences] [_related icon_ \\\nRelated] [_comments icon_ \\\nComments] \n\nDownload PDF\n\n[Top of Article] \n\n- [Key Points] \n- [Abstract] \n- [Introduction] \n- [Methods] \n- [Results] \n- [Discussion] \n- [Conclusions] \n- [Article Information] \n- [References] \n\nVisual Abstract.\u00a0Donanemab "
+      },
+      {
+        "title": "Donanemab in Early Symptomatic Alzheimer Disease: The TRAILBLAZER-ALZ 2 Randomized Clinical Trial",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37459141/",
+        "published": null,
+        "excerpt": "Donanemab in Early Symptomatic Alzheimer Disease: The TRAILBLAZER-ALZ 2 Randomized Clinical Trial - PubMed\nClipboard, Search History, and several other advanced features are temporarily unavailable.\n[Skip to main page content] \n![U.S. flag] \nAn official website of the United States government\nHere's how you know\n![Dot gov] \n**The .gov means it\u2019s official.**\nFederal government websites often end in .gov or .mil. Before\nsharing sensitive information, make sure you\u2019re on a federal\ngovernment site.\n"
+      },
+      {
+        "title": "Donanemab in Early Symptomatic Alzheimer Disease: The TRAILBLAZER-ALZ 2 Randomized Clinical Trial.",
+        "url": "https://www.themednet.org/publications/donanemab-in-early-symptomatic-alzheimer-disease-the-trailblazer-alz-2-randomized-clinical-trial",
+        "published": "2023-10-05T00:00:00.000Z",
+        "excerpt": "Donanemab in Early Symptomatic Alzheimer Disease: The TRAILBLAZER-ALZ 2 Randomized Clinical Trial.\n[![theMednet]] [Register] \n* [Community] \n* [Overview] \n* [Experts] \n* [Editors] \n* [Fellows] \n* [Code of conduct] \n* [AI Guidelines for Physicians] \n* [Company] \n* [About Us] \n* [FAQs] \n* [Privacy Policy] \n* [Terms of Use] \n* [Careers] \n* [Programs] \n* [News] \n* [News Releases] \n* [Press Coverage] \n* [Publications] \n* [Blog] \n* [Contact Us] \n* [Sign in] \nJAMA 2023 Jul 17\nDonanemab in Early Symptom"
+      },
+      {
+        "title": "Donanemab in Early Alzheimer\u2019s Disease",
+        "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2100708",
+        "published": "2021-05-06T00:00:00.000Z",
+        "excerpt": "Read 2 free subscriber-only articles each month with a\nfree NEJM.org account.\n\n[Create Account] \n\nSave\n\n- Contents\n- - [Information & Authors] \n- [Metrics & Citations] \n- [View Options] \n- [References] \n- [Media] \n- [Tables] \n- [Share] \n\n## Abstract\n\n### Background\n\nA hallmark of Alzheimer\u2019s disease is the accumulation of amyloid-\u03b2 (A\u03b2) peptide. Donanemab, an antibody that targets a modified form of deposited A\u03b2, is being investigated for the treatment of early Alzheimer\u2019s disease.\n\n### Methods\n"
+      },
+      {
+        "title": "",
+        "url": "https://www.neurology.org/doi/10.1212/WNL.0000000000203040",
+        "published": "2023-04-28T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[Skip to main content] [AAN.com] AAN Publications\n\nContents\n\n## Abstract\n\n### Objective:\n\nTo evaluate the potential superiority of donanemab vs. aducanumab on the percentage of participants with amyloid plaque clearance (\u226424.1 Centiloids \\[CL\\]) at 6 months in patients with early symptomatic Alzheimer\u2019s disease (AD) in phase 3 TRAILBLAZER-ALZ-4 study.\n\n### Background:\n\nThe amyloid cascade in AD involves the production and deposition of amyloid beta (A\u03b2) as an early and n"
+      },
+      {
+        "title": "",
+        "url": "https://www.neurology.org/doi/10.1212/WNL.98.18_supplement.1688",
+        "published": "2023-03-27T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[Skip to main content] [AAN.com] AAN Publications\n\nContents\n\n## Abstract\n\n### Objective:\n\nWe present baseline characteristics of TRAILBLAZER-ALZ 2 (NCT04437511), a global phase 3 study designed to assess the treatment effects of donanemab on disease progression in individuals with early symptomatic AD.\n\n### Background:\n\nDonanemab is an antibody that targets N3pG, a modified form of amyloid-\u03b2 (A\u03b2). TRAILBLAZER-ALZ (NCT03367403) was a phase 2 study of 272 individuals with "
+      },
+      {
+        "title": "TRAILBLAZER\u2010ALZ 4: A phase 3 trial comparing donanemab with aducanumab on amyloid plaque clearance in early, symptomatic Alzheimer's disease",
+        "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.70293?af=R",
+        "published": "2025-05-01T00:00:00.000Z",
+        "excerpt": "Opens in a new windowOpens an external websiteOpens an external website in a new window\n\nThis website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: [Privacy Policy] \n\n[Alzheimer's & Dementia] \n\n[Volume 21, Issue 5] e70293\n\nRESEARCH ARTICLE\n\nOpen Access\n\n# TRAILBLAZER-ALZ 4: A phase 3 trial comparing donanemab with aducanumab on amyloid plaque clearance in e"
+      },
+      {
+        "title": "Donanemab in early symptomatic Alzheimer Disease: The TRAILBLAZER-ALZ2 Randomised Clinical Trial",
+        "url": "https://www.ean.org/research/resources/neurology-updates/detail/donanemab-in-early-symptomatic-alzheimer-disease-the-trailblazer-alz2-randomised-clinical-trial",
+        "published": "2023-11-14T00:00:00.000Z",
+        "excerpt": "14.11.2023\n\\|\nDementia and cognitive disorders\n\n# Donanemab in early symptomatic Alzheimer Disease: The TRAILBLAZER-ALZ2 Randomised Clinical Trial\n\nCreated by Youssuf Saleh\n\nIn this phase 3 randomised, placebo controlled trial in patients with early AD, Sim et al. show that donanemab can significantly slow down rate of cognitive decline compared to placebo. This effect was most pronounced in those with lower levels of cereberal tau on PET imaging, suggesting that treatment is most beneficial in "
+      },
+      {
+        "title": "Amyloid-Related Imaging Abnormalities With Donanemab in Early Symptomatic Alzheimer Disease",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11894547/",
+        "published": "2025-03-10T00:00:00.000Z",
+        "excerpt": "Amyloid-Related Imaging Abnormalities With Donanemab in Early Symptomatic Alzheimer Disease: Secondary Analysis of the TRAILBLAZER-ALZ and ALZ 2 Randomized Clinical Trials - PMC[Skip to main content] \n![] \nAn official website of the United States government\nHere's how you know\nHere's how you know\n![] \n**Official websites use .gov**\nA**.gov**website belongs to an official\ngovernment organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA**lock**(LockLocked padlock icon) or**h"
+      },
+      {
+        "title": "LEQEMBI\u00ae (lecanemab-irmb) Clinical Trial Results",
+        "url": "https://www.leqembihcp.com/about/clinical-results",
+        "published": null,
+        "excerpt": "LEQEMBI&#174; (lecanemab-irmb) Clinical Trial Results\n* For US Healthcare Professionals Only\n* [Prescribing Information] \n* [Patients &amp; Care Partners] \n[![LEQEMBI\u00ae (lecanemab-irmb) logo]] \n[![LEQEMBI&#174; (lecanemab-irmb) logo]] \n![Lance and Liz] \n![Lance and Liz] \n## LEQEMBI\u00ae\nclinical results\n**Lance is a real LEQEMBI patient and Liz is his care partner.**\nPeople shown were compensated for their time, and information is accurate as of August 2025.\nJump to section\n* [Primary endpoint and lo"
+      },
+      {
+        "title": "Lecanemab in Early Alzheimer\u2019s Disease",
+        "url": "https://www.nejm.org/doi/10.1056/NEJMoa2212948",
+        "published": "2023-01-05T00:00:00.000Z",
+        "excerpt": "Lecanemab in Early Alzheimer\u2019s Disease | New England Journal of Medicine\n[Skip to main content] \n[Sign In] |[Create Account] \n[Subscribe] \n[![The New England Journal of Medicine homepage]] \n[Sign In] |[Create Account] \n[Subscribe] \n[![The New England Journal of Medicine homepage]] \n[Sign In] |[Create Account] \n[Subscribe] \n[Advanced Search] SEARCH\nSave\n##### Create an E-mail Alert for This Article\n[Original Article] \nShare on\n* [] \n* [] \n* [] \n* [] \n* [] \n# Lecanemab in Early Alzheimer\u2019s Disease"
+      },
+      {
+        "title": "Lecanemab in Early Alzheimer's Disease",
+        "url": "https://www.ovid.com/journals/nejm/fulltext/10.1056/nejmoa2212948~lecanemab-in-early-alzheimers-disease",
+        "published": "2023-04-27T00:00:00.000Z",
+        "excerpt": "Lecanemab in Early Alzheimer&#x27;s Disease : New England Journal of Medicine\n[![Ovid Logo] Ovid\nGo to Ovid home page\n] \n* Check Access\n* Cite\n* Share\n* More\n# **Lecanemab in Early Alzheimer&#x27;s Disease**\n## * van Dyck,ChristopherH.M.D.\n* Swanson,ChadJ.Ph.D.\n* Aisen,PaulM.D.\n* Bateman,RandallJ.M.D.\n* Chen,ChristopherB.M., B.Ch.\n* Gee,MichellePh.D.\n* Kanekiyo,MichioM.S.\n* Li,DavidPh.D.\n* Reyderman,LarisaPh.D.\n* Cohen,SharonM.D.\n* Froelich,LutzM.D., Ph.D.\n* Katayama,SadaoM.D.\n* Sabbagh,MarwanM."
+      },
+      {
+        "title": "",
+        "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/761269s005lbl.pdf",
+        "published": "2025-01-28T00:00:00.000Z",
+        "excerpt": "\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nHIGHLIGHTS OF PRESCRIBING INFORMATION \nThese highlights do not include all the information needed to use \nLEQEMBI\u00ae safely and effectively. See full prescribing information for \nLEQEMBI\u00ae. \nLEQEMBI\u00ae (lecanemab-irmb) injection, for intravenous use \nInitial U.S. Approval: 2023 \nWARNING: AMYLOID RELATED IMAGING ABNORMALITIES \nSee full prescribing information for complete boxed warning. \nMonoclonal antibodies directed against aggregated forms of"
+      },
+      {
+        "title": "Clarity AD Phase 3 Trial Data | LEQEMBI\u00ae (lecanemab-irmb)",
+        "url": "https://www.leqembihcp.com/about/study-design",
+        "published": null,
+        "excerpt": "Clarity AD Phase 3 Trial Data | LEQEMBI&#174; (lecanemab-irmb)\n* For US Healthcare Professionals Only\n* [Prescribing Information] \n* [Patients &amp; Care Partners] \n[![LEQEMBI\u00ae (lecanemab-irmb) logo]] \n[![LEQEMBI&#174; (lecanemab-irmb) logo]] \n![Rachel] \n![Rachel] \n## Study design\n**Rachel is a real LEQEMBI patient and Doug is her care partner.**\nPeople shown were compensated for their time, and information\nis accurate as of August 2025.\n#### Clarity AD: A pivotal study measuring early and long-"
+      },
+      {
+        "title": "Lecanemab clarity AD: results from a randomised, double-blind phase 3 early Alzheimer\u2019s disease trial",
+        "url": "https://jnnp.bmj.com/content/94/Suppl_1/A45.3",
+        "published": "2023-11-01T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[Email alerts] \n\nArticle Text\n\n[Article menu] \n\n- [Article Text] \n- [Article info] \n- [Citation Tools] \n- [Share] \n- [Rapid Responses] \n- [Article metrics] \n- [Alerts] \n\n[**PDF**] \n\nAssociation of British Neurologists: Annual Meeting Abstracts 2023\n\nPosters general \\| 111\n\nLecanemab clarity AD: results from a randomised, double-blind phase 3 early Alzheimer\u2019s disease trial\n\n1. van Dyck Christopher H [1],\n2. Bateman Randall [2],\n3. Cohen Sharon [3],\n4. McMurray Rob [4],\n5"
+      },
+      {
+        "title": "Long\u2010term safety and efficacy of lecanemab in early Alzheimer's disease: Results from the clarity AD open\u2010label extension study",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12682705/",
+        "published": "2024-03-31T00:00:00.000Z",
+        "excerpt": "Long\u2010term safety and efficacy of lecanemab in early Alzheimer&#x27;s disease: Results from the clarity AD open\u2010label extension study - PMC[Skip to main content] \n![] \nAn official website of the United States government\nHere's how you know\nHere's how you know\n![] \n**Official websites use .gov**\nA**.gov**website belongs to an official\ngovernment organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA**lock**(LockLocked padlock icon) or**https://**means you've safely\nconnected "
+      },
+      {
+        "title": "Lecanemab in patients with early Alzheimer\u2019s disease: detailed results on biomarker, cognitive, and clinical effects from the randomized and open-label extension of the phase 2 proof-of-concept study",
+        "url": "https://alzres.biomedcentral.com/articles/10.1186/s13195-022-01124-2",
+        "published": "2022-12-21T00:00:00.000Z",
+        "excerpt": "Lecanemab in patients with early Alzheimer\u2019s disease: detailed results on biomarker, cognitive, and clinical effects from the randomized and open-label extension of the phase 2 proof-of-concept study | Alzheimer&#x27;s Research &amp; Therapy\n[Skip to main content] \nAdvertisement\nBMC journals have moved to Springer Nature Link.[Learn more about website changes.] \n[![Springer Nature Link]] \n[Log in] \n# Lecanemab in patients with early Alzheimer\u2019s disease: detailed results on biomarker, cognitive, "
+      },
+      {
+        "title": "",
+        "url": "https://fda.gov/media/169264/download",
+        "published": "2023-06-02T00:00:00.000Z",
+        "excerpt": "Lecanemab PCNS Advisory Committee Briefing Document\nEisai Page 1 of 107\nPERIPHERAL AND CENTRAL NERVOUS SYSTEM (PCNS) DRUGS \nADVISORY COMMITTEE MEETING\nEISAI, INC. BRIEFING DOCUMENT\nLEQEMBI\u00ae (lecanemab-irmb)\nBLA 761269 S-001\nLEQEMBI is indicated for the treatment of Alzheimer\u2019s disease. \nTreatment with LEQEMBI should be initiated in patients with mild \ncognitive impairment or mild dementia stage of disease, the \npopulation in which treatment was initiated in clinical trials. There \nare no safety "
+      },
+      {
+        "title": "",
+        "url": "https://www.leqembi.com/en/-/media/Files/Leqembi/Prescribing-Information.pdf?hash=5deab3d7-c731-44fc-8acc-2c49ee44822c",
+        "published": "2025-12-16T00:00:00.000Z",
+        "excerpt": "HIGHLIGHTS OF PRESCRIBING INFORMATION \nThese highlights do not include all the information needed to use \nLEQEMBI\u00ae safely and effectively. See full prescribing information for \nLEQEMBI\u00ae. \nLEQEMBI\u00ae (lecanemab-irmb) injection, for intravenous or subcutaneous \nuse \nInitial U.S. Approval: 2023 \nWARNING: AMYLOID RELATED IMAGING ABNORMALITIES \nSee full prescribing information for complete boxed warning. \nMonoclonal antibodies directed against aggregated forms of beta \namyloid, including LEQEMBI, can c"
+      }
+    ],
+    "search_queries": [
+      "Search #1: FDA approval Alzheimer's drug 2023 2024 lecanemab donanemab...",
+      "Search #2: clinical trial results Alzheimer's disease new treatment app...",
+      "Search #3: FDA Alzheimer's drug approval documents official announcemen...",
+      "Search #4: donanemab Kisunla FDA approval July 2024 clinical trial effi...",
+      "Search #5: lecanemab Clarity AD trial results efficacy cognitive declin...",
+      "Search #6: Alzheimer's drug ARIA side effects safety monitoring brain s...",
+      "Search #7: TRAILBLAZER-ALZ 2 trial donanemab results New England Journa...",
+      "Search #8: lecanemab 27% cognitive decline reduction CDR-SB score..."
+    ],
+    "search_count": 8,
+    "time_seconds": 77.28522396087646
+  },
+  "claude": {
+    "analysis_text": "I'll search for information about new Alzheimer's drug FDA approvals and clinical trial data.## 1. KEY FINDINGS\n\n### FDA Approval Status\n\n**Claim:** The FDA approved Kisunla (donanemab) in July 2024 for treating early symptomatic Alzheimer's disease.\n**Quote:** \"The U.S. Food and Drug Administration has approved Kisunla (donanemab-azbt) injection for the treatment of Alzheimer's disease.\"\n**Source:** https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-treatment-adults-alzheimers-disease\n\n**Claim:** The FDA converted Leqembi (lecanemab) to traditional approval in July 2023 after initially granting accelerated approval in January 2023.\n**Quote:** \"the U.S. Food and Drug Administration converted Leqembi (lecanemab-irmb), indicated to treat adult patients with Alzheimer's Disease, to traditional approval\"\n**Source:** https://www.fda.gov/news-events/press-announcements/fda-converts-novel-alzheimers-disease-treatment-traditional-approval\n\n**Claim:** A subcutaneous autoinjector formulation of lecanemab was approved by the FDA in August 2025.\n**Quote:** \"FDA approved Leqembi's subcutaneous formulation for maintenance dosing in people with early Alzheimer's disease\"\n**Source:** https://www.alzforum.org/therapeutics/leqembi\n\n### Clinical Trial Data - Donanemab\n\n**Claim:** Donanemab's efficacy was evaluated in the TRAILBLAZER-ALZ 2 trial with 1,736 patients randomized 1:1.\n**Quote:** \"1736 patients were randomized 1:1 to receive700 mg Kisunla every 4 weeks for the first 3 doses\"\n**Source:** https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-treatment-adults-alzheimers-disease\n\n**Claim:** Donanemab slowed clinical decline by 35% in the low-medium tau population at 18 months.\n**Quote:** \"donanemab treatment significantly slowed decline by 35% on iADRS and 36% on CDR-SB\"\n**Source:** https://investor.lilly.com/news-releases/news-release-details/results-lillys-landmark-phase-3-trial-donanemab-presented\n\n**Claim:** The TRAILBLAZER-ALZ 2 trial was a multicenter study conducted at 277 sites in 8 countries.\n**Quote:** \"Multicenter (277 medical research centers/hospitals in 8 countries), randomized, double-blind, placebo-controlled, 18-month phase 3 trial\"\n**Source:** https://pubmed.ncbi.nlm.nih.gov/37459141/\n\n**Claim:** Donanemab achieved amyloid clearance in 71% of participants by 12 months.\n**Quote:** \"34% of participants in the intermediate tau population achieved amyloid clearance at 6 months and 71% achieved clearance at 12 months\"\n**Source:** https://investor.lilly.com/news-releases/news-release-details/lillys-donanemab-significantly-slowed-cognitive-and-functional\n\n### Clinical Trial Data - Lecanemab\n\n**Claim:** Lecanemab's CLARITY AD trial enrolled 1,795 patients across 253 sites in 13 countries.\n**Quote:** \"The trial was conducted at 253 sites in 13 countries in North America, Europe, Asia, and Australia\"\n**Source:** https://www.fda.gov/drugs/drug-approvals-and-databases/drug-trials-snapshots-leqembi\n\n**Claim:** Lecanemab reduced cognitive and functional decline by 27% at 18 months compared to placebo.\n**Quote:** \"lecanemab reduced cognitive and functional decline by 27% at 18 months\"\n**Source:** https://www.ajmc.com/view/fda-approves-new-maintenance-dosing-for-lecanemab-to-treat-early-stage-alzheimer-disease\n\n**Claim:** Lecanemab demonstrated statistically significant results on all primary and secondary endpoints.\n**Quote:** \"Leqembi demonstrated a statistically significant and clinically meaningful reduction of decline from baseline to 18 months on the primary endpoint\"\n**Source:** https://www.fda.gov/news-events/press-announcements/fda-converts-novel-alzheimers-disease-treatment-traditional-approval\n\n### Safety Data\n\n**Claim:** In donanemab trials, ARIA-E occurred in 24% and ARIA-H in 31% of treated patients.\n**Quote:** \"incidence of ARIA-E was 24% and the incidence of ARIA-H was 31%\"\n**Source:** https://www.fda.gov/media/179166/download\n\n**Claim:** Two ARIA-related deaths were attributed to donanemab use in the AACI trial.\n**Quote:** \"Two ARIA-related deaths were attributed to the use of donanemab in AACI\"\n**Source:** https://www.fda.gov/media/179166/download\n\n**Claim:** In lecanemab trials, ARIA-E occurred in 12.6% and ARIA-H in 17.3% of treated participants.\n**Quote:** \"ARIA-E and ARIA-H occurred in 12.6% and 17.3% of lecanemab-treated participants, respectively\"\n**Source:** https://pmc.ncbi.nlm.nih.gov/articles/PMC12470750/\n\n### Drug Pipeline & Ongoing Research\n\n**Claim:** As of January 2025, 138 drugs are being assessed in 182 clinical trials in the Alzheimer's pipeline.\n**Quote:** \"We identified 182 clinical trials assessing 138 drugs in the AD pipeline on the index date of January 1, 2025\"\n**Source:** https://pmc.ncbi.nlm.nih.gov/articles/PMC12131090/\n\n**Claim:** The pipeline includes 48 trials testing 31 drugs in Phase 3, 86 trials testing 75 drugs in Phase 2.\n**Quote:** \"This included 48 trials assessing 31 drugs in Phase 3; 86 trials assessing 75 drugs in Phase 2\"\n**Source:** https://pmc.ncbi.nlm.nih.gov/articles/PMC12131090/\n\n**Claim:** Merck's MK-2214, a tau-targeting antibody, received Fast Track Designation from the FDA in December 2025.\n**Quote:** \"MK-2214, a novel candidate targeting the abnormal accumulation and aggregation of tau in the brain, has been granted Fast Track Designation\"\n**Source:** https://www.merck.com/news/merck-showcases-data-for-alzheimers-disease-candidates-mk-2214-and-mk-1167-at-ctad-2025/\n\n### Medicare Coverage\n\n**Claim:** CMS covers FDA-approved anti-amyloid antibodies under Coverage with Evidence Development (CED) policy.\n**Quote:** \"CMS issued an NCD that covers FDA approved monoclonal antibodies directed against amyloid for the treatment of AD under Coverage with Evidence Development (CED)\"\n**Source:** https://www.cms.gov/medicare/coverage/coverage-evidence-development/monoclonal-antibodies-directed-against-amyloid-treatment-alzheimers-disease-ad\n\n## 2. SOURCE QUALITY ASSESSMENT\n\nThe sources are highly reliable and include:\n\n**Primary FDA Documents**: Official FDA press releases and approval documents provide authoritative information on regulatory decisions and clinical trial requirements.\n\n**Peer-Reviewed Research**: PubMed/PMC articles from JAMA and other leading journals provide rigorous scientific evidence from clinical trials.\n\n**Official Clinical Trial Registry**: ClinicalTrials.gov provides standardized trial information directly from sponsors.\n\n**Pharmaceutical Company Disclosures**: Eli Lilly and Eisai investor relations releases provide detailed trial results, though these should be considered alongside peer-reviewed publications.\n\n**Government Health Agencies**: CMS and NIA documents provide reliable information on coverage policies and research initiatives.\n\n**Professional Medical Organizations**: Alzheimer's Association sources provide evidence-based clinical guidance.\n\n## 3. GAPS OR CONTRADICTIONS\n\n**Long-term Efficacy Data**: While 18-month trial data is available, longer-term outcomes beyond 2-4 years remain limited. The open-label extensions provide some data but lack placebo controls.\n\n**Real-World Effectiveness**: Most data comes from controlled trials; real-world effectiveness in diverse populations with comorbidities is still being collected through registries like ALZ-NET.\n\n**Comparative Effectiveness**: Direct head-to-head trials are limited. TRAILBLAZER-ALZ 4 compared donanemab to aducanumab, but no direct comparisons exist between lecanemab and donanemab.\n\n**Diversity in Trials**: Multiple sources note underrepresentation of Black, Hispanic, and other minority populations in clinical trials despite these groups having higher Alzheimer's disease rates.\n\n**Optimal Treatment Duration**: Uncertainty remains about when to stop treatment after amyloid clearance and whether retreatment is necessary if plaques return.\n\n## 4. RECOMMENDED NEXT STEPS\n\n**Access Full Prescribing Information**: Review complete prescribing labels from FDA's Drugs@FDA database for detailed dosing, contraindications, and monitoring requirements.\n\n**Examine Safety Monitoring Protocols**: Review detailed MRI monitoring schedules and ARIA management protocols from clinical trial publications.\n\n**Investigate Biomarker Testing**: Research requirements for amyloid PET imaging and tau PET requirements for patient eligibility determination.\n\n**Review Cost-Effectiveness Studies**: Examine published analyses of treatment costs including drug pricing ($26,500-$32,000/year), infusion costs, and monitoring expenses.\n\n**Explore Combination Therapy Trials**: Investigate ongoing trials combining anti-amyloid therapies with anti-tau antibodies (e.g., lecanemab + E2814).\n\n**Monitor Regulatory Updates**: Track FDA guidance documents on early Alzheimer's disease treatment endpoints and European Medicines Agency decisions on these therapies.",
+    "sources": [
+      {
+        "title": "FDA approves treatment for adults with Alzheimer\u2019s disease | FDA",
+        "url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-treatment-adults-alzheimers-disease",
+        "page_age": null
+      },
+      {
+        "title": "Alzheimer's Treatments 2025: Here's Every FDA-Approved Therapy and What Comes Next | Being Patient",
+        "url": "https://beingpatient.com/alzheimers-treatments-2025-your-guide-to-every-fda-approved-therapy/",
+        "page_age": "July 31, 2025"
+      },
+      {
+        "title": "Previewing Expected FDA Decisions in Neurology for 2026 | NeurologyLive - Clinical Neurology News and Neurology Expert Insights",
+        "url": "https://www.neurologylive.com/view/previewing-expected-fda-decisions-in-neurology-for-2026",
+        "page_age": "2 weeks ago"
+      },
+      {
+        "title": "FDA Grants Priority Review to AXS-05 for Alzheimer Disease Agitation - Neurology Advisor",
+        "url": "https://www.neurologyadvisor.com/news/fda-grants-priority-review-to-axs-05-for-alzheimer-disease-agitation/",
+        "page_age": "2 weeks ago"
+      },
+      {
+        "title": "FDA Converts Novel Alzheimer\u2019s Disease Treatment to Traditional Approval | FDA",
+        "url": "https://www.fda.gov/news-events/press-announcements/fda-converts-novel-alzheimers-disease-treatment-traditional-approval",
+        "page_age": null
+      },
+      {
+        "title": "Merck Showcases Data for Alzheimer's Disease Candidates MK-2214 and MK-1167 at CTAD 2025 - Merck.com",
+        "url": "https://www.merck.com/news/merck-showcases-data-for-alzheimers-disease-candidates-mk-2214-and-mk-1167-at-ctad-2025/",
+        "page_age": "December 1, 2025"
+      },
+      {
+        "title": "FDA approves updated label for Lilly's Kisunla (donanemab-azbt) with new dosing in early symptomatic Alzheimer's disease | Eli Lilly and Company",
+        "url": "https://investor.lilly.com/news-releases/news-release-details/fda-approves-updated-label-lillys-kisunla-donanemab-azbt-new",
+        "page_age": null
+      },
+      {
+        "title": "FDA Grants Priority Review to AXS-05 for Agitation in Alzheimer Disease, Sets April 2026 PDUFA Date | Patient Care Online",
+        "url": "https://www.patientcareonline.com/view/fda-grants-priority-review-to-axs-05-for-agitation-in-alzheimer-disease-sets-april-2026-pdufa-date",
+        "page_age": "2 weeks ago"
+      },
+      {
+        "title": "A 2025 update on treatment strategies for the Alzheimer\u2019s disease spectrum - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12637128/",
+        "page_age": null
+      },
+      {
+        "title": "FDA Accepts, Grants Priority Review to AXS-05 sNDA for Alzheimer\u2019s Disease Agitation | HCPLive",
+        "url": "https://www.hcplive.com/view/fda-accepts-grants-priority-review-to-axs-05-snda-for-alzheimer-s-disease-agitation",
+        "page_age": "2 weeks ago"
+      },
+      {
+        "title": "FDA Converts Novel Alzheimer\u2019s Disease Treatment to Traditional Approval | FDA",
+        "url": "https://www.fda.gov/news-events/press-announcements/fda-converts-novel-alzheimers-disease-treatment-traditional-approval",
+        "page_age": null
+      },
+      {
+        "title": "Donanemab Approved for Treatment of Early Alzheimer\u2019s | alz.org",
+        "url": "https://www.alz.org/alzheimers-dementia/treatments/donanemab",
+        "page_age": null
+      },
+      {
+        "title": "FDA Approves Donanemab - UCI MIND",
+        "url": "https://mind.uci.edu/donanemab/",
+        "page_age": "July 24, 2024"
+      },
+      {
+        "title": "Donanemab update: new Alzheimer\u2019s disease treatment approved by the FDA | Alzheimer's Disease International (ADI)",
+        "url": "https://www.alzint.org/news-events/news/donanemab-update-new-alzheimers-disease-treatment-approved-by-the-fda/",
+        "page_age": null
+      },
+      {
+        "title": "FDA approval of lecanemab: the real start of widespread amyloid PET use? \u2014 the EANM Neuroimaging Committee perspective - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10119064/",
+        "page_age": null
+      },
+      {
+        "title": "Duke To Offer New Treatment for Early-Stage Alzheimer\u2019s Disease | Duke Health Referring Physicians",
+        "url": "https://physicians.dukehealth.org/articles/duke-offer-new-treatment-early-stage-alzheimers-disease",
+        "page_age": "January 21, 2025"
+      },
+      {
+        "title": "1 FDA Briefing Document BLA# 761248 Drug name: donanemab-azbt",
+        "url": "https://www.fda.gov/media/179166/download",
+        "page_age": null
+      },
+      {
+        "title": "FDA approves donanemab, Eli Lilly\u2019s treatment for early Alzheimer\u2019s disease | CNN",
+        "url": "https://www.cnn.com/2024/07/02/health/lilly-azheimers-donanemab-fda",
+        "page_age": "July 2, 2024"
+      },
+      {
+        "title": "FDA Approves New Maintenance Dosing for Lecanemab to Treat Early-Stage Alzheimer Disease | AJMC",
+        "url": "https://www.ajmc.com/view/fda-approves-new-maintenance-dosing-for-lecanemab-to-treat-early-stage-alzheimer-disease",
+        "page_age": "5 days ago"
+      },
+      {
+        "title": "Donanemab, Kisunla, FDA approved, Alzheimer's drug | Alzheimer\u2019s Research & Care Center",
+        "url": "https://eastonad.ucla.edu/patient-care/alzheimers-disease-treatments/donanemab",
+        "page_age": "February 20, 2025"
+      },
+      {
+        "title": "Alzheimer's disease drug development pipeline: 2025 - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12131090/",
+        "page_age": null
+      },
+      {
+        "title": "A new drug could stop Alzheimer\u2019s before memory loss begins | ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2025/12/251222080119.htm",
+        "page_age": "3 days ago"
+      },
+      {
+        "title": "New Data Presented at the Clinical Trials on Alzheimer\u2019s Disease (CTAD) Conference 2025 Confirms Pharmacological Effect of LEQEMBI\u00ae (lecanemab-irmb) on Neurotoxic A\u03b2 Protofibrils in CSF | Biogen",
+        "url": "https://investors.biogen.com/news-releases/news-release-details/new-data-presented-clinical-trials-alzheimers-disease-ctad",
+        "page_age": null
+      },
+      {
+        "title": "Alzheimer's Clinical Trial Results, Sadly Running True to Form | Science | AAAS",
+        "url": "https://www.science.org/content/blog-post/alzheimer-s-clinical-trial-results-sadly-running-true-form",
+        "page_age": null
+      },
+      {
+        "title": "2025 NIH Alzheimer\u2019s Disease and Related Dementias Research Progress Report: Advances and Achievements | National Institute on Aging",
+        "url": "https://www.nia.nih.gov/about/2025-nih-dementia-research-progress-report",
+        "page_age": null
+      },
+      {
+        "title": "CTAD 2025: Six highlights from the latest clinical trials in Alzheimer\u2019s disease - Alzheimer's Research UK",
+        "url": "https://www.alzheimersresearchuk.org/news/ctad-2025-six-highlights-from-the-latest-clinical-trials-in-alzheimers-disease/",
+        "page_age": "December 16, 2025"
+      },
+      {
+        "title": "Alzheimer's disease drug development pipeline: 2025 - Cummings - 2025 - Alzheimer's & Dementia: Translational Research & Clinical Interventions - Wiley Online Library",
+        "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/trc2.70098",
+        "page_age": "June 3, 2025"
+      },
+      {
+        "title": "NCT05269394 | Dominantly Inherited Alzheimer Network ...",
+        "url": "https://clinicaltrials.gov/study/NCT05269394",
+        "page_age": null
+      },
+      {
+        "title": "Roche presents new insights in Alzheimer\u2019s disease research across its diagnostics and pharmaceutical portfolios at AAIC",
+        "url": "https://www.roche.com/media/releases/med-cor-2025-07-28",
+        "page_age": null
+      },
+      {
+        "title": "Merck Showcases Data for Alzheimer's Disease Candidates MK-2214 and MK-1167 at CTAD 2025 - Merck.com",
+        "url": "https://www.merck.com/news/merck-showcases-data-for-alzheimers-disease-candidates-mk-2214-and-mk-1167-at-ctad-2025/",
+        "page_age": "December 1, 2025"
+      },
+      {
+        "title": "FDA approves treatment for adults with Alzheimer\u2019s disease | FDA",
+        "url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-treatment-adults-alzheimers-disease",
+        "page_age": null
+      },
+      {
+        "title": "News: FDA gives full approval to first drug... (The Washington Post) - Behind the headlines - NLM",
+        "url": "https://www.ncbi.nlm.nih.gov/search/research-news/19178/",
+        "page_age": null
+      },
+      {
+        "title": "FDA Converts Novel Alzheimer\u2019s Disease Treatment to Traditional Approval | FDA",
+        "url": "https://www.fda.gov/news-events/press-announcements/fda-converts-novel-alzheimers-disease-treatment-traditional-approval",
+        "page_age": null
+      },
+      {
+        "title": "FDA Approves At-Home Injectable Leqembi for Alzheimer\u2019s",
+        "url": "https://www.brightfocus.org/news/fda-approves-at-home-injectable-leqembi-for-alzheimers/",
+        "page_age": "August 29, 2025"
+      },
+      {
+        "title": "FDA approves a second Alzheimer's drug that can modestly slow disease : NPR",
+        "url": "https://www.npr.org/2024/07/02/g-s1-7930/fda-approves-alzheimers-drug",
+        "page_age": "July 3, 2024"
+      },
+      {
+        "title": "Donanemab update: new Alzheimer\u2019s disease treatment approved by the FDA | Alzheimer's Disease International (ADI)",
+        "url": "https://www.alzint.org/news-events/news/donanemab-update-new-alzheimers-disease-treatment-approved-by-the-fda/",
+        "page_age": null
+      },
+      {
+        "title": "FDA Approves Eli Lilly\u2019s Alzheimer\u2019s Treatment",
+        "url": "https://www.brightfocus.org/news/fda-approves-eli-lillys-alzheimers-treatment/",
+        "page_age": "January 22, 2025"
+      },
+      {
+        "title": "FDA Approves LEQEMBI\u00ae (lecanemab-irmb) IV Maintenance Dosing for the Treatment of Early Alzheimer\u2019s Disease | Biogen",
+        "url": "https://investors.biogen.com/news-releases/news-release-details/fda-approves-leqembir-lecanemab-irmb-iv-maintenance-dosing",
+        "page_age": null
+      },
+      {
+        "title": "Alzheimer\u2019s Association Welcomes U.S. FDA Approval of Kisunla (Donanemab)",
+        "url": "https://www.alz.org/news/2024/fda-approve-kisunla-donanemab-alzheimers-treatment",
+        "page_age": "May 6, 2025"
+      },
+      {
+        "title": "Impacts of FDA approval and Medicare restriction on antiamyloid therapies for Alzheimer's disease: patient outcomes, healthcare costs, and drug development - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9996432/",
+        "page_age": null
+      },
+      {
+        "title": "Results from Lilly's Landmark Phase 3 Trial of Donanemab Presented at Alzheimer's Association Conference and Published in JAMA | Eli Lilly and Company",
+        "url": "https://investor.lilly.com/news-releases/news-release-details/results-lillys-landmark-phase-3-trial-donanemab-presented",
+        "page_age": null
+      },
+      {
+        "title": "Lilly's Donanemab Significantly Slowed Cognitive and Functional Decline in Phase 3 Study of Early Alzheimer's Disease | Eli Lilly and Company",
+        "url": "https://investor.lilly.com/news-releases/news-release-details/lillys-donanemab-significantly-slowed-cognitive-and-functional",
+        "page_age": null
+      },
+      {
+        "title": "Donanemab Phase 3 Data Reported at AAIC 2023 | alz.org",
+        "url": "https://aaic.alz.org/releases_2023/donanemab-phase-3.asp",
+        "page_age": null
+      },
+      {
+        "title": "NCT04437511 | A Study of Donanemab (LY3002813) in ...",
+        "url": "https://clinicaltrials.gov/study/NCT04437511",
+        "page_age": null
+      },
+      {
+        "title": "NIA statement on donanemab results: More Alzheimer\u2019s research progress | National Institute on Aging",
+        "url": "https://www.nia.nih.gov/news/nia-statement-donanemab-results-more-alzheimers-research-progress",
+        "page_age": null
+      },
+      {
+        "title": "Donanemab in Early Symptomatic Alzheimer Disease: The TRAILBLAZER-ALZ 2 Randomized Clinical Trial - PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37459141/",
+        "page_age": "August 8, 2023"
+      },
+      {
+        "title": "TRAILBLAZER\u2010ALZ 4: A phase 3 trial comparing donanemab with aducanumab on amyloid plaque clearance in early, symptomatic Alzheimer's disease - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12089073/",
+        "page_age": null
+      },
+      {
+        "title": "Alzheimer\u2019s Association Statement on Donanemab Phase 3 Topline Data Release",
+        "url": "https://www.alz.org/news/2023/association-statement-donanemab",
+        "page_age": "May 6, 2025"
+      },
+      {
+        "title": "Donanemab Demonstrates Significant Slowing of Cognitive Decline in Phase 3 TRAILBLAZER-ALZ 2 Study | NeurologyLive - Clinical Neurology News and Neurology Expert Insights",
+        "url": "https://www.neurologylive.com/view/donanemab-demonstrates-significant-slowing-cognitive-decline-phase-3-trailblazer-alz-2-study",
+        "page_age": "1 month ago"
+      },
+      {
+        "title": "Kisunla | ALZFORUM",
+        "url": "https://www.alzforum.org/therapeutics/kisunla",
+        "page_age": null
+      },
+      {
+        "title": "FDA Converts Novel Alzheimer\u2019s Disease Treatment to Traditional Approval | FDA",
+        "url": "https://www.fda.gov/news-events/press-announcements/fda-converts-novel-alzheimers-disease-treatment-traditional-approval",
+        "page_age": null
+      },
+      {
+        "title": "1 This label may not be the latest approved by FDA. For ...",
+        "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/761269s000lbl.pdf",
+        "page_age": null
+      },
+      {
+        "title": "Leqembi | ALZFORUM",
+        "url": "https://www.alzforum.org/therapeutics/leqembi",
+        "page_age": null
+      },
+      {
+        "title": "Drug Trials Snapshots: LEQEMBI | FDA",
+        "url": "https://www.fda.gov/drugs/drug-approvals-and-databases/drug-trials-snapshots-leqembi",
+        "page_age": null
+      },
+      {
+        "title": "LEQEMBI\u00ae (lecanemab-irmb) injection, for intravenous use",
+        "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/761269s005lbl.pdf",
+        "page_age": null
+      },
+      {
+        "title": "FDA Approves New Maintenance Dosing for Lecanemab to Treat Early-Stage Alzheimer Disease | AJMC",
+        "url": "https://www.ajmc.com/view/fda-approves-new-maintenance-dosing-for-lecanemab-to-treat-early-stage-alzheimer-disease",
+        "page_age": "5 days ago"
+      },
+      {
+        "title": "Lecanemab - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lecanemab",
+        "page_age": "1 week ago"
+      },
+      {
+        "title": "Lecanemab, Leqembi, FDA approved, Alzheimer's drug | Alzheimer\u2019s Research & Care Center",
+        "url": "https://eastonad.ucla.edu/patient-care/alzheimers-disease-treatments/lecanemab",
+        "page_age": "February 18, 2025"
+      },
+      {
+        "title": "FDA Accepts LEQEMBI\u00ae (lecanemab-irmb) Biologics License Application for Subcutaneous Maintenance Dosing for the Treatment of Early Alzheimer\u2019s Disease | Biogen",
+        "url": "https://investors.biogen.com/news-releases/news-release-details/fda-accepts-leqembir-lecanemab-irmb-biologics-license",
+        "page_age": null
+      },
+      {
+        "title": "FDA Approves LEQEMBI\u00ae (lecanemab-irmb) IV Maintenance Dosing for the Treatment of Early Alzheimer\u2019s Disease | Biogen",
+        "url": "https://investors.biogen.com/news-releases/news-release-details/fda-approves-leqembir-lecanemab-irmb-iv-maintenance-dosing",
+        "page_age": null
+      },
+      {
+        "title": "Monoclonal Antibodies Directed Against Amyloid for the Treatment of Alzheimer\u2019s Disease (AD) | CMS",
+        "url": "https://www.cms.gov/medicare/coverage/coverage-evidence-development/monoclonal-antibodies-directed-against-amyloid-treatment-alzheimers-disease-ad",
+        "page_age": null
+      },
+      {
+        "title": "Lecanemab in Early Alzheimer\u2019s Disease | New England Journal of Medicine",
+        "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2212948",
+        "page_age": null
+      },
+      {
+        "title": "Anti-Amyloid Monoclonal Antibodies for Alzheimer\u2019s Disease: Evidence, ARIA Risk, and Precision Patient Selection - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12470750/",
+        "page_age": null
+      },
+      {
+        "title": "Anti-Amyloid Monoclonal Antibodies for the Treatment of Alzheimer\u2019s Disease - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10789674/",
+        "page_age": null
+      },
+      {
+        "title": "Second-generation anti-amyloid monoclonal antibodies for Alzheimer\u2019s disease: current landscape and future perspectives - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11771116/",
+        "page_age": null
+      },
+      {
+        "title": "Trial of Solanezumab in Preclinical Alzheimer\u2019s Disease | New England Journal of Medicine",
+        "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2305032",
+        "page_age": null
+      },
+      {
+        "title": "Anti-Amyloid-\u03b2 Monoclonal Antibodies for Alzheimer\u2019s Disease: Pitfalls and Promise - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5767539/",
+        "page_age": null
+      },
+      {
+        "title": "NCA - Monoclonal Antibodies Directed Against Amyloid for the Treatment of Alzheimer\u2019s Disease (CAG-00460N) - Proposed Decision Memo",
+        "url": "https://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?proposed=Y&NCAId=305",
+        "page_age": null
+      },
+      {
+        "title": "Anti-Amyloid Monoclonal Antibodies for the Treatment of Alzheimer\u2019s Disease | BioDrugs | Springer Nature Link",
+        "url": "https://link.springer.com/article/10.1007/s40259-023-00633-2",
+        "page_age": "November 13, 2023"
+      },
+      {
+        "title": "Anti-Amyloid Monoclonal Antibodies for the Treatment of Alzheimer's Disease - PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37955845/",
+        "page_age": null
+      },
+      {
+        "title": "FDA approves treatment for adults with Alzheimer\u2019s disease | FDA",
+        "url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-treatment-adults-alzheimers-disease",
+        "page_age": null
+      },
+      {
+        "title": "Medications for Memory, Cognition & Dementia-Related Behaviors | alz.org",
+        "url": "https://www.alz.org/alzheimers-dementia/treatments/medications-for-memory",
+        "page_age": null
+      },
+      {
+        "title": "FDA Converts Novel Alzheimer\u2019s Disease Treatment to Traditional Approval | FDA",
+        "url": "https://www.fda.gov/news-events/press-announcements/fda-converts-novel-alzheimers-disease-treatment-traditional-approval",
+        "page_age": null
+      },
+      {
+        "title": "FDA to recommend additional, earlier MRI monitoring for patients with Alzheimer\u2019s disease taking Leqembi (lecanemab) | FDA",
+        "url": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-recommend-additional-earlier-mri-monitoring-patients-alzheimers-disease-taking-leqembi-lecanemab",
+        "page_age": null
+      },
+      {
+        "title": "New Alzheimer's Disease Drugs Receive FDA Approval, Offering Hope",
+        "url": "https://www.baystatehealth.org/articles/new-alzheimers-disease-drugs",
+        "page_age": null
+      },
+      {
+        "title": "News: FDA gives full approval to first drug... (The Washington Post) - Behind the headlines - NLM",
+        "url": "https://www.ncbi.nlm.nih.gov/search/research-news/19178/",
+        "page_age": null
+      },
+      {
+        "title": "Donanemab update: new Alzheimer\u2019s disease treatment approved by the FDA | Alzheimer's Disease International (ADI)",
+        "url": "https://www.alzint.org/news-events/news/donanemab-update-new-alzheimers-disease-treatment-approved-by-the-fda/",
+        "page_age": null
+      },
+      {
+        "title": "Guidelines for pharmacotherapy in Alzheimer\u2019s disease \u2013 A primer on FDA-approved drugs - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10696336/",
+        "page_age": null
+      },
+      {
+        "title": "Early Alzheimer\u2019s Disease: Developing Drugs for Treatment | FDA",
+        "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/early-alzheimers-disease-developing-drugs-treatment",
+        "page_age": null
+      },
+      {
+        "title": "FDA issues guidance regarding drug development for early Alzheimer\u2019s disease | FDA",
+        "url": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-issues-guidance-regarding-drug-development-early-alzheimers-disease",
+        "page_age": null
+      },
+      {
+        "title": "Alzheimer\u2019s Association Welcomes U.S. FDA Approval of Kisunla (Donanemab)",
+        "url": "https://www.alz.org/news/2024/fda-approve-kisunla-donanemab-alzheimers-treatment",
+        "page_age": "May 6, 2025"
+      },
+      {
+        "title": "FDA approves treatment for adults with Alzheimer\u2019s disease | FDA",
+        "url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-treatment-adults-alzheimers-disease",
+        "page_age": null
+      },
+      {
+        "title": "Lilly's Kisunla\u2122 (donanemab-azbt) Approved by the FDA for the Treatment of Early Symptomatic Alzheimer's Disease | Eli Lilly and Company",
+        "url": "https://investor.lilly.com/news-releases/news-release-details/lillys-kisunlatm-donanemab-azbt-approved-fda-treatment-early",
+        "page_age": null
+      },
+      {
+        "title": "FDA approves updated label for Lilly's Kisunla (donanemab-azbt) with new dosing in early symptomatic Alzheimer's disease | Eli Lilly and Company",
+        "url": "https://investor.lilly.com/news-releases/news-release-details/fda-approves-updated-label-lillys-kisunla-donanemab-azbt-new",
+        "page_age": null
+      },
+      {
+        "title": "FDA approves a second Alzheimer's drug that can modestly slow disease : NPR",
+        "url": "https://www.npr.org/2024/07/02/g-s1-7930/fda-approves-alzheimers-drug",
+        "page_age": "July 3, 2024"
+      },
+      {
+        "title": "5 Things to Know About Kisunla, the New Alzheimer\u2019s Drug",
+        "url": "https://www.alzinfo.org/articles/treatment/5-things-to-know-about-kisunla-the-new-alzheimers-drug/",
+        "page_age": null
+      },
+      {
+        "title": "5 Things to Know About the New Alzheimer\u2019s Drug, Kisunla",
+        "url": "https://www.brightfocus.org/resource/alzheimers-article-5-things-know-about-new-alzheimers-drug-kisunla/",
+        "page_age": "January 23, 2025"
+      },
+      {
+        "title": "Donanemab update: new Alzheimer\u2019s disease treatment approved by the FDA | Alzheimer's Disease International (ADI)",
+        "url": "https://www.alzint.org/news-events/news/donanemab-update-new-alzheimers-disease-treatment-approved-by-the-fda/",
+        "page_age": null
+      },
+      {
+        "title": "Alzheimer\u2019s Association Welcomes U.S. FDA Approval of Kisunla (Donanemab) | Alzheimer's Impact Movement",
+        "url": "https://alzimpact.org/Association-Welcomes-US-FDA-Approval-of-Kisunla",
+        "page_age": null
+      },
+      {
+        "title": "FDA approves new Alzheimer's treatment, donanemab from Eli Lilly - CBS News",
+        "url": "https://www.cbsnews.com/news/fda-approves-new-alzheimers-treatment-donanemab-eli-lilly/",
+        "page_age": "July 3, 2024"
+      },
+      {
+        "title": "FDA Converts Novel Alzheimer\u2019s Disease Treatment to Traditional Approval | FDA",
+        "url": "https://www.fda.gov/news-events/press-announcements/fda-converts-novel-alzheimers-disease-treatment-traditional-approval",
+        "page_age": null
+      },
+      {
+        "title": "FDA grants accelerated approval for Alzheimer\u2019s disease treatment | Alzheimers.gov",
+        "url": "https://www.alzheimers.gov/news/fda-grants-accelerated-approval-alzheimers-disease-treatment",
+        "page_age": null
+      },
+      {
+        "title": "News: FDA gives full approval to first drug... (The Washington Post) - Behind the headlines - NLM",
+        "url": "https://www.ncbi.nlm.nih.gov/search/research-news/19178/",
+        "page_age": null
+      },
+      {
+        "title": "Impacts of FDA approval and Medicare restriction on antiamyloid therapies for Alzheimer's disease: patient outcomes, healthcare costs, and drug development - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9996432/",
+        "page_age": null
+      },
+      {
+        "title": "Controversy and Progress in Alzheimer\u2019s Disease \u2014 FDA Approval of Aducanumab | New England Journal of Medicine",
+        "url": "https://www.nejm.org/doi/full/10.1056/NEJMp2111320",
+        "page_age": null
+      },
+      {
+        "title": "FDA approves treatment for adults with Alzheimer\u2019s disease | FDA",
+        "url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-treatment-adults-alzheimers-disease",
+        "page_age": null
+      },
+      {
+        "title": "The FDA-approved anti-amyloid-\u03b2 monoclonal antibodies for the treatment of Alzheimer\u2019s disease: a systematic review and meta-analysis of randomized controlled trials - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10683264/",
+        "page_age": null
+      },
+      {
+        "title": "761248Orig1s000 CLINICAL REVIEW(S) - accessdata.fda.gov",
+        "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/761248Orig1s000MedR.pdf",
+        "page_age": null
+      },
+      {
+        "title": "21115964dft.docx 03/05/24 Early Alzheimer\u2019s Disease: Developing",
+        "url": "https://www.fda.gov/media/110903/download",
+        "page_age": null
+      },
+      {
+        "title": "New information regarding FDA-approved treatments for Alzheimer\u2019s Disease - CADRC",
+        "url": "https://clevelandadrc.org/education-resources/managing-dementia/new-information-regarding-an-fda-approved-treatment-for-alzheimers-disease/",
+        "page_age": "November 7, 2025"
+      }
+    ],
+    "search_count": 0,
+    "time_seconds": 62.472586154937744
+  },
+  "metrics": {
+    "exa_traceability": 100.0,
+    "exa_supported": 21,
+    "exa_tier_a": 47,
+    "exa_tier_a_pct": 58.75,
+    "exa_cost": 0.1604,
+    "claude_traceability": 100.0,
+    "claude_supported": 17,
+    "claude_tier_a": 55,
+    "claude_tier_a_pct": 55.00000000000001,
+    "claude_cost": 0.4247
+  }
+}

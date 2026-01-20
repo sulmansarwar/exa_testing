@@ -1,0 +1,958 @@
+{
+  "timestamp": "2026-01-20T00:39:12.710855",
+  "query": "Find perspectives on the rail workers strike from labor unions, railroad companies, and government regulators",
+  "query_category": "Source Diversification",
+  "app_type": "general",
+  "webset_category": null,
+  "search_type": "neural",
+  "num_results": 10,
+  "exa": {
+    "analysis_text": "Based on my research, I now have enough information to compile a comprehensive analysis. Let me format the findings according to the requested structure.\n\n## 1. KEY FINDINGS\n\n### Labor Union Perspective\n\n**Claim:** Railroad workers faced extreme scheduling policies that prevented them from attending critical family events.\n**Quote:** \"One conductor said he nearly missed his wife's funeral because he couldn't get time off.\"\n**Source:** https://www.nbcnews.com/business/rail-strike-why-freight-workers-are-angry-rcna37190\n\n**Claim:** The major railroad unions initiated strike preparations over BNSF's new attendance policy that punished sick workers.\n**Quote:** \"rail unions initiate steps to strike BNSF properties over new Hi-Viz attendance policy punishing sick rail workers during the pandemic\"\n**Source:** https://ble-t.org/news/smart-td-and-blet-rail-unions-initiate-steps-to-strike-bnsf-properties-over-new-hi-viz-attendance-policy-punishing-sick-rail-workers-during-the-pandemic/\n\n**Claim:** The largest rail union rejected the contract deal primarily over sick leave and attendance policy disputes.\n**Quote:** \"narrowly voted to reject a contract deal brokered by the White House, bringing the country once again closer to a rail strike\"\n**Source:** https://www.washingtonpost.com/business/2022/11/21/rail-union-strike-white-house/\n\n**Claim:** Railroad workers' central demand was for paid sick leave, which they lacked.\n**Quote:** \"disputes over sick leave and attendance policies\"\n**Source:** https://www.washingtonpost.com/business/2022/11/21/rail-union-strike-white-house/\n\n**Claim:** The rail union representing 28,000 freight rail workers rejected the Biden administration's brokered deal.\n**Quote:** \"The rail union representing 28,000 freight rail conductors, brakemen and yardmen has voted down the contract deal brokered by the Biden administration\"\n**Source:** https://www.npr.org/2022/11/21/1137640529/railroads-freight-rail-unions-vote-contract-strike\n\n### Railroad Company Perspective\n\n**Claim:** The Association of American Railroads projected massive daily economic losses from a rail shutdown.\n**Quote:** \"lost economic output due to a nationwide rail shutdown could be more than $2 billion every day\"\n**Source:** https://www.aar.org/wp-content/uploads/2022/09/AAR-Rail-Shutdown-Report-September-2022.pdf\n\n**Claim:** Railroad companies argued their operations must run continuously to meet customer demands.\n**Quote:** \"To meet customer demands and deliver for the national economy, railroads must work 24/7, 365 days a year\"\n**Source:** https://fm.cnbc.com/applications/cnbc.com/resources/editorialfiles/2022/09/13/AAR-Overview-Freight-Rail-Employee-Time-Off-Policies-Fact-Sheet.pdf\n\n**Claim:** Over 400 business groups pressured Congress to block the strike to prevent economic disruption.\n**Quote:** \"A coalition of more than 400 business groups are increasing the pressure on lawmakers to intervene and block a railroad strike\"\n**Source:** https://www.pbs.org/newshour/economy/business-groups-pressure-congress-to-block-potential-rail-strike\n\n**Claim:** The U.S. Chamber of Commerce CEO called on Congress to intervene to avoid substantial economic impact.\n**Quote:** \"struck a deal with the leadership of the 12 railroad unions and railroads to avert a national\"\n**Source:** https://www.uschamber.com/security/supply-chain/u-s-chamber-ceo-calls-congress-to-intervene-on-rail-strike-to-avoid-substantial-economic-impact\n\n**Claim:** Six of the seven largest U.S. freight railroads implemented precision-scheduled railroading to increase efficiency.\n**Quote:** \"Six of the seven largest U.S. freight railroads have reported implementing precision-scheduled railroading (PSR), a strategy intended to increase efficiency\"\n**Source:** https://www.gao.gov/products/gao-23-105420\n\n### Government Regulator Perspective\n\n**Claim:** President Biden signed an executive order creating a Presidential Emergency Board to resolve the rail dispute.\n**Quote:** \"President Biden signed an Executive Order establishing a Presidential Emergency Board, effective July 18, 2022, to help resolve an ongoing dispute\"\n**Source:** https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/15/president-biden-signs-executive-order-creating-a-presidential-emergency-board/\n\n**Claim:** Biden's goal was to keep freight rail systems running to maintain supply chains.\n**Quote:** \"The President's goal is to make sure America's freight rail system continues to work\"\n**Source:** https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/15/president-biden-signs-executive-order-creating-a-presidential-emergency-board/\n\n**Claim:** Biden ultimately called on Congress to impose the tentative agreement without modifications to prevent a strike.\n**Quote:** \"I am calling on Congress to pass legislation immediately to adopt the Tentative Agreement between railroad workers and operators \u2013 without any modifications or delay\"\n**Source:** https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/28/statement-from-president-joe-biden-on-averting-a-rail-shutdown/\n\n**Claim:** Congressional leaders from both parties agreed that a rail shutdown would devastate the economy.\n**Quote:** \"Congress needed to move quickly to avert a rail shutdown and economic catastrophe for our nation\"\n**Source:** https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/01/statement-from-president-joe-biden-on-congressional-action-to-avert-a-rail-shutdown/\n\n**Claim:** Biden acknowledged workers still needed paid sick leave despite imposing the contract.\n**Quote:** \"we still have more work to do, in my view, in terms of ultimately getting paid sick leave not just for rail workers\"\n**Source:** https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/12/02/remarks-by-president-biden-at-signing-of-h-j-res-100-providing-a-resolution-to-avert-a-nationwide-rail-shutdown/\n\n**Claim:** Most unionized rail workers eventually secured paid sick leave through subsequent negotiations.\n**Quote:** \"More than 60% of U.S. unionized rail workers now have new sick leave\"\n**Source:** https://www.reuters.com/world/us/most-unionized-us-rail-workers-now-have-new-sick-leave-2023-06-05/\n\n## 2. SOURCE QUALITY ASSESSMENT\n\n**Primary Sources:** The research includes direct statements from the White House, official union communications (BLET, SMART-TD), the Association of American Railroads, and a GAO report. These are highly credible primary sources.\n\n**Major News Organizations:** Coverage from The New York Times, NPR, Washington Post, Reuters, and Associated Press provides well-documented journalism with multiple source verification.\n\n**Government Documents:** White House statements, Presidential Executive Orders, and GAO reports provide authoritative government perspectives on the regulatory framework and intervention process.\n\n**Industry Publications:** AAR economic impact reports represent industry-funded research and should be considered advocacy documents, though their economic modeling appears based on Federal Railroad Administration data.\n\n**Limitations:** Some excerpts are limited in length, making full context difficult to assess. The sources primarily cover the 2022 dispute, though some 2023-2025 sources show ongoing developments.\n\n## 3. GAPS OR CONTRADICTIONS\n\n**Gap:** Limited direct quotes from individual railroad company executives explaining their perspective on worker demands. Most company positions are communicated through industry associations rather than individual carriers.\n\n**Gap:** Minimal detailed financial analysis of what paid sick leave would actually cost railroads versus their reported profits during this period.\n\n**Contradiction:** The government characterized the September 2022 tentative agreement as fair and praised by all parties, yet four unions (including the largest) subsequently rejected it, suggesting the \"approval\" was not as universal as initially portrayed.\n\n**Gap:** Limited worker voice beyond union leadership statements. Few direct quotes from rank-and-file railroad workers about their specific experiences under precision-scheduled railroading.\n\n**Partial Resolution:** The finding that \"more than 60% of unionized rail workers now have new sick leave\" by June 2023 suggests the problem was partially addressed post-intervention, but details on the terms and which workers remain without coverage are unclear.\n\n**Note:** The timeline reveals a pattern where business groups mobilized quickly (400+ organizations) to pressure Congress for intervention, while workers had spent years negotiating. [INFERENCE - timing pattern observed across multiple sources]\n\n## 4. RECOMMENDED NEXT STEPS\n\n**Further Research Needed:**\n\n1. **Financial Analysis:** Investigate railroad company profit margins and executive compensation during 2019-2022 to contextualize ability to provide sick leave.\n\n2. **Precision-Scheduled Railroading Impact:** Deep dive into the GAO report on PSR implementation to understand workforce reduction specifics and safety implications.\n\n3. **Worker Testimonies:** Search for Congressional hearing transcripts where individual railroad workers testified about working conditions.\n\n4. **International Comparison:** Research how other countries' rail systems handle sick leave and attendance policies for comparative context.\n\n5. **Post-Intervention Outcomes:** Track the sick leave agreements negotiated in 2023 with individual railroads (CSX, Norfolk Southern, Union Pacific) to assess what workers actually gained.\n\n6. **Railway Labor Act Analysis:** Examine the legal framework that allowed Congress to impose a contract and whether this precedent affects collective bargaining power.\n\n7. **Long-term Employment Trends:** Analyze railroad employment data from 2015-2023 to quantify workforce cuts under precision-scheduled railroading.",
+    "sources": [
+      {
+        "title": "Largest rail union rejects contract, stoking fears of a strike",
+        "url": "https://www.npr.org/2022/11/21/1137640529/railroads-freight-rail-unions-vote-contract-strike",
+        "published": "2022-11-21T00:00:00.000Z",
+        "excerpt": "Accessibility links\n\n- [Skip to main content] \n- [Keyboard shortcuts for audio player] \n\n**Possibility of a nationwide rail strike looms as another union rejects deal** **The rail union representing 28,000 freight rail conductors, brakemen and yardmen has voted down the contract deal brokered by the Biden administration back in September.**\n\n### [Business] \n\n# Largest rail union rejects contract, stoking fears of a strike\n\nUpdated November 21, 20222:45 PM ETOriginally published November 21, 2022"
+      },
+      {
+        "title": "Rail workers are demanding better work conditions and a strike could be imminent",
+        "url": "https://www.npr.org/2022/11/29/1139765222/rail-workers-are-demanding-better-work-conditions-and-a-strike-could-be-imminent",
+        "published": "2022-11-29T00:00:00.000Z",
+        "excerpt": "Accessibility links\n\n- [Skip to main content] \n- [Keyboard shortcuts for audio player] \n\n**Rail workers are demanding better work conditions and a strike could be imminent** **NPR's Mary Louise Kelly talks with Tony Cardwell, president of the Brotherhood of Maintenance of Way Employes Division, about the union's ongoing contract negotiations.**\n\n### [National] \n\n# Rail workers are demanding better work conditions and a strike could be imminent\n\nNovember 29, 20224:21 PM ET\n\nHeard on [All Things C"
+      },
+      {
+        "title": "Rail workers push to strike. Here's why they're angry.",
+        "url": "https://www.nbcnews.com/business/rail-strike-why-freight-workers-are-angry-rcna37190",
+        "published": "2022-07-19T00:00:00.000Z",
+        "excerpt": "IE 11 is not supported. For an optimal experience visit our site on another browser.\n\nSkip to Content\n\n![Norfolk Southern Train And Tracks In Pennsylvania] \n\nA Norfolk Southern freight train in Wyomissing, Pa.Ben Hasty / Reading Eagle via Getty Images file\n\nJuly 19, 2022, 6:56 AM EDT\n\nBy [Eli M. Rosenberg] \n\nFreight train workers are fed up.\n\nOne conductor said he nearly missed his wife\u2019s funeral because he couldn\u2019t get time off. An engineer said he was put on a disciplinary path after having to"
+      },
+      {
+        "title": "Railroad Workers Point to Punishing Schedules as Cause of Strike",
+        "url": "https://www.nytimes.com/2022/09/15/business/economy/railroad-workers-strike.html?unlocked_article_code=-qxiUxEqVysxRHSHMwuSP3u4v3VhYj6JqWTBANDSqtj-9GnLnAbmvqNczGq0EqWHASBjqWRy_gcJGODmj7AZlQcShpYFNrkhfcyuV6S1Q24-K6ddMa64K7G0ncmIaLTgNUAEYorxpqpdqrJYbp59c16UC9AIWSgjN429jqEGwLtDFraoU2QEhfFXHU1a4_fAUaVkTEhOLjQB0S7NKQxxGOfnj4hRY7Q13mauOCIxYNeF0uPOjsmD9oNTsK3xaVyjLrQ8n0jGaqkR642DErtavLXRlHcL8IiiHv4Cbl7OzA1vBLprw4jLgiuojumWhc5kwUYhnCbYSwzIsS3-uP8CwIbf_jiDGmONXaI&amp;smid=share-url",
+        "published": "2022-09-15T00:00:00.000Z",
+        "excerpt": "[Economy] \\|Workers Say Railroads\u2019 Efficiency Push Became Too Much\n\nhttps://www.nytimes.com/2022/09/15/business/economy/railroad-workers-strike.html\n\n- Share full article\n\n\nAdvertisement\n\n[SKIP ADVERTISEMENT] \n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\nTo defuse a labor dispute that brought the nation to the brink of a potentially catastrophic railroad strike, negotiators had to resolve a key iss"
+      },
+      {
+        "title": "",
+        "url": "https://railnegotiations.com/wp-content/uploads/2025/07/NRLC-Media-Fact-Sheets.pdf",
+        "published": "2025-07-29T00:00:00.000Z",
+        "excerpt": "2025 Freight Rail Industry Fact Sheet 1\nThe Freight Rail Workforce\nFreight rail jobs provide competitive compensation, comprehensive benefits and \ngrowth opportunities that have supported generations of dedicated professionals. \nBelow are key facts about the industry\u2019s workforce that show why freight rail \ncareers remain among the strongest in industrial America.\nFreight Rail Workforce Basics \n\u2022 Class I freight railroads employ more than 120,000 people nationwide. \n\u2022 85% of the Class I workforce"
+      },
+      {
+        "title": "Rail union rejects contract as strike threatens U.S. economy before holidays",
+        "url": "https://www.washingtonpost.com/business/2022/11/21/rail-union-strike-white-house/",
+        "published": "2022-11-21T00:00:00.000Z",
+        "excerpt": "clockThis article was published more than\u00a0**1 year ago**\n\nDemocracy Dies in Darkness\n\nWorkers at the largest U.S. rail union voted down a tentative contract deal, in part over disputes about sick leave and attendance policies. (Video: Reuters)\n\nListen\n\n7 min\n\nShare\n\nComment on this storyComment\n\nAdd to your saved stories\n\nSave\n\nOne of the largest railroad unions narrowly voted to reject a contract deal brokered by the White House, bringing the country once again closer to a rail strike that coul"
+      },
+      {
+        "title": "",
+        "url": "https://www.nbcnews.com/business/business-news/freight-rail-union-vote-strike-rcna57942",
+        "published": "2022-11-21T00:00:00.000Z",
+        "excerpt": "IE 11 is not supported. For an optimal experience visit our site on another browser.\n\nSkip to Content\n\n![A worker boards a locomotive at a BNSF rail yard on in Kansas City, Kan.] \n\nA worker boards a locomotive at a BNSF rail yard in Kansas City on Sept. 14.Charlie Riedel / AP\n\n/\u00a0Updated\n\nBy [Eli M. Rosenberg] \n\nWorkers at twoof the country's biggest rail unions split over a tentative contract their leaders had hashed out with freight rail companies \u2014 leaving open the possibility of a debilitatin"
+      },
+      {
+        "title": "Five things to know as the massive port strike enters its third day",
+        "url": "https://www.cnn.com/2024/10/03/business/east-coast-port-strike-what-to-know",
+        "published": "2024-10-03T00:00:00.000Z",
+        "excerpt": "Massive East Coast port strike: five things to know | CNN Business[] \n### CNN values your feedback\n1. How relevant is this ad to you?\n2. Did you encounter any technical issues?\nVideo player was slow to load contentVideo content never loadedAd froze or did not finish loadingVideo content did not start after adAudio on ad was too loudOther issues\nAd never loadedAd prevented/slowed the page from loadingContent moved around while ad loadedAd was repetitive to ads I&#x27;ve seen previouslyOther issue"
+      },
+      {
+        "title": "Everything you need to know about the threat of a rail strike",
+        "url": "https://www.washingtonpost.com/business/2022/09/13/rail-strike-economy-impact/",
+        "published": "2022-09-13T00:00:00.000Z",
+        "excerpt": "clockThis article was published more than\u00a0**2 years ago**\n\n# Everything you need to know about the threat of a rail strike\n\nOne of the largest railroad unions voted to reject a tentative contract Monday\n\nUpdated November 21, 2022\n\n![] \n\nA CSX Transportation conductor climbs aboard a freight train in Bowling Green, Ky. (Luke Sharrett/Bloomberg News)\n\nBy [Hamza Shaban] \n,\n\n[Lauren Kaori Gurley] \n,\n\n[Jaclyn Peiser] \nand\n\n[Rachel Lerman] \n\nA potential [rail strike] is back on the table Monday on wor"
+      },
+      {
+        "title": "A Strike, Averted",
+        "url": "https://www.nytimes.com/2022/12/04/briefing/railroad-workers-demands.html",
+        "published": "2022-12-04T00:00:00.000Z",
+        "excerpt": "[Briefing] \\|A Strike, Averted\n\nhttps://www.nytimes.com/2022/12/04/briefing/railroad-workers-demands.html\n\n- Share full article\n\n\nAdvertisement\n\n[SKIP ADVERTISEMENT] \n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\nCongress and President Biden [imposed a labor agreement] between major railroad companies and their workers last week, averting the possibility of a strike that would have disrupted the eco"
+      },
+      {
+        "title": "Coalition Letter on Rail Labor Negotiations",
+        "url": "https://www.uschamber.com/employment-law/unions/coalition-letter-on-rail-labor-negotiations",
+        "published": "2022-11-28T13:27:00.000Z",
+        "excerpt": "Coalition Letter on Rail Labor Negotiations | U.S. Chamber of Commerce\n[Skip to content] \n[U.S. Chamber of CommerceUSCC Homepage] U.S. Chamber of Commerce\n* [Topics] \n* [Events] \n* [Work] \n* [] \n* * Menu\nClose searchSite searchEnter your search query\nSubmit\n# Coalition Letter on Rail Labor Negotiations\nThis Coalition letter was sent to Members of the United States Congress on Rail Labor negotiations.\n### 221128 Coalition Rail Labor Congress\n* [Download] \nPublished\nNovember 28, 2022\nShare\n* [] \n*"
+      },
+      {
+        "title": "400 groups urge U.S. lawmakers to take 'immediate steps' to block potential rail strike",
+        "url": "https://www.reuters.com/world/us/400-groups-urge-us-lawmakers-take-immediate-steps-block-potential-rail-strike-2022-11-28/",
+        "published": "2022-11-28T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[Exclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv] \n\n![An aerial view of gantry cranes, shipping containers, and freight railway trains in Commerce] \n\nAn aerial view of gantry cranes, shipping containers, and freight railway trains ahead of a possible strike if there is no deal with the rail worker unions, at the Union Pacific Los Angeles (UPLA) Intermodal Facility rail yard in Commerce, California, U.S., September 15, 2022. "
+      },
+      {
+        "title": "For first time in six decades, freight rails split on union negotiation strategy",
+        "url": "https://cnbc.com/2024/11/01/for-first-time-in-61-years-freight-rails-split-on-union-strategy.html",
+        "published": "2024-11-01T00:00:00.000Z",
+        "excerpt": "[Skip Navigation] \n\n[Markets] \n\n[Business] \n\n[Investing] \n\n[Tech] \n\n[Politics] \n\n[Video] \n\n[Watchlist] \n\n[Investing Club] \n\n[PRO] \n\n[Livestream] \n\nMenu\n\nKey Points\n\n- Union Pacific and CSX have opted out of formal national labor talks with railroad unions for the first time in 61 years, and will instead focus on their own local negotiations.\n- CSX, Norfolk Southern, and BNSF, a subsidiary of Berkshire Hathaway, have all announced some tentative agreements at the local level in a sign of how all "
+      },
+      {
+        "title": "Large rail union rejects deal, renewing strike possibility",
+        "url": "https://apnews.com/article/business-economy-government-and-politics-0744cffe919f0d48fcc02d16c8a298b3",
+        "published": "2022-10-10T00:00:00.000Z",
+        "excerpt": "[![AP Logo]] \n\nMenu\n\n- [World] \n\n\n\n\n\n\n\n\n\nSECTIONS\n\n\n\n[Israel-Hamas war] [Russia-Ukraine War] [Espa\u00f1ol] [China] [Asia Pacific] [Latin America] [Europe] [Africa] \n\n\n\n\n\n\n\nTOP STORIES\n\n\n\n- [US and China reach a deal to slash sky-high tariffs for now, with a 90-day pause] \n- [Israeli-American hostage released by Hamas in goodwill gesture toward Trump administration] \n- [Modi says India has only paused military action after it and Pakistan stop firing at each other] \n\nNewsletters\n\n[The Morning Wire\\\n\\"
+      },
+      {
+        "title": "Norfolk Southern demonstrates resilience through work stoppages at East Coast ports",
+        "url": "https://norfolksouthern.mediaroom.com/Norfolk-Southern-demonstrates-resilience-through-work-stoppages-at-East-Coast-ports",
+        "published": "2025-12-31T00:00:00.000Z",
+        "excerpt": "Norfolk Southern demonstrates resilience through work stoppages at East Coast ports | Norfolk Southern\n[Skip to Main Content] \n1. NSC\n2. About us\n3. Accessibility\n4. Alerts\n5. AccessNS\n6. Search\nLoading data...\n### About Norfolk Southern\nSince 1827, our railroad has been moving the freight that powers America. Today, we operate in 22 states with connections across the globe.\n[COMPANY OVERVIEW] \n[OUR LEADERSHIP] \n[OUR LEADERSHIP BIOGRAPHIES] \n[OUR STRATEGY] \n[OUR HISTORY] \n[OUR SUBSIDIARIES] \n###"
+      },
+      {
+        "title": "U.S. Chamber CEO Calls on Congress to Intervene on Rail Strike to Avoid Substantial Economic Impact",
+        "url": "https://www.uschamber.com/security/supply-chain/u-s-chamber-ceo-calls-congress-to-intervene-on-rail-strike-to-avoid-substantial-economic-impact",
+        "published": "2022-11-22T00:00:00.000Z",
+        "excerpt": "[Skip to content] \n\nClose searchSite searchEnter your search query\n\nSubmit\n\n# U.S. Chamber CEO Calls on Congress to Intervene on Rail Strike to Avoid Substantial Economic Impact\n\nPublished\n\nNovember 22, 2022\n\nShare\n\n**Washington, D.C. \u2013** The following statement can be attributed to Suzanne P. Clark, President and CEO, U.S. Chamber of Commerce.\n\n\u201cIn September President Biden, who is a champion of labor, struck a deal with the leadership of the 12 railroad unions and railroads to avert a national"
+      },
+      {
+        "title": "Business groups pressure Congress to block potential rail strike",
+        "url": "https://www.pbs.org/newshour/economy/business-groups-pressure-congress-to-block-potential-rail-strike",
+        "published": "2022-11-28T00:00:00.000Z",
+        "excerpt": "[PBS NewsHour] \n\n![Deadline for railroads to reach tentative deals with unions] \n\nBy \u2014\n\n[Josh Funk, Associated Press] [Josh Funk, Associated Press] \n\n[Leave your feedback] \n\n# Business groups pressure Congress to block potential rail strike\n\n[Economy] Nov 28, 2022 1:48 PM EDT\n\nOMAHA, Neb. (AP) \u2014 Business groups are increasing the pressure on lawmakers to intervene and block a [railroad strike] before next month\u2019s deadline in the stalled contract talks.\n\nA coalition of more than 400 business grou"
+      },
+      {
+        "title": "Congress Looks to Intervene in Rail Dispute as Strike Deadline Looms",
+        "url": "https://www.nytimes.com/2022/11/28/us/politics/biden-rail-strike-congress.html",
+        "published": "2022-11-28T00:00:00.000Z",
+        "excerpt": "[Politics] \\|Congress Looks to Intervene in Rail Dispute as Strike Deadline Looms\n\nhttps://www.nytimes.com/2022/11/28/us/politics/biden-rail-strike-congress.html\n\n- Share full article\n\n- [46] \n\n\nAdvertisement\n\n[SKIP ADVERTISEMENT] \n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\nWASHINGTON \u2014 Speaker Nancy Pelosi said on Monday that lawmakers plan to intervene this week in the deepening labor dispute b"
+      },
+      {
+        "title": "U.S. Chamber Key Vote Letter on H.J.Res.100",
+        "url": "https://www.uschamber.com/security/supply-chain/u-s-chamber-key-vote-letter-on-h-j-res-100-2",
+        "published": "2022-11-30T13:44:00.000Z",
+        "excerpt": "U.S. Chamber Key Vote Letter on H.J.Res.100 | U.S. Chamber of Commerce\n[Skip to content] \n[U.S. Chamber of CommerceUSCC Homepage] U.S. Chamber of Commerce\n* [Topics] \n* [Events] \n* [Work] \n* [] \n* * Menu\nClose searchSite searchEnter your search query\nSubmit\n# U.S. Chamber Key Vote Letter on H.J.Res.100\nThis Key Vote Alert! letter was sent to the Members of the U.S. House of Representatives on H.J.Res.100, which would avert a nationwide rail strike.\n### 221130 KV H J Res 100 House\n* [Download] \nP"
+      },
+      {
+        "title": "Leaders in Congress Say They Will Act to Prevent Rail Strike",
+        "url": "https://www.nytimes.com/2022/11/29/us/politics/biden-rail-strike.html",
+        "published": "2022-11-29T00:00:00.000Z",
+        "excerpt": "[Politics] \\|Congressional Leaders Say They Will Act to Prevent Rail Strike\n\nhttps://www.nytimes.com/2022/11/29/us/politics/biden-rail-strike.html\n\n- Share full article\n\n- [1128] \n\n\nAdvertisement\n\n[SKIP ADVERTISEMENT] \n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\nWASHINGTON \u2014 Democratic and Republican leaders in Congress vowed on Tuesday to pass legislation averting a nationwide rail strike, saying"
+      },
+      {
+        "title": "Biden and Congress Moved to Avert a Rail Strike. Here\u2019s How and Why",
+        "url": "https://www.nytimes.com/article/railroad-strike-explained.html",
+        "published": "2022-12-02T00:00:00.000Z",
+        "excerpt": "[Politics] \\|Congress Moved to Avert a Rail Strike. Here\u2019s How and Why.\n\nhttps://www.nytimes.com/article/railroad-strike-explained.html\n\n- Share full article\n\n\nAdvertisement\n\n[SKIP ADVERTISEMENT] \n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\n_Update:_ [_President Biden signed the bill into law_] _on Friday._\n\nWASHINGTON \u2014 Congress acted on Thursday to avert a nationwide rail strike, [clearing legis"
+      },
+      {
+        "title": "ESTABLISHING AN EMERGENCY BOARD TO INVESTIGATE DISPUTES BETWEEN THE LONG ISLAND RAIL ROAD COMPANY AND CERTAIN OF ITS EMPLOYEES REPRESENTED BY CERTAIN LABOR ORGANIZATIONS",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/09/establishing-an-emergency-board-to-investigate-disputes-between-the-long-island-rail-road-company-and-certain-of-its-employees-represented-by-certain-labor-organizations/",
+        "published": "2025-09-16T18:18:58.000Z",
+        "excerpt": "Establishing An Emergency Board to Investigate Disputes Between the Long Island Rail Road Company and Certain of its Employees Represented by Certain Labor Organizations &#8211; The White House\nMenu\nPresident Donald J. Trump\n[TheWhite House] \nSearch\n[![]] \nSearch for:Press Enter to Search\n[Presidential Actions] \n# ESTABLISHING AN EMERGENCY BOARD TO INVESTIGATE DISPUTES BETWEEN THE LONG ISLAND RAIL ROAD COMPANY AND CERTAIN OF ITS EMPLOYEES REPRESENTED BY CERTAIN LABOR ORGANIZATIONS\n[Executive Ord"
+      },
+      {
+        "title": "President Biden Signs Executive Order Creating a Presidential Emergency Board",
+        "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/15/president-biden-signs-executive-order-creating-a-presidential-emergency-board/",
+        "published": "2022-07-15T00:00:00.000Z",
+        "excerpt": "[Skip to content] \n\nToday, President Biden signed an Executive Order establishing a Presidential Emergency Board, effective July 18, 2022, to help resolve an ongoing dispute between major freight rail carriers and their unions.\n\nKeeping supply chains running means keeping America\u2019s railways running. In making the decision to create the Presidential Emergency Board, the President has considered input from relevant stakeholders. The President\u2019s goal is to make sure America\u2019s freight rail system co"
+      },
+      {
+        "title": "",
+        "url": "https://railroads.dot.gov/sites/fra.dot.gov/files/fra_net/1647/Railway%20Labor%20Act%20Overview.pdf",
+        "published": null,
+        "excerpt": "Office of Policy\nOffice of Rail Policy and Development\nFederal Railroad Administration\nHIGHLIGHTS OF THE RAILWAY LABOR ACT (\"RLA\"), \nAND THE U.S. DEPARTMENT OF TRANSPORTATION'S (\"DOT\") ROLE IN RLA DISPUTES \nI. Overview Of The Railway Labor Act (\"RLA\") \nHistory. The RLA was enacted in 1926 as the joint work product of rail labor and management. It was \namended slightly in 1934 and 1966, and expanded to include airlines in 1936. 45 U.S.C. \u00a7l5l et seq . \nSpecial bargaining dispute resolution proced"
+      },
+      {
+        "title": "Establishing an Emergency Board To Investigate Disputes Between the Long Island Rail Road Company and Certain of Its Employees Represented by Certain Labor Organizations",
+        "url": "https://www.federalregister.gov/documents/2025/09/23/2025-18479/establishing-an-emergency-board-to-investigate-disputes-between-the-long-island-rail-road-company",
+        "published": "2025-09-23T00:00:00.000Z",
+        "excerpt": "[Skip to Content] \n\nThe National Archives and Records Administration is closed to normal operations due to a lack of appropriations. FederalRegister.gov will automatically provide the daily Federal Register and Public Inspection List but we will not provide technical support. The official, published Federal Register is available at https://www.govinfo.gov/app/collection/fr.\n\nLegal Status\n\nThis site displays a prototype of a \u201cWeb 2.0\u201d version of the daily\nFederal Register. It is not an official l"
+      },
+      {
+        "title": "Enabling the Safe, Reliable, and Efficient Movement of People and Goods",
+        "url": "https://railroads.dot.gov/",
+        "published": null,
+        "excerpt": "Federal Railroad Administration[Skip to main content] \n# USA Banner\n![U.S. flag] \nAn official website of the United States governmentHere's how you know\n![Official US Government Icon] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in the United States.\n![Secure Site Icon] \n**Secure .gov websites use HTTPS**\nA**lock**(LockA locked padlock) or**https://**means you\u2019ve safely connected to the .gov website. Share sensitive information only on official,"
+      },
+      {
+        "title": "45 USC Ch. 8: RAILWAY LABOR",
+        "url": "https://uscode.house.gov/view.xhtml?path=/prelim@title45/chapter8&edition=prelim",
+        "published": "2025-06-01T00:00:00.000Z",
+        "excerpt": "Result 1 of 1\n\nCurrent2024 Main Ed. (1/6/2025) \\[Titles 1 through 21\\]2018 Ed. and Supplement V (1/3/2024)2018 Ed. and Supplement IV (1/5/2023)2018 Ed. and Supplement III (1/3/2022)2018 Ed. and Supplement II (1/13/2021)2018 Ed. and Supplement I (1/24/2020)2018 Main Ed. (1/14/2019)2012 Ed. and Supplement V (1/12/2018)2012 Ed. and Supplement IV (1/6/2017)2012 Ed. and Supplement III (1/3/2016)2012 Ed. and Supplement II (1/5/2015)2012 Ed. and Supplement I (1/16/2014)2012 Main Ed. (1/15/2013)2006 Ed."
+      },
+      {
+        "title": "Congress Looks to Intervene in Rail Dispute as Strike Deadline Looms",
+        "url": "https://www.nytimes.com/2022/11/28/us/politics/biden-rail-strike-congress.html",
+        "published": "2022-11-28T00:00:00.000Z",
+        "excerpt": "[Politics] \\|Congress Looks to Intervene in Rail Dispute as Strike Deadline Looms\n\nhttps://www.nytimes.com/2022/11/28/us/politics/biden-rail-strike-congress.html\n\n- Share full article\n\n- [46] \n\n\nAdvertisement\n\n[SKIP ADVERTISEMENT] \n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\nWASHINGTON \u2014 Speaker Nancy Pelosi said on Monday that lawmakers plan to intervene this week in the deepening labor dispute b"
+      },
+      {
+        "title": "Statement from President Joe Biden on Averting a Rail Shutdown",
+        "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/28/statement-from-president-joe-biden-on-averting-a-rail-shutdown/",
+        "published": "2022-11-28T00:00:00.000Z",
+        "excerpt": "[Skip to content] \n\nI am calling on Congress to pass legislation immediately to adopt the Tentative Agreement between railroad workers and operators \u2013 without any modifications or delay \u2013 to avert a potentially crippling national rail shutdown.\n\nThis agreement was approved by labor and management negotiators in September. On the day that it was announced, labor leaders, business leaders, and elected officials all hailed it as a fair resolution of the dispute between the hard-working men and wome"
+      },
+      {
+        "title": "RAILROADS",
+        "url": "https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title45&saved=L3ByZWxpbUB0aXRsZTQ1L2NoYXB0ZXI4%7CZ3JhbnVsZWlkOlVTQy1wcmVsaW0tdGl0bGU0NS1jaGFwdGVyOA%3D%3D%7C%7C%7C0%7Cfalse%7Cprelim&edition=prelim",
+        "published": "2025-06-01T00:00:00.000Z",
+        "excerpt": "Result 1 of 1\n\nCurrent2024 Main Ed. (1/6/2025) \\[Titles 1 through 6\\]2018 Ed. and Supplement V (1/3/2024)2018 Ed. and Supplement IV (1/5/2023)2018 Ed. and Supplement III (1/3/2022)2018 Ed. and Supplement II (1/13/2021)2018 Ed. and Supplement I (1/24/2020)2018 Main Ed. (1/14/2019)2012 Ed. and Supplement V (1/12/2018)2012 Ed. and Supplement IV (1/6/2017)2012 Ed. and Supplement III (1/3/2016)2012 Ed. and Supplement II (1/5/2015)2012 Ed. and Supplement I (1/16/2014)2012 Main Ed. (1/15/2013)2006 Ed. "
+      },
+      {
+        "title": "CSX revamps attendance policy as railroad unions push back on sick time",
+        "url": "https://www.reuters.com/world/us/csx-tweaks-attendance-policy-railroad-unions-push-back-sick-time-2022-12-13/",
+        "published": "2022-12-13T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[Exclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv] \n\n![A CSX freight train blasts through high snow at a crossing in Silver Spring] \n\nA CSX freight train blasts through high snow at a crossing in Silver Spring, Maryland, February 13, 2014. REUTERS/Gary Cameron/ [Purchase Licensing Rights, opens new tab] \n\n- Companies\n\n- [Union Pacific Corp] \n\n\n\nFollow\n\n- [Berkshire Hathaway Inc] \n\n\n\nFollow\n\n- [Canadian National Railway Co] \n\n"
+      },
+      {
+        "title": "Association of American Railroads",
+        "url": "https://www.aar.org/issue/time-off-policies/",
+        "published": "2023-05-02T00:00:00.000Z",
+        "excerpt": "Freight Rail Time-Off Policies: What You Need to Know[Skip to content] \nSearch\n# [Association of American Railroads] \nMenu\n# [Association of American Railroads] \n# [Association of American Railroads] \n![] \n# Freight Rail Time-Off Policies: What You Need to Know\n# Freight Rail Time-Off Policies: What You Need to Know\n[\n***FACT SHEET &amp; TIME OFF CHART***\n] \n**Last Updated:**July 15, 2025\n***FREIGHT RAIL TIME-OFF POLICIES KEY FACTS***\n* Most union rail workers now have paid sick leave.\n* Rail em"
+      },
+      {
+        "title": "",
+        "url": "https://railnegotiations.com/wp-content/uploads/2022/10/BMWED-BRS-Time-Off-Overview.pdf",
+        "published": "2022-10-26T00:00:00.000Z",
+        "excerpt": "To meet customer demands and deliver for the national economy, \nrailroads must work 24/7, 365 days a year. However, the vast \nmajority of BMWED and BRS-represented employees have schedules \nthat are fixed and predictable. Many involve a normal 40-hour work \nweek, while others involve different (but still fixed) rotations, such \nas eight days on followed by six days off. As such, concerns raised by \nother crafts regarding unpredictable schedules do not apply here.\nAlthough specific rules vary acr"
+      },
+      {
+        "title": "",
+        "url": "https://www.nytimes.com/2022/10/28/business/railroad-workers-strike-threat.html",
+        "published": "2022-10-28T00:00:00.000Z",
+        "excerpt": "Credit...Alex Welsh for The New York Times\n\nSupported by\n\n[SKIP ADVERTISEMENT] \n\n- Share full article\n\n\nBy [Peter S. Goodman] \n\nReporting from Texas, Southern California, New York and Washington\n\n- Oct. 28, 2022\n\nA dozen men stood in a parking lot outside a dilapidated motel in rural Texas, sharing a fish dinner cooked in a portable fryer. They had spent the previous 12 hours under a pounding sun, repairing track for a major American railroad.\n\nThe men were part of a traveling maintenance gang, "
+      },
+      {
+        "title": "S1 Signed - Revised WORD Version (07.18.24)",
+        "url": "https://www.transportation.gov/sites/dot.gov/files/2024-09/Blank_DOT%20%26%20%20DOL%20Letter%20-RR%20Paid%20Sick%20Time%209.25.24.pdf",
+        "published": "2024-07-29T00:00:00.000Z",
+        "excerpt": "U.S. Department\nof Transportation \nSeptember 25, 2024 \nWe write urging you to provide your employees what so many of us take for granted: paid sick \nleave. \nBeing able to stay home from work when illness strikes is common sense \u2013 a healthy and well\u0002supported workforce is a safe workforce. Getting the necessary rest to recover helps ensure that \nworkers can make safe and sound decisions while on the job. Taking off sick without penalty or loss \nof pay is also not a novel or extraordinary benefit."
+      },
+      {
+        "title": "Train engineers union reaches first sick-time deal with Norfolk Southern railroad",
+        "url": "https://apnews.com/article/railroad-engineers-sick-time-norfolk-southern-contract-1a48b079655c28acdc2444f41949f5d8",
+        "published": "2023-05-18T00:00:00.000Z",
+        "excerpt": "Train engineers union reaches first sick-time deal with Norfolk Southern railroad | AP News \n \n \n[![AP Logo]] \nMenu\n* [World] \nSECTIONS\n[Israel-Hamas War] [Russia-Ukraine War] [Espa\u00f1ol] [China] [Asia Pacific] [Latin America] [Europe] [Africa] \nTOP STORIES\n* [Trump and top Iranian officials exchange threats over protests roiling Iran] \n* [Swiss investigators believe sparkling candles atop wine bottles ignited fatal bar fire] \n* [Kim\u2019s daughter visits family mausoleum, promoting her potential stat"
+      },
+      {
+        "title": "Why paid sick leave became a big issue in rail labor talks",
+        "url": "https://www.washingtonpost.com/business/2022/12/03/rail-workers-paid-sick-leave/",
+        "published": "2022-12-03T00:00:00.000Z",
+        "excerpt": "Why paid sick leave became a big issue in rail labor talks - The Washington Post\nDemocracy Dies in Darkness\n# Why paid sick leave became a big issue in rail labor talks\nUnions say rail carriers cut too much in the name of efficiency, leaving them with too few workers to cover for absent colleagues.\nDecember 3, 2022More than**3yearsago**\n5 min\n[Make us preferred on Google] \n![] \nA Union Pacific rail terminal Friday in Salt Lake City. (George Frey/Bloomberg News)\n![] \nBy[Julian Mark] \nWith an over"
+      },
+      {
+        "title": "Union Pacific Railroad in tentative deal with union on paid sick leave",
+        "url": "https://apnews.com/article/united-pacific-sick-leave-railroad-union-labor-8ea928686d8aaefdf8356e09ead219ef",
+        "published": "2023-07-10T00:00:00.000Z",
+        "excerpt": "Menu\n\n[![AP Logo]] \n\nMenu\n\n- [World] \n\n- [U.S.] \n\n- [Election 2024] \n\n- [Politics] \n\n- [Sports] \n\n- [Entertainment] \n\n- [Business] \n\n- [Science] \n\n- [Fact Check] \n\n- [Oddities] \n\n- [Be Well] \n\n- [Newsletters] \n\n- [Video] \n\n- [Photography] \n\n- [Climate] \n\n- [Health] \n\n- [Personal Finance] \n\n- [AP Investigations] \n\n- [Tech] \n\n- [Lifestyle] \n\n- [Religion] \n\n- [AP Buyline Personal Finance] \n\n- [AP Buyline Shopping] \n\n- [Press Releases] \n\n- [My Account] \n\n- ...\n\n\n\n\n\n\n\n- [World] \n\n\n\n\n\n\n\n- [Israel-Hama"
+      },
+      {
+        "title": "Most unionized US rail workers now have new sick leave",
+        "url": "https://www.reuters.com/world/us/most-unionized-us-rail-workers-now-have-new-sick-leave-2023-06-05/",
+        "published": "2023-06-05T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[Exclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv] \n\n![Protesters hold rally in support of rail workers in Columbus] \n\nProtesters hold signs during a rally in support of rail workers in Columbus, Ohio, U.S., December 13, 2022. REUTERS/Jintak Han [Purchase Licensing Rights, opens new tab] \n\n- Companies\n\n- [Norfolk Southern Corp] \n\n\n\nFollow\n\n- [Union Pacific Corp] \n\n\n\nFollow\n\n\nWASHINGTON, June 5 (Reuters) - More than 60% of U.S"
+      },
+      {
+        "title": "Some CSX conductors to be first train crews with sick time",
+        "url": "https://apnews.com/article/railroad-workers-csx-contract-paid-sick-time-strike-12b7de359b80c275e49d0f37c54c0759",
+        "published": "2023-04-03T00:00:00.000Z",
+        "excerpt": "[![AP Logo]] \n\nMenu\n\n- [World] \n\n\n\n\n\n\n\n\n\nSECTIONS\n\n\n\n[Israel-Hamas war] [Russia-Ukraine War] [Espa\u00f1ol] [China] [Asia Pacific] [Latin America] [Europe] [Africa] \n\n\n\n\n\n\n\nTOP STORIES\n\n\n\n- [The PKK Kurdish militant group will disarm and disband as part of a peace initiative with Turkey] \n- [US and China reach a deal to slash sky-high tariffs for now, with a 90-day pause] \n- [Trump just brought a group of white South Africans to the US as refugees. What are they escaping?] \n\nNewsletters\n\n[The Morning"
+      },
+      {
+        "title": "Freight Rail: Powering America's Economy | AAR",
+        "url": "https://www.aar.org/economic-impact-report/",
+        "published": "2025-03-19T00:00:00.000Z",
+        "excerpt": "[Skip to content] \n\n# AAR Economic Impact Report\n\nHero\n\n![] \n\n# In 2023, railroads contributed $233.4 billion in total economic output, supporting business activity and nearly 750,000 jobs across the economy.\n\nRail is not just a means of moving goods and people \u2014 it is a force multiplier for the U.S. economy. It sustains jobs, reduces business costs, fuels supply chains, facilities trade, and delivers critical public benefits like lower emissions and reduced highway congestion. As we look toward"
+      },
+      {
+        "title": "",
+        "url": "https://www.aar.org/wp-content/uploads/2022/09/AAR-Rail-Shutdown-Report-September-2022.pdf",
+        "published": "2024-02-10T00:00:00.000Z",
+        "excerpt": "SEPTEMBER 2022\nTHE ECONOMIC IMPACT OF A RAILROAD SHUTDOWN \nUsing historical analysis from the Federal Railroad Administration, AAR\u2019s \nPolicy and Economics team found that lost economic output due to \na nationwide rail shutdown could be more than $2 billion every day.\n \n2 \nEXECUTIVE SUMMARY\nAmerica\u2019s freight railroads serve nearly every agricultural, \nindustrial, wholesale, retail and resource-based sector \nof our economy. Operating over a nearly 140,000-mile \nnetwork in 49 states, they give thei"
+      },
+      {
+        "title": "Association of American Railroads",
+        "url": "https://www.aar.org/issue/economic-impact/",
+        "published": "2025-06-17T17:55:55.000Z",
+        "excerpt": "Freight Rail&#039;s Economic Impact | AAR[Skip to content] \nSearch\n# [Association of American Railroads] \nMenu\n# [Association of American Railroads] \n# [Association of American Railroads] \n![] \n# Freight Rail&#8217;s Economic Impact: GDP, Jobs &amp; Investment\n# Freight Rail&#8217;s Economic Impact: GDP, Jobs &amp; Investment\n[\n***FACT SHEET***\n] \n***FREIGHT RAIL ECONOMIC IMPACT KEY FACTS***\n* Every $1 invested in rail transportation drives****$2.50 in economic activity.\n* Every railroad job cre"
+      },
+      {
+        "title": "Association of American Railroads",
+        "url": "https://www.aar.org/rail-industry-overview/",
+        "published": "2024-07-08T00:00:00.000Z",
+        "excerpt": "Rail Industry Overview | AAR[Skip to content] \nSearch\n# [Association of American Railroads] \nMenu\n# [Association of American Railroads] \n# [Association of American Railroads] \n![] \n# Rail Industry Overview\n# Rail Industry Overview\n[\n***DOWNLOAD THIS MONTH&#8217;S PDF***\n] \n[\n***SIGN UP FOR RIO EMAIL NEWSLETTER***\n] \nRIO is a free monthly publication that provides insights from our economists into what rail traffic says about today\u2019s economy and where the data suggests it could be headed. As part"
+      },
+      {
+        "title": "Association of American Railroads",
+        "url": "https://www.aar.org/",
+        "published": "2025-09-02T00:00:00.000Z",
+        "excerpt": "The Association of American Railroads (AAR)[Skip to content] \nSearch\n# [Association of American Railroads] \nMenu\n# [Association of American Railroads] \n# [Association of American Railroads] \n![] \n## LATEST NEWS & RAIL TRAFFIC\n* Jan 14\n### [AAR Reports Weekly Rail Traffic for the Week Ending January 10, 2026] \n* Jan 13\n### [AAR Applauds Judiciary Committee Passage of CORCA] \n* Jan 07\n### [AAR Reports Weekly Rail Traffic for the Week Ending January 3, 2026] \nMORE \n## ![Railroad town] \n# [Rail Indu"
+      },
+      {
+        "title": "Association of American Railroads",
+        "url": "https://www.aar.org/data-center/",
+        "published": "2025-04-17T00:00:00.000Z",
+        "excerpt": "Freight Rail Data Center | AAR[Skip to content] \nSearch\n# [Association of American Railroads] \nMenu\n# [Association of American Railroads] \n# [Association of American Railroads] \n![] \n# Data Center\n# Data Center\n![] \nThe Association of American Railroads is your trusted source for comprehensive data and analysis on North American freight rail. Our expert economists offer a variety of statistical products, which are free for AAR members and are available for purchase by non-AAR members in our Onli"
+      },
+      {
+        "title": "Association of American Railroads",
+        "url": "https://www.aar.org/fri-technical-note/",
+        "published": "2024-12-13T14:55:05.000Z",
+        "excerpt": "Understanding The Freight Rail Index | AAR[Skip to content] \nSearch\n# [Association of American Railroads] \nMenu\n# [Association of American Railroads] \n# [Association of American Railroads] \n![] \n# Freight Rail Index Technical Note\n# Freight Rail Index Technical Note\n[\n**Read the latest Rail Industry Overview**\n] \nThe Freight Rail Index (FRI) is an economic indicator designed to track\u202fthe volume of freight rail traffic in the United States. The FRI includes data from both traditional carload comm"
+      },
+      {
+        "title": "Association of American Railroads",
+        "url": "https://www.aar.org/resources/",
+        "published": "2024-11-07T15:39:08.000Z",
+        "excerpt": "Freight Rail Industry Resources | AAR[Skip to content] \nSearch\n# [Association of American Railroads] \nMenu\n# [Association of American Railroads] \n# [Association of American Railroads] \n![] \n# Resources\n# Resources\n## Helpful Links\n* [AAR Data Center] \n* [States] \n* [How Railroading Works] \n* [Railroad 101] \n* [Railroad Chronology] \n* [Harley Explains Video Series] \n## Facts &amp; Figures\nBelow are helpful data points and quick information about the freight rail industry. You can download all the"
+      },
+      {
+        "title": "",
+        "url": "https://www.aar.org/wp-content/uploads/2025/02/AAR-PE-Economic-Impact-Report-2025-FINAL.pdf",
+        "published": "2025-02-28T00:00:00.000Z",
+        "excerpt": "Rail Transportation and the \nU.S. Economy: Fueling Growth, \nTrade, and Opportunity\nFEBRUARY 28, 2025\n \n1 \nExecutive Summary ........................................................................................................................ 3\nRail Economic Impact at a Glance .............................................................................................. 3\nRail\u2019s Role in Global Trade................................................................................................"
+      },
+      {
+        "title": "AAR Reports Weekly Rail Traffic for the Week Ending September 27, 2025 - Association of American Railroads",
+        "url": "https://www.aar.org/news/aar-reports-weekly-rail-traffic-for-the-week-ending-september-27-2025/",
+        "published": "2025-10-01T00:00:00.000Z",
+        "excerpt": "[Skip to content] \n\n# AAR Reports Weekly Rail Traffic for the Week Ending September 27, 2025\n\n[**Download Traffic**] \n\n**WASHINGTON, D.C. \u2013 October 1, 2025 \u2013** The Association of American Railroads (AAR) today reported U.S. rail traffic for the week ending September 27, 2025.\n\nFor this week, total U.S. weekly rail traffic was 512,642 carloads and intermodal units, up 1.0 percent compared with the same week last year.\n\nTotal carloads for the week ending September 27 were 228,903 carloads, up 0.9 "
+      },
+      {
+        "title": "ESTABLISHING AN EMERGENCY BOARD TO INVESTIGATE DISPUTES BETWEEN THE LONG ISLAND RAIL ROAD COMPANY AND CERTAIN OF ITS EMPLOYEES REPRESENTED BY CERTAIN LABOR ORGANIZATIONS",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/09/establishing-an-emergency-board-to-investigate-disputes-between-the-long-island-rail-road-company-and-certain-of-its-employees-represented-by-certain-labor-organizations/",
+        "published": "2025-09-16T18:18:58.000Z",
+        "excerpt": "Establishing An Emergency Board to Investigate Disputes Between the Long Island Rail Road Company and Certain of its Employees Represented by Certain Labor Organizations &#8211; The White House\nMenu\nPresident Donald J. Trump\n[TheWhite House] \nSearch\n[![]] \nSearch for:Press Enter to Search\n[Presidential Actions] \n# ESTABLISHING AN EMERGENCY BOARD TO INVESTIGATE DISPUTES BETWEEN THE LONG ISLAND RAIL ROAD COMPANY AND CERTAIN OF ITS EMPLOYEES REPRESENTED BY CERTAIN LABOR ORGANIZATIONS\n[Executive Ord"
+      },
+      {
+        "title": "ESTABLISHING A SECOND\u00a0EMERGENCY BOARD TO INVESTIGATE DISPUTES\u00a0BETWEEN THE LONG ISLAND RAIL ROAD COMPANY AND CERTAIN OF ITS EMPLOYEES REPRESENTED BY CERTAIN LABOR ORGANIZATIONS",
+        "url": "https://www.whitehouse.gov/presidential-actions/2026/01/establishing-a-second-emergency-board-to-investigate-disputes-between-the-long-island-rail-road-company-and-certain-of-its-employees-represented-by-certain-labor-organizations/",
+        "published": "2026-01-14T00:00:00.000Z",
+        "excerpt": "Establishing a Second Emergency Board to Investigate Disputes Between the Long Island Rail Road Company and Certain of its Employees Represented by Certain Labor Organizations &#8211; The White House\nMenu\nPresident Donald J. Trump\n[TheWhite House] \nSearch\n[![]] \nSearch for:Press Enter to Search\n[Presidential Actions] \n# ESTABLISHING A SECOND\u00a0EMERGENCY BOARD TO INVESTIGATE DISPUTES\u00a0BETWEEN THE LONG ISLAND RAIL ROAD COMPANY AND CERTAIN OF ITS EMPLOYEES REPRESENTED BY CERTAIN LABOR ORGANIZATIONS\n[E"
+      },
+      {
+        "title": "Executive Order on Establishing an Emergency Board to Investigate Disputes Between Certain Railroads Represented by the National Carriers\u2019 Conference Committee of the National Railway Labor Conference and Their Employees Represented by Certain Labor Organizations",
+        "url": "https://www.whitehouse.gov/briefing-room/presidential-actions/2022/07/15/executive-order-on-establishing-an-emergency-board-to-investigate-disputes-between-certain-railroads-represented-by-the-national-carriers-conference-committee-of-the-national-railway-labor-co/",
+        "published": "2022-07-15T00:00:00.000Z",
+        "excerpt": "[Skip to content] \n\n\u00a0\u00a0\u00a0\u00a0 Disputes exist between certain railroads represented by the National Carriers\u2019 Conference Committee of the National Railway Labor Conference and their employees represented by certain labor organizations. \u00a0The railroads and labor organizations involved in these disputes are designated on the attached list, which is made part of this order.\n\nThe disputes have not heretofore been adjusted under the provisions of the Railway Labor Act, as amended, 45 U.S.C. 151-188 (RLA).\n\n"
+      },
+      {
+        "title": "Presidential Emergency Boards \u2013 National Mediation Board",
+        "url": "https://nmb.gov/NMB_Application/index.php/presidential-emergency-boards/",
+        "published": "2019-05-14T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n# Presidential Emergency Boards\n\n[List of Presidential Emergency Boards] \n\nAll PEBs can be found in the [Knowledge Store] \n\n### Rail and Air Carriers\n\nThe President may create an emergency board to investigate and report on a dispute over the terms of a collective bargaining agreement. Under the Railway Labor Act, the President may exercise his discretion to create an emergency board when the labor dispute threatens \u201csubstantially to interrupt interstate commerce to a de"
+      },
+      {
+        "title": "President Biden Signs Executive Order Creating a Presidential Emergency Board",
+        "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/15/president-biden-signs-executive-order-creating-a-presidential-emergency-board/",
+        "published": "2022-07-15T00:00:00.000Z",
+        "excerpt": "[Skip to content] \n\nToday, President Biden signed an Executive Order establishing a Presidential Emergency Board, effective July 18, 2022, to help resolve an ongoing dispute between major freight rail carriers and their unions.\n\nKeeping supply chains running means keeping America\u2019s railways running. In making the decision to create the Presidential Emergency Board, the President has considered input from relevant stakeholders. The President\u2019s goal is to make sure America\u2019s freight rail system co"
+      },
+      {
+        "title": "President Biden Announces a Presidential Emergency Board, Names Members",
+        "url": "https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/21/president-biden-announces-a-presidential-emergency-board-names-members-2/",
+        "published": "2024-11-21T00:00:00.000Z",
+        "excerpt": "[Skip to content] \n\nThis is historical material \u201cfrozen in time\u201d. The website is no longer updated and links to external websites and some internal pages may not work.\n\nWASHINGTON \u2013 Today, President Joe Biden signed an Executive Order creating a Presidential Emergency Board to help resolve an ongoing dispute between New Jersey Transit and the Brotherhood of Locomotive Engineers and Trainmen (BLET). The appointment of the Board is required under the Railway Labor Act because a party to the disput"
+      },
+      {
+        "title": "Executive Order on Establishing a Second Emergency Board to Investigate a Dispute Between New Jersey Transit Rail Operations and Its Locomotive Engineers Represented by the Brotherhood of Locomotive Engineers and Trainmen",
+        "url": "https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/11/21/executive-order-on-establishing-a-second-emergency-board-to-investigate-a-dispute-between-new-jersey-transit-rail-operations-and-its-locomotive-engineers-represented-by-the-brotherhood-of-locomotive-e/",
+        "published": "2024-11-21T00:00:00.000Z",
+        "excerpt": "[Skip to content] \n\nThis is historical material \u201cfrozen in time\u201d. The website is no longer updated and links to external websites and some internal pages may not work.\n\n\u00a0\u00a0\u00a0\u00a0 A dispute exists between the New Jersey Transit Rail Operations and its Locomotive Engineers represented by the Brotherhood of Locomotive Engineers and Trainmen.\n\n\u00a0\u00a0\u00a0\u00a0 The dispute has not heretofore been adjusted under the provisions of the Railway Labor Act, as amended, 45 U.S.C. 151-188 (RLA).\n\n\u00a0\u00a0\u00a0\u00a0 An emergency board to i"
+      },
+      {
+        "title": "White House Press Release - President Biden Announces a Presidential Emergency Board, Names Members",
+        "url": "https://www.presidency.ucsb.edu/documents/white-house-press-release-president-biden-announces-presidential-emergency-board-names-0",
+        "published": "2024-11-21T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[The American Presidency Project] \n\n[About] [Search] \n\n[![ucsb wordmark black]] \n\n![Joe Biden] \n\n### [Joseph R. Biden, Jr.] \n\n46th\u00a0President of the United States:\u00a02021\u20142025\n\n# White House Press Release - President Biden Announces a Presidential Emergency Board, Names Members\n\nNovember 21, 2024\n\nWASHINGTON \u2013 Today, President Joe Biden signed an Executive Order creating a Presidential Emergency Board to help resolve an ongoing dispute between New Jersey Transit and the Bro"
+      },
+      {
+        "title": "Establishing an Emergency Board To Investigate Disputes Between the Long Island Rail Road Company and Certain of Its Employees Represented by Certain Labor Organizations",
+        "url": "https://www.federalregister.gov/documents/2025/09/23/2025-18479/establishing-an-emergency-board-to-investigate-disputes-between-the-long-island-rail-road-company",
+        "published": "2025-09-23T00:00:00.000Z",
+        "excerpt": "[Skip to Content] \n\nThe National Archives and Records Administration is closed to normal operations due to a lack of appropriations. FederalRegister.gov will automatically provide the daily Federal Register and Public Inspection List but we will not provide technical support. The official, published Federal Register is available at https://www.govinfo.gov/app/collection/fr.\n\nLegal Status\n\nThis site displays a prototype of a \u201cWeb 2.0\u201d version of the daily\nFederal Register. It is not an official l"
+      },
+      {
+        "title": "Executive Order 14128\u2014Establishing a Second Emergency Board To Investigate a Dispute Between New Jersey Transit Rail Operations and Its Locomotive Engineers Represented by the Brotherhood of Locomotive Engineers and Trainmen",
+        "url": "https://www.presidency.ucsb.edu/documents/executive-order-14128-establishing-second-emergency-board-investigate-dispute-between-new",
+        "published": "2024-11-21T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[The American Presidency Project] \n\n[About] [Search] \n\n[![ucsb wordmark black]] \n\n![Joe Biden] \n\n### [Joseph R. Biden, Jr.] \n\n46th\u00a0President of the United States:\u00a02021\u20142025\n\n# Executive Order 14128\u2014Establishing a Second Emergency Board To Investigate a Dispute Between New Jersey Transit Rail Operations and Its Locomotive Engineers Represented by the Brotherhood of Locomotive Engineers and Trainmen\n\nNovember 21, 2024\n\nA dispute exists between the New Jersey Transit Rail O"
+      },
+      {
+        "title": "",
+        "url": "https://ble-t.org/news/smart-td-and-blet-rail-unions-initiate-steps-to-strike-bnsf-properties-over-new-hi-viz-attendance-policy-punishing-sick-rail-workers-during-the-pandemic/",
+        "published": "2022-01-14T00:00:00.000Z",
+        "excerpt": "FRA Certification Helpline: (216) 694-0240\n\n- [IBT] \n- [IBT Rail Conference] \n- [TCRC] \n- [Login / Register] \n\n# SMART-TD and BLET rail unions initiate steps to strike BNSF properties over new \u201cHi-Viz\u201d attendance policy punishing sick rail workers during the pandemic\n\nJanuary 14, 2022 \\| [BNSF], [News] \n\n![] \n\nCLEVELAND, Ohio, January 13 \u2014 Yesterday, members of the Brotherhood of Locomotive Engineers and Trainmen (BLET) and the Transportation Division of the International Association of Sheet Me"
+      },
+      {
+        "title": "SMART-TD and BLET rail unions initiate steps to strike BNSF properties over new \"Hi-Viz\" attendance policy punishing sick rail workers during the pandemic",
+        "url": "https://www.prnewswire.com/news-releases/smart-td-and-blet-rail-unions-initiate-steps-to-strike-bnsf-properties-over-new-hi-viz-attendance-policy-punishing-sick-rail-workers-during-the-pandemic-301461481.html",
+        "published": "2022-01-14T00:00:00.000Z",
+        "excerpt": "[Accessibility Statement] [Skip Navigation] \n\nCLEVELAND, Jan. 14, 2022 /PRNewswire/ -- Yesterday, members of the Brotherhood of Locomotive Engineers and Trainmen (BLET) and the Transportation Division of the International Association of Sheet Metal, Air, Rail, and Transportation union (SMART-TD) who work for the BNSF Railway initiated steps to go on strike following the railroad's announcement of its so-called \u00a0\"Hi-Viz\" attendance policy, which BLET National President Dennis Pierce and SMART-TD "
+      },
+      {
+        "title": "SMART-TD, BLET rail unions initiate steps to strike BNSF properties over new \u2018Hi-Viz\u2019 attendance policy punishing sick rail workers during the pandemic",
+        "url": "https://www.smart-union.org/smart-td-blet-rail-unions-initiate-steps-to-strike-bnsf-properties-over-new-hi-viz-attendance-policy-punishing-sick-rail-workers-during-the-pandemic/",
+        "published": "2022-01-13T00:00:00.000Z",
+        "excerpt": "SMART-TD, BLET rail unions initiate steps to strike BNSF properties over new \u2018Hi-Viz\u2019 attendance policy punishing sick rail workers during the pandemic - SMART Union[Skip to the content] \nSheet Metal ViewTransportation ViewView All\n[![]] SMART Union\nsearchSearch\nsearchSearch\n[Member Portal] \nSearch for:Close search\nSheet Metal ViewTransportation ViewView All\n# SMART-TD, BLET rail unions initiate steps to strike BNSF properties over new \u2018Hi-Viz\u2019 attendance policy punishing sick rail workers durin"
+      },
+      {
+        "title": "",
+        "url": "https://www.nytimes.com/2022/10/28/business/railroad-workers-strike-threat.html",
+        "published": "2022-10-28T00:00:00.000Z",
+        "excerpt": "Credit...Alex Welsh for The New York Times\n\nSupported by\n\n[SKIP ADVERTISEMENT] \n\n- Share full article\n\n\nBy [Peter S. Goodman] \n\nReporting from Texas, Southern California, New York and Washington\n\n- Oct. 28, 2022\n\nA dozen men stood in a parking lot outside a dilapidated motel in rural Texas, sharing a fish dinner cooked in a portable fryer. They had spent the previous 12 hours under a pounding sun, repairing track for a major American railroad.\n\nThe men were part of a traveling maintenance gang, "
+      },
+      {
+        "title": "Biggest U.S. rail union digs in on paid sick time, raising threat of strike",
+        "url": "https://www.reuters.com/world/us/two-largest-us-rail-unions-report-contract-vote-monday-2022-11-21/",
+        "published": "2022-11-21T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[Exclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv] \n\n- Companies\n\n- [General Motors Co] \n\n\n\nFollow\n\n- [Union Pacific Corp] \n\n\n\nFollow\n\n- [Berkshire Hathaway Inc] \n\n\n\nFollow\n\n\nShow more companies\n\nWASHINGTON/LOS ANGELES, Nov 21 (Reuters) - Workers at the largest U.S. rail union voted against a tentative contract deal reached in September, raising the possibility of a year-end strike that could cause significant damage to the U"
+      },
+      {
+        "title": "BLET, SMART-TD gather allies at TTD Executive Committee meeting",
+        "url": "https://ble-t.org/news/blet-smart-td-gather-allies-at-ttd-executive-committee-meeting/",
+        "published": "2022-04-06T00:00:00.000Z",
+        "excerpt": "FRA Certification Helpline: (216) 694-0240\n\n- [IBT] \n- [IBT Rail Conference] \n- [TCRC] \n- [Login / Register] \n\n# BLET, SMART-TD gather allies at TTD Executive Committee meeting\n\nApril 6, 2022 \\| [AFL-CIO], [BNSF], [News], [SMART-TD], [TTD], [Unions] \n\nCLEVELAND, Ohio (April 6) \u2014 The nation\u2019s two largest railroad unions continue to gather allies and momentum as they oppose the imposition of precision scheduled railroading (PSR) tactics by Class I carriers that put safety and the health and lives "
+      },
+      {
+        "title": "SMART-TD and BLET rail unions initiate steps to strike BNSF",
+        "url": "https://www.smarttd577.com/group/compensated-day-denial/discussion/07c3225b-2169-4048-aa18-e23ae4e962f6",
+        "published": "2022-01-13T00:00:00.000Z",
+        "excerpt": "top of page\n\n# Compensated Day Denial\n\nPublic\u00b728 members\n\nJoin\n\n[Back] \n\nLocal Secretary Ricker\n\n[January 13, 2022] \n\nSMART-TD and BLET rail unions initiate steps to strike BNSF properties over new \u201cHi-Viz\u201d attendance policy punishing sick rail workers during the pandemic\n\nYesterday, members of the Brotherhood of Locomotive Engineers and Trainmen (BLET) and the Transportation Division of the International Association of Sheet Metal, Air, Rail, and Transportation union (SMART-TD) who work for the"
+      },
+      {
+        "title": "BLET, SMART-TD reach tentative agreement with railroads",
+        "url": "https://ble-t.org/news/blet-smart-td-reach-tentative-agreement-with-railroads/",
+        "published": null,
+        "excerpt": "FRA Certification Helpline: (216) 694-0240\n\n- [IBT] \n- [IBT Rail Conference] \n- [TCRC] \n- [Login / Register] \n\n# BLET, SMART-TD reach tentative agreement with railroads\n\nSeptember 15, 2022 \\| [National Negotiations 2019], [News] \n\n![] \n\nFor immediate release, September 15, 2022\n\n**Statement by**\n\n**Jeremy Ferguson, President,** **SMART Transportation Division**\n\n**and**\n\n**Dennis Pierce, President,** **Brotherhood of Locomotive Engineers and Trainmen**\n\n**on**\n\n**Tentative Agreement Reached Earl"
+      },
+      {
+        "title": "'It's a slap in the face': BNSF workers consider strike over new attendance policy",
+        "url": "https://www.wqad.com/article/news/local/bnsf-workers-consider-strike/526-bb74ed23-54d6-4c43-9216-0c03fae51cd5",
+        "published": "2022-01-25T00:00:00.000Z",
+        "excerpt": "![x] \n\nBreaking News\n\n[More () \u00bb] \n\n[Local News] \n\n# 'It's a slap in the face': BNSF workers consider strike over new attendance policy\n\nWorkers are angry over a new attendance policy set to take effect Feb. 1 that would penalize workers for taking time off.\n\n![x] \n\n# ![WQAD] \n\nTo stream News 8 on your phone, you need the News 8 app.\n\n## Download the News 8 app\n\n[![Download on the App Store]] [![Get it on Google Play]] \n\n#### More Videos\n\n![] \n\nNext up in 5\n\nExample video title will go here for "
+      },
+      {
+        "title": "",
+        "url": "https://static1.squarespace.com/static/5aad38ed372b96552945ee35/t/64c949b8fe47975005a5edb2/1690913208714/2023-08-01_SMART-TD_System_Time_Of_For_Illness.pdf",
+        "published": "2023-08-01T00:00:00.000Z",
+        "excerpt": "1\nAGREEMENT\nBETWEEN\nUNION PACIFIC RAILROAD\nAND\nSMART - TRANSPORTATION DIVISION \n(UP SYSTEM)\nTIME OFF FOR ILLNESS AND WELLNESS \nThis Agreement is made by and between Union Pacific Railroad (\u201cUP\u201d or the \u201cCarrier\u201d) and the \nSheet Metal, Air, Rail Transportation Division (SMART-TD), as representative of UP employees \nin the craft or class of trainperson regardless of assignment in road or yard service (including \nHostler/Hostler Helper & Firemen in Training) pursuant to the Railway Labor Act, as ame"
+      },
+      {
+        "title": "",
+        "url": "https://www.aar.org/wp-content/uploads/2022/09/AAR-Rail-Shutdown-Report-September-2022.pdf",
+        "published": "2024-02-10T00:00:00.000Z",
+        "excerpt": "SEPTEMBER 2022\nTHE ECONOMIC IMPACT OF A RAILROAD SHUTDOWN \nUsing historical analysis from the Federal Railroad Administration, AAR\u2019s \nPolicy and Economics team found that lost economic output due to \na nationwide rail shutdown could be more than $2 billion every day.\n \n2 \nEXECUTIVE SUMMARY\nAmerica\u2019s freight railroads serve nearly every agricultural, \nindustrial, wholesale, retail and resource-based sector \nof our economy. Operating over a nearly 140,000-mile \nnetwork in 49 states, they give thei"
+      },
+      {
+        "title": "Association of American Railroads",
+        "url": "https://www.aar.org/rail-industry-overview/",
+        "published": "2024-07-08T00:00:00.000Z",
+        "excerpt": "Rail Industry Overview | AAR[Skip to content] \nSearch\n# [Association of American Railroads] \nMenu\n# [Association of American Railroads] \n# [Association of American Railroads] \n![] \n# Rail Industry Overview\n# Rail Industry Overview\n[\n***DOWNLOAD THIS MONTH&#8217;S PDF***\n] \n[\n***SIGN UP FOR RIO EMAIL NEWSLETTER***\n] \nRIO is a free monthly publication that provides insights from our economists into what rail traffic says about today\u2019s economy and where the data suggests it could be headed. As part"
+      },
+      {
+        "title": "Association of American Railroads",
+        "url": "https://www.aar.org/data-center/",
+        "published": "2025-04-17T00:00:00.000Z",
+        "excerpt": "Freight Rail Data Center | AAR[Skip to content] \nSearch\n# [Association of American Railroads] \nMenu\n# [Association of American Railroads] \n# [Association of American Railroads] \n![] \n# Data Center\n# Data Center\n![] \nThe Association of American Railroads is your trusted source for comprehensive data and analysis on North American freight rail. Our expert economists offer a variety of statistical products, which are free for AAR members and are available for purchase by non-AAR members in our Onli"
+      },
+      {
+        "title": "Freight Rail: Powering America's Economy | AAR",
+        "url": "https://www.aar.org/economic-impact-report/",
+        "published": "2025-03-19T00:00:00.000Z",
+        "excerpt": "[Skip to content] \n\n# AAR Economic Impact Report\n\nHero\n\n![] \n\n# In 2023, railroads contributed $233.4 billion in total economic output, supporting business activity and nearly 750,000 jobs across the economy.\n\nRail is not just a means of moving goods and people \u2014 it is a force multiplier for the U.S. economy. It sustains jobs, reduces business costs, fuels supply chains, facilities trade, and delivers critical public benefits like lower emissions and reduced highway congestion. As we look toward"
+      },
+      {
+        "title": "Association of American Railroads",
+        "url": "https://www.aar.org/fri-technical-note/",
+        "published": "2024-12-13T14:55:05.000Z",
+        "excerpt": "Understanding The Freight Rail Index | AAR[Skip to content] \nSearch\n# [Association of American Railroads] \nMenu\n# [Association of American Railroads] \n# [Association of American Railroads] \n![] \n# Freight Rail Index Technical Note\n# Freight Rail Index Technical Note\n[\n**Read the latest Rail Industry Overview**\n] \nThe Freight Rail Index (FRI) is an economic indicator designed to track\u202fthe volume of freight rail traffic in the United States. The FRI includes data from both traditional carload comm"
+      },
+      {
+        "title": "Looming rail strike would take a major toll on U.S. economy",
+        "url": "https://www.pbs.org/newshour/economy/looming-rail-strike-would-take-a-major-toll-on-u-s-economy",
+        "published": "2022-11-22T00:00:00.000Z",
+        "excerpt": "[PBS News] \n\nBy \u2014\n\n[Josh Funk, Associated Press] [Josh Funk, Associated Press] \n\n[Leave your feedback] \n\n# Looming rail strike would take a major toll on U.S. economy\n\n[Economy] Nov 22, 2022 10:36 AM EST\n\nOMAHA, Neb. (AP) \u2014 American consumers and nearly every industry will be affected if freight trains [grind to a halt] next month.\n\nOne of the biggest rail unions rejected its deal Monday, joining three others that have failed to approve contracts over concerns about demanding schedules and the l"
+      },
+      {
+        "title": "Association of American Railroads",
+        "url": "https://www.aar.org/resources/",
+        "published": "2024-11-07T15:39:08.000Z",
+        "excerpt": "Freight Rail Industry Resources | AAR[Skip to content] \nSearch\n# [Association of American Railroads] \nMenu\n# [Association of American Railroads] \n# [Association of American Railroads] \n![] \n# Resources\n# Resources\n## Helpful Links\n* [AAR Data Center] \n* [States] \n* [How Railroading Works] \n* [Railroad 101] \n* [Railroad Chronology] \n* [Harley Explains Video Series] \n## Facts &amp; Figures\nBelow are helpful data points and quick information about the freight rail industry. You can download all the"
+      },
+      {
+        "title": "Association of American Railroads",
+        "url": "https://www.aar.org/rail-facts/",
+        "published": "2024-12-30T20:00:31.000Z",
+        "excerpt": "Railroad 101 | AAR[Skip to content] \nSearch\n# [Association of American Railroads] \nMenu\n# [Association of American Railroads] \n# [Association of American Railroads] \n![] \n# Railroad 101: How Freight Rail Works, Safety &#038; Economic Impact\n# Railroad 101: How Freight Rail Works, Safety &#038; Economic Impact\n[\n***FACT SHEET***\n] \n***FREIGHT RAILROAD KEY FACTS***\n* Freight rail is the safest way to move goods over land.\n* It delivers essential raw materials and finished goods nationwide, support"
+      },
+      {
+        "title": "",
+        "url": "https://www.aar.org/wp-content/uploads/2025/02/AAR-PE-Economic-Impact-Report-2025-FINAL.pdf",
+        "published": "2025-02-28T00:00:00.000Z",
+        "excerpt": "Rail Transportation and the \nU.S. Economy: Fueling Growth, \nTrade, and Opportunity\nFEBRUARY 28, 2025\n \n1 \nExecutive Summary ........................................................................................................................ 3\nRail Economic Impact at a Glance .............................................................................................. 3\nRail\u2019s Role in Global Trade................................................................................................"
+      },
+      {
+        "title": "AAR Reports Weekly Rail Traffic for the Week Ending September 27, 2025 - Association of American Railroads",
+        "url": "https://www.aar.org/news/aar-reports-weekly-rail-traffic-for-the-week-ending-september-27-2025/",
+        "published": "2025-10-01T00:00:00.000Z",
+        "excerpt": "[Skip to content] \n\n# AAR Reports Weekly Rail Traffic for the Week Ending September 27, 2025\n\n[**Download Traffic**] \n\n**WASHINGTON, D.C. \u2013 October 1, 2025 \u2013** The Association of American Railroads (AAR) today reported U.S. rail traffic for the week ending September 27, 2025.\n\nFor this week, total U.S. weekly rail traffic was 512,642 carloads and intermodal units, up 1.0 percent compared with the same week last year.\n\nTotal carloads for the week ending September 27 were 228,903 carloads, up 0.9 "
+      },
+      {
+        "title": "Statement from President Joe Biden on Averting a Rail Shutdown",
+        "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/28/statement-from-president-joe-biden-on-averting-a-rail-shutdown/",
+        "published": "2022-11-28T00:00:00.000Z",
+        "excerpt": "[Skip to content] \n\nI am calling on Congress to pass legislation immediately to adopt the Tentative Agreement between railroad workers and operators \u2013 without any modifications or delay \u2013 to avert a potentially crippling national rail shutdown.\n\nThis agreement was approved by labor and management negotiators in September. On the day that it was announced, labor leaders, business leaders, and elected officials all hailed it as a fair resolution of the dispute between the hard-working men and wome"
+      },
+      {
+        "title": "Statement from President Joe Biden on Congressional Action to Avert a Rail Shutdown",
+        "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/01/statement-from-president-joe-biden-on-congressional-action-to-avert-a-rail-shutdown/",
+        "published": "2022-12-01T00:00:00.000Z",
+        "excerpt": "[Skip to content] \n\nOn Tuesday, I met with Congressional leaders from both parties and told them that Congress needed to move quickly to avert a rail shutdown and economic catastrophe for our nation. Now, I want to thank Congressional leadership who supported the bill and the overwhelming majority of Senators and Representatives in both parties who voted to avert a rail shutdown. Congress\u2019 decisive action ensures that we will avoid the impending, devastating economic consequences for workers, fa"
+      },
+      {
+        "title": "Statement from President Joe Biden on House Action to Avert Rail Shutdown",
+        "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/30/statement-from-president-joe-biden-on-house-action-to-avert-rail-shutdown/",
+        "published": "2022-11-30T00:00:00.000Z",
+        "excerpt": "[Skip to content] \n\nI am grateful to Speaker Pelosi and House Democrats and Republicans for taking urgent action to prevent a rail shutdown. This overwhelming bipartisan vote in the House of Representatives makes clear that Democrats and Republicans agree that a rail shutdown would be devastating to our economy and families across the country. The Senate must now act urgently.\u00a0 Without the certainty of a final vote to avoid a shutdown this week, railroads will begin to halt the movement of criti"
+      },
+      {
+        "title": "Statement on Congressional Passage of Legislation Regarding the Tentative Agreement Between Railroad Industry Employers and Workers",
+        "url": "https://www.presidency.ucsb.edu/documents/statement-congressional-passage-legislation-regarding-the-tentative-agreement-between",
+        "published": "2022-12-01T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[The American Presidency Project] \n\n[About] [Search] \n\n[![ucsb wordmark black]] \n\n![Joe Biden] \n\n### [Joseph R. Biden, Jr.] \n\n46th\u00a0President of the United States:\u00a02021\u20142025\n\n# Statement on Congressional Passage of Legislation Regarding the Tentative Agreement Between Railroad Industry Employers and Workers\n\nDecember 01, 2022\n\nOn Tuesday, I met with Congressional leaders from both parties and told them that Congress needed to move quickly to avert a rail shutdown and econ"
+      },
+      {
+        "title": "Remarks by President Biden at Signing of H.J.Res.100 Providing a Resolution to Avert a Nationwide Rail Shutdown",
+        "url": "https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/12/02/remarks-by-president-biden-at-signing-of-h-j-res-100-providing-a-resolution-to-avert-a-nationwide-rail-shutdown/",
+        "published": "2022-12-02T00:00:00.000Z",
+        "excerpt": "[Skip to content] \n\nRoosevelt Room\n\n10:53 A.M. EST\n\nTHE PRESIDENT:\u00a0 Let me begin by thanking my team here.\u00a0 They did one heck of a job in averting what could have been a real disaster and \u2014 and ended up with a good product.\u00a0 But we still have more work to do, in my view, in terms of ultimately getting paid sick leave not just for rail workers but for every worker in America.\u00a0 That is a goal I had in the beginning, and I\u2019m coming back at it.\n\nSo \u2014 but good morning.\u00a0 The bill I\u2019m about to sign end"
+      },
+      {
+        "title": "Biden calls on Congress to head off potential rail strike",
+        "url": "https://apnews.com/article/business-congress-government-and-politics-44c88740ed57ba96a20c4fc6fffb230b",
+        "published": "2022-11-29T00:00:00.000Z",
+        "excerpt": "[![AP Logo]] \n\nMenu\n\n- [World] \n\n\n\n\n\n\n\n\n\nSECTIONS\n\n\n\n[Israel-Hamas war] [Russia-Ukraine War] [Espa\u00f1ol] [China] [Asia Pacific] [Latin America] [Europe] [Africa] \n\n\n\n\n\n\n\nTOP STORIES\n\n\n\n- [UN agencies warn that Israel's plans for aid distribution will endanger lives in Gaza] \n- [Saudi crown prince welcomes Trump to kingdom as US leader begins four-day Middle East tour] \n- [Germany bans the largest 'Reich citizen' group and arrests 4 leaders] \n\nNewsletters\n\n[The Morning Wire\\\n\\\nOur flagship newslett"
+      },
+      {
+        "title": "Biden Signs Legislation to Avert Nationwide Rail Strike",
+        "url": "https://www.nytimes.com/2022/12/02/us/politics/rail-strike-biden.html",
+        "published": "2022-12-02T00:00:00.000Z",
+        "excerpt": "[Politics] \\|Biden Signs Legislation to Avert Nationwide Rail Strike\n\nhttps://www.nytimes.com/2022/12/02/us/politics/rail-strike-biden.html\n\n- Share full article\n\n- [137] \n\n\nAdvertisement\n\n[SKIP ADVERTISEMENT] \n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\nWASHINGTON \u2014 President Biden signed legislation on Friday to impose a labor agreement between rail companies and workers who had been locked in a"
+      },
+      {
+        "title": "Biden and Congress Moved to Avert a Rail Strike. Here\u2019s How and Why",
+        "url": "https://www.nytimes.com/article/railroad-strike-explained.html",
+        "published": "2022-12-02T00:00:00.000Z",
+        "excerpt": "[Politics] \\|Congress Moved to Avert a Rail Strike. Here\u2019s How and Why.\n\nhttps://www.nytimes.com/article/railroad-strike-explained.html\n\n- Share full article\n\n\nAdvertisement\n\n[SKIP ADVERTISEMENT] \n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\n_Update:_ [_President Biden signed the bill into law_] _on Friday._\n\nWASHINGTON \u2014 Congress acted on Thursday to avert a nationwide rail strike, [clearing legis"
+      },
+      {
+        "title": "Biden to Congress: Intervene in labor dispute, avert rail strike that would 'devastate' US",
+        "url": "https://www.usatoday.com/story/news/politics/2022/11/28/biden-calls-congress-intervene-avoid-freight-rail-strike/10792783002/",
+        "published": "2022-11-28T00:00:00.000Z",
+        "excerpt": "[POLITICS] \n\nJoe Biden\n\nAdd Topic\n\n# Biden to Congress: Intervene in labor dispute, avert rail strike that would 'devastate' US\n\n[![] Michael Collins] \n\nUSA TODAY\n\nWASHINGTON \u2013 President Joe Biden called Monday on Congress to intervene in a labor dispute between unions and operators of the nation's freight railroads\u00a0to avert what he warned would be\u00a0[a crippling rail strike] heading into the holidays.\n\nWith a Dec. 9 strike deadline fast approaching, Biden urged Congress to adopt \"without any modi"
+      },
+      {
+        "title": "With Senate Vote, Congress Moves to Avert Rail Strike",
+        "url": "https://www.nytimes.com/2022/12/01/us/politics/senate-rail-strike.html",
+        "published": "2022-12-01T00:00:00.000Z",
+        "excerpt": "[Politics] \\|With Senate Vote, Congress Moves to Avert Rail Strike\n\nhttps://www.nytimes.com/2022/12/01/us/politics/senate-rail-strike.html\n\n- Share full article\n\n- [1033] \n\n\nAdvertisement\n\n[SKIP ADVERTISEMENT] \n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\nWASHINGTON \u2014 The Senate on Thursday voted overwhelmingly to impose a labor agreement between rail companies and their workers who have been locke"
+      },
+      {
+        "title": "Railroad Workers Point to Punishing Schedules as Cause of Strike",
+        "url": "https://www.nytimes.com/2022/09/15/business/economy/railroad-workers-strike.html?unlocked_article_code=-qxiUxEqVysxRHSHMwuSP3u4v3VhYj6JqWTBANDSqtj-9GnLnAbmvqNczGq0EqWHASBjqWRy_gcJGODmj7AZlQcShpYFNrkhfcyuV6S1Q24-K6ddMa64K7G0ncmIaLTgNUAEYorxpqpdqrJYbp59c16UC9AIWSgjN429jqEGwLtDFraoU2QEhfFXHU1a4_fAUaVkTEhOLjQB0S7NKQxxGOfnj4hRY7Q13mauOCIxYNeF0uPOjsmD9oNTsK3xaVyjLrQ8n0jGaqkR642DErtavLXRlHcL8IiiHv4Cbl7OzA1vBLprw4jLgiuojumWhc5kwUYhnCbYSwzIsS3-uP8CwIbf_jiDGmONXaI&amp;smid=share-url",
+        "published": "2022-09-15T00:00:00.000Z",
+        "excerpt": "[Economy] \\|Workers Say Railroads\u2019 Efficiency Push Became Too Much\n\nhttps://www.nytimes.com/2022/09/15/business/economy/railroad-workers-strike.html\n\n- Share full article\n\n\nAdvertisement\n\n[SKIP ADVERTISEMENT] \n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\nTo defuse a labor dispute that brought the nation to the brink of a potentially catastrophic railroad strike, negotiators had to resolve a key iss"
+      },
+      {
+        "title": "",
+        "url": "https://www.nytimes.com/2022/10/28/business/railroad-workers-strike-threat.html",
+        "published": "2022-10-28T00:00:00.000Z",
+        "excerpt": "Credit...Alex Welsh for The New York Times\n\nSupported by\n\n[SKIP ADVERTISEMENT] \n\n- Share full article\n\n\nBy [Peter S. Goodman] \n\nReporting from Texas, Southern California, New York and Washington\n\n- Oct. 28, 2022\n\nA dozen men stood in a parking lot outside a dilapidated motel in rural Texas, sharing a fish dinner cooked in a portable fryer. They had spent the previous 12 hours under a pounding sun, repairing track for a major American railroad.\n\nThe men were part of a traveling maintenance gang, "
+      },
+      {
+        "title": "\u2018The Worst and Most Egregious Attendance Policy\u2019 Is Pushing Railroad Workers to the Brink",
+        "url": "https://www.vice.com/en/article/the-worst-and-most-egregious-attendance-policy-is-pushing-railroad-workers-to-the-brink/",
+        "published": "2022-04-05T00:00:00.000Z",
+        "excerpt": "Share:\n\n- [Click to share on X (Opens in new window)X] \n- [Click to share on Facebook (Opens in new window)Facebook] \n- [Share using Native toolsShareCopied to clipboard] \n\nWhen Allison\u2019s husband, a conductor for the country\u2019s largest freight rail company BNSF, wanted to take time off in the past, it was a hassle. As a relatively junior member of a workforce\u2014now with about 10 years on the job\u2014where most everything is based on seniority, he had an unpredictable work schedule. It worked out, rough"
+      },
+      {
+        "title": "Title 49",
+        "url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-II/part-228",
+        "published": "2025-05-13T00:00:00.000Z",
+        "excerpt": "eCFR :: 49 CFR Part 228 -- Passenger Train Employee Hours of Service; Recordkeeping and Reporting; Sleeping Quarters\nSite Feedback\n##### You are using an unsupported browser&times;\nYou are using an unsupported browser. This web site is designed for the current versions of\nMicrosoft Edge, Google Chrome, Mozilla Firefox, or Safari.\n\u00d7### Site Feedback\nThe Office of the Federal Register publishes documents on behalf of Federal agencies but does not have any authority over their programs. We recommen"
+      },
+      {
+        "title": "\u2018The Worst and Most Egregious Attendance Policy\u2019 Is Pushing Railroad Workers to the Brink",
+        "url": "https://www.vice.com/en/article/5dgezn/the-worst-and-most-egregious-attendance-policy-is-pushing-railroad-workers-to-the-brink",
+        "published": "2022-04-05T00:00:00.000Z",
+        "excerpt": "Share:\n\n- [Click to share on X (Opens in new window)X] \n- [Click to share on Facebook (Opens in new window)Facebook] \n- [Share using Native toolsShareCopied to clipboard] \n\n[Follow Us On Discover] \n\n[Make Us Preferred In Top Stories] \n\nWhen Allison\u2019s husband, a conductor for the country\u2019s largest freight rail company BNSF, wanted to take time off in the past, it was a hassle. As a relatively junior member of a workforce\u2014now with about 10 years on the job\u2014where most everything is based on seniori"
+      },
+      {
+        "title": "49 CFR Part 228 - PART 228\u2014PASSENGER TRAIN EMPLOYEE HOURS OF SERVICE; RECORDKEEPING AND REPORTING; SLEEPING QUARTERS",
+        "url": "https://www.law.cornell.edu/cfr/text/49/part-228",
+        "published": "2016-07-25T00:00:00.000Z",
+        "excerpt": "# 49 CFR Part 228 - PART 228\u2014PASSENGER TRAIN EMPLOYEE HOURS OF SERVICE; RECORDKEEPING AND REPORTING; SLEEPING QUARTERS\n\n- [CFR] \n\n[prev] \\| [next] \n\n01. [Subpart A\u2014General (\u00a7\u00a7 228.1 - 228.6)] \n02. [Subpart B\u2014Records and Reporting (\u00a7\u00a7 228.7 - 228.23)] \n03. [Subpart C\u2014Construction of Railroad-Provided Sleeping Quarters (\u00a7\u00a7 228.101 - 228.107)] \n04. [Subpart D\u2014Electronic Recordkeeping System and Automated Recordkeeping System (\u00a7\u00a7 228.201 - 228.207)] \n05. [Subpart E\u2014Safety and Health Requirements for"
+      },
+      {
+        "title": "Title 49",
+        "url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-II/part-228/subpart-F",
+        "published": "2025-12-05T00:00:00.000Z",
+        "excerpt": "eCFR :: 49 CFR Part 228 Subpart F -- Substantive Hours of Service Requirements for Train Employees Engaged in Commuter or Intercity Rail Passenger Transportation\nSite Feedback\n##### You are using an unsupported browser&times;\nYou are using an unsupported browser. This web site is designed for the current versions of\nMicrosoft Edge, Google Chrome, Mozilla Firefox, or Safari.\n\u00d7### Site Feedback\nThe Office of the Federal Register publishes documents on behalf of Federal agencies but does not have a"
+      },
+      {
+        "title": "",
+        "url": "https://fm.cnbc.com/applications/cnbc.com/resources/editorialfiles/2022/09/13/AAR-Overview-Freight-Rail-Employee-Time-Off-Policies-Fact-Sheet.pdf",
+        "published": "2022-09-01T00:00:00.000Z",
+        "excerpt": "Overview of Freight Rail Employee Time Off Policies\nSeptember 2022 / Sign up for AAR\u2019s newsletter at AAR.org/Signal\nTo meet customer demands and deliver for the national \neconomy, railroads must work 24/7, 365 days a year. This \ncommitment to service means railroad employees are often \nrequired to work highly variable schedules. While the exact \nterms vary from one railroad to another, all railroads have \npolicies designed to balance employees\u2019 need to take time \noff with the need to maintain sa"
+      },
+      {
+        "title": "Title 20",
+        "url": "https://www.ecfr.gov/current/title-20/chapter-II/subchapter-C/part-332",
+        "published": "2025-11-17T00:00:00.000Z",
+        "excerpt": "eCFR :: 20 CFR Part 332 -- Mileage or Work Restrictions and Stand-by or Lay-over Rules\nSite Feedback\n##### You are using an unsupported browser&times;\nYou are using an unsupported browser. This web site is designed for the current versions of\nMicrosoft Edge, Google Chrome, Mozilla Firefox, or Safari.\n\u00d7### Site Feedback\nThe Office of the Federal Register publishes documents on behalf of Federal agencies but does not have any authority over their programs. We recommend you directly contact the age"
+      },
+      {
+        "title": "49 CFR 228.405 -- Limitations on duty hours of train employees engaged in commuter or intercity rail passenger transportation.",
+        "url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-II/part-228/subpart-F/section-228.405",
+        "published": "2025-05-06T00:00:00.000Z",
+        "excerpt": "Site Feedback\n\n\u00d7\n\n### Website Feedback\n\n\\* Your Name\n\n\\* Email\n\nAttachment\n\n\\* How can we help you?\n\n\\* I am requesting technical help or providing website feedback\n\nThis contact form is only for website help or website suggestions. If you have questions or comments regarding a published document please\ncontact the publishing agency. Comments or questions about document content can not be answered by OFR staff. Please do not provide confidential\ninformation or personal data.\n\n- Browse\n - [Titles"
+      },
+      {
+        "title": "GAO-23-105420, FREIGHT RAIL: Information on Precision-Scheduled Railroading",
+        "url": "https://www.gao.gov/assets/gao-23-105420.pdf",
+        "published": "2022-12-09T00:00:00.000Z",
+        "excerpt": "FREIGHT RAIL\nInformation on \nPrecision-Scheduled \nRailroading \nReport to Congressional Requesters\nDecember 2022\nGAO-23-105420\nUnited States Government Accountability Office\nUnited States Government Accountability Office\nHighlights of GAO-23-105420, a report to \ncongressional requesters\nDecember 2022\nFREIGHT RAIL\nInformation on Precision-Scheduled \nRailroading\nWhat GAO Found\nSix of the seven largest U.S. freight railroads have reported implementing\nprecision-scheduled railroading (PSR), a strateg"
+      },
+      {
+        "title": "",
+        "url": "https://www.gao.gov/assets/820/814068.pdf",
+        "published": "2022-12-14T00:00:00.000Z",
+        "excerpt": "FREIGHT\u00a0RAIL\nInformation\u00a0on\u00a0\nPrecision\u00adScheduled\u00a0\nRailroading\nAccessible Version\nReport\u00a0to\u00a0Congressional\u00a0Requesters\nDecember 2022\nGAO-23-105420\nUnited States Government Accountability Office\nUnited States Government Accountability Office\nGAO\u00a0Highlights\nHighlights of GAO-23-105420, a report to \ncongressional requesters\nDecember 2022\nFREIGHT RAIL\nInformation on Precision-Scheduled Railroading\nWhat GAO Found\nSix of the seven largest U.S. freight railroads have reported implementing \nprecision-sched"
+      },
+      {
+        "title": "Tracking productivity in line-haul railroads",
+        "url": "https://www.bls.gov/opub/btn/volume-13/tracking-productivity-in-line-haul-railroads.htm",
+        "published": "2024-03-25T00:00:00.000Z",
+        "excerpt": "Tracking productivity in line-haul railroads : Beyond the Numbers: U.S. Bureau of Labor Statistics\n[Skip to Content] \n![U.S. flag] \nAn official website of the United States governmentHere is how you know\n[![Department of Labor Logo] United States Department of Labor] \n![Dot gov] \n**The .gov means it's official.**\nFederal government websites often end in .gov or .mil. Before sharing sensitive information,\nmake sure you're on a federal government site.\n![Https] \n**The site is secure.**\nThe**https:"
+      },
+      {
+        "title": "Freight Rail:\n                           Information on Precision-Scheduled Railroading",
+        "url": "https://www.gao.gov/products/gao-23-105420",
+        "published": "2022-12-13T00:00:00.000Z",
+        "excerpt": "Freight Rail: Information on Precision-Scheduled Railroading | U.S. GAO[Skip to main content] \n*[![Home] \nU.S. Government Accountability Office\n] *\nMenu\n# Freight Rail:Information on Precision-Scheduled Railroading\n**GAO-23-105420******Published: Dec 13, 2022. Publicly Released: Dec 23, 2022.\n* [] \n* [] \n* [] \n* [] \n[Jump To:] \n## Fast Facts\nOf the 7 largest U.S. freight railroads, 6 have reported implementing \"precision-scheduled railroading\" (PSR), a strategy intended to increase efficiency an"
+      },
+      {
+        "title": "PEB 250 - Report and Recommendations",
+        "url": "https://www.aar.org/wp-content/uploads/2022/10/PEB-250-Report-and-Recommendations.pdf",
+        "published": "2024-02-10T00:00:00.000Z",
+        "excerpt": "REPORT\nto\nTHE PRESIDENT\nby\nEMERGENCY BOARD\nNO. 250\nSUBMITTED PURSUANT TO EXECUTIVE ORDER DATED JULY 15, 2022 \nESTABLISHING AN EMERGENCY BOARD TO INVESTIGATE A DISPUTE BETWEEN \nTHE NATIONAL CARRIERS\u2019 CONFERENCE COMMITTEE OF THE NATIONAL \nRAILWAY LABOR CONFERENCE, REPRESENTING CLASS I RAILROADS BNSF \nRAILWAY COMPANY; CSX TRANSPORTATION, INC.; THE KANSAS CITY SOUTHERN \nRAILWAY COMPANY; NORFOLK SOUTHERN RAILWAY COMPANY; AND UNION\nPACIFIC RAILROAD COMPANY; AND THE FOLLOWING RAILROADS: ALAMEDA \nBELT L"
+      },
+      {
+        "title": "",
+        "url": "https://railnegotiations.com/wp-content/uploads/2019/10/2019.10.29-National-Section-6-Notice-SMART-TD-FINAL.pdf",
+        "published": "2019-10-30T00:00:00.000Z",
+        "excerpt": "National Section 6 Notice \u2013 SMART-TD\n1\nThe American railroad industry has survived for more than a century because of its \nability to adapt and innovate in the face of unrelenting challenges. The industry has persisted \nthrough economic downturns, wars, fierce competition, and periods of crushing regulation by \ninvesting in and implementing new technologies, operating procedures, and business lines. \nWorkplace changes resulting from these advances have not always been embraced at the \nbargaining"
+      },
+      {
+        "title": "Latest freight railroad layoffs and Wall Street pressure renew concerns about safety and service",
+        "url": "https://apnews.com/article/railroads-cost-cutting-wall-street-regulators-investors-c7f017fefbeb8444822269b0df801de4",
+        "published": "2024-03-01T00:00:00.000Z",
+        "excerpt": "[![AP Logo]] \n\nMenu\n\n- [World] \n\n\n\n\n\n\n\n\n\nSECTIONS\n\n\n\n[Israel-Hamas war] [Russia-Ukraine War] [Espa\u00f1ol] [China] [Asia Pacific] [Latin America] [Europe] [Africa] \n\n\n\n\n\n\n\nTOP STORIES\n\n\n\n- [US and China take a step back from sky-high tariffs and agree to pause for 90 days for more talks] \n- [Hamas says it will release American-Israeli hostage Edan Alexander on Monday] \n- [Modi says India has only paused military action and will strike if any further terror attack occurs] \n\nNewsletters\n\n[The Morning "
+      },
+      {
+        "title": "Railroads\u2019 Strategy Thrilled Wall Street, but Not Customers and Workers",
+        "url": "https://www.nytimes.com/2022/09/19/business/freight-rail.html",
+        "published": "2022-09-19T00:00:00.000Z",
+        "excerpt": "[Business] \\|Railroads\u2019 Strategy Thrilled Wall Street, but Not Customers and Workers\n\nhttps://www.nytimes.com/2022/09/19/business/freight-rail.html\n\n- Share full article\n\n- 171\n\n[171] \n\n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\nThe freight rail industry reinvented itself through decades of consolidation and a quest for efficiency.Credit...Alex Welsh for The New York Times\n\nSupported by\n\n[SKIP AD"
+      },
+      {
+        "title": "",
+        "url": "https://nmb.gov/NMB_Application/wp-content/uploads/2025/01/PEB-252-Report-and-Recommendations-Jan.-20-2025.pdf",
+        "published": "2025-01-18T00:00:00.000Z",
+        "excerpt": "\n_____ \n_____ \nREPORT \nto \nTHE PRESIDENT \nby \nEMERGENCY BOARD \nNO. 252 \nSUBMITTED PURSUANT TO \nEXECUTIVE ORDER DATED NOVEMBER 21, 2024 ESTABLISHING AN EMERGENCY \nBOARD TO INVESTIGATE A DISPUTE BETWEEN NEW JERSEY TRANSIT RAIL \nOPERATIONS AND THE BROTHERHOOD OF LOCOMOTIVE ENGINEERS AND \nTRAINMEN \nAND SECTION 9a OF THE RAILWAY LABOR ACT, AS AMENDED \n(National Mediation Board Case No. A-13965) \nWASHINGTON, D.C. \nJANUARY 20, 2025 \n \n \nWashington, D.C. \nJanuary 20, 2025 \nThe Honorable Joseph R. Biden,"
+      },
+      {
+        "title": "US unions call on railroads to halt buybacks, ditch lean operating model",
+        "url": "https://www.reuters.com/business/autos-transportation/us-unions-call-railroads-halt-buybacks-ditch-lean-operating-model-2023-04-21/",
+        "published": "2023-04-21T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[Exclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv] \n\n![Members of the U.S. Environmental Protection Agency (EPA) inspect the site of a train derailment of hazardous material in East Palestine] \n\nA general view as members of the U.S. Environmental Protection Agency (EPA) (not pictured) inspect the site of a train derailment of hazardous material in East Palestine, Ohio, U.S., February 16, 2023. REUTERS/Alan Freed [Purchase Lic"
+      }
+    ],
+    "search_queries": [
+      "Search #1: rail workers strike labor union perspective demands...",
+      "Search #2: railroad companies response rail workers strike management p...",
+      "Search #3: government regulators rail strike Biden administration inter...",
+      "Search #4: railroad workers sick leave attendance policy precision sche...",
+      "Search #5: Association of American Railroads freight rail companies str...",
+      "Search #6: Biden administration Railway Labor Act Presidential Emergenc...",
+      "Search #7: SMART-TD BLET railroad union workers cannot get time off fun...",
+      "Search #8: railroad companies AAR strike would cost economy billions su...",
+      "Search #9: Biden statement Congress impose railroad contract prevent st...",
+      "Search #10: \"railroad workers\" \"couldn't get time off\" \"wife's funeral\" ...",
+      "Search #11: railroad companies precision scheduled railroading efficienc..."
+    ],
+    "search_count": 11,
+    "time_seconds": 81.36845993995667
+  },
+  "claude": {
+    "analysis_text": "I'll search for perspectives on the rail workers strike from the three stakeholder groups you mentioned.I have gathered substantial information from 10 searches covering labor unions, railroad companies, and government perspectives on the 2022 rail workers strike. Let me compile this into the requested format.\n\n---\n\n## 1. KEY FINDINGS\n\n### LABOR UNION PERSPECTIVES\n\n**Claim:** Rail unions demanded paid sick leave as a core issue, with workers receiving zero paid sick days under existing contracts.\n**Quote:** \"freight rail workers receive a grand total of zero sick days while railroad companies made significant profits\"\n**Source:** https://en.wikipedia.org/wiki/2022_United_States_railroad_labor_dispute\n\n**Claim:** Union leaders characterized BNSF's attendance policy as the worst ever adopted by a rail carrier.\n**Quote:** \"the worst and most egregious attendance policy ever adopted by any rail carrier\"\n**Source:** https://en.wikipedia.org/wiki/2022_United_States_railroad_labor_dispute\n\n**Claim:** Workers faced termination for taking time off for medical needs or family emergencies under points-based attendance systems.\n**Quote:** \"our members are being terminated for getting sick or for attending routine medical visits\"\n**Source:** https://www.smart-union.org/smart-td-blet-joint-statement-on-rail-embargo/\n\n**Claim:** Unions accused railroads of using the supply chain as leverage to pressure Congress to intervene.\n**Quote:** \"The railroads cannot legally lock us out so they are resorting to the extortion of the shippers\"\n**Source:** https://www.cnbc.com/2022/09/12/large-rail-labor-unions-move-closer-to-a-strike.html\n\n**Claim:** Union activists criticized Biden for not advocating for sick days despite his pro-labor rhetoric.\n**Quote:** \"Joe Biden blew it. He had the opportunity to prove his labor-friendly pedigree to millions of workers\"\n**Source:** https://www.cnn.com/2022/11/29/business/rail-strike-threat-recedes/index.html\n\n**Claim:** Rank-and-file members rejected the tentative agreement despite union leadership initially supporting it.\n**Quote:** \"Rail companies and unions had tentatively agreed to a deal in September 2022, but it was rejected by a majority of the unions' rank-and-file members\"\n**Source:** https://en.wikipedia.org/wiki/2022_United_States_railroad_labor_dispute\n\n**Claim:** Workforce reductions had intensified working conditions, with railroads cutting staff by 29% over six years.\n**Quote:** \"the largest freight railroads in the U.S. have reduced their workforce by 29% in the last six years\"\n**Source:** https://www.cnbc.com/2022/09/12/large-rail-labor-unions-move-closer-to-a-strike.html\n\n### RAILROAD COMPANY PERSPECTIVES\n\n**Claim:** Railroad companies characterized the contract as providing the most generous wage increases in decades.\n**Quote:** \"the most generous contract in modern history and noted that upon ratification, workers would see an average payout of $16,000\"\n**Source:** https://www.npr.org/2022/11/21/1137640529/railroads-freight-rail-unions-vote-contract-strike\n\n**Claim:** The Association of American Railroads stated the agreement provided 24% wage increases over five years.\n**Quote:** \"these new contracts provide rail employees a 24 percent wage increase during the five-year period from 2020 through 2024\"\n**Source:** https://www.aar.org/news/freight-railroads-and-unions-reach-tentative-agreements-strike-averted/\n\n**Claim:** Railroad representatives argued unions had historically traded paid sick time for higher wages in negotiations.\n**Quote:** \"The railroads say the unions have agreed in negotiations over the decades to forgo paid sick time in favor of higher wages\"\n**Source:** https://www.pbs.org/newshour/economy/biden-administration-urges-senate-to-act-amid-looming-rail-worker-strike\n\n**Claim:** The industry trade group claimed railroads were willing to discuss sick time within the framework established by the presidential board.\n**Quote:** \"the railroad carriers would be up for a holistic discussion, but [they] have not done it in the zero hour\"\n**Source:** https://www.cnbc.com/2022/11/30/rail-strike-house-approves-tentative-labor-deal.html\n\n**Claim:** Major freight railroads reported record profits in 2021 and expected even better results in 2022.\n**Quote:** \"The four major railroads reported some form of record profits in 2021. Wall Street analysts expect even better profits in 2022\"\n**Source:** https://www.cnn.com/2022/12/02/business/railway-labor-act-freight-railroad-strike/index.html\n\n**Claim:** Railroad industry warned a strike would cost the economy $2 billion per day.\n**Quote:** \"the rail industry has estimated it would cost the economy up to $2 billion per day\"\n**Source:** https://www.cnbc.com/2022/09/12/large-rail-labor-unions-move-closer-to-a-strike.html\n\n### GOVERNMENT REGULATOR PERSPECTIVES\n\n**Claim:** President Biden convened a Presidential Emergency Board stating the dispute threatened essential transportation services.\n**Quote:** \"these disputes threaten substantially to interrupt interstate commerce to a degree that would deprive a section of the country of essential transportation service\"\n**Source:** https://en.wikipedia.org/wiki/2022_United_States_railroad_labor_dispute\n\n**Claim:** Biden acknowledged the difficulty of forcing workers to accept a contract they rejected but prioritized economic concerns.\n**Quote:** \"I know this was a tough vote for members of both parties. It was tough for me\"\n**Source:** https://www.cnbc.com/2022/12/02/biden-signs-bill-averting-rail-worker-strike-despite-lack-of-paid-sick-days.html\n\n**Claim:** The Biden administration concluded there was no path to resolve the dispute through further bargaining.\n**Quote:** \"They believe that there is no path to resolve the dispute at the bargaining table\"\n**Source:** https://www.cnn.com/2022/12/02/business/railway-labor-act-freight-railroad-strike/index.html\n\n**Claim:** Congress used the Railway Labor Act to impose a contract, blocking workers' right to strike.\n**Quote:** \"Congress and President Joe Biden intervened to pass the tentative agreement into law on December 2, averting a strike\"\n**Source:** https://en.wikipedia.org/wiki/2022_United_States_railroad_labor_dispute\n\n**Claim:** Over 500 labor historians condemned the Biden administration's intervention in an open letter.\n**Quote:** \"The Biden administration's intervention in the dispute was condemned by over 500 labor historians in an open letter\"\n**Source:** https://en.wikipedia.org/wiki/2022_United_States_railroad_labor_dispute\n\n**Claim:** Business groups including the U.S. Chamber of Commerce praised Congress for averting the strike.\n**Quote:** \"We commend members of Congress for averting a catastrophic rail strike\"\n**Source:** https://www.voanews.com/a/biden-signs-bill-to-block-us-railroad-strike-/6860131.html\n\n**Claim:** The Railway Labor Act framework gives Congress unique authority to intervene in rail disputes.\n**Quote:** \"The goal of the Railway Labor Act was to reduce the likelihood of a work stoppage\"\n**Source:** https://www.cnn.com/2022/12/02/business/railway-labor-act-freight-railroad-strike/index.html\n\n---\n\n## 2. SOURCE QUALITY ASSESSMENT\n\n**Strengths:**\n- Multiple primary source documents from unions (SMART-TD, BLET statements) and industry groups (AAR press releases)\n- Major news organizations (NPR, CNN, CNBC) providing contemporaneous reporting\n- Academic and legal analysis (Ohio State law journal)\n- Wikipedia entries with extensive citations providing timeline clarity\n- Government regulatory information about the Railway Labor Act\n\n**Weaknesses:**\n- Limited direct statements from individual railroad company executives (mostly filtered through AAR)\n- No direct access to Presidential Emergency Board report or congressional testimony transcripts\n- Some sources (particularly union websites) have clear advocacy positions\n- Limited perspectives from railroad customers/shippers who were also stakeholders\n\n**Overall Assessment:** Good diversity of perspectives with verifiable primary sources, though railroad company direct communications are underrepresented compared to union voices.\n\n---\n\n## 3. GAPS OR CONTRADICTIONS\n\n**Key Gaps:**\n1. Limited detail on the specific Presidential Emergency Board recommendations that became the basis for the imposed contract\n2. Minimal coverage of what happened after the contract was imposed - worker retention, safety outcomes\n3. Little information about regional variations in working conditions across different rail carriers\n4. Sparse data on the actual health/safety impacts of attendance policies beyond anecdotal accounts\n\n**Contradictions:**\n1. **Wage characterization conflict:** Railroads called it \"the most generous contract in modern history\" while unions emphasized it lacked basic sick leave - both statements can be technically true but frame the issue differently\n2. **Economic impact estimates:** Various sources cite $2 billion/day economic impact, but methodology and assumptions behind this figure not transparent\n3. **Blame for negotiation failure:** Unions claim railroads refused to negotiate in good faith; government sources suggest both sides were at impasse; railroads suggested they were willing to discuss within framework limitations\n\n**Note on Congressional action:** While it was characterized as \"bipartisan,\" the actual voting patterns showed complexity - some Democratic senators publicly criticized the lack of sick leave while still voting to impose the contract. [INFERENCE - pattern suggests political pressure exceeded stated principles]\n\n---\n\n## 4. RECOMMENDED NEXT STEPS\n\n**For Deeper Investigation:**\n1. **Search for Presidential Emergency Board No. 250 report** - The actual recommendations that formed the contract basis\n2. **Congressional hearing transcripts** from September-December 2022 featuring railroad executives and union leaders\n3. **Post-implementation analysis** - Worker retention rates, safety incidents, subsequent sick leave negotiations (CSX deal in Feb 2023)\n4. **Surface Transportation Board testimony** - Regulatory perspective on service quality and workforce issues\n5. **Financial filings** - Actual profit data from Union Pacific, BNSF, CSX, Norfolk Southern for 2021-2022\n6. **Comparative labor law analysis** - How Railway Labor Act differs from National Labor Relations Act in practice\n7. **Worker health outcomes** - Any studies on fatigue-related incidents or worker wellness post-contract\n8. **Follow-up negotiations** - Whether other railroads followed CSX's lead on sick leave provisions\n\n**Questions Remaining:**\n- What were the specific points-based attendance policy details at each railroad?\n- How did international rail unions (Canada, Mexico) view this dispute?\n- What role did supply chain customers (chemical companies, agriculture) play in lobbying efforts?\n- Were there meaningful reforms to the Railway Labor Act proposed after this incident?",
+    "sources": [
+      {
+        "title": "2022 United States railroad labor dispute - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2022_United_States_railroad_labor_dispute",
+        "page_age": "August 25, 2025"
+      },
+      {
+        "title": "Possibility of a nationwide rail strike looms as another union rejects deal : NPR",
+        "url": "https://www.npr.org/2022/11/21/1137640529/railroads-freight-rail-unions-vote-contract-strike",
+        "page_age": "November 21, 2022"
+      },
+      {
+        "title": "THE 2022 RAILROAD LABOR DISPUTE: WHAT LED TO IT, AND WHAT WE CAN DO NOW",
+        "url": "https://moritzlaw.osu.edu/sites/default/files/2023-05/4.%20Prestridge%20111-116.pdf",
+        "page_age": null
+      },
+      {
+        "title": "Large railroad labor unions say they will strike if quality of life is not addressed in new contract",
+        "url": "https://www.cnbc.com/2022/09/12/large-rail-labor-unions-move-closer-to-a-strike.html",
+        "page_age": "September 12, 2022"
+      },
+      {
+        "title": "After Biden Blocked Their Strike, Railroad Workers Weigh the Lesser of Two Evils - In These Times",
+        "url": "https://inthesetimes.com/article/railroad-strike-trump-harris-working-class-vote",
+        "page_age": "November 5, 2024"
+      },
+      {
+        "title": "How an arcane 96-year-old law stopped the rail strike | CNN Business",
+        "url": "https://www.cnn.com/2022/12/02/business/railway-labor-act-freight-railroad-strike/index.html",
+        "page_age": "December 2, 2022"
+      },
+      {
+        "title": "Rail unions decry Biden\u2019s call for Congress to block strike. Businesses praise the plan | CNN Business",
+        "url": "https://www.cnn.com/2022/11/29/business/rail-strike-threat-recedes/index.html",
+        "page_age": "November 29, 2022"
+      },
+      {
+        "title": "House approves tentative labor deal to avoid rail strike, sends to Senate",
+        "url": "https://www.cnbc.com/2022/11/30/rail-strike-house-approves-tentative-labor-deal.html",
+        "page_age": "November 30, 2022"
+      },
+      {
+        "title": "Railroads' workplace attendance policies at the heart of labor dispute : NPR",
+        "url": "https://www.npr.org/2022/09/14/1122918098/railroads-freight-rail-union-strike-train-workers",
+        "page_age": "September 15, 2022"
+      },
+      {
+        "title": "Rail workers could strike before Christmas. Here's the latest on the talks : NPR",
+        "url": "https://www.npr.org/2022/11/17/1136459343/railroads-rail-workers-strike-negotiations-labor-union",
+        "page_age": "November 17, 2022"
+      },
+      {
+        "title": "2022 United States railroad labor dispute - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2022_United_States_railroad_labor_dispute",
+        "page_age": "August 25, 2025"
+      },
+      {
+        "title": "Great Railroad Strike of 1877 | History, Facts, & Significance | Britannica",
+        "url": "https://www.britannica.com/topic/Great-Railroad-Strike-of-1877",
+        "page_age": "September 5, 2014"
+      },
+      {
+        "title": "Railroad Unions - Organized Labor Since the 19th Century: A Research Guide - Research Guides at Library of Congress",
+        "url": "https://guides.loc.gov/organized-labor/railroads",
+        "page_age": null
+      },
+      {
+        "title": "Railroad Strike of 1877 Historical Marker",
+        "url": "https://explorepahistory.com/hmarker.php%3FmarkerId=1-A-1C1.html",
+        "page_age": null
+      },
+      {
+        "title": "Great Railroad Strike of 1877 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Great_Railroad_Strike_of_1877",
+        "page_age": "November 14, 2025"
+      },
+      {
+        "title": "Rail workers never stopped fighting for paid sick days. Now persistence is paying off",
+        "url": "https://www.npr.org/2023/02/10/1155763336/freight-rail-workers-union-paid-sick-leave-bernie-sanders-csx",
+        "page_age": "February 10, 2023"
+      },
+      {
+        "title": "Great Railroad Strike of 1922 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Great_Railroad_Strike_of_1922",
+        "page_age": "August 25, 2025"
+      },
+      {
+        "title": "Freight Railroads and Unions Reach Tentative Agreements, Strike Averted - Association of American Railroads",
+        "url": "https://www.aar.org/news/freight-railroads-and-unions-reach-tentative-agreements-strike-averted/",
+        "page_age": "September 21, 2022"
+      },
+      {
+        "title": "Rail strikes that changed America - The Washington Post",
+        "url": "https://www.washingtonpost.com/business/interactive/2022/rail-strikes-history-1877-2022/",
+        "page_age": null
+      },
+      {
+        "title": "How an arcane 96-year-old law stopped the rail strike | CNN Business",
+        "url": "https://www.cnn.com/2022/12/02/business/railway-labor-act-freight-railroad-strike",
+        "page_age": "December 2, 2022"
+      },
+      {
+        "title": "Why Joe Biden Made it Illegal for Rail Workers to Strike | TIME",
+        "url": "https://time.com/6238361/joe-biden-rail-strike-illegal/",
+        "page_age": "December 2, 2022"
+      },
+      {
+        "title": "Biden signs bill averting rail worker strike despite lack of paid sick days",
+        "url": "https://www.cnbc.com/2022/12/02/biden-signs-bill-averting-rail-worker-strike-despite-lack-of-paid-sick-days.html",
+        "page_age": "December 2, 2022"
+      },
+      {
+        "title": "Some rail workers say Biden \"turned his back on us\" in deal to avert rail strike",
+        "url": "https://www.npr.org/2022/12/02/1140265413/rail-workers-biden-unions-freight-railroads-averted-strike",
+        "page_age": "December 2, 2022"
+      },
+      {
+        "title": "I\u2019m a Rail Worker, and Biden Screwed Us | The Nation",
+        "url": "https://www.thenation.com/article/economy/rail-worker-unions-strike-biden/",
+        "page_age": "December 13, 2022"
+      },
+      {
+        "title": "New Legislation Stops Strike, Yet Leaves Railway Workers With Unfair Policies - NARVRE",
+        "url": "https://www.narvre.us/new-legislation-stops-strike/",
+        "page_age": "February 9, 2023"
+      },
+      {
+        "title": "Biden Signs Bill Averting Strike, to Rail Unions' Dismay",
+        "url": "https://www.voanews.com/a/biden-signs-bill-to-block-us-railroad-strike-/6860131.html",
+        "page_age": "December 3, 2022"
+      },
+      {
+        "title": "After Biden Blocked Their Strike, Railroad Workers Weigh the Lesser of Two Evils - In These Times",
+        "url": "https://inthesetimes.com/article/railroad-strike-trump-harris-working-class-vote",
+        "page_age": "November 5, 2024"
+      },
+      {
+        "title": "2022 United States railroad labor dispute - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2022_United_States_railroad_labor_dispute",
+        "page_age": "August 25, 2025"
+      },
+      {
+        "title": "THE 2022 RAILROAD LABOR DISPUTE: WHAT LED TO IT, AND WHAT WE CAN DO NOW",
+        "url": "https://moritzlaw.osu.edu/sites/default/files/2023-05/4.%20Prestridge%20111-116.pdf",
+        "page_age": null
+      },
+      {
+        "title": "Biden administration urges Senate to act amid looming rail worker strike | PBS News",
+        "url": "https://www.pbs.org/newshour/economy/biden-administration-urges-senate-to-act-amid-looming-rail-worker-strike",
+        "page_age": "December 1, 2022"
+      },
+      {
+        "title": "SMART-TD, BLET joint statement on rail embargo - SMART Union",
+        "url": "https://www.smart-union.org/smart-td-blet-joint-statement-on-rail-embargo/",
+        "page_age": "September 11, 2022"
+      },
+      {
+        "title": "2022 United States railroad labor dispute - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2022_United_States_railroad_labor_dispute",
+        "page_age": "August 25, 2025"
+      },
+      {
+        "title": "Large railroad labor unions say they will strike if quality of life is not addressed in new contract",
+        "url": "https://www.cnbc.com/2022/09/12/large-rail-labor-unions-move-closer-to-a-strike.html",
+        "page_age": "September 12, 2022"
+      },
+      {
+        "title": "Live updates: SMART-TD union acknowledges that no final rail agreement exists, despite move to block strike - World Socialist Web Site",
+        "url": "https://www.wsws.org/en/articles/2022/09/14/live-s14.html",
+        "page_age": null
+      },
+      {
+        "title": "Potential NJ Transit Strike: What SMART-TD Members Need to Know - SMART Union",
+        "url": "https://www.smart-union.org/potential-nj-transit-strike-what-smart-td-members-need-to-know/",
+        "page_age": "May 15, 2025"
+      },
+      {
+        "title": "strike Archives - SMART Union",
+        "url": "https://www.smart-union.org/tag/strike/",
+        "page_age": null
+      },
+      {
+        "title": "SMART-TD, BLET rail unions initiate steps to strike BNSF properties over new \u2018Hi-Viz\u2019 attendance policy punishing sick rail workers during the pandemic - SMART Union",
+        "url": "https://www.smart-union.org/smart-td-blet-rail-unions-initiate-steps-to-strike-bnsf-properties-over-new-hi-viz-attendance-policy-punishing-sick-rail-workers-during-the-pandemic/",
+        "page_age": "February 24, 2022"
+      },
+      {
+        "title": "Railroad strike: supply chain concerns grow as deadline nears",
+        "url": "https://www.nbcnews.com/news/amp/rcna47328",
+        "page_age": "September 13, 2022"
+      },
+      {
+        "title": "US train engineers union tries to whip up anti-Mexican hatred - World Socialist Web Site",
+        "url": "https://www.wsws.org/en/articles/2025/06/04/euzg-j04.html",
+        "page_age": null
+      },
+      {
+        "title": "BLET\u2019s LIRR members vote to authorize a strike at the right time and if needed; BLET-led coalition of rail unions, in an unusual move, call on the White House to establish a PEB | Brotherhood of Locomotive Engineers and Trainmen",
+        "url": "https://ble-t.org/news/blets-lirr-members-vote-to-authorize-a-strike-at-the-right-time-and-if-needed-blet-led-coalition-of-rail-unions-in-an-unusual-move-call-on-the-white-house-to-establish-a-peb/",
+        "page_age": null
+      },
+      {
+        "title": "Freight Railroads and Unions Reach Tentative Agreements, Strike Averted - Association of American Railroads",
+        "url": "https://www.aar.org/news/freight-railroads-and-unions-reach-tentative-agreements-strike-averted/",
+        "page_age": "September 21, 2022"
+      },
+      {
+        "title": "American Railway Union - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/American_Railway_Union",
+        "page_age": "1 month ago"
+      },
+      {
+        "title": "Railroad Unions - Organized Labor Since the 19th Century: A Research Guide - Research Guides at Library of Congress",
+        "url": "https://guides.loc.gov/organized-labor/railroads",
+        "page_age": null
+      },
+      {
+        "title": "How an arcane 96-year-old law stopped the rail strike | CNN Business",
+        "url": "https://www.cnn.com/2022/12/02/business/railway-labor-act-freight-railroad-strike/index.html",
+        "page_age": "December 2, 2022"
+      },
+      {
+        "title": "Association of American Railroads - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Association_of_American_Railroads",
+        "page_age": "November 18, 2025"
+      },
+      {
+        "title": "America\u2019s Railroads Are in Trouble\u2013With or Without a Strike | TIME",
+        "url": "https://time.com/6213399/railroad-strike-impact-trains/",
+        "page_age": "September 15, 2022"
+      },
+      {
+        "title": "The Pullman Strike of 1894 Michael Hannon (2010) Introduction",
+        "url": "https://librarycollections.law.umn.edu/documents/darrow/trialpdfs/Pullman_Strike.pdf",
+        "page_age": null
+      },
+      {
+        "title": "With unions aligned, timeline for rail strike and railroad emergency prep is now clear",
+        "url": "https://www.cnbc.com/amp/2022/11/23/with-unions-aligned-rail-strike-emergency-planning-timeline-is-clear.html",
+        "page_age": "November 23, 2022"
+      },
+      {
+        "title": "Great Railroad Strike of 1877 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Great_Railroad_Strike_of_1877",
+        "page_age": "November 14, 2025"
+      },
+      {
+        "title": "Eugene V. Debs & the American Railway Union Collection",
+        "url": "https://www.marxists.org/archive/debs/aru/index.htm",
+        "page_age": null
+      }
+    ],
+    "search_count": 0,
+    "time_seconds": 68.499764919281
+  },
+  "metrics": {
+    "exa_traceability": 100.0,
+    "exa_supported": 16,
+    "exa_tier_a": 72,
+    "exa_tier_a_pct": 65.45454545454545,
+    "exa_cost": 0.1834,
+    "claude_traceability": 100.0,
+    "claude_supported": 20,
+    "claude_tier_a": 22,
+    "claude_tier_a_pct": 44.0,
+    "claude_cost": 0.25
+  }
+}

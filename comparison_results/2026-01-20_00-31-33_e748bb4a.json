@@ -1,0 +1,1180 @@
+{
+  "timestamp": "2026-01-20T00:31:33.935801",
+  "query": "Are mass shootings increasing? Find FBI, CDC, and academic research data",
+  "query_category": "Trend Analysis",
+  "app_type": "general",
+  "webset_category": null,
+  "search_type": "neural",
+  "num_results": 10,
+  "exa": {
+    "analysis_text": "Based on my searches, I have found extensive information from FBI, CDC, and academic sources. However, the search results primarily contain excerpts and metadata rather than full quotes from the documents. Let me compile the analysis based on what I've found, noting that some claims will need to reference the documents directly even though I can't extract exact 30-word quotes from these excerpts.\n\n## 1. KEY FINDINGS\n\n### FBI Active Shooter Data\n\n**Claim:** FBI documented 61 active shooter incidents in 2021, representing a 52.5% increase from 2020.\n**Quote:** \"FBI data reports 61 active shooter incidents in the United States for 2021, a 52.5% increase from 2020\"\n**Source:** https://www.hsdl.org/c/2021-active-shooter/\n\n**Claim:** Active shooter incidents in 2021 were 96.8% higher than in 2017.\n**Quote:** \"61 active shooter incidents in the United States for 2021, a 52.5% increase from 2020 and a 96.8% increase from 2017\"\n**Source:** https://www.hsdl.org/c/2021-active-shooter/\n\n**Claim:** The FBI has tracked and published active shooter data spanning from 2000-2024 through annual reports.\n**Quote:** [Cannot extract exact quote from available excerpts]\n**Source:** https://www.fbi.gov/file-repository/reports-and-publications/active-shooter-incidents-2000-2018.pdf/view\n\n### CDC Firearm Violence Data\n\n**Claim:** CDC's Vital Signs report documented increases in firearm homicide and suicide rates from 2019-2020.\n**Quote:** [Full text not available in excerpts but title confirms] \"Changes in Firearm Homicide and Suicide Rates \u2014 United States, 2019\u20132020\"\n**Source:** https://www.cdc.gov/mmwr/volumes/71/wr/mm7119e1.htm\n\n**Claim:** Firearm homicide and suicide rates continued to increase through 2020-2021.\n**Quote:** [Title confirms continuing trend] \"Increases in Firearm Homicide and Suicide Rates \u2014 United States, 2020\u20132021\"\n**Source:** https://www.cdc.gov/mmwr/volumes/71/wr/mm7140a4.htm\n\n### School Shooting Trends\n\n**Claim:** School shootings in the United States reached the highest recorded levels according to 2024 research.\n**Quote:** [Title indicates finding] \"School Shootings in US Reach Highest Recorded Levels\"\n**Source:** https://jamanetwork.com/journals/jama/article-abstract/2816722\n\n**Claim:** School shootings increased more than 12-fold between 1970 and 2022.\n**Quote:** \"the number of school shootings annually increased more than 12 times\" [in 53 years leading to May 2022]\n**Source:** https://newswise.com/articles/study-quantifies-dramatic-rise-in-school-shootings-and-related-fatalities-since-1970\n\n**Claim:** The likelihood of children being a school shooting victim quadrupled since 1970.\n**Quote:** \"Researchers find likelihood of children being a school shooting victim quadrupled since 1970\"\n**Source:** https://facs.org/media-center/press-releases/2024/study-quantifies-dramatic-rise-in-school-shootings-and-related-fatalities-since-1970\n\n### Academic Research on Mass Shootings\n\n**Claim:** The American Journal of Surgery characterized mass shootings from 2013-2021 as \"a worsening American epidemic of death.\"\n**Quote:** [Exact title] \"Trends in mass shootings in the United States (2013\u20132021): A worsening American epidemic of death\"\n**Source:** https://www.americanjournalofsurgery.com/article/S0002-9610(23)00131-9/fulltext\n\n**Claim:** PLOS ONE research found evidence of contagion effects in mass killings and school shootings.\n**Quote:** [Cannot extract 30-word quote but title indicates finding] \"Contagion in Mass Killings and School Shootings\"\n**Source:** https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0117259\n\n**Claim:** National Institute of Justice funded comprehensive research documenting mass public shootings from 1976-2018.\n**Quote:** [Title indicates scope] \"The Nature, Trends, Correlates, and Prevention of Mass Public Shootings in America, 1976-2018\"\n**Source:** https://nij.ojp.gov/library/publications/nature-trends-correlates-and-prevention-mass-public-shootings-america-1976\n\n**Claim:** NIJ published a special report on public mass shootings research in December 2023.\n**Quote:** [Document title] \"Public Mass Shootings Research\"\n**Source:** https://www.ojp.gov/pdffiles1/nij/307401.pdf\n\n### Long-term Trends\n\n**Claim:** FBI's 20-year review examined active shooter incidents from 2000-2019.\n**Quote:** [Title indicates] \"Active Shooter Incidents 20-Year Review, 2000-2019\"\n**Source:** https://www.fbi.gov/file-repository/active-shooter-incidents-20-year-review-2000-2019-060121.pdf\n\n**Claim:** Research in Pediatrics examined school shooting patterns over 25 years from 1997-2022.\n**Quote:** [Title indicates timeframe] \"School Shootings in the United States: 1997\u20132022\"\n**Source:** https://publications.aap.org/pediatrics/article/153/4/e2023064311/196816/School-Shootings-in-the-United-States-1997-2022\n\n## 2. SOURCE QUALITY ASSESSMENT\n\n**High-Quality Government Sources:**\n- FBI reports are primary law enforcement data sources with consistent methodology\n- CDC/MMWR publications are peer-reviewed public health surveillance data\n- NIJ research represents rigorous academic work funded by Department of Justice\n\n**Peer-Reviewed Academic Sources:**\n- JAMA, JAMA Pediatrics, JAMA Network Open are top-tier medical journals\n- PLOS ONE is an established open-access peer-reviewed journal\n- American Journal of Surgery and Journal of American College of Surgeons are specialty journals\n- Pediatrics (AAP) is the leading pediatric medical journal\n\n**Methodological Considerations:**\n- Different sources use different definitions (e.g., \"active shooter\" vs \"mass shooting\" vs \"mass public shooting\")\n- FBI tracks \"active shooter incidents\" which may differ from casualty counts\n- Academic studies vary in inclusion criteria and timeframes\n- [INFERENCE - not directly stated in sources] Direct comparison across datasets may be problematic due to definitional differences\n\n## 3. GAPS OR CONTRADICTIONS\n\n**Definition Inconsistencies:**\n- FBI focuses on \"active shooter incidents\" (one or more individuals actively engaged in killing/attempting to kill)\n- Academic research varies in victim thresholds (4+ victims, 3+ victims, etc.)\n- School shootings include incidents on school grounds regardless of casualty count\n- No single standardized federal definition for \"mass shooting\"\n\n**Limited Detailed Quotes:**\nThe search results provided primarily document titles, abstracts, and metadata rather than full text access to specific statistical claims within the documents. Full PDFs exist but extractable quotes were limited.\n\n**Missing Information:**\n- Exact percentage increases from CDC firearm homicide data not quoted\n- Specific numerical comparisons across different time periods incomplete\n- Demographic breakdowns and geographic patterns not fully detailed in excerpts\n- Prevention effectiveness data not captured in these searches\n\n**Temporal Coverage Gaps:**\n- FBI has 2024 data released but specific findings not in excerpts\n- Some academic research ends at 2018-2022, missing most recent years\n- COVID-19 pandemic period (2020-2021) shows anomalous increases but longer-term context unclear\n\n## 4. RECOMMENDED NEXT STEPS\n\n**For Comprehensive Analysis:**\n1. Obtain full-text access to FBI active shooter reports for 2000-2024 to extract specific incident counts and trend data\n2. Review complete CDC Vital Signs reports and MMWR publications for exact firearm homicide/suicide rate changes\n3. Access NIJ-funded research databases and final reports for detailed mass shooting characteristics\n\n**For Clarifying Definitions:**\n4. Compare methodological approaches across FBI, CDC, Gun Violence Archive, and academic databases\n5. Identify which definition best answers the specific research question being asked\n6. Consider analyzing trends separately for different incident types (school, workplace, public space, etc.)\n\n**For Understanding Causation:**\n7. Review research on contagion effects and media coverage relationships\n8. Examine state-level policy variation and correlations with incident rates\n9. Investigate demographic, mental health, and socioeconomic correlates from NIJ studies\n\n**For Current Data:**\n10. Access 2023-2024 FBI reports that have been published but not fully excerpted here\n11. Review latest CDC firearm injury surveillance data\n12. Check for recent meta-analyses or systematic reviews published in 2024-2025",
+    "sources": [
+      {
+        "title": "Welcome to fbi.gov",
+        "url": "https://www.fbi.gov/?came_from=https%3A//www.fbi.gov/about/partnerships/office-of-partner-engagement-1/active-shooter-incidents-graphics",
+        "published": "2022-03-31T00:00:00.000Z",
+        "excerpt": "FBI \u2014Federal Bureau of InvestigationWelcome to fbi.gov \u2014FBI\n[An official website of the United States government.Here'showyouknow] \n![] \n##### Official websites use**.gov**\nA**.gov**website belongs to an official government organization in the United States.\n![] \n##### Secure**.gov**websites use HTTPS\nA lock () or*https://*means you've safely connected to the**.gov**website. Share sensitive information only on official, secure websites.\n# Welcome to fbi.gov\n[**] \n[FBI] \n[**] \n[![FBI Logo]] \n[**]"
+      },
+      {
+        "title": "FBI Releases 2024 Active Shooter Incidents in the United States Report",
+        "url": "https://www.fbi.gov/news/press-releases/fbi-releases-2024-active-shooter-incidents-in-the-united-states-report",
+        "published": "2025-05-16T00:00:00.000Z",
+        "excerpt": "FBI Releases 2024 Active Shooter Incidents in the United States Report \u2014FBI[] \n[An official website of the United States government.Here'showyouknow] \n![] \n##### Official websites use**.gov**\nA**.gov**website belongs to an official government organization in the United States.\n![] \n##### Secure**.gov**websites use HTTPS\nA lock () or*https://*means you've safely connected to the**.gov**website. Share sensitive information only on official, secure websites.\n[![Federal Bureau of Investigation Logo]"
+      },
+      {
+        "title": "Active Shooter Incidents in the United States in 2024",
+        "url": "https://www.fbi.gov/file-repository/reports-and-publications/2024-active-shooter-report/view",
+        "published": "2025-06-02T00:00:00.000Z",
+        "excerpt": "Active Shooter Incidents in the United States in 2024 \u2014FBI[] \n[An official website of the United States government.Here'showyouknow] \n![] \n##### Official websites use**.gov**\nA**.gov**website belongs to an official government organization in the United States.\n![] \n##### Secure**.gov**websites use HTTPS\nA lock () or*https://*means you've safely connected to the**.gov**website. Share sensitive information only on official, secure websites.\n[![Federal Bureau of Investigation Logo] \nFBIFederal\nBure"
+      },
+      {
+        "title": "",
+        "url": "https://www.fbi.gov/file-repository/2023-active-shooter-report-062124.pdf",
+        "published": null,
+        "excerpt": "U.S. Department of Justice\nFederal Bureau of Investigation\nJUNE 2024\nACTIVE SHOOTER \nINCIDENTS IN THE \nUNITED STATES\n2023\nACTIVE SHOOTER INCIDENTS IN THE UNITED STATES 2023\ni\nAcknowledgments\nThis report was written by the Federal Bureau of Investigation (FBI) in collaboration \nwith the Advanced Law Enforcement Rapid Response Training (ALERRT) Center at \nTexas State University.1\nThis report is in the public domain. Authorization to reproduce this publication in \nwhole or in part is granted. The a"
+      },
+      {
+        "title": "",
+        "url": "https://www.fbi.gov/file-repository/active-shooter-incidents-in-the-us-2021-052422.pdf",
+        "published": "2023-06-02T00:00:00.000Z",
+        "excerpt": "U.S. Department of Justice\nFederal Bureau of Investigation\nMAY 2022\nACTIVE SHOOTER INCIDENTS\nIN THE UNITED STATES IN\n2021\nACTIVE SHOOTER INCIDENTS IN THE UNITED STATES IN 2021\n1\nAcknowledgements\nThis report was written by the FBI Office of Partner Engagement in collaboration with \nthe FBI Criminal Investigative Division, the FBI Critical Incident Response Group, and \nthe Advanced Law Enforcement Rapid Response Training (ALERRT) Center at Texas \nState University.1\nThis report is in the public dom"
+      },
+      {
+        "title": "",
+        "url": "https://www.fbi.gov/file-repository/reports-and-publications/2023-active-shooter-report-062124.pdf/view",
+        "published": "2024-06-20T00:00:00.000Z",
+        "excerpt": "[An official website of the United States government. Here's\u00a0how\u00a0you\u00a0know] \n\n##### Official websites use **.gov**\n\nA **.gov** website belongs to an official government organization in the United States.\n\n##### Secure **.gov** websites use HTTPS\n\nA lock () or _https://_ means you've safely connected to the **.gov** website. Share sensitive information only on official, secure websites.\n\n# Active Shooter Incidents in the United States in 2023\n\n[Documents] \n\nDownload file\n\n[2023-active-shooter-repo"
+      },
+      {
+        "title": "2000 to 2018 Active Shooter Incidents | Federal Bureau of Investigation",
+        "url": "https://www.fbi.gov/file-repository/reports-and-publications/active-shooter-incidents-2000-2018.pdf/view",
+        "published": "2016-09-08T00:00:00.000Z",
+        "excerpt": "[An official website of the United States government. Here's\u00a0how\u00a0you\u00a0know] \n\n##### Official websites use **.gov**\n\nA **.gov** website belongs to an official government organization in the United States.\n\n##### Secure **.gov** websites use HTTPS\n\nA lock () or _https://_ means you've safely connected to the **.gov** website. Share sensitive information only on official, secure websites.\n\n# 2000 to 2018 Active Shooter Incidents\n\n[Documents] \n\n- [Counterintelligence] \n\nDownload file\n\n[active-shooter"
+      },
+      {
+        "title": "",
+        "url": "https://www.fbi.gov/file-repository/reports-and-publications/active-shooter-incidents-in-the-us-2019-042820.pdf",
+        "published": "2020-04-27T00:00:00.000Z",
+        "excerpt": "U.S. Department of Justice\nFederal Bureau of Investigation\nActive Shooter Incidents in the \nUnited States in 2019\nApril 2020\n2\nIntroduction\nThis report was written by the FBI\u2019s Office of Partner Engagement in collaboration with the FBI\u2019s Criminal \nInvestigative Division, the FBI\u2019s Critical Incident Response Group, and the Advanced Law Enforcement \nRapid Response Training (ALERRT) Center at Texas State University.\nIt supplements four previous publications: A Study of Active Shooter Incidents in t"
+      },
+      {
+        "title": "FBI Designates 61 Active Shooter Incidents in 2021 | Federal Bureau of Investigation",
+        "url": "https://www.fbi.gov/news/press-releases/fbi-designates-61-active-shooter-incidents-in-2021",
+        "published": "2022-05-23T00:00:00.000Z",
+        "excerpt": "[An official website of the United States government. Here's\u00a0how\u00a0you\u00a0know] \n\n![] \n\n##### Official websites use **.gov**\n\nA **.gov** website belongs to an official government organization in the United States.\n\n![] \n\n##### Secure **.gov** websites use HTTPS\n\nA lock () or _https://_ means you've safely connected to the **.gov** website. Share sensitive information only on official, secure websites.\n\n# FBI Designates 61 Active Shooter Incidents in 2021\n\n[News] \n\n- [Stories] \n- [News Blog] \n- [Video"
+      },
+      {
+        "title": "Active Shooter Incidents in the United States in 2022 | Federal Bureau of Investigation",
+        "url": "https://www.fbi.gov/file-repository/active-shooter-incidents-in-the-us-2022-042623.pdf/view",
+        "published": "2023-04-25T00:00:00.000Z",
+        "excerpt": "[An official website of the United States government. Here's\u00a0how\u00a0you\u00a0know] \n\n![] \n\n##### Official websites use **.gov**\n\nA **.gov** website belongs to an official government organization in the United States.\n\n![] \n\n##### Secure **.gov** websites use HTTPS\n\nA lock () or _https://_ means you've safely connected to the **.gov** website. Share sensitive information only on official, secure websites.\n\n# Active Shooter Incidents in the United States in 2022\n\n[Documents] \n\nDownload file\n\n[active-shoot"
+      },
+      {
+        "title": "Data Trends",
+        "url": "https://www.cdc.gov/firearm-violence/php/data-trends/index.html",
+        "published": "2024-07-11T00:00:00.000Z",
+        "excerpt": "Data Trends | Firearm Injury and Death Prevention | CDC\n[Skip directly to site content] [Skip directly to search] \n![] An official website of the United States government\n[Here's how you know] \n![] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA**lock**(**) or**https://**means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.\n[!"
+      },
+      {
+        "title": "Firearm Homicide Trends",
+        "url": "https://www.cdc.gov/firearm-violence/php/data-trends/firearm-homicide-trends.html",
+        "published": "2024-08-19T00:00:00.000Z",
+        "excerpt": "Firearm Homicide Trends | Firearm Injury and Death Prevention | CDC\n[Skip directly to site content] [Skip directly to search] \n![] An official website of the United States government\n[Here's how you know] \n![] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA**lock**(**) or**https://**means you've safely connected to the .gov website. Share sensitive information only on official, secure "
+      },
+      {
+        "title": "",
+        "url": "https://www.cdc.gov/mmwr/volumes/73/wr/pdfs/mm7346a4-H.pdf",
+        "published": "2024-11-20T00:00:00.000Z",
+        "excerpt": "Morbidity and Mortality Weekly Report \n1064\nU.S. Department of Health and Human Services | Centers for Disease Control and Prevention | MMWR | November 21, 2024 | Vol. 73 | No. 46\nNotes from the Field\nTrends in Emergency Department Visits for \nFirearm Injuries \u2014 United States, January 2018\u2013\nDecember 2023\nKristin M. Holland, PhD1; Yushiuan Chen, MS1; \nMarissa L. Zwald, PhD1; Steven A. Sumner, MD1; \nKatherine A. Fowler, PhD1; Michael Sheppard, MS2; \nThomas R. Simon, PhD1\nResearch has highlighted r"
+      },
+      {
+        "title": "Notes from the Field:  Trends in Emergency Department Visits for Firearm Injuries \u2014 United States, January 2018\u2013December 2023",
+        "url": "https://www.cdc.gov/mmwr/volumes/73/wr/mm7346a4.htm",
+        "published": "2024-11-21T17:31:24.000Z",
+        "excerpt": "Notes from the Field: Trends in Emergency Department Visits for Firearm Injuries \u2014United States, January 2018\u2013December 2023 | MMWR\n[Skip directly to site content] [Skip directly to search] \n[Espa\u00f1ol] |[Other Languages] \n![] An official website of the United States governmentHere's how you know\n![] \n**Official websites use .gov**\nA .gov website belongs to an official government organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA lock () or https:// means you've safely con"
+      },
+      {
+        "title": "Notes from the Field : Increases in Firearm Homicide and Suicide Rates \u2014 United States, 2020\u20132021",
+        "url": "https://www.cdc.gov/mmwr/volumes/71/wr/mm7140a4.htm?s_cid=mm7140a4_wb",
+        "published": "2022-10-06T00:00:00.000Z",
+        "excerpt": "Notes from the Field: Increases in Firearm Homicide and Suicide Rates \u2014United States, 2020\u20132021 | MMWR\n[Skip directly to site content] [Skip directly to search] \n[Espa\u00f1ol] |[Other Languages] \n![] An official website of the United States governmentHere's how you know\n![] \n**Official websites use .gov**\nA .gov website belongs to an official government organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA lock () or https:// means you've safely connected to the .gov website. "
+      },
+      {
+        "title": "Site Index | Firearm Injury and Death Prevention | CDC",
+        "url": "https://www.cdc.gov/firearm-violence/site.html",
+        "published": "2024-04-07T00:00:00.000Z",
+        "excerpt": "Site Index | Firearm Injury and Death Prevention | CDC\n[Skip directly to site content] [Skip directly to search] \n![] An official website of the United States government\n[Here's how you know] \n![] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA**lock**(**) or**https://**means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.\n[!["
+      },
+      {
+        "title": "Surveillance for Violent Deaths \u2014 National Violent Death Reporting System, 50 States, the District of Columbia, and Puerto Rico, 2022",
+        "url": "https://www.cdc.gov/mmwr/volumes/74/ss/ss7405a1.htm?s_cid=ss7405a1_w",
+        "published": "2025-06-10T12:14:13.000Z",
+        "excerpt": "Surveillance for Violent Deaths \u2014National Violent Death Reporting System, 50 States, the District of Columbia, and Puerto Rico, 2022 | MMWR\n[Skip directly to site content] [Skip directly to search] \n[Espa\u00f1ol] |[Other Languages] \n![] An official website of the United States governmentHere's how you know\n![] \n**Official websites use .gov**\nA .gov website belongs to an official government organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA lock () or https:// means you've s"
+      },
+      {
+        "title": "Vital Signs : Changes in Firearm Homicide and Suicide Rates \u2014 United States, 2019\u20132020",
+        "url": "https://www.cdc.gov/mmwr/volumes/71/wr/mm7119e1.htm?s_cid=mm7119e1_w",
+        "published": "2022-05-12T00:00:00.000Z",
+        "excerpt": "Vital Signs: Changes in Firearm Homicide and Suicide Rates \u2014United States, 2019\u20132020 | MMWR\n[Skip directly to site content] [Skip directly to search] \n[Espa\u00f1ol] |[Other Languages] \n![] An official website of the United States governmentHere's how you know\n![] \n**Official websites use .gov**\nA .gov website belongs to an official government organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA lock () or https:// means you've safely connected to the .gov website. Share sensi"
+      },
+      {
+        "title": "Firearm Deaths Grow, Disparities Widen | VitalSigns | CDC",
+        "url": "https://www.cdc.gov/vitalsigns/firearm-deaths/index.html",
+        "published": "2022-06-06T00:00:00.000Z",
+        "excerpt": "Firearm Deaths Grow, Disparities Widen | VitalSigns | CDC\n[Skip directly to site content] [Skip directly to search] \n[Espa\u00f1ol] |[Other Languages] \n![] An official website of the United States governmentHere's how you know\n![] \n**Official websites use .gov**\nA .gov website belongs to an official government organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA lock () or https:// means you've safely connected to the .gov website. Share sensitive information only on official,"
+      },
+      {
+        "title": "",
+        "url": "https://www.cdc.gov/mmwr/volumes/71/wr/pdfs/mm7119e1-H.pdf",
+        "published": "2022-05-11T00:00:00.000Z",
+        "excerpt": "Morbidity and Mortality Weekly Report \n656 MMWR / May 13, 2022 / Vol. 71 / No. 19 US Department of Health and Human Services/Centers for Disease Control and Prevention\nVital Signs: Changes in Firearm Homicide and Suicide Rates \u2014 \nUnited States, 2019\u20132020\nScott R. Kegler, PhD1; Thomas R. Simon, PhD2; Marissa L. Zwald, PhD2; May S. Chen, PhD2; James A. Mercy, PhD2; Christopher M. Jones, PharmD, DrPH3; \nMelissa C. Mercado-Crespo, PhD2; Janet M. Blair, PhD2; Deborah M. Stone, ScD1; Phyllis G. Ottley"
+      },
+      {
+        "title": "The Nature, Trends, Correlates, and Prevention of Mass Public Shootings in America, 1976-2018",
+        "url": "https://nij.ojp.gov/library/publications/nature-trends-correlates-and-prevention-mass-public-shootings-america-1976",
+        "published": "2021-12-01T00:00:00.000Z",
+        "excerpt": "The Nature, Trends, Correlates, and Prevention of Mass Public Shootings in America, 1976-2018 | National Institute of Justice[Skip to main content] \n![U.S. flag] \nAn official website of the United States government, Department of Justice.\nHere's how you know\nHere's how you know\n![] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA**lock**(LockA locked padlock) or**https://**means you\u2019ve "
+      },
+      {
+        "title": "School Shootings in US Reach Highest Recorded Levels",
+        "url": "https://jamanetwork.com/journals/jama/article-abstract/2816722",
+        "published": "2024-04-23T00:00:00.000Z",
+        "excerpt": "[\\[Skip to Navigation\\]] \n\n[X] [Facebook] \n\n[LinkedIn] \n\nMore\n\n[This Issue] \n\nViews4,192\n\nCitations0\n\nView Metrics\n\n- Download PDF\n- Full Text\n- Share\n\nXFacebookEmailLinkedIn\n\n- CiteThis\n- Permissions\n- Comment\n\nMedical News in Brief\n\nMarch 29, 2024\n\n# School Shootings in US Reach Highest Recorded Levels\n\n[Emily\u00a0Harris] \n\n[Article Information] \n\nJAMA. 2024;331(16):1354. doi:10.1001/jama.2024.3706\n\n[_visual abstract icon_ \\\nVisual\\\n\\\nAbstract] [_editorial comment icon_ \\\nEditorial\\\n\\\nComment] [_r"
+      },
+      {
+        "title": "The Nature, Trends, Correlates, and Prevention of Mass Public Shootings in America, 1976-2018",
+        "url": "https://www.ojp.gov/library/publications/nature-trends-correlates-and-prevention-mass-public-shootings-america-1976",
+        "published": "2021-12-01T00:00:00.000Z",
+        "excerpt": "The Nature, Trends, Correlates, and Prevention of Mass Public Shootings in America, 1976-2018 | Office of Justice Programs[Skip to main content] \n![U.S. flag] \nAn official website of the United States government, Department of Justice.\nHere's how you know\nHere's how you know\n![] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA**lock**(LockA locked padlock) or**https://**means you\u2019ve saf"
+      },
+      {
+        "title": "What have we learned from the time trend of mass shootings in the U.S.?",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0204722&amp;utm_source=mandiner&amp;utm_medium=link&amp;utm_campaign=mandiner_202111",
+        "published": "2018-10-18T00:00:00.000Z",
+        "excerpt": "Browse Subject Areas\n\n?\n\nClick through the PLOS taxonomy to find articles in your field.\n\nFor more information about PLOS Subject Areas, click\n[here].\n\n- [Article] \n- [Authors] \n- [Metrics] \n- [Comments] \n- Media Coverage\n\n- [Reader Comments] \n- [Figures] \n\n## Figures\n\n![Fig 1] \n\n![Table 1] \n\n![Fig 2] \n\n![Table 2] \n\n![Fig 3] \n\n## Abstract\n\nLittle is known regarding the time trend of mass shootings and associated risk factors. In the current study, we intended to explore the time trend and releva"
+      },
+      {
+        "title": "School Shootings in the United States: 1997\u20132022",
+        "url": "https://publications.aap.org/pediatrics/article/153/4/e2023064311/196816/School-Shootings-in-the-United-States-1997-2022",
+        "published": "2024-04-01T00:00:00.000Z",
+        "excerpt": "[Skip to Main Content] \n\n[Disclaimer \u00bbAdvertising] \n\n[_Search__Close_] \n\n[Shopping Cart] \n\n[_User Tools Dropdown__Close User Tools Dropdown_] \n\n[shopAAP] \n\n[Shopping Cart] \n\n[Create Account] \n\n[Login] \n\n[Explore AAP_Close_] \n\n- [AAP Home] \n- [shopAAP] \n- [PediaLink] \n- [HealthyChildren.org] \n\nheader search\n\nsearch inputSearch input auto suggest\n\nfilter your searchAll PublicationsAll JournalsPediatricsHospital PediatricsPediatrics In ReviewNeoReviewsAAP Grand RoundsAAP NewsAll AAP Sites\n\n[Search]"
+      },
+      {
+        "title": "Trends in mass shootings in the United States (2013\u20132021): A worsening American epidemic of death",
+        "url": "https://www.americanjournalofsurgery.com/article/S0002-9610(23)00131-9/fulltext",
+        "published": "2023-08-01T00:00:00.000Z",
+        "excerpt": "[Skip to Main Content] [Skip to Main Menu] \n\nADVERTISEMENT\n\nSCROLL TO CONTINUE WITH CONTENT\n\nOpen GPT ConsoleOpen Oracle KeywordsRefresh Values\n\n| Property | Value |\n| --- | --- |\n| Status |\n| Version |\n| Ad File |\n| Disable Ads Flag |\n| Environment |\n| Moat Init |\n| Moat Ready |\n| Contextual Ready |\n| Contextual URL |\n| Contextual Initial Segments |\n| Contextual Used Segments |\n| AdUnit |\n| SubAdUnit |\n| Custom Targeting |\n| Ad Events |\n| Invalid Ad Sizes |\n\n[Download PDFDownload PDF] \n\nOutline"
+      },
+      {
+        "title": "Characterization of Mass Shootings by State, 2014-2022",
+        "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2807638",
+        "published": "2023-07-03T00:00:00.000Z",
+        "excerpt": "[\\[Skip to Navigation\\]] \n\n[_full text icon_ \\\nFull Text] [_contents icon_ \\\nContents] [_figure icon_ \\\nFigures /\\\n\\\nTables] [_multimedia icon_ \\\nMultimedia] [_attach icon_ \\\nSupplemental\\\n\\\nContent] [_references icon_ \\\nReferences] [_related icon_ \\\nRelated] [_comments icon_ \\\nComments] \n\nDownload PDF\n\nComment\n\n[Top of Article] \n\n- [Introduction] \n- [Methods] \n- [Results] \n- [Discussion] \n- [Article Information] \n- [References] \n\nFigure. \u00a0Cumulative Incidence of Mass Shootings, 2014-2022\n\n[View"
+      },
+      {
+        "title": "",
+        "url": "https://www.ojp.gov/pdffiles1/nij/307401.pdf",
+        "published": "2023-08-30T00:00:00.000Z",
+        "excerpt": "DECEMBER 2023 \nU.S. Department of Justice \nOffice of Justice Programs \nNational Institute of Justice \nNATIONAL INSTITUTE OF JUSTICE \nSPECIAL REPORT\nPublic Mass Shootings Research \nU.S. Department of Justice \nOffice of Justice Programs \n810 Seventh St. N.W. \nWashington, DC 20531 \nNancy La Vigne, Ph.D. \nDirector, National Institute of Justice \nThis and other publications and products of the National Institute of Justice can be found at: \nNational Institute of Justice \nStrengthen Science \u2022 Advance "
+      },
+      {
+        "title": "Epidemiology of Mass Shootings in the United States",
+        "url": "https://www.annualreviews.org/content/journals/10.1146/annurev-clinpsy-081122-010256",
+        "published": "2024-07-12T00:00:00.000Z",
+        "excerpt": "We use [cookies] to track usage and preferences.I Understand\n\n1932\n\n### [Annual Review of Clinical Psychology] \n\n[**Volume 20, 2024**] \n\n#### Review Article\n\n#### Open Access\n\n# Epidemiology of Mass Shootings in the United States\n\n- [Jillian K. Peterson] 1, [James A. Densley] 2, [Molly Hauf] 3\u00a0and [Jack Moldenhauer] 4\n- [View Affiliations\\\nHide Affiliations] \n\n1Department of Criminology and Criminal Justice, Hamline University, Saint Paul, Minnesota, USA; email: [jpeterson68@hamline.edu] 2School"
+      },
+      {
+        "title": "The Nature, Trends, Correlates, and Prevention of Mass Public Shootings in America, 1976-2020",
+        "url": "https://cssh.northeastern.edu/crj/the-nature-trends-correlates-and-prevention-of-mass-public-shootings-in-america-1976-2020/",
+        "published": "2025-02-04T00:00:00.000Z",
+        "excerpt": "[Skip to content] \n\n[Connect] [Stories] \n\n[All Stories] 02.04.25\n\n# The Nature, Trends, Correlates, and Prevention of Mass Public Shootings in America, 1976-2020\n\n## Project Summary\n\nThis was a three-year NIJ funded project to create a database of public mass shootings back to 1976 and perform a series of analyses using the data.\n\n## Project Description\n\nAfter creating a comprehensive database of public mass shootings with at least four victims fatally shot, several subprojects we accomplished: "
+      },
+      {
+        "title": "Active Shooter Incidents in the United States in 2024",
+        "url": "https://www.fbi.gov/file-repository/reports-and-publications/2024-active-shooter-report/view",
+        "published": "2025-06-02T00:00:00.000Z",
+        "excerpt": "Active Shooter Incidents in the United States in 2024 \u2014FBI[] \n[An official website of the United States government.Here'showyouknow] \n![] \n##### Official websites use**.gov**\nA**.gov**website belongs to an official government organization in the United States.\n![] \n##### Secure**.gov**websites use HTTPS\nA lock () or*https://*means you've safely connected to the**.gov**website. Share sensitive information only on official, secure websites.\n[![Federal Bureau of Investigation Logo] \nFBIFederal\nBure"
+      },
+      {
+        "title": "FBI Releases 2024 Active Shooter Incidents in the United States Report",
+        "url": "https://www.fbi.gov/news/press-releases/fbi-releases-2024-active-shooter-incidents-in-the-united-states-report",
+        "published": "2025-05-16T00:00:00.000Z",
+        "excerpt": "FBI Releases 2024 Active Shooter Incidents in the United States Report \u2014FBI[] \n[An official website of the United States government.Here'showyouknow] \n![] \n##### Official websites use**.gov**\nA**.gov**website belongs to an official government organization in the United States.\n![] \n##### Secure**.gov**websites use HTTPS\nA lock () or*https://*means you've safely connected to the**.gov**website. Share sensitive information only on official, secure websites.\n[![Federal Bureau of Investigation Logo]"
+      },
+      {
+        "title": "",
+        "url": "https://www.fbi.gov/file-repository/2023-active-shooter-report-062124.pdf",
+        "published": null,
+        "excerpt": "U.S. Department of Justice\nFederal Bureau of Investigation\nJUNE 2024\nACTIVE SHOOTER \nINCIDENTS IN THE \nUNITED STATES\n2023\nACTIVE SHOOTER INCIDENTS IN THE UNITED STATES 2023\ni\nAcknowledgments\nThis report was written by the Federal Bureau of Investigation (FBI) in collaboration \nwith the Advanced Law Enforcement Rapid Response Training (ALERRT) Center at \nTexas State University.1\nThis report is in the public domain. Authorization to reproduce this publication in \nwhole or in part is granted. The a"
+      },
+      {
+        "title": "",
+        "url": "https://www.fbi.gov/file-repository/reports-and-publications/2023-active-shooter-report-062124.pdf/view",
+        "published": "2024-06-20T00:00:00.000Z",
+        "excerpt": "[An official website of the United States government. Here's\u00a0how\u00a0you\u00a0know] \n\n##### Official websites use **.gov**\n\nA **.gov** website belongs to an official government organization in the United States.\n\n##### Secure **.gov** websites use HTTPS\n\nA lock () or _https://_ means you've safely connected to the **.gov** website. Share sensitive information only on official, secure websites.\n\n# Active Shooter Incidents in the United States in 2023\n\n[Documents] \n\nDownload file\n\n[2023-active-shooter-repo"
+      },
+      {
+        "title": "",
+        "url": "https://www.fbi.gov/file-repository/active-shooter-incidents-in-the-us-2021-052422.pdf",
+        "published": "2023-06-02T00:00:00.000Z",
+        "excerpt": "U.S. Department of Justice\nFederal Bureau of Investigation\nMAY 2022\nACTIVE SHOOTER INCIDENTS\nIN THE UNITED STATES IN\n2021\nACTIVE SHOOTER INCIDENTS IN THE UNITED STATES IN 2021\n1\nAcknowledgements\nThis report was written by the FBI Office of Partner Engagement in collaboration with \nthe FBI Criminal Investigative Division, the FBI Critical Incident Response Group, and \nthe Advanced Law Enforcement Rapid Response Training (ALERRT) Center at Texas \nState University.1\nThis report is in the public dom"
+      },
+      {
+        "title": "Active Shooter Incidents in the United States in 2022 | Federal Bureau of Investigation",
+        "url": "https://www.fbi.gov/file-repository/reports-and-publications/active-shooter-incidents-in-the-us-2022-042623.pdf/view",
+        "published": "2023-04-25T00:00:00.000Z",
+        "excerpt": "[An official website of the United States government. Here's\u00a0how\u00a0you\u00a0know] \n\n##### Official websites use **.gov**\n\nA **.gov** website belongs to an official government organization in the United States.\n\n##### Secure **.gov** websites use HTTPS\n\nA lock () or _https://_ means you've safely connected to the **.gov** website. Share sensitive information only on official, secure websites.\n\n# Active Shooter Incidents in the United States in 2022\n\n[Documents] \n\nDownload file\n\n[active-shooter-incidents"
+      },
+      {
+        "title": "2000 to 2018 Active Shooter Incidents | Federal Bureau of Investigation",
+        "url": "https://www.fbi.gov/file-repository/reports-and-publications/active-shooter-incidents-2000-2018.pdf/view",
+        "published": "2016-09-08T00:00:00.000Z",
+        "excerpt": "[An official website of the United States government. Here's\u00a0how\u00a0you\u00a0know] \n\n##### Official websites use **.gov**\n\nA **.gov** website belongs to an official government organization in the United States.\n\n##### Secure **.gov** websites use HTTPS\n\nA lock () or _https://_ means you've safely connected to the **.gov** website. Share sensitive information only on official, secure websites.\n\n# 2000 to 2018 Active Shooter Incidents\n\n[Documents] \n\n- [Counterintelligence] \n\nDownload file\n\n[active-shooter"
+      },
+      {
+        "title": "Active Shooter Incidents in the United States in 2021 | Federal Bureau of Investigation",
+        "url": "https://www.fbi.gov/file-repository/reports-and-publications/active-shooter-incidents-in-the-us-2021-052422.pdf/view",
+        "published": "2022-05-19T00:00:00.000Z",
+        "excerpt": "[An official website of the United States government. Here's\u00a0how\u00a0you\u00a0know] \n\n##### Official websites use **.gov**\n\nA **.gov** website belongs to an official government organization in the United States.\n\n##### Secure **.gov** websites use HTTPS\n\nA lock () or _https://_ means you've safely connected to the **.gov** website. Share sensitive information only on official, secure websites.\n\n# Active Shooter Incidents in the United States in 2021\n\n[Documents] \n\nDownload file\n\n[active-shooter-incidents"
+      },
+      {
+        "title": "",
+        "url": "https://www.fbi.gov/file-repository/reports-and-publications/active-shooter-incidents-in-the-us-2019-042820.pdf",
+        "published": "2020-04-27T00:00:00.000Z",
+        "excerpt": "U.S. Department of Justice\nFederal Bureau of Investigation\nActive Shooter Incidents in the \nUnited States in 2019\nApril 2020\n2\nIntroduction\nThis report was written by the FBI\u2019s Office of Partner Engagement in collaboration with the FBI\u2019s Criminal \nInvestigative Division, the FBI\u2019s Critical Incident Response Group, and the Advanced Law Enforcement \nRapid Response Training (ALERRT) Center at Texas State University.\nIt supplements four previous publications: A Study of Active Shooter Incidents in t"
+      },
+      {
+        "title": "Active Shooter Incidents in the United States in 2020 | Federal Bureau of Investigation",
+        "url": "https://www.fbi.gov/file-repository/reports-and-publications/active-shooter-incidents-in-the-us-2020-070121.pdf/view",
+        "published": "2021-07-01T00:00:00.000Z",
+        "excerpt": "[An official website of the United States government. Here's\u00a0how\u00a0you\u00a0know] \n\n##### Official websites use **.gov**\n\nA **.gov** website belongs to an official government organization in the United States.\n\n##### Secure **.gov** websites use HTTPS\n\nA lock () or _https://_ means you've safely connected to the **.gov** website. Share sensitive information only on official, secure websites.\n\n# Active Shooter Incidents in the United States in 2020\n\n[Documents] \n\n- [Counterintelligence] \n\nDownload file\n"
+      },
+      {
+        "title": "",
+        "url": "https://www.fbi.gov/file-repository/active-shooter-incidents-in-the-us-2021-052422.pdf",
+        "published": "2023-06-02T00:00:00.000Z",
+        "excerpt": "U.S. Department of Justice\nFederal Bureau of Investigation\nMAY 2022\nACTIVE SHOOTER INCIDENTS\nIN THE UNITED STATES IN\n2021\nACTIVE SHOOTER INCIDENTS IN THE UNITED STATES IN 2021\n1\nAcknowledgements\nThis report was written by the FBI Office of Partner Engagement in collaboration with \nthe FBI Criminal Investigative Division, the FBI Critical Incident Response Group, and \nthe Advanced Law Enforcement Rapid Response Training (ALERRT) Center at Texas \nState University.1\nThis report is in the public dom"
+      },
+      {
+        "title": "FBI Designates 61 Active Shooter Incidents in 2021 | Federal Bureau of Investigation",
+        "url": "https://www.fbi.gov/news/press-releases/fbi-designates-61-active-shooter-incidents-in-2021",
+        "published": "2022-05-23T00:00:00.000Z",
+        "excerpt": "[An official website of the United States government. Here's\u00a0how\u00a0you\u00a0know] \n\n![] \n\n##### Official websites use **.gov**\n\nA **.gov** website belongs to an official government organization in the United States.\n\n![] \n\n##### Secure **.gov** websites use HTTPS\n\nA lock () or _https://_ means you've safely connected to the **.gov** website. Share sensitive information only on official, secure websites.\n\n# FBI Designates 61 Active Shooter Incidents in 2021\n\n[News] \n\n- [Stories] \n- [News Blog] \n- [Video"
+      },
+      {
+        "title": "Active Shooter Incidents in the United States in 2021 | Federal Bureau of Investigation",
+        "url": "https://www.fbi.gov/file-repository/reports-and-publications/active-shooter-incidents-in-the-us-2021-052422.pdf/view",
+        "published": "2022-05-19T00:00:00.000Z",
+        "excerpt": "[An official website of the United States government. Here's\u00a0how\u00a0you\u00a0know] \n\n##### Official websites use **.gov**\n\nA **.gov** website belongs to an official government organization in the United States.\n\n##### Secure **.gov** websites use HTTPS\n\nA lock () or _https://_ means you've safely connected to the **.gov** website. Share sensitive information only on official, secure websites.\n\n# Active Shooter Incidents in the United States in 2021\n\n[Documents] \n\nDownload file\n\n[active-shooter-incidents"
+      },
+      {
+        "title": "",
+        "url": "https://www.fbi.gov/file-repository/active-shooter-incidents-in-the-us-2020-070121.pdf",
+        "published": "2022-10-14T00:00:00.000Z",
+        "excerpt": "U.S. Department of Justice\nFederal Bureau of Investigation\nActive Shooter Incidents in the \nUnited States in 2020\nJuly 2021\nActive Shooter Incidents in the United States in 2020 1\nThis report was written by the FBI Office of Partner Engagement in collaboration with the FBI \nCriminal Investigative Division, the FBI Critical Incident Response Group, and the Advanced Law \nEnforcement Rapid Response Training (ALERRT) Center at Texas State University.1\nThis report is in the public domain. Authorizati"
+      },
+      {
+        "title": "Active Shooter Incidents in the United States in 2024",
+        "url": "https://www.fbi.gov/file-repository/reports-and-publications/2024-active-shooter-report/view",
+        "published": "2025-06-02T00:00:00.000Z",
+        "excerpt": "Active Shooter Incidents in the United States in 2024 \u2014FBI[] \n[An official website of the United States government.Here'showyouknow] \n![] \n##### Official websites use**.gov**\nA**.gov**website belongs to an official government organization in the United States.\n![] \n##### Secure**.gov**websites use HTTPS\nA lock () or*https://*means you've safely connected to the**.gov**website. Share sensitive information only on official, secure websites.\n[![Federal Bureau of Investigation Logo] \nFBIFederal\nBure"
+      },
+      {
+        "title": "FBI Report: 2021 Active Shooter Incidents",
+        "url": "https://www.hsdl.org/c/2021-active-shooter/",
+        "published": "2022-05-24T00:00:00.000Z",
+        "excerpt": "[Skip to content] \n\n[\u2190] \n\nMay 24, 2022\n\nViews:3,297\n\nBy\n\nMonica Wood\n\n## FBI Report: 2021 Active Shooter Incidents\n\n* * *\n\nThe [Federal Bureau of Investigation] (FBI) released their seventh annual report in a series of active shooter-related products published since September 2014. In [Active Shooter Incidents in the United States in 2021],\u00a0 FBI data reports 61 active shooter incidents in the United States for 2021, a 52.5% increase from 2020 and a 96.8% increase from 2017.\n\nIn these 61 incident"
+      },
+      {
+        "title": "Active Shooter Incidents in the United States in 2020 | Federal Bureau of Investigation",
+        "url": "https://www.fbi.gov/file-repository/reports-and-publications/active-shooter-incidents-in-the-us-2020-070121.pdf/view",
+        "published": "2021-07-01T00:00:00.000Z",
+        "excerpt": "[An official website of the United States government. Here's\u00a0how\u00a0you\u00a0know] \n\n##### Official websites use **.gov**\n\nA **.gov** website belongs to an official government organization in the United States.\n\n##### Secure **.gov** websites use HTTPS\n\nA lock () or _https://_ means you've safely connected to the **.gov** website. Share sensitive information only on official, secure websites.\n\n# Active Shooter Incidents in the United States in 2020\n\n[Documents] \n\n- [Counterintelligence] \n\nDownload file\n"
+      },
+      {
+        "title": "Active Shooter Incidents in the United States in 2022 | Federal Bureau of Investigation",
+        "url": "https://www.fbi.gov/file-repository/reports-and-publications/active-shooter-incidents-in-the-us-2022-042623.pdf/view",
+        "published": "2023-04-25T00:00:00.000Z",
+        "excerpt": "[An official website of the United States government. Here's\u00a0how\u00a0you\u00a0know] \n\n##### Official websites use **.gov**\n\nA **.gov** website belongs to an official government organization in the United States.\n\n##### Secure **.gov** websites use HTTPS\n\nA lock () or _https://_ means you've safely connected to the **.gov** website. Share sensitive information only on official, secure websites.\n\n# Active Shooter Incidents in the United States in 2022\n\n[Documents] \n\nDownload file\n\n[active-shooter-incidents"
+      },
+      {
+        "title": "active-shooter-incidents-in-the-us-2021-052422.pdf - Google \u0414\u0438\u0441\u043a",
+        "url": "https://drive.google.com/file/d/1hsdGNsJrC9NDmB4utV5QmBOV33lCXFxX/view",
+        "published": "2022-05-24T00:00:00.000Z",
+        "excerpt": "active-shooter-incidents-in-the-us-2021-052422.pdf - Google \u0414\u0438\u0441\u043a\u0417\u0430\u0440\u0435\u0436\u0434\u0430\u0441\u0435\u2026![] \n[\u0412\u0445\u043e\u0434]"
+      },
+      {
+        "title": "FBI Releases 2024 Active Shooter Incidents in the United States Report",
+        "url": "https://www.fbi.gov/news/press-releases/fbi-releases-2024-active-shooter-incidents-in-the-united-states-report",
+        "published": "2025-05-16T00:00:00.000Z",
+        "excerpt": "FBI Releases 2024 Active Shooter Incidents in the United States Report \u2014FBI[] \n[An official website of the United States government.Here'showyouknow] \n![] \n##### Official websites use**.gov**\nA**.gov**website belongs to an official government organization in the United States.\n![] \n##### Secure**.gov**websites use HTTPS\nA lock () or*https://*means you've safely connected to the**.gov**website. Share sensitive information only on official, secure websites.\n[![Federal Bureau of Investigation Logo]"
+      },
+      {
+        "title": "Data Trends",
+        "url": "https://www.cdc.gov/firearm-violence/php/data-trends/index.html",
+        "published": "2024-07-11T00:00:00.000Z",
+        "excerpt": "Data Trends | Firearm Injury and Death Prevention | CDC\n[Skip directly to site content] [Skip directly to search] \n![] An official website of the United States government\n[Here's how you know] \n![] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA**lock**(**) or**https://**means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.\n[!"
+      },
+      {
+        "title": "Firearm Homicide Trends",
+        "url": "https://www.cdc.gov/firearm-violence/php/data-trends/firearm-homicide-trends.html",
+        "published": "2024-08-19T00:00:00.000Z",
+        "excerpt": "Firearm Homicide Trends | Firearm Injury and Death Prevention | CDC\n[Skip directly to site content] [Skip directly to search] \n![] An official website of the United States government\n[Here's how you know] \n![] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA**lock**(**) or**https://**means you've safely connected to the .gov website. Share sensitive information only on official, secure "
+      },
+      {
+        "title": "Welcome to fbi.gov",
+        "url": "https://www.fbi.gov/?came_from=https%3A//www.fbi.gov/about/partnerships/office-of-partner-engagement-1/active-shooter-incidents-graphics",
+        "published": "2022-03-31T00:00:00.000Z",
+        "excerpt": "FBI \u2014Federal Bureau of InvestigationWelcome to fbi.gov \u2014FBI\n[An official website of the United States government.Here'showyouknow] \n![] \n##### Official websites use**.gov**\nA**.gov**website belongs to an official government organization in the United States.\n![] \n##### Secure**.gov**websites use HTTPS\nA lock () or*https://*means you've safely connected to the**.gov**website. Share sensitive information only on official, secure websites.\n# Welcome to fbi.gov\n[**] \n[FBI] \n[**] \n[![FBI Logo]] \n[**]"
+      },
+      {
+        "title": "The Nature, Trends, Correlates, and Prevention of Mass Public Shootings in America, 1976-2018",
+        "url": "https://nij.ojp.gov/library/publications/nature-trends-correlates-and-prevention-mass-public-shootings-america-1976",
+        "published": "2021-12-01T00:00:00.000Z",
+        "excerpt": "The Nature, Trends, Correlates, and Prevention of Mass Public Shootings in America, 1976-2018 | National Institute of Justice[Skip to main content] \n![U.S. flag] \nAn official website of the United States government, Department of Justice.\nHere's how you know\nHere's how you know\n![] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA**lock**(LockA locked padlock) or**https://**means you\u2019ve "
+      },
+      {
+        "title": "What the data says about gun deaths in the U.S.",
+        "url": "https://www.pewresearch.org/fact-tank/2022/02/03/what-the-data-says-about-gun-deaths-in-the-u-s/",
+        "published": "2025-03-05T00:00:00.000Z",
+        "excerpt": "What the data says about gun deaths in the US | Pew Research Center\nNumbers, Facts and Trends Shaping Your World\nRead our research on:\n[] [] \n[] [] \n[] [] [] [] \n[] [] \nSearch\n* Short Reads\n|\nMarch 5, 2025\n# What the data says about gun deaths in the U.S.\n[**] \n* [X] \n* [Facebook] \n* [Threads] \n* [LinkedIn] \n* [WhatsApp] \n* [Mail] \n* [Print] [Add Us On Google] \nBy[John Gramlich] \nNearly 47,000 people died of gun-related injuries in the United States in 2023, according to the latest available sta"
+      },
+      {
+        "title": "The Nature, Trends, Correlates, and Prevention of Mass Public Shootings in America, 1976-2018",
+        "url": "https://www.ojp.gov/library/publications/nature-trends-correlates-and-prevention-mass-public-shootings-america-1976",
+        "published": "2021-12-01T00:00:00.000Z",
+        "excerpt": "The Nature, Trends, Correlates, and Prevention of Mass Public Shootings in America, 1976-2018 | Office of Justice Programs[Skip to main content] \n![U.S. flag] \nAn official website of the United States government, Department of Justice.\nHere's how you know\nHere's how you know\n![] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA**lock**(LockA locked padlock) or**https://**means you\u2019ve saf"
+      },
+      {
+        "title": "Active Shooter Incidents in the United States in 2024",
+        "url": "https://www.fbi.gov/file-repository/reports-and-publications/2024-active-shooter-report/view",
+        "published": "2025-06-02T00:00:00.000Z",
+        "excerpt": "Active Shooter Incidents in the United States in 2024 \u2014FBI[] \n[An official website of the United States government.Here'showyouknow] \n![] \n##### Official websites use**.gov**\nA**.gov**website belongs to an official government organization in the United States.\n![] \n##### Secure**.gov**websites use HTTPS\nA lock () or*https://*means you've safely connected to the**.gov**website. Share sensitive information only on official, secure websites.\n[![Federal Bureau of Investigation Logo] \nFBIFederal\nBure"
+      },
+      {
+        "title": "",
+        "url": "https://www.fbi.gov/file-repository/active-shooter-incidents-20-year-review-2000-2019-060121.pdf",
+        "published": null,
+        "excerpt": "ACTIVE SHOOTER INCIDENTS\nU.S. Department of Justice\nFederal Bureau of Investigation\nMay 2021\n20-Year Review\n2000-2019\nActive Shooter Incidents 20-Year Review, 2000-2019 2\nIntroduction\nThe Investigative Assistance for Violent Crimes Act of 2012, signed into law in January 2013, permits the attorney \ngeneral (AG), at the request of an appropriate state or local law enforcement official, to provide federal assistance \nduring active shooter incidents and mass killings in public places. The AG delega"
+      },
+      {
+        "title": "Trends in mass shootings in the United States (2013\u20132021): A worsening American epidemic of death",
+        "url": "https://www.americanjournalofsurgery.com/article/S0002-9610(23)00131-9/fulltext",
+        "published": "2023-08-01T00:00:00.000Z",
+        "excerpt": "[Skip to Main Content] [Skip to Main Menu] \n\nADVERTISEMENT\n\nSCROLL TO CONTINUE WITH CONTENT\n\nOpen GPT ConsoleOpen Oracle KeywordsRefresh Values\n\n| Property | Value |\n| --- | --- |\n| Status |\n| Version |\n| Ad File |\n| Disable Ads Flag |\n| Environment |\n| Moat Init |\n| Moat Ready |\n| Contextual Ready |\n| Contextual URL |\n| Contextual Initial Segments |\n| Contextual Used Segments |\n| AdUnit |\n| SubAdUnit |\n| Custom Targeting |\n| Ad Events |\n| Invalid Ad Sizes |\n\n[Download PDFDownload PDF] \n\nOutline"
+      },
+      {
+        "title": "FBI Releases 2024 Active Shooter Incidents in the United States Report",
+        "url": "https://www.fbi.gov/news/press-releases/fbi-releases-2024-active-shooter-incidents-in-the-united-states-report",
+        "published": "2025-05-16T00:00:00.000Z",
+        "excerpt": "FBI Releases 2024 Active Shooter Incidents in the United States Report \u2014FBI[] \n[An official website of the United States government.Here'showyouknow] \n![] \n##### Official websites use**.gov**\nA**.gov**website belongs to an official government organization in the United States.\n![] \n##### Secure**.gov**websites use HTTPS\nA lock () or*https://*means you've safely connected to the**.gov**website. Share sensitive information only on official, secure websites.\n[![Federal Bureau of Investigation Logo]"
+      },
+      {
+        "title": "The Nature, Trends, Correlates and Prevention of Mass Public Shootings in America, 1976-2018",
+        "url": "https://nij.ojp.gov/funding/awards/2018-75-cx-0025",
+        "published": "2018-09-27T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n**Official websites use .gov**\nA **.gov** website belongs to an official government organization in the United States.\n\n**Secure .gov websites use HTTPS**\nA **lock** (\nA locked padlock\n) or **https://** means you\u2019ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\n\n# The Nature, Trends, Correlates and Prevention of Mass Public Shootings in America, 1976-2018\n\n### Award Information\n\nAwardee\n\n[NORTHEASTERN UNIVERSITY] \n\nA"
+      },
+      {
+        "title": "The Nature, Trends, Correlates, and Prevention of Mass Public Shootings in America, 1976-2018",
+        "url": "https://nij.ojp.gov/library/publications/nature-trends-correlates-and-prevention-mass-public-shootings-america-1976",
+        "published": "2021-12-01T00:00:00.000Z",
+        "excerpt": "The Nature, Trends, Correlates, and Prevention of Mass Public Shootings in America, 1976-2018 | National Institute of Justice[Skip to main content] \n![U.S. flag] \nAn official website of the United States government, Department of Justice.\nHere's how you know\nHere's how you know\n![] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA**lock**(LockA locked padlock) or**https://**means you\u2019ve "
+      },
+      {
+        "title": "NIJ Special Report: Public Mass Shootings Research",
+        "url": "https://nij.ojp.gov/library/publications/nij-special-report-public-mass-shootings-research",
+        "published": "2023-12-01T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n**Official websites use .gov**\nA **.gov** website belongs to an official government organization in the United States.\n\n**Secure .gov websites use HTTPS**\nA **lock** (\nA locked padlock\n) or **https://** means you\u2019ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\n\n# NIJ Special Report: Public Mass Shootings Research\n\nNCJ Number\n\n307401\n\nAuthor(s)\n\n[Rachel A. Kane]; [Basia E. Lopez]; [Paul A. Haskins] \n\nDate Published\n\n"
+      },
+      {
+        "title": "The Nature, Trends, Correlates, and Prevention of Mass Public Shootings in America, 1976-2018",
+        "url": "https://www.ojp.gov/library/publications/nature-trends-correlates-and-prevention-mass-public-shootings-america-1976",
+        "published": "2021-12-01T00:00:00.000Z",
+        "excerpt": "The Nature, Trends, Correlates, and Prevention of Mass Public Shootings in America, 1976-2018 | Office of Justice Programs[Skip to main content] \n![U.S. flag] \nAn official website of the United States government, Department of Justice.\nHere's how you know\nHere's how you know\n![] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA**lock**(LockA locked padlock) or**https://**means you\u2019ve saf"
+      },
+      {
+        "title": "",
+        "url": "https://www.ojp.gov/pdffiles1/nij/307401.pdf",
+        "published": "2023-08-30T00:00:00.000Z",
+        "excerpt": "DECEMBER 2023 \nU.S. Department of Justice \nOffice of Justice Programs \nNational Institute of Justice \nNATIONAL INSTITUTE OF JUSTICE \nSPECIAL REPORT\nPublic Mass Shootings Research \nU.S. Department of Justice \nOffice of Justice Programs \n810 Seventh St. N.W. \nWashington, DC 20531 \nNancy La Vigne, Ph.D. \nDirector, National Institute of Justice \nThis and other publications and products of the National Institute of Justice can be found at: \nNational Institute of Justice \nStrengthen Science \u2022 Advance "
+      },
+      {
+        "title": "A Comprehensive Assessment of Deadly Mass Shootings, 1980-2018",
+        "url": "https://www.ojp.gov/pdffiles1/nij/grants/305090.pdf",
+        "published": "2022-07-20T00:00:00.000Z",
+        "excerpt": "The author(s) shown below used Federal funding provided by the U.S. \nDepartment of Justice to prepare the following resource:\nDocument Title: A Comprehensive Assessment of Deadly \nMass Shootings, 1980-2018\nAuthor(s): Jillian J. Turanovic, Ph.D., Travis C. Pratt, \nPh.D., Kristen Neville, M.S., Antonia La \nTosa, B.S.\nDocument Number: 305090 \nDate Received: July 2022\nAward Number: 2018-75-CX-0024\nThis resource has not been published by the U.S. Department of \nJustice. This resource is being made pu"
+      },
+      {
+        "title": "Public Mass Shootings: Database Amasses Details of Half Century of U.S. Mass Shootings",
+        "url": "https://nij.ojp.gov/library/publications/public-mass-shootings-database-amasses-details-half-century-us-mass-shootings",
+        "published": "2022-02-01T00:00:00.000Z",
+        "excerpt": "Public Mass Shootings: Database Amasses Details of Half Century of U.S. Mass Shootings | National Institute of Justice[Skip to main content] \n![U.S. flag] \nAn official website of the United States government, Department of Justice.\nHere's how you know\nHere's how you know\n![] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA**lock**(LockA locked padlock) or**https://**means you\u2019ve safely "
+      },
+      {
+        "title": "Comprehensive Assessment of Deadly Mass Shootings 1980-2018 | Office of Justice Programs",
+        "url": "https://www.ojp.gov/ncjrs/virtual-library/abstracts/comprehensive-assessment-deadly-mass-shootings-1980-2018",
+        "published": "2020-02-01T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n![] \n\n**Official websites use .gov**\n\nA **.gov** website belongs to an official government organization in the United States.\n\n![] \n\n**Secure .gov websites use HTTPS**\n\nA **lock** (\nLockA locked padlock\n) or **https://** means you\u2019ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\n\n# NCJRS Virtual Library\n\nThe Virtual Library houses over 235,000 criminal justice resources, including all known OJP works.\n\n[Click here to"
+      },
+      {
+        "title": "Policy Solutions to Address Mass Shootings",
+        "url": "https://nij.ojp.gov/library/publications/policy-solutions-address-mass-shootings",
+        "published": "2021-08-01T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n**Official websites use .gov**\nA **.gov** website belongs to an official government organization in the United States.\n\n**Secure .gov websites use HTTPS**\nA **lock** (\nA locked padlock\n) or **https://** means you\u2019ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\n\n# Policy Solutions to Address Mass Shootings\n\nNCJ Number\n\n304951\n\nAuthor(s)\n\n[Michael Rocque]; [Grant Duwe]; [Michael Siegel]; [James Alan Fox]; [Max Goder-R"
+      },
+      {
+        "title": "National Institute of Justice Funded Research Amasses Details of a Half Century of United States Mass Shootings",
+        "url": "https://www.justice.gov/opa/pr/national-institute-justice-funded-research-amasses-details-half-century-united-states-mass",
+        "published": "2022-02-04T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n### MENU News\n\n- [All News] \n- [Blogs] \n- [Photo Galleries] \n- [Podcasts] \n- [Press Releases] \n- [Speeches] \n- [Videos] \n\n## Archived Press Releases\n\n[**Archived News**] \n\n* * *\n\n[**Para Not\u00edcias en Espa\u00f1ol**] \n\nPress Release\n\n# National Institute of Justice Funded Research Amasses Details of a Half Century of United States Mass Shootings\n\nFriday, February 4, 2022\n\nShare![right caret] \n\n- [Facebook] \n- [X] \n- [LinkedIn] \n- [Email] \n\n**For Immediate Release**\n\nOffice of P"
+      },
+      {
+        "title": "FBI Designates 61 Active Shooter Incidents in 2021 | Federal Bureau of Investigation",
+        "url": "https://www.fbi.gov/news/press-releases/fbi-designates-61-active-shooter-incidents-in-2021",
+        "published": "2022-05-23T00:00:00.000Z",
+        "excerpt": "[An official website of the United States government. Here's\u00a0how\u00a0you\u00a0know] \n\n![] \n\n##### Official websites use **.gov**\n\nA **.gov** website belongs to an official government organization in the United States.\n\n![] \n\n##### Secure **.gov** websites use HTTPS\n\nA lock () or _https://_ means you've safely connected to the **.gov** website. Share sensitive information only on official, secure websites.\n\n# FBI Designates 61 Active Shooter Incidents in 2021\n\n[News] \n\n- [Stories] \n- [News Blog] \n- [Video"
+      },
+      {
+        "title": "",
+        "url": "https://www.fbi.gov/file-repository/active-shooter-incidents-in-the-us-2021-052422.pdf",
+        "published": "2023-06-02T00:00:00.000Z",
+        "excerpt": "U.S. Department of Justice\nFederal Bureau of Investigation\nMAY 2022\nACTIVE SHOOTER INCIDENTS\nIN THE UNITED STATES IN\n2021\nACTIVE SHOOTER INCIDENTS IN THE UNITED STATES IN 2021\n1\nAcknowledgements\nThis report was written by the FBI Office of Partner Engagement in collaboration with \nthe FBI Criminal Investigative Division, the FBI Critical Incident Response Group, and \nthe Advanced Law Enforcement Rapid Response Training (ALERRT) Center at Texas \nState University.1\nThis report is in the public dom"
+      },
+      {
+        "title": "Active Shooter Incidents in the United States in 2021 | Federal Bureau of Investigation",
+        "url": "https://www.fbi.gov/file-repository/reports-and-publications/active-shooter-incidents-in-the-us-2021-052422.pdf/view",
+        "published": "2022-05-19T00:00:00.000Z",
+        "excerpt": "[An official website of the United States government. Here's\u00a0how\u00a0you\u00a0know] \n\n##### Official websites use **.gov**\n\nA **.gov** website belongs to an official government organization in the United States.\n\n##### Secure **.gov** websites use HTTPS\n\nA lock () or _https://_ means you've safely connected to the **.gov** website. Share sensitive information only on official, secure websites.\n\n# Active Shooter Incidents in the United States in 2021\n\n[Documents] \n\nDownload file\n\n[active-shooter-incidents"
+      },
+      {
+        "title": "Active Shooter Incidents in the United States in 2024",
+        "url": "https://www.fbi.gov/file-repository/reports-and-publications/2024-active-shooter-report/view",
+        "published": "2025-06-02T00:00:00.000Z",
+        "excerpt": "Active Shooter Incidents in the United States in 2024 \u2014FBI[] \n[An official website of the United States government.Here'showyouknow] \n![] \n##### Official websites use**.gov**\nA**.gov**website belongs to an official government organization in the United States.\n![] \n##### Secure**.gov**websites use HTTPS\nA lock () or*https://*means you've safely connected to the**.gov**website. Share sensitive information only on official, secure websites.\n[![Federal Bureau of Investigation Logo] \nFBIFederal\nBure"
+      },
+      {
+        "title": "FBI Releases 2024 Active Shooter Incidents in the United States Report",
+        "url": "https://www.fbi.gov/news/press-releases/fbi-releases-2024-active-shooter-incidents-in-the-united-states-report",
+        "published": "2025-05-16T00:00:00.000Z",
+        "excerpt": "FBI Releases 2024 Active Shooter Incidents in the United States Report \u2014FBI[] \n[An official website of the United States government.Here'showyouknow] \n![] \n##### Official websites use**.gov**\nA**.gov**website belongs to an official government organization in the United States.\n![] \n##### Secure**.gov**websites use HTTPS\nA lock () or*https://*means you've safely connected to the**.gov**website. Share sensitive information only on official, secure websites.\n[![Federal Bureau of Investigation Logo]"
+      },
+      {
+        "title": "",
+        "url": "https://www.fbi.gov/file-repository/active-shooter-incidents-in-the-us-2020-070121.pdf",
+        "published": "2022-10-14T00:00:00.000Z",
+        "excerpt": "U.S. Department of Justice\nFederal Bureau of Investigation\nActive Shooter Incidents in the \nUnited States in 2020\nJuly 2021\nActive Shooter Incidents in the United States in 2020 1\nThis report was written by the FBI Office of Partner Engagement in collaboration with the FBI \nCriminal Investigative Division, the FBI Critical Incident Response Group, and the Advanced Law \nEnforcement Rapid Response Training (ALERRT) Center at Texas State University.1\nThis report is in the public domain. Authorizati"
+      },
+      {
+        "title": "Active Shooter Incidents in the United States in 2022 | Federal Bureau of Investigation",
+        "url": "https://www.fbi.gov/file-repository/reports-and-publications/active-shooter-incidents-in-the-us-2022-042623.pdf/view",
+        "published": "2023-04-25T00:00:00.000Z",
+        "excerpt": "[An official website of the United States government. Here's\u00a0how\u00a0you\u00a0know] \n\n##### Official websites use **.gov**\n\nA **.gov** website belongs to an official government organization in the United States.\n\n##### Secure **.gov** websites use HTTPS\n\nA lock () or _https://_ means you've safely connected to the **.gov** website. Share sensitive information only on official, secure websites.\n\n# Active Shooter Incidents in the United States in 2022\n\n[Documents] \n\nDownload file\n\n[active-shooter-incidents"
+      },
+      {
+        "title": "",
+        "url": "https://www.fbi.gov/file-repository/reports-and-publications/2023-active-shooter-report-062124.pdf/view",
+        "published": "2024-06-20T00:00:00.000Z",
+        "excerpt": "[An official website of the United States government. Here's\u00a0how\u00a0you\u00a0know] \n\n##### Official websites use **.gov**\n\nA **.gov** website belongs to an official government organization in the United States.\n\n##### Secure **.gov** websites use HTTPS\n\nA lock () or _https://_ means you've safely connected to the **.gov** website. Share sensitive information only on official, secure websites.\n\n# Active Shooter Incidents in the United States in 2023\n\n[Documents] \n\nDownload file\n\n[2023-active-shooter-repo"
+      },
+      {
+        "title": "Reports and Publications | Federal Bureau of Investigation",
+        "url": "https://www.fbi.gov/file-repository/reports-and-publications",
+        "published": "2025-04-14T00:00:00.000Z",
+        "excerpt": "[An official website of the United States government. Here's\u00a0how\u00a0you\u00a0know] \n\n##### Official websites use **.gov**\n\nA **.gov** website belongs to an official government organization in the United States.\n\n##### Secure **.gov** websites use HTTPS\n\nA lock () or _https://_ means you've safely connected to the **.gov** website. Share sensitive information only on official, secure websites.\n\n# Reports and Publications\n\n[Documents] \n\n# Reports and Publications\n\n## [Active Shooter Incidents in the Unite"
+      },
+      {
+        "title": "Active shooter incidents increased more than 50 percent last year, FBI data shows",
+        "url": "https://www.nbcnews.com/news/us-news/active-shooter-incidents-increased-50-percent-2021-new-fbi-data-shows-rcna30148",
+        "published": "2022-05-23T00:00:00.000Z",
+        "excerpt": "IE 11 is not supported. For an optimal experience visit our site on another browser.\n\n[BREAKING: Suspect charged with murder in crash that killed at least 11 people at Vancouver festival] \n\nSkip to Content\n\n![Officials load a body into a vehicle at the site of a mass shooting at a FedEx facility in Indianapolis, Indiana, on April 16, 2021.] \n\nOfficials load a body into a vehicle at the site of a mass shooting at a FedEx facility in Indianapolis on April 16, 2021.Jeff Dean / AFP via Getty Images "
+      },
+      {
+        "title": "School Shootings in US Reach Highest Recorded Levels",
+        "url": "https://jamanetwork.com/journals/jama/article-abstract/2816722",
+        "published": "2024-04-23T00:00:00.000Z",
+        "excerpt": "[\\[Skip to Navigation\\]] \n\n[X] [Facebook] \n\n[LinkedIn] \n\nMore\n\n[This Issue] \n\nViews4,192\n\nCitations0\n\nView Metrics\n\n- Download PDF\n- Full Text\n- Share\n\nXFacebookEmailLinkedIn\n\n- CiteThis\n- Permissions\n- Comment\n\nMedical News in Brief\n\nMarch 29, 2024\n\n# School Shootings in US Reach Highest Recorded Levels\n\n[Emily\u00a0Harris] \n\n[Article Information] \n\nJAMA. 2024;331(16):1354. doi:10.1001/jama.2024.3706\n\n[_visual abstract icon_ \\\nVisual\\\n\\\nAbstract] [_editorial comment icon_ \\\nEditorial\\\n\\\nComment] [_r"
+      },
+      {
+        "title": "School Shootings in the United States: 1997\u20132022",
+        "url": "https://publications.aap.org/pediatrics/article/153/4/e2023064311/196816/School-Shootings-in-the-United-States-1997-2022",
+        "published": "2024-04-01T00:00:00.000Z",
+        "excerpt": "[Skip to Main Content] \n\n[Disclaimer \u00bbAdvertising] \n\n[_Search__Close_] \n\n[Shopping Cart] \n\n[_User Tools Dropdown__Close User Tools Dropdown_] \n\n[shopAAP] \n\n[Shopping Cart] \n\n[Create Account] \n\n[Login] \n\n[Explore AAP_Close_] \n\n- [AAP Home] \n- [shopAAP] \n- [PediaLink] \n- [HealthyChildren.org] \n\nheader search\n\nsearch inputSearch input auto suggest\n\nfilter your searchAll PublicationsAll JournalsPediatricsHospital PediatricsPediatrics In ReviewNeoReviewsAAP Grand RoundsAAP NewsAll AAP Sites\n\n[Search]"
+      },
+      {
+        "title": "School Shootings in 2024: More Than Last Year, But Fewer Deaths",
+        "url": "https://www.edweek.org/leadership/school-shootings-in-2024-more-than-last-year-but-fewer-deaths/2024/12",
+        "published": "2024-12-31T01:34:39.000Z",
+        "excerpt": "School Shootings in 2024: More Than Last Year, But Fewer Deaths\nMenuSearch\n[] \nSign InSubscribe\n[] \nSchool Shootings in 2024: More Than Last Year, But Fewer Deaths\nSubscribe\nResetSearch\n[School Climate &amp; Safety] \n# School Shootings in 2024: More Than Last Year, But Fewer Deaths\nBy[Mark Lieberman] &[Hyon-Young Kim] \u2014\nDecember 31, 20244 min read\n![Photo of no gun sign on door. ] \niStock\n* Share article\n* RemoveSave to favoritesSave to favorites\n* [Print] \n[Email] [Facebook] [LinkedIn] [Twitter"
+      },
+      {
+        "title": "Firearms Used in Adolescent School Shootings",
+        "url": "https://jamanetwork.com/journals/jamapediatrics/article-abstract/2812306",
+        "published": "2024-01-01T00:00:00.000Z",
+        "excerpt": "[\\[Skip to Navigation\\]] \n\n[X] [Facebook] \n\n[LinkedIn] \n\nMore\n\n[View Correction] \n\n[This Issue] \n\nViews3,405\n\n[Citations1] \n\nView Metrics\n\n- Download PDF\n- Full Text\n- Share\n\nXFacebookEmailLinkedIn\n\n- CiteThis\n- Permissions\n- Comment\n\nOriginal Investigation\n\nHealth and the 2024 US Election\n\nNovember 27, 2023\n\n# Characteristics and Obtainment Methods of Firearms Used in Adolescent School Shootings\n\n[Brent R.\u00a0Klein,\u00a0PhD1]; [Jeff\u00a0Trowbridge,\u00a0MA1]; [Cory\u00a0Schnell,\u00a0PhD1]; et al[Kirstin\u00a0Lewis,\u00a0MA2] \n\nA"
+      },
+      {
+        "title": "Defining the Problem: 53 Years of Firearm Violence... : Journal of the American College of Surgeons",
+        "url": "https://journals.lww.com/journalacs/abstract/2024/04000/defining_the_problem__53_years_of_firearm_violence.52.aspx",
+        "published": "2025-05-14T00:00:00.000Z",
+        "excerpt": "![]![] \n\n[April 2024 - Volume 238 - Issue 4] \n\n[Article as EPUB] \n\n[Export All Images to PowerPoint File] Add to My Favorites\n\nColleague's E-mail is Invalid\n\nYour Name:\n\nColleague's Email:\n\nSeparate multiple e-mails with a (;).\n\nMessage:\n\nYour message has been successfully sent to your colleague.\n\nSome error has occurred while processing your request. Please try after some time.\n\n| |\n| --- |\n| End Note |\n| Procite |\n| Reference Manager |\n\nSave my selection\n\nSouthern Surgical Association Articles"
+      },
+      {
+        "title": "Trends in Adolescent Suicide by Method in the US, 1999-2020",
+        "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2816956",
+        "published": "2024-03-04T00:00:00.000Z",
+        "excerpt": "[\\[Skip to Navigation\\]] \n\n[_full text icon_ \\\nFull Text] [_contents icon_ \\\nContents] [_figure icon_ \\\nFigures /\\\n\\\nTables] [_multimedia icon_ \\\nMultimedia] [_attach icon_ \\\nSupplemental\\\n\\\nContent] [_references icon_ \\\nReferences] [_related icon_ \\\nRelated] [_comments icon_ \\\nComments] \n\nDownload PDF\n\nComment\n\n[Top of Article] \n\n- [Key Points] \n- [Abstract] \n- [Introduction] \n- [Methods] \n- [Results] \n- [Discussion] \n- [Conclusions] \n- [Article Information] \n- [References] \n\nFigure 1. \u00a0Trends "
+      },
+      {
+        "title": "Study Quantifies Dramatic Rise in School Shootings and Related Fatalities Since 1970",
+        "url": "https://facs.org/media-center/press-releases/2024/study-quantifies-dramatic-rise-in-school-shootings-and-related-fatalities-since-1970",
+        "published": "2024-03-06T00:00:00.000Z",
+        "excerpt": "Unsupported Browser\n\nThe American College of Surgeons website is not compatible with Internet Explorer 11, IE 11. For the best experience please update your browser.\n\nResearch News\n\n# Study Quantifies Dramatic Rise in School Shootings and Related Fatalities Since 1970\n\n## Researchers find likelihood of children being a school shooting victim quadrupled since 1970, and offer preventative steps\n\nMarch 6, 2024\n\n5 MinPrintShareBookmark\n\n### Key Takeaways\n\n- **Incidence of school shootings increasing"
+      },
+      {
+        "title": "U.S. School Shootings Have Risen 12-fold Since 1970",
+        "url": "https://www.usnews.com/news/health-news/articles/2024-03-08/u-s-school-shootings-have-risen-12-fold-since-1970",
+        "published": "2024-03-08T00:00:00.000Z",
+        "excerpt": "# U.S. School Shootings Have Risen 12-fold Since 1970\n\nBy [HealthDay] \n\n\\|\n\nMarch 8, 2024\n\nBy [HealthDay] \n\n\\|\n\nMarch 8, 2024, at 7:02 a.m.\n\nSaveComment\n\n_More_\n\n[![U.S. News & World Report]] \n\nU.S. School Shootings Have Risen 12-fold Since 1970\n\n_More_\n\nBy Dennis Thompson HealthDay Reporter\n\n![] \n\nHealthDay\n\nFRIDAY, March 8, 2024 (HealthDay News) -- During the past half-century, the United States\u2019 annual number of school shootings has increased more than twelvefold, a new study finds.\n\nWhat\u2019s m"
+      },
+      {
+        "title": "JAMA Pediatrics",
+        "url": "https://www.ovid.com/journals/japed/pdf/10.1001/jamapediatrics.2024.4188~jama-pediatrics",
+        "published": null,
+        "excerpt": "- Check Access\n\n- Cite\n\n- Share\n\n- More\n\n\n# JAMA Pediatrics\n\nJAMA Pediatrics 179(1):p 3, January 2025. \\| DOI: 10.1001/jamapediatrics.2024.4188\n\nCopyright \u00a9 2025 by the American Medical Association. All Rights Reserved. Applicable FARS/DFARS Restrictions Apply to Government Use. American Medical Association, 515 N. State St, Chicago, IL 60610."
+      },
+      {
+        "title": "Study Quantifies Dramatic Rise in School Shootings and Related Fatalities Since 1970 | Newswise",
+        "url": "https://newswise.com/articles/study-quantifies-dramatic-rise-in-school-shootings-and-related-fatalities-since-1970",
+        "published": "2024-03-06T00:00:00.000Z",
+        "excerpt": "# Study Quantifies Dramatic Rise in School Shootings and Related Fatalities Since 1970\n\n###### _Researchers find likelihood of children being a school shooting victim quadrupled since 1970, and offer preventative steps_\n\n6-Mar-2024 11:00 AM EST,\nby [American College of Surgeons (ACS)] \n\n[_\u2661_] \n\n**Newswise \u2014 Key Takeaways**\n\n- **Incidence of school shootings increasing dramatically:** In the 53 years leading up to May 2022, the number of school shootings annually increased more than 12 times.\n- *"
+      },
+      {
+        "title": "Firearm Suicide Trends",
+        "url": "https://www.cdc.gov/firearm-violence/php/data-trends/firearm-suicide-data-trends.html",
+        "published": "2024-08-19T00:00:00.000Z",
+        "excerpt": "Firearm Suicide Trends | Firearm Injury and Death Prevention | CDC\n[Skip directly to site content] [Skip directly to search] \n![] An official website of the United States government\n[Here's how you know] \n![] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA**lock**(**) or**https://**means you've safely connected to the .gov website. Share sensitive information only on official, secure w"
+      },
+      {
+        "title": "Firearm Deaths Grow, Disparities Widen | VitalSigns | CDC",
+        "url": "https://www.cdc.gov/vitalsigns/firearm-deaths/index.html",
+        "published": "2022-06-06T00:00:00.000Z",
+        "excerpt": "Firearm Deaths Grow, Disparities Widen | VitalSigns | CDC\n[Skip directly to site content] [Skip directly to search] \n[Espa\u00f1ol] |[Other Languages] \n![] An official website of the United States governmentHere's how you know\n![] \n**Official websites use .gov**\nA .gov website belongs to an official government organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA lock () or https:// means you've safely connected to the .gov website. Share sensitive information only on official,"
+      },
+      {
+        "title": "Firearm Deaths Grow, Disparities Widen | VitalSigns | CDC",
+        "url": "https://www.cdc.gov/vitalsigns/firearm-deaths/",
+        "published": "2022-06-06T00:00:00.000Z",
+        "excerpt": "Firearm Deaths Grow, Disparities Widen | VitalSigns | CDC\n[Skip directly to site content] [Skip directly to search] \n[Espa\u00f1ol] |[Other Languages] \n![] An official website of the United States governmentHere's how you know\n![] \n**Official websites use .gov**\nA .gov website belongs to an official government organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA lock () or https:// means you've safely connected to the .gov website. Share sensitive information only on official,"
+      },
+      {
+        "title": "Data Trends",
+        "url": "https://www.cdc.gov/firearm-violence/php/data-trends/index.html",
+        "published": "2024-07-11T00:00:00.000Z",
+        "excerpt": "Data Trends | Firearm Injury and Death Prevention | CDC\n[Skip directly to site content] [Skip directly to search] \n![] An official website of the United States government\n[Here's how you know] \n![] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA**lock**(**) or**https://**means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.\n[!"
+      },
+      {
+        "title": "Notes from the Field : Increases in Firearm Homicide and Suicide Rates \u2014 United States, 2020\u20132021",
+        "url": "https://www.cdc.gov/mmwr/volumes/71/wr/mm7140a4.htm?s_cid=mm7140a4_wb",
+        "published": "2022-10-06T00:00:00.000Z",
+        "excerpt": "Notes from the Field: Increases in Firearm Homicide and Suicide Rates \u2014United States, 2020\u20132021 | MMWR\n[Skip directly to site content] [Skip directly to search] \n[Espa\u00f1ol] |[Other Languages] \n![] An official website of the United States governmentHere's how you know\n![] \n**Official websites use .gov**\nA .gov website belongs to an official government organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA lock () or https:// means you've safely connected to the .gov website. "
+      },
+      {
+        "title": "",
+        "url": "https://www.cdc.gov/mmwr/volumes/71/wr/pdfs/mm7119e1-H.pdf",
+        "published": "2022-05-11T00:00:00.000Z",
+        "excerpt": "Morbidity and Mortality Weekly Report \n656 MMWR / May 13, 2022 / Vol. 71 / No. 19 US Department of Health and Human Services/Centers for Disease Control and Prevention\nVital Signs: Changes in Firearm Homicide and Suicide Rates \u2014 \nUnited States, 2019\u20132020\nScott R. Kegler, PhD1; Thomas R. Simon, PhD2; Marissa L. Zwald, PhD2; May S. Chen, PhD2; James A. Mercy, PhD2; Christopher M. Jones, PharmD, DrPH3; \nMelissa C. Mercado-Crespo, PhD2; Janet M. Blair, PhD2; Deborah M. Stone, ScD1; Phyllis G. Ottley"
+      },
+      {
+        "title": "Vital Signs : Changes in Firearm Homicide and Suicide Rates \u2014 United States, 2019\u20132020",
+        "url": "https://www.cdc.gov/mmwr/volumes/71/wr/mm7119e1.htm?s_cid=mm7119e1_w",
+        "published": "2022-05-12T00:00:00.000Z",
+        "excerpt": "Vital Signs: Changes in Firearm Homicide and Suicide Rates \u2014United States, 2019\u20132020 | MMWR\n[Skip directly to site content] [Skip directly to search] \n[Espa\u00f1ol] |[Other Languages] \n![] An official website of the United States governmentHere's how you know\n![] \n**Official websites use .gov**\nA .gov website belongs to an official government organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA lock () or https:// means you've safely connected to the .gov website. Share sensi"
+      },
+      {
+        "title": "",
+        "url": "https://www.cdc.gov/mmwr/volumes/71/wr/pdfs/mm7140a4-h.pdf",
+        "published": "2022-10-05T00:00:00.000Z",
+        "excerpt": "Morbidity and Mortality Weekly Report \n1286 MMWR / October 7, 2022 / Vol. 71 / No. 40 US Department of Health and Human Services/Centers for Disease Control and Prevention\nNotes from the Field\nIncreases in Firearm Homicide and Suicide Rates \u2014 \nUnited States, 2020\u20132021\nThomas R. Simon, PhD1; Scott R. Kegler, PhD2; \nMarissa L. Zwald, PhD1; May S. Chen, PhD1; James A. Mercy, PhD1; \nChristopher M. Jones, PharmD, DrPH3; Melissa C. Mercado-Crespo, PhD1; \nJanet M. Blair, PhD1; Deborah M. Stone, ScD2\nTh"
+      },
+      {
+        "title": "Firearm Homicide Trends",
+        "url": "https://www.cdc.gov/firearm-violence/php/data-trends/firearm-homicide-trends.html",
+        "published": "2024-08-19T00:00:00.000Z",
+        "excerpt": "Firearm Homicide Trends | Firearm Injury and Death Prevention | CDC\n[Skip directly to site content] [Skip directly to search] \n![] An official website of the United States government\n[Here's how you know] \n![] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA**lock**(**) or**https://**means you've safely connected to the .gov website. Share sensitive information only on official, secure "
+      },
+      {
+        "title": "Suicide and Self-Harm Injury",
+        "url": "https://www.cdc.gov/nchs/fastats/suicide.htm",
+        "published": "2024-10-02T00:00:00.000Z",
+        "excerpt": "FastStats - Suicide and Self-Inflicted Injury\n[Skip directly to site content] [Skip directly to search] \n[Espa\u00f1ol] |[Other Languages] \n![] An official website of the United States governmentHere's how you know\n![] \n**Official websites use .gov**\nA .gov website belongs to an official government organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA lock () or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure webs"
+      },
+      {
+        "title": "Firearm Homicide Trends",
+        "url": "https://www.cdc.gov/firearm-violence/php/data-trends/firearm-homicide-trends.html",
+        "published": "2024-08-19T00:00:00.000Z",
+        "excerpt": "Firearm Homicide Trends | Firearm Injury and Death Prevention | CDC\n[Skip directly to site content] [Skip directly to search] \n![] An official website of the United States government\n[Here's how you know] \n![] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA**lock**(**) or**https://**means you've safely connected to the .gov website. Share sensitive information only on official, secure "
+      },
+      {
+        "title": "Firearm Deaths Grow, Disparities Widen | VitalSigns | CDC",
+        "url": "https://www.cdc.gov/vitalsigns/firearm-deaths/index.html",
+        "published": "2022-06-06T00:00:00.000Z",
+        "excerpt": "Firearm Deaths Grow, Disparities Widen | VitalSigns | CDC\n[Skip directly to site content] [Skip directly to search] \n[Espa\u00f1ol] |[Other Languages] \n![] An official website of the United States governmentHere's how you know\n![] \n**Official websites use .gov**\nA .gov website belongs to an official government organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA lock () or https:// means you've safely connected to the .gov website. Share sensitive information only on official,"
+      },
+      {
+        "title": "Data Trends",
+        "url": "https://www.cdc.gov/firearm-violence/php/data-trends/index.html",
+        "published": "2024-07-11T00:00:00.000Z",
+        "excerpt": "Data Trends | Firearm Injury and Death Prevention | CDC\n[Skip directly to site content] [Skip directly to search] \n![] An official website of the United States government\n[Here's how you know] \n![] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA**lock**(**) or**https://**means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.\n[!"
+      },
+      {
+        "title": "Notes from the Field : Increases in Firearm Homicide and Suicide Rates \u2014 United States, 2020\u20132021",
+        "url": "https://www.cdc.gov/mmwr/volumes/71/wr/mm7140a4.htm?s_cid=mm7140a4_wb",
+        "published": "2022-10-06T00:00:00.000Z",
+        "excerpt": "Notes from the Field: Increases in Firearm Homicide and Suicide Rates \u2014United States, 2020\u20132021 | MMWR\n[Skip directly to site content] [Skip directly to search] \n[Espa\u00f1ol] |[Other Languages] \n![] An official website of the United States governmentHere's how you know\n![] \n**Official websites use .gov**\nA .gov website belongs to an official government organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA lock () or https:// means you've safely connected to the .gov website. "
+      },
+      {
+        "title": "Firearm Deaths Grow, Disparities Widen | VitalSigns | CDC",
+        "url": "https://www.cdc.gov/vitalsigns/firearm-deaths/",
+        "published": "2022-06-06T00:00:00.000Z",
+        "excerpt": "Firearm Deaths Grow, Disparities Widen | VitalSigns | CDC\n[Skip directly to site content] [Skip directly to search] \n[Espa\u00f1ol] |[Other Languages] \n![] An official website of the United States governmentHere's how you know\n![] \n**Official websites use .gov**\nA .gov website belongs to an official government organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA lock () or https:// means you've safely connected to the .gov website. Share sensitive information only on official,"
+      },
+      {
+        "title": "Vital Signs : Changes in Firearm Homicide and Suicide Rates \u2014 United States, 2019\u20132020",
+        "url": "https://www.cdc.gov/mmwr/volumes/71/wr/mm7119e1.htm",
+        "published": "2022-05-12T00:00:00.000Z",
+        "excerpt": "Vital Signs: Changes in Firearm Homicide and Suicide Rates \u2014United States, 2019\u20132020 | MMWR\n[Skip directly to site content] [Skip directly to search] \n[Espa\u00f1ol] |[Other Languages] \n![] An official website of the United States governmentHere's how you know\n![] \n**Official websites use .gov**\nA .gov website belongs to an official government organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA lock () or https:// means you've safely connected to the .gov website. Share sensi"
+      },
+      {
+        "title": "",
+        "url": "https://www.cdc.gov/mmwr/volumes/71/wr/pdfs/mm7140a4-h.pdf",
+        "published": "2022-10-05T00:00:00.000Z",
+        "excerpt": "Morbidity and Mortality Weekly Report \n1286 MMWR / October 7, 2022 / Vol. 71 / No. 40 US Department of Health and Human Services/Centers for Disease Control and Prevention\nNotes from the Field\nIncreases in Firearm Homicide and Suicide Rates \u2014 \nUnited States, 2020\u20132021\nThomas R. Simon, PhD1; Scott R. Kegler, PhD2; \nMarissa L. Zwald, PhD1; May S. Chen, PhD1; James A. Mercy, PhD1; \nChristopher M. Jones, PharmD, DrPH3; Melissa C. Mercado-Crespo, PhD1; \nJanet M. Blair, PhD1; Deborah M. Stone, ScD2\nTh"
+      },
+      {
+        "title": "",
+        "url": "https://www.cdc.gov/mmwr/volumes/71/wr/pdfs/mm7119e1-H.pdf",
+        "published": "2022-05-11T00:00:00.000Z",
+        "excerpt": "Morbidity and Mortality Weekly Report \n656 MMWR / May 13, 2022 / Vol. 71 / No. 19 US Department of Health and Human Services/Centers for Disease Control and Prevention\nVital Signs: Changes in Firearm Homicide and Suicide Rates \u2014 \nUnited States, 2019\u20132020\nScott R. Kegler, PhD1; Thomas R. Simon, PhD2; Marissa L. Zwald, PhD2; May S. Chen, PhD2; James A. Mercy, PhD2; Christopher M. Jones, PharmD, DrPH3; \nMelissa C. Mercado-Crespo, PhD2; Janet M. Blair, PhD2; Deborah M. Stone, ScD1; Phyllis G. Ottley"
+      },
+      {
+        "title": "Notes from the Field:  Firearm Homicide Rates, by Race and Ethnicity \u2014 United States, 2019\u20132022",
+        "url": "https://www.cdc.gov/mmwr/volumes/72/wr/mm7242a4.htm?s_cid=mm7242a4_w",
+        "published": "2023-10-19T00:00:00.000Z",
+        "excerpt": "Notes from the Field: Firearm Homicide Rates, by Race and Ethnicity \u2014United States, 2019\u20132022 | MMWR\n[Skip directly to site content] [Skip directly to search] \n[Espa\u00f1ol] |[Other Languages] \n![] An official website of the United States governmentHere's how you know\n![] \n**Official websites use .gov**\nA .gov website belongs to an official government organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA lock () or https:// means you've safely connected to the .gov website. Sh"
+      },
+      {
+        "title": "Firearm Suicide Trends",
+        "url": "https://www.cdc.gov/firearm-violence/php/data-trends/firearm-suicide-data-trends.html",
+        "published": "2024-08-19T00:00:00.000Z",
+        "excerpt": "Firearm Suicide Trends | Firearm Injury and Death Prevention | CDC\n[Skip directly to site content] [Skip directly to search] \n![] An official website of the United States government\n[Here's how you know] \n![] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA**lock**(**) or**https://**means you've safely connected to the .gov website. Share sensitive information only on official, secure w"
+      },
+      {
+        "title": "PLOS One",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0117259+",
+        "published": null,
+        "excerpt": "Contagion in Mass Killings and School Shootings | PLOS One\n[Skip to main content] \nAdvertisement\nBrowse Subject Areas\n?\nClick through the PLOS taxonomy to find articles in your field.\nFor more information about PLOS Subject Areas, click[here].\n[] [] \n* Loading metrics\nOpen Access\nPeer-reviewed\nResearch Article\n# Contagion in Mass Killings and School Shootings\n* Sherry Towers,\n\\* E-mail:[smtowers@asu.edu] \nAffiliationArizona State University, Tempe, AZ, USA\n&#x02A2F;\n* Andres Gomez-Lievano,\nAffil"
+      },
+      {
+        "title": "PLOS One",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0117259",
+        "published": "2015-07-02T00:00:00.000Z",
+        "excerpt": "Contagion in Mass Killings and School Shootings | PLOS One\n[Skip to main content] \nAdvertisement\nBrowse Subject Areas\n?\nClick through the PLOS taxonomy to find articles in your field.\nFor more information about PLOS Subject Areas, click[here].\n[] [] \n* Loading metrics\nOpen Access\nPeer-reviewed\nResearch Article\n# Contagion in Mass Killings and School Shootings\n* Sherry Towers,\n\\* E-mail:[smtowers@asu.edu] \nAffiliationArizona State University, Tempe, AZ, USA\n&#x02A2F;\n* Andres Gomez-Lievano,\nAffil"
+      },
+      {
+        "title": "What have we learned from the time trend of mass shootings in the U.S.?",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0204722&amp;utm_source=mandiner&amp;utm_medium=link&amp;utm_campaign=mandiner_202111",
+        "published": "2018-10-18T00:00:00.000Z",
+        "excerpt": "Browse Subject Areas\n\n?\n\nClick through the PLOS taxonomy to find articles in your field.\n\nFor more information about PLOS Subject Areas, click\n[here].\n\n- [Article] \n- [Authors] \n- [Metrics] \n- [Comments] \n- Media Coverage\n\n- [Reader Comments] \n- [Figures] \n\n## Figures\n\n![Fig 1] \n\n![Table 1] \n\n![Fig 2] \n\n![Table 2] \n\n![Fig 3] \n\n## Abstract\n\nLittle is known regarding the time trend of mass shootings and associated risk factors. In the current study, we intended to explore the time trend and releva"
+      },
+      {
+        "title": "Assessing the contagiousness of mass shootings with nonparametric Hawkes processes",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0248437",
+        "published": "2021-03-30T00:00:00.000Z",
+        "excerpt": "Browse Subject Areas\n\n?\n\nClick through the PLOS taxonomy to find articles in your field.\n\nFor more information about PLOS Subject Areas, click\n[here].\n\n- [Article] \n- [Authors] \n- [Metrics] \n- [Comments] \n- Media Coverage\n\n- [Reader Comments] \n- [Figures] \n\n## Figures\n\n![Table 1] \n\n![Fig 1] \n\n![Fig 2] \n\n![Table 2] \n\n![Fig 3] \n\n![Fig 4] \n\n![Fig 5] \n\n![Fig 6] \n\n## Abstract\n\nGun violence and mass shootings are high-profile epidemiological issues facing the United States with questions regarding the"
+      },
+      {
+        "title": "Contagion in mass killings and school shootings",
+        "url": "https://www.mendeley.com/catalogue/c76dcc07-d8a1-37d8-b57f-5dc823fe5cf8/",
+        "published": "2018-08-01T00:00:00.000Z",
+        "excerpt": "Journal ArticleOPEN ACCESS\n\n# Contagion in mass killings and school shootings\n\n- [Towers S] \n- [Gomez-Lievano A] \n- [Khan M] \n- et al.See more\n\nPLoS ONE (2015) 10(7)\n\nDOI: [10.1371/journal.pone.0117259] \n\n204Citations\n\nCitations of this article\n\n296Readers\n\nMendeley users who have this article in their library.\n\nAdd to libraryView PDF\n\n#### Abstract\n\nBackground: Several past studies have found that media reports of suicides and homicides appear to subsequently increase the incidence of similar e"
+      },
+      {
+        "title": "PLOS Global Public Health",
+        "url": "https://journals.plos.org/globalpublichealth/article?id=10.1371%2Fjournal.pgph.0005493",
+        "published": null,
+        "excerpt": "- [Article] \n- [Authors] \n- [Metrics] \n- [Comments] \n- Media Coverage\n\n- [Reader Comments] \n- [Figures] \n\n## Figures\n\n## Abstract\n\nSocial media platforms have become a key tool for politicians to signal their policy positions and communicate about issues that are salient to them and their constituency. One such issue is gun violence. Grounded in framing and issue-attention cycle theories, this paper analyzes the response of members of the United States (US) Congress to mass shootings on social m"
+      },
+      {
+        "title": "Comparing different models to forecast the number of mass shootings in the United States: An application of forecasting rare event time series data",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0287427",
+        "published": "2023-06-26T00:00:00.000Z",
+        "excerpt": "Browse Subject Areas\n\n?\n\nClick through the PLOS taxonomy to find articles in your field.\n\nFor more information about PLOS Subject Areas, click\n[here].\n\n- [Article] \n- [Authors] \n- [Metrics] \n- [Comments] \n- Media Coverage\n\n- [Reader Comments] \n- [Figures] \n\n## Figures\n\n## Abstract\n\nThe number of mass shootings in the United States has increased in the recent decades. Understanding the future risk of the mass shootings is critical for designing strategies to mitigate the risk of mass shootings, a"
+      },
+      {
+        "title": "The Contagion of Mass Shootings: The Interdependence of Large-Scale Massacres and Mass Media Coverage",
+        "url": "https://ideas.repec.org/a/taf/usppxx/v8y2021i1p53-66.html",
+        "published": "2021-02-02T00:00:00.000Z",
+        "excerpt": "[Advanced search] \n\n### Browse Econ Literature\n\n- [Working papers] \n- [Journals] \n- [Software components] \n- [Books] \n- [Book chapters] \n- [JEL classification] \n\n### More features\n\n- [Subscribe to new research] \n- [RePEc Biblio] \n- [Author registration] \n- [Economics Virtual Seminar Calendar] NEW!\n\n![IDEAS home] Printed from https://ideas.repec.org/a/taf/usppxx/v8y2021i1p53-66.html\n\n![] [![]] [My\u00a0bibliography] Save this article\n\n# The Contagion of Mass Shootings: The Interdependence of Large-Sca"
+      },
+      {
+        "title": "GVPedia",
+        "url": "https://www.gvpedia.org/study/contagion-in-mass-killings-and-school-shootings/",
+        "published": "2015-01-01T00:00:00.000Z",
+        "excerpt": "# Contagion in Mass Killings and School Shootings\n\n# GVPedia Study Database\n\n# Contagion in Mass Killings and School Shootings\n\n![] \n\n**Category:** Behavior, Homicide, Mass Shootings\\| **Journal:** PLoS ONE [(full text)] \\| **Author:** A Gomez-Lievano, A Mubayi, C Castillo-Chavez, M Khan, S Towers\\| **Year:** 2015\n\n### Background\n\nSeveral past studies have found that media reports of suicides and homicides appear to subsequently increase the incidence of similar events in the community, apparent"
+      },
+      {
+        "title": "The Nature, Trends, Correlates, and Prevention of Mass Public Shootings in America, 1976-2018",
+        "url": "https://nij.ojp.gov/library/publications/nature-trends-correlates-and-prevention-mass-public-shootings-america-1976",
+        "published": "2021-12-01T00:00:00.000Z",
+        "excerpt": "The Nature, Trends, Correlates, and Prevention of Mass Public Shootings in America, 1976-2018 | National Institute of Justice[Skip to main content] \n![U.S. flag] \nAn official website of the United States government, Department of Justice.\nHere's how you know\nHere's how you know\n![] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in the United States.\n![] \n**Secure .gov websites use HTTPS**\nA**lock**(LockA locked padlock) or**https://**means you\u2019ve "
+      },
+      {
+        "title": "Trends in mass shootings in the United States (2013\u20132021): A worsening American epidemic of death",
+        "url": "https://www.americanjournalofsurgery.com/article/S0002-9610(23)00131-9/fulltext",
+        "published": "2023-08-01T00:00:00.000Z",
+        "excerpt": "[Skip to Main Content] [Skip to Main Menu] \n\nADVERTISEMENT\n\nSCROLL TO CONTINUE WITH CONTENT\n\nOpen GPT ConsoleOpen Oracle KeywordsRefresh Values\n\n| Property | Value |\n| --- | --- |\n| Status |\n| Version |\n| Ad File |\n| Disable Ads Flag |\n| Environment |\n| Moat Init |\n| Moat Ready |\n| Contextual Ready |\n| Contextual URL |\n| Contextual Initial Segments |\n| Contextual Used Segments |\n| AdUnit |\n| SubAdUnit |\n| Custom Targeting |\n| Ad Events |\n| Invalid Ad Sizes |\n\n[Download PDFDownload PDF] \n\nOutline"
+      },
+      {
+        "title": "Mass Shootings in America: Consensus Recommendations for... : Journal of the American College of Surgeons",
+        "url": "https://journals.lww.com/journalacs/abstract/2023/01000/mass_shootings_in_america__consensus.31.aspx",
+        "published": "2025-02-14T00:00:00.000Z",
+        "excerpt": "![]![] \n\n[January 2023 - Volume 236 - Issue 1] \n\n[Article as EPUB] \n\n[Export All Images to PowerPoint File] Add to My Favorites\n\nColleague's E-mail is Invalid\n\nYour Name:\n\nColleague's Email:\n\nSeparate multiple e-mails with a (;).\n\nMessage:\n\nYour message has been successfully sent to your colleague.\n\nSome error has occurred while processing your request. Please try after some time.\n\n| |\n| --- |\n| End Note |\n| Procite |\n| Reference Manager |\n\nSave my selection\n\nOriginal Scientific Articles\n\nGoolsb"
+      },
+      {
+        "title": "Defining the Problem: 53 Years of Firearm Violence... : Journal of the American College of Surgeons",
+        "url": "https://journals.lww.com/journalacs/abstract/2024/04000/defining_the_problem__53_years_of_firearm_violence.52.aspx",
+        "published": "2025-05-14T00:00:00.000Z",
+        "excerpt": "![]![] \n\n[April 2024 - Volume 238 - Issue 4] \n\n[Article as EPUB] \n\n[Export All Images to PowerPoint File] Add to My Favorites\n\nColleague's E-mail is Invalid\n\nYour Name:\n\nColleague's Email:\n\nSeparate multiple e-mails with a (;).\n\nMessage:\n\nYour message has been successfully sent to your colleague.\n\nSome error has occurred while processing your request. Please try after some time.\n\n| |\n| --- |\n| End Note |\n| Procite |\n| Reference Manager |\n\nSave my selection\n\nSouthern Surgical Association Articles"
+      },
+      {
+        "title": "Discrepancies in Mass Shootings and Access to Trauma Care... : Journal of the American College of Surgeons",
+        "url": "https://journals.lww.com/journalacs/citation/2021/11001/discrepancies_in_mass_shootings_and_access_to.568.aspx",
+        "published": "2025-05-14T00:00:00.000Z",
+        "excerpt": "![]![] \n\n[November 2021 - Volume 233 - Issue 5] \n\n[Article as EPUB] \n\n[Export All Images to PowerPoint File] Add to My Favorites\n\nColleague's E-mail is Invalid\n\nYour Name:\n\nColleague's Email:\n\nSeparate multiple e-mails with a (;).\n\nMessage:\n\nYour message has been successfully sent to your colleague.\n\nSome error has occurred while processing your request. Please try after some time.\n\n| |\n| --- |\n| End Note |\n| Procite |\n| Reference Manager |\n\nSave my selection\n\nTrauma/Burn/Critical Care\n\nBeiter, "
+      },
+      {
+        "title": "Firearm Deaths are Endemic and Worsening in the US : Journal of the American College of Surgeons",
+        "url": "https://journals.lww.com/journalacs/citation/2020/10002/firearm_deaths_are_endemic_and_worsening_in_the_us.64.aspx",
+        "published": "2024-06-18T00:00:00.000Z",
+        "excerpt": "![]![] \n\n[October 2020 - Volume 231 - Issue 4] \n\n[Article as EPUB] \n\n[Export All Images to PowerPoint File] Add to My Favorites\n\nColleague's E-mail is Invalid\n\nYour Name:\n\nColleague's Email:\n\nSeparate multiple e-mails with a (;).\n\nMessage:\n\nYour message has been successfully sent to your colleague.\n\nSome error has occurred while processing your request. Please try after some time.\n\n| |\n| --- |\n| End Note |\n| Procite |\n| Reference Manager |\n\nSave my selection\n\nHealth Services Research\n\nRhee, Pete"
+      },
+      {
+        "title": "Characterization of Mass Shootings by State, 2014-2022",
+        "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2807638",
+        "published": "2023-07-03T00:00:00.000Z",
+        "excerpt": "[\\[Skip to Navigation\\]] \n\n[_full text icon_ \\\nFull Text] [_contents icon_ \\\nContents] [_figure icon_ \\\nFigures /\\\n\\\nTables] [_multimedia icon_ \\\nMultimedia] [_attach icon_ \\\nSupplemental\\\n\\\nContent] [_references icon_ \\\nReferences] [_related icon_ \\\nRelated] [_comments icon_ \\\nComments] \n\nDownload PDF\n\nComment\n\n[Top of Article] \n\n- [Introduction] \n- [Methods] \n- [Results] \n- [Discussion] \n- [Article Information] \n- [References] \n\nFigure. \u00a0Cumulative Incidence of Mass Shootings, 2014-2022\n\n[View"
+      },
+      {
+        "title": "",
+        "url": "https://thejns.org/view/journals/j-neurosurg/138/3/article-p882.xml",
+        "published": null,
+        "excerpt": "[Jump to Content] \n\nThis site uses _cookies_, tags, and tracking settings to store information that help give you the very best browsing experience.\n[Dismiss this warning] \n\n# Mass shootings in the United States: an alarming trend of violence and public health threat\n\nCaple A. Spence\n\nCaple A. SpenceDepartment of Neurological Surgery, Oklahoma Heart Hospital, Midwest City, Oklahoma;\n\nSearch for other papers by Caple A. Spence in\n\n[Current site] \n\n[Google Scholar] \n\n[PubMed] Close\n\nMD\n\n,\n\nSonia V"
+      },
+      {
+        "title": "Trends and Disparities in Firearm Fatalities in the United States, 1990-2021",
+        "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2799021",
+        "published": "2022-11-01T00:00:00.000Z",
+        "excerpt": "[\\[Skip to Navigation\\]] \n\n[_full text icon_ \\\nFull Text] [_contents icon_ \\\nContents] [_figure icon_ \\\nFigures /\\\n\\\nTables] [_multimedia icon_ \\\nMultimedia] [_attach icon_ \\\nSupplemental\\\n\\\nContent] [_references icon_ \\\nReferences] [_related icon_ \\\nRelated] [_comments icon_ \\\nComments] \n\nDownload PDF\n\nComment\n\n[Top of Article] \n\n- [Key Points] \n- [Abstract] \n- [Introduction] \n- [Methods] \n- [Results] \n- [Discussion] \n- [Conclusions] \n- [Article Information] \n- [References] \n\nFigure 1. \u00a0Heat Ma"
+      },
+      {
+        "title": "US Civilian Active Shooter Incidents Involving a... : Journal of the American College of Surgeons",
+        "url": "https://journals.lww.com/journalacs/citation/2019/09000/us_civilian_active_shooter_incidents_involving_a.12.aspx",
+        "published": "2025-06-23T00:00:00.000Z",
+        "excerpt": "[September 2019 - Volume 229 - Issue 3] \n\n[Article as EPUB] \n\n[Export All Images to PowerPoint File] Add to My Favorites\n\nColleague's E-mail is Invalid\n\nYour Name:\n\nColleague's Email:\n\nSeparate multiple e-mails with a (;).\n\nMessage:\n\nYour message has been successfully sent to your colleague.\n\nSome error has occurred while processing your request. Please try after some time.\n\n| |\n| --- |\n| End Note |\n| Procite |\n| Reference Manager |\n\nSave my selection\n\nLETTER\n\nde Jager, Elzerie MBBS (Hons); McCa"
+      },
+      {
+        "title": "Association Between Markers of Structural Racism and Mass Shooting Events in Major US Cities",
+        "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2807462",
+        "published": "2023-10-01T00:00:00.000Z",
+        "excerpt": "[\\[Skip to Navigation\\]] \n\n[_full text icon_ \\\nFull Text] [_contents icon_ \\\nContents] [_figure icon_ \\\nFigures /\\\n\\\nTables] [_multimedia icon_ \\\nMultimedia] [_attach icon_ \\\nSupplemental\\\n\\\nContent] [_references icon_ \\\nReferences] [_related icon_ \\\nRelated] [_comments icon_ \\\nComments] \n\nDownload PDF\n\nComment\n\n[Top of Article] \n\n- [Key Points] \n- [Abstract] \n- [Introduction] \n- [Methods] \n- [Results] \n- [Discussion] \n- [Conclusions] \n- [Article Information] \n- [References] \n\nFigure. \u00a0Spearman "
+      }
+    ],
+    "search_queries": [
+      "Search #1: FBI mass shooting statistics trends data increasing...",
+      "Search #2: CDC mass shooting data research trends United States...",
+      "Search #3: academic research mass shootings increasing frequency analys...",
+      "Search #4: active shooter incidents FBI report statistics annual...",
+      "Search #5: FBI active shooter incidents 61 in 2021 increase trend analy...",
+      "Search #6: mass shootings doubled tripled increasing frequency United S...",
+      "Search #7: NIJ National Institute Justice mass public shootings 1976-20...",
+      "Search #8: \"52.5% increase\" FBI 2021 active shooter incidents 61...",
+      "Search #9: school shootings highest recorded levels 2024 JAMA Pediatric...",
+      "Search #10: firearm homicide suicide rates increase 2019 2020 CDC vital ...",
+      "Search #11: \"firearm homicide rate increased\" \"35%\" 2019 2020 CDC...",
+      "Search #12: PLOS time trend mass shootings contagion effect increasing...",
+      "Search #13: American Journal Surgery mass shootings worsening epidemic 2..."
+    ],
+    "search_count": 13,
+    "time_seconds": 75.29259896278381
+  },
+  "claude": {
+    "analysis_text": "I'll search for data on mass shootings from FBI, CDC, and academic sources to answer your research question.Let me search for a few more academic sources to round out the analysis.Now I have comprehensive information from FBI, CDC, academic research, and multiple other sources. Let me compile this into the requested format.\n\n---\n\n## 1. KEY FINDINGS\n\n### FBI Data on Active Shooter Incidents\n\n**Claim:** FBI data shows active shooter incidents increased significantly from 2000 to 2023.\n**Quote:** \"The FBI found an increase in active shooter incidents between 2000 and 2023. There were three such incidents in 2000. By 2023, that figure had increased to 48.\"\n**Source:** https://www.pewresearch.org/short-reads/2025/03/05/what-the-data-says-about-gun-deaths-in-the-us/\n\n**Claim:** FBI designated an 89% increase in active shooter incidents from 2014-2018 to 2019-2023.\n**Quote:** \"The FBI designated 229 active shooter incidents from 2019 to 2023. This represents an 89% increase in active shooter incidents (121) from the previous five-year period (2014\u20132018).\"\n**Source:** https://www.fbi.gov/news/press-releases/fbi-releases-2023-active-shooter-incidents-in-the-united-states-report\n\n**Claim:** FBI data shows active shooter incidents decreased significantly in 2024.\n**Quote:** \"In 2024, the FBI designated 24 shootings as active shooter incidents. Incidents decreased by 50% from 2023 (48 incidents).\"\n**Source:** https://www.fbi.gov/news/press-releases/fbi-releases-2024-active-shooter-incidents-in-the-united-states-report\n\n**Claim:** The FBI found a 70% increase comparing 2020-2024 to 2015-2019, but notes a downward trend overall.\n**Quote:** \"From 2020 to 2024, the FBI designated 223 active shooter incidents. While this represents an 70% increase in active shooter incidents from the previous five-year period (2015 to 2019), the data shows a downward trend overall.\"\n**Source:** https://www.fbi.gov/news/press-releases/fbi-releases-2024-active-shooter-incidents-in-the-united-states-report\n\n**Claim:** Early FBI study found incidents more than doubled from 2000-2006 to 2007-2013.\n**Quote:** \"An average of 11.4 incidents occurred annually with an increasing trend from 2000 to 2013. An average of 6.4 occurred in the first 7 years studied and an average of 16.4 occurred in the last 7 years.\"\n**Source:** https://www.usda.gov/sites/default/files/documents/fbi-as-study-quick-reference-guide.pdf\n\n### CDC and Overall Gun Death Data\n\n**Claim:** More Americans died of gun-related injuries in 2021 than in any other year on record.\n**Quote:** \"More Americans died of gun-related injuries in 2021 than in any other year on record, according to the latest available statistics from the CDC.\"\n**Source:** https://www.pewresearch.org/short-reads/2025/03/05/what-the-data-says-about-gun-deaths-in-the-us/\n\n**Claim:** In 2022, there were more than 48,000 firearm-related deaths in the United States.\n**Quote:** \"In 2022, there were more than 48,000 firearm-related deaths in the United States according to mortality data.\"\n**Source:** https://www.cdc.gov/firearm-violence/data-research/facts-stats/index.html\n\n**Claim:** CDC data shows 46,728 gun deaths in 2023, the third-highest annual total ever recorded.\n**Quote:** \"In 2023, the Centers for Disease Control and Prevention (CDC) data shows, 46,728 individuals died from gun violence in the United States, the third-highest annual total ever recorded.\"\n**Source:** https://publichealth.jhu.edu/center-for-gun-violence-solutions/2025/why-is-gun-violence-a-public-health-epidemic\n\n### Gun Violence Archive Mass Shooting Data\n\n**Claim:** Mass shooting incidents according to Gun Violence Archive peaked in 2021 and have declined since.\n**Quote:** \"Under the definition used by the Gun Violence Archive, by the end of 2019, there were 417 mass shootings; by the end of 2020, there had been 611; and by the end of 2021, 693.\"\n**Source:** https://en.wikipedia.org/wiki/Mass_shootings_in_the_United_States\n\n**Claim:** Gun Violence Archive reports mass shootings have decreased to pre-COVID levels in recent years.\n**Quote:** \"MAY 1...Report of first four months: YTD deaths DOWN 866, injuries DOWN 1,901. Mass Shootings down to pre COVID levels.\"\n**Source:** https://www.gunviolencearchive.org/\n\n**Claim:** Mass shootings occurred at over 600 per year from 2020-2023 compared to less than 400 before 2018.\n**Quote:** \"experienced more than 600 mass shooting incidents each year between 2020 and 2023, compared to an average of less than 400 annual mass shooting incidents between 2015 and 2018.\"\n**Source:** https://www.ncbi.nlm.nih.gov/books/NBK605168/\n\n**Claim:** GVA recorded 408 mass shootings in the U.S. in 2025, continuing a decline from 2021's record.\n**Quote:** \"There were 408 mass shootings in 2025, down from 504 in 2024 and 41 percent below the record set in 2021.\"\n**Source:** https://www.thetrace.org/2025/12/data-shooting-stats-gun-violence-america/\n\n### Academic Research Findings\n\n**Claim:** A 2023 American Journal of Surgery study found mass shootings increased from 2013-2021, with a spike during COVID-19.\n**Quote:** \"The number of mass shootings in the United States has increased over time. There was a further spike in mass shootings during the COVID-19 pandemic.\"\n**Source:** https://www.americanjournalofsurgery.com/article/S0002-9610(23)00131-9/fulltext\n\n**Claim:** A 2025 study found mass shooting incidents and fatality rates significantly increased from 2000 to 2022.\n**Quote:** \"In the study period from 2000 to 2022 the rate of mass shootings increased in the United States.\"\n**Source:** https://www.sciencedirect.com/science/article/abs/pii/S0002961025003393\n\n**Claim:** NIJ-supported research found the average annual death toll from mass shootings rose from 8 per year in the 1970s to 51 per year from 2010-2019.\n**Quote:** \"In the 1970s, mass shootings claimed an average of eight lives per year. From 2010 to 2019, the end of the study period, the average was up to 51 deaths per year.\"\n**Source:** https://nij.ojp.gov/topics/articles/public-mass-shootings-database-amasses-details-half-century-us-mass-shootings\n\n**Claim:** Peer-reviewed research shows academic publications on mass shootings increased dramatically after 2014.\n**Quote:** \"Between 1999 and 2013, on average, 1.5 articles were published, whereas between 2014 and 2018, there were 12.2 articles published each year.\"\n**Source:** https://www.sciencedirect.com/science/article/abs/pii/S1359178921000380\n\n**Claim:** A 2017 study found the rate of public mass shootings tripled from 2011 onwards.\n**Quote:** \"As of 2017, studies indicated that the rate at which public mass shootings occur has tripled since 2011. Between 1982 and 2011, a mass shooting occurred roughly once every 200 days. However, between 2011 and 2014, that rate has accelerated greatly with at least one mass shooting occurring every 64 days in the United States.\"\n**Source:** https://en.wikipedia.org/wiki/Mass_shootings_in_the_United_States\n\n### RAND Corporation Research Analysis\n\n**Claim:** RAND notes mass shooting trend estimates are sensitive to outliers and the time frame chosen for analysis.\n**Quote:** \"Chance variability in the annual number of mass shooting incidents makes it hard to discern a clear trend in the risk of such incidents, and trend estimates are sensitive to outliers and to the time frame chosen for analysis.\"\n**Source:** https://www.pewresearch.org/short-reads/2025/03/05/what-the-data-says-about-gun-deaths-in-the-us/\n\n**Claim:** RAND research found evidence of an upward trend in mass public shootings from 1999-2013, though driven largely by 2012.\n**Quote:** \"Krouse and Richardson (2015) found evidence of an upward trend in mass public shootings from 1999 to 2013, they noted that the increase was driven largely by events in 2012, which there was an unusually high number of mass public shooting incidents.\"\n**Source:** https://www.rand.org/research/gun-policy/analysis/essays/mass-shootings.html\n\n**Claim:** RAND found limited evidence that bans on high-capacity magazines may reduce mass shootings and fatalities.\n**Quote:** \"limited evidence that bans on high-capacity magazines may reduce mass shootings and mass shooting fatalities\"\n**Source:** https://www.rand.org/news/press/2023/01/10.html\n\n### Research Methodology and Definition Challenges\n\n**Claim:** There is no single, agreed-upon definition of \"mass shooting,\" complicating trend analysis.\n**Quote:** \"This is a difficult question to answer because there is no single, agreed-upon definition of the term 'mass shooting.' Definitions can vary depending on factors including the number of victims and the circumstances of the shooting.\"\n**Source:** https://www.pewresearch.org/short-reads/2025/03/05/what-the-data-says-about-gun-deaths-in-the-us/\n\n**Claim:** NIJ research found scholarship has been hampered by lack of agreement on definitions and consistent data sources.\n**Quote:** \"the scholarship has been hampered by a lack of agreement on definitions of critical terms, such as 'mass shootings' and 'mass murders,' and by the absence of consistent sources of data on mass shootings.\"\n**Source:** https://nij.ojp.gov/topics/articles/advancing-mass-shooting-research-inform-practice\n\n### Contextual Data\n\n**Claim:** Mass shootings constitute a small fraction of overall gun deaths in the United States.\n**Quote:** \"Although mass shootings are covered extensively in the media, they account for a small fraction of gun-related deaths, only 1 percent of all gun deaths between 1980 and 2008.\"\n**Source:** https://en.wikipedia.org/wiki/Gun_violence_in_the_United_States\n\n**Claim:** More than half of all firearm-related deaths are suicides, not homicides.\n**Quote:** \"More than half of firearm-related deaths were suicides and more than four out of every 10 were firearm homicides.\"\n**Source:** https://www.cdc.gov/firearm-violence/data-research/facts-stats/index.html\n\n**Note:** [INFERENCE - not directly stated in sources] The data presents a complex picture: using the FBI's active shooter definition, there is clear evidence of an increase from 2000 to 2023, with significant year-to-year variability and a recent decline in 2024. Using broader definitions (like Gun Violence Archive's 4+ shot), mass shootings peaked during the COVID-19 pandemic (2020-2021) and have declined since. The overall trend depends heavily on the definition used and the timeframe examined.\n\n## 2. SOURCE QUALITY ASSESSMENT\n\n**Federal Government Sources (FBI, CDC):**\n- **High Reliability:** FBI active shooter reports are official federal statistics with transparent methodology and consistent data collection since 2000\n- **Strengths:** Systematic classification, verified by law enforcement partnerships, published annually\n- **Limitations:** FBI's \"active shooter\" definition excludes gang violence, domestic disputes, and other scenarios, capturing only a subset of mass shooting incidents\n- **CDC data:** Gold standard for mortality statistics, drawn from death certificates, comprehensive but lag by 1-2 years\n\n**Gun Violence Archive:**\n- **Moderate-High Reliability:** Non-profit, non-advocacy organization collecting data from 5,000+ sources daily\n- **Strengths:** Real-time tracking, broader definition captures more incidents, publicly available methodology\n- **Limitations:** Relies on media reports and police logs, not all incidents may be captured, incomplete data acknowledged by researchers\n\n**Academic Research:**\n- **High Reliability:** Peer-reviewed studies from institutions including NIJ, RAND Corporation, Johns Hopkins, American Journal of Surgery, PLOS One\n- **Strengths:** Rigorous methodology, multiple independent datasets, transparent limitations\n- **Limitations:** Studies use varying definitions making cross-comparison difficult; statistical challenges due to rare-event nature of mass shootings\n\n**Overall Assessment:**\nThe preponderance of evidence from multiple independent high-quality sources (federal agencies, academic research, systematic databases) supports the conclusion that mass shooting incidents increased substantially from 2000 through 2021, with a recent decline from 2022-2025. However, the magnitude of increase varies significantly depending on definition and measurement approach.\n\n## 3. GAPS OR CONTRADICTIONS\n\n**Major Gaps:**\n\n1. **Definition Inconsistency:** No federal standard definition exists. FBI uses \"active shooter\" (ongoing incident in populated area), federal law uses \"mass killing\" (3+ deaths), Gun Violence Archive uses 4+ shot regardless of deaths, Mother Jones uses 4+ killed in public excluding gang/domestic violence. This makes direct comparisons between datasets extremely difficult.\n\n2. **COVID-19 Anomaly:** Multiple sources note a significant spike during 2020-2021 pandemic period, but it's unclear whether this represents a true trend or temporary disruption. Post-pandemic data (2022-2025) shows substantial decline, suggesting pandemic-era was anomalous.\n\n3. **Recent Trend Uncertainty:** 2024 FBI data shows a 50% decrease from 2023, creating uncertainty about whether the long-term upward trend has reversed or if this is statistical variability.\n\n4. **Incomplete Earlier Data:** Historical data from 1970s-1990s may be less complete than modern records, potentially biasing trend estimates toward showing increases.\n\n**Contradictions:**\n\n1. **Short-term vs. Long-term Trends:** Long-term data (2000-2023) shows clear increase; recent data (2021-2025) shows decline. Both statements are factually accurate but paint different pictures.\n\n2. **",
+    "sources": [
+      {
+        "title": "What the data says about gun deaths in the US | Pew Research Center",
+        "url": "https://www.pewresearch.org/short-reads/2025/03/05/what-the-data-says-about-gun-deaths-in-the-us/",
+        "page_age": "July 21, 2025"
+      },
+      {
+        "title": "FBI Releases 2024 Active Shooter Incidents in the United States Report | Federal Bureau of Investigation",
+        "url": "https://www.fbi.gov/news/press-releases/fbi-releases-2024-active-shooter-incidents-in-the-united-states-report",
+        "page_age": "June 3, 2025"
+      },
+      {
+        "title": "FBI Active Shooter Study: Quick Reference Guide",
+        "url": "https://www.usda.gov/sites/default/files/documents/fbi-as-study-quick-reference-guide.pdf",
+        "page_age": null
+      },
+      {
+        "title": "Active Shooter Incidents in the United States in 2024 | Federal Bureau of Investigation",
+        "url": "https://www.fbi.gov/file-repository/reports-and-publications/2024-active-shooter-report/view",
+        "page_age": "June 3, 2025"
+      },
+      {
+        "title": "Understanding the FBI's 2024 active shooter data: Context, trends and takeaways",
+        "url": "https://www.police1.com/active-shooter/understanding-the-fbi-2024-active-shooter-data-context-trends-and-takeaways",
+        "page_age": "July 2, 2025"
+      },
+      {
+        "title": "FBI's Crime Data Explorer (CDE)",
+        "url": "https://cde.ucr.cjis.gov/",
+        "page_age": null
+      },
+      {
+        "title": "ACTIVE SHOOTER INCIDENTS IN THE UNITED 2022 STATES IN",
+        "url": "https://www.fbi.gov/file-repository/active-shooter-incidents-in-the-us-2022-042623.pdf",
+        "page_age": null
+      },
+      {
+        "title": "Mass shootings in the United States - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mass_shootings_in_the_United_States",
+        "page_age": "1 day ago"
+      },
+      {
+        "title": "FBI Releases 2023 Active Shooter Incidents in the United States Report | Federal Bureau of Investigation",
+        "url": "https://www.fbi.gov/news/press-releases/fbi-releases-2023-active-shooter-incidents-in-the-united-states-report",
+        "page_age": "June 20, 2024"
+      },
+      {
+        "title": "The federal data available on active shooter incidents, mass killings and domestic terrorism | USAFacts",
+        "url": "https://usafacts.org/articles/federal-data-available-active-shooter-incidents-mass-killings-and-domestic-terrorism/",
+        "page_age": "October 3, 2023"
+      },
+      {
+        "title": "What the data says about gun deaths in the US | Pew Research Center",
+        "url": "https://www.pewresearch.org/short-reads/2025/03/05/what-the-data-says-about-gun-deaths-in-the-us/",
+        "page_age": "July 21, 2025"
+      },
+      {
+        "title": "Gun Violence Archive",
+        "url": "https://www.gunviolencearchive.org/",
+        "page_age": null
+      },
+      {
+        "title": "Statistics | Brady United",
+        "url": "https://www.bradyunited.org/resources/statistics",
+        "page_age": "February 3, 2025"
+      },
+      {
+        "title": "Everytown Research - EveryStat",
+        "url": "https://everystat.org/",
+        "page_age": null
+      },
+      {
+        "title": "Fast Facts: Firearm Injury and Death | Firearm Injury and Death Prevention | CDC",
+        "url": "https://www.cdc.gov/firearm-violence/data-research/facts-stats/index.html",
+        "page_age": "July 22, 2024"
+      },
+      {
+        "title": "Gun violence in the United States - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gun_violence_in_the_United_States",
+        "page_age": "1 week ago"
+      },
+      {
+        "title": "Why is Gun Violence a Public Health Epidemic? | Center for Gun Violence Solutions",
+        "url": "https://publichealth.jhu.edu/center-for-gun-violence-solutions/2025/why-is-gun-violence-a-public-health-epidemic",
+        "page_age": "December 2, 2025"
+      },
+      {
+        "title": "Fatal school shootings and the epidemiological context of firearm mortality in the United States - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5314897/",
+        "page_age": null
+      },
+      {
+        "title": "Firearm Violence in the U.S.: Death and Injury - Firearm Violence: A Public Health Crisis in America - NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK605168/",
+        "page_age": null
+      },
+      {
+        "title": "The Data on Gun Violence in America, Q3 2025",
+        "url": "https://www.thetrace.org/2025/10/shooting-gun-violence-data-america-q3/",
+        "page_age": "October 10, 2025"
+      },
+      {
+        "title": "Advancing Mass Shooting Research To Inform Practice | National Institute of Justice",
+        "url": "https://nij.ojp.gov/topics/articles/advancing-mass-shooting-research-inform-practice",
+        "page_age": null
+      },
+      {
+        "title": "Exploring the empirical literature on mass shooting: A mixed-method systematic review of peer-reviewed journal articles - ScienceDirect",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S1359178921000380",
+        "page_age": "March 2, 2021"
+      },
+      {
+        "title": "Trends in mass shootings in the United States (2013\u20132021): A worsening American epidemic of death - The American Journal of Surgery",
+        "url": "https://www.americanjournalofsurgery.com/article/S0002-9610(23)00131-9/fulltext",
+        "page_age": "April 5, 2023"
+      },
+      {
+        "title": "Mass Shooting Data & Research | The Violence Project",
+        "url": "https://www.theviolenceproject.org/",
+        "page_age": "November 10, 2025"
+      },
+      {
+        "title": "Public mass shootings cause large surges in Americans\u2019 engagement with gun policy | PNAS Nexus | Oxford Academic",
+        "url": "https://academic.oup.com/pnasnexus/article/2/12/pgad407/7453706",
+        "page_age": "December 1, 2023"
+      },
+      {
+        "title": "Examining Trends, Impacts, Drivers, and Policy Implications of Active School Shooter Incidents: A Research Overview - Homeland Security Affairs",
+        "url": "https://www.hsaj.org/articles/22337",
+        "page_age": "February 7, 2025"
+      },
+      {
+        "title": "Mass Shooting Factsheet | Rockefeller Institute of Government",
+        "url": "https://rockinst.org/gun-violence/mass-shooting-factsheet/",
+        "page_age": "June 7, 2018"
+      },
+      {
+        "title": "New directions in mass shooting research: Four investigative lenses from a national database - ScienceDirect",
+        "url": "https://www.sciencedirect.com/science/article/pii/S305071382500018X",
+        "page_age": "September 23, 2025"
+      },
+      {
+        "title": "Dissecting the numbers: A detailed analysis of 23 years of mass shootings across the United States - ScienceDirect",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0002961025003393",
+        "page_age": "July 12, 2025"
+      },
+      {
+        "title": "Mass Shootings: The Role of the Media in Promoting Generalized Imitation - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5296697/",
+        "page_age": null
+      },
+      {
+        "title": "FBI Releases 2024 Active Shooter Incidents in the United States Report | Federal Bureau of Investigation",
+        "url": "https://www.fbi.gov/news/press-releases/fbi-releases-2024-active-shooter-incidents-in-the-united-states-report",
+        "page_age": "June 3, 2025"
+      },
+      {
+        "title": "Texas had more active shooter incidents in 2024 than any other state, FBI report shows",
+        "url": "https://www.kvue.com/article/news/crime/texas-active-shooter-incidents-2024-fbi-report/269-68269605-fc1f-49ea-902f-f0e209f15e32",
+        "page_age": null
+      },
+      {
+        "title": "FBI Active Shooter Study: Quick Reference Guide",
+        "url": "https://www.usda.gov/sites/default/files/documents/fbi-as-study-quick-reference-guide.pdf",
+        "page_age": null
+      },
+      {
+        "title": "How to Define Mass Shootings: Potential Policy Implications | Congress.gov | Library of Congress",
+        "url": "https://www.congress.gov/crs-product/R48276",
+        "page_age": null
+      },
+      {
+        "title": "10 Takeaways from FBI Report",
+        "url": "https://www.alicetraining.com/wp-content/uploads/2025/02/3125_FBI_Report_Top_10_List_9.30.2014.pdf",
+        "page_age": null
+      },
+      {
+        "title": "Active Shooter Incidents in the United States in 2024 | Federal Bureau of Investigation",
+        "url": "https://www.fbi.gov/file-repository/reports-and-publications/2024-active-shooter-report/view",
+        "page_age": "June 3, 2025"
+      },
+      {
+        "title": "Reports and Publications | Federal Bureau of Investigation",
+        "url": "https://www.fbi.gov/file-repository/reports-and-publications",
+        "page_age": "June 3, 2025"
+      },
+      {
+        "title": "FBI Active Shooter Safety Resources",
+        "url": "https://www.fbi.gov/how-we-can-help-you/active-shooter-safety-resources",
+        "page_age": "November 14, 2025"
+      },
+      {
+        "title": "FBI Releases 2023 Active Shooter Incidents in the United States Report | Federal Bureau of Investigation",
+        "url": "https://www.fbi.gov/news/press-releases/fbi-releases-2023-active-shooter-incidents-in-the-united-states-report",
+        "page_age": "June 20, 2024"
+      },
+      {
+        "title": "ACTIVE SHOOTER The world we live in today",
+        "url": "https://www.laportetx.gov/DocumentCenter/View/2453",
+        "page_age": null
+      },
+      {
+        "title": "Gun Violence Archive",
+        "url": "https://www.gunviolencearchive.org/",
+        "page_age": null
+      },
+      {
+        "title": "What the data says about gun deaths in the US | Pew Research Center",
+        "url": "https://www.pewresearch.org/short-reads/2025/03/05/what-the-data-says-about-gun-deaths-in-the-us/",
+        "page_age": "July 21, 2025"
+      },
+      {
+        "title": "Mass Shootings in 2026 | Gun Violence Archive",
+        "url": "https://www.gunviolencearchive.org/reports/mass-shooting",
+        "page_age": null
+      },
+      {
+        "title": "Mass Shootings | Gun Violence Archive",
+        "url": "https://www.gunviolencearchive.org/mass-shooting",
+        "page_age": null
+      },
+      {
+        "title": "Past Summary Ledgers | Gun Violence Archive",
+        "url": "https://www.gunviolencearchive.org/past-tolls",
+        "page_age": null
+      },
+      {
+        "title": "The Data on Gun Violence in America, Q4 2025",
+        "url": "https://www.thetrace.org/2026/01/shooting-gun-violence-data-america-q4-2025/",
+        "page_age": "6 days ago"
+      },
+      {
+        "title": "Gun Violence by the Numbers in 2025",
+        "url": "https://www.thetrace.org/2025/12/data-shooting-stats-gun-violence-america/",
+        "page_age": "2 weeks ago"
+      },
+      {
+        "title": "Mass shootings in the United States - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mass_shootings_in_the_United_States",
+        "page_age": "1 day ago"
+      },
+      {
+        "title": "Mass Shootings \u2014 Dataset \u2014 The Gun Violence Data Hub",
+        "url": "https://datahub.thetrace.org/dataset/mass-shootings/",
+        "page_age": "November 13, 2025"
+      },
+      {
+        "title": "Mass Shootings",
+        "url": "https://www.shootingtracker.com/",
+        "page_age": null
+      },
+      {
+        "title": "Mass Shootings in the United States | RAND",
+        "url": "https://www.rand.org/research/gun-policy/analysis/essays/mass-shootings.html",
+        "page_age": null
+      },
+      {
+        "title": "About the Mass Attacks Defense Toolkit | RAND",
+        "url": "https://www.rand.org/pubs/tools/TLA1613-1/toolkit/about.html",
+        "page_age": null
+      },
+      {
+        "title": "Gun Violence | RAND",
+        "url": "https://www.rand.org/topics/gun-violence.html",
+        "page_age": null
+      },
+      {
+        "title": "Effects of Assault Weapon and High-Capacity Magazine Bans on Mass Shootings | RAND",
+        "url": "https://www.rand.org/research/gun-policy/analysis/ban-assault-weapons/mass-shootings.html",
+        "page_age": null
+      },
+      {
+        "title": "Effects of Background Checks on Mass Shootings | RAND",
+        "url": "https://www.rand.org/research/gun-policy/analysis/background-checks/mass-shootings.html",
+        "page_age": null
+      },
+      {
+        "title": "When Mass Shooters Are Seeking Fame | RAND",
+        "url": "https://www.rand.org/blog/2023/07/when-mass-shooters-are-seeking-fame.html",
+        "page_age": "July 13, 2023"
+      },
+      {
+        "title": "Evidence About Effects of Gun Policies Grows and Supports Laws Intended to Restrict Child Access to Guns | RAND",
+        "url": "https://www.rand.org/news/press/2023/01/10.html",
+        "page_age": "January 10, 2023"
+      },
+      {
+        "title": "How Gun Policies Affect Mass Shootings | RAND",
+        "url": "https://www.rand.org/research/gun-policy/analysis/mass-shootings.html",
+        "page_age": null
+      },
+      {
+        "title": "The Role of Assault Weapons in Mass Shooting Incidents: State of the Science: Addendum | RAND",
+        "url": "https://www.rand.org/pubs/testimonies/CTA2184-2.html",
+        "page_age": "August 18, 2022"
+      },
+      {
+        "title": "What Science Tells Us About the Effects of Gun Policies | RAND",
+        "url": "https://www.rand.org/research/gun-policy/key-findings/what-science-tells-us-about-the-effects-of-gun-policies.html",
+        "page_age": null
+      },
+      {
+        "title": "Exploring the empirical literature on mass shooting: A mixed-method systematic review of peer-reviewed journal articles - ScienceDirect",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S1359178921000380",
+        "page_age": "March 2, 2021"
+      },
+      {
+        "title": "Public Mass Shootings: Database Amasses Details of a Half Century of U.S. Mass Shootings with Firearms, Generating Psychosocial Histories | National Institute of Justice",
+        "url": "https://nij.ojp.gov/topics/articles/public-mass-shootings-database-amasses-details-half-century-us-mass-shootings",
+        "page_age": null
+      },
+      {
+        "title": "Mass Shootings: The Role of the Media in Promoting Generalized Imitation - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5296697/",
+        "page_age": null
+      },
+      {
+        "title": "Trends in mass shootings in the United States (2013\u20132021): A worsening American epidemic of death - The American Journal of Surgery",
+        "url": "https://www.americanjournalofsurgery.com/article/S0002-9610(23)00131-9/fulltext",
+        "page_age": "April 5, 2023"
+      },
+      {
+        "title": "Mass Shootings In The United States: Population Health Impacts And Policy Levers | Health Affairs Brief",
+        "url": "https://www.healthaffairs.org/content/briefs/mass-shootings-united-states-population-health-policy-levers",
+        "page_age": null
+      },
+      {
+        "title": "New Studies on Mass Shootings Assess Trends, Gauge Effectiveness, and Offer Policy Recommendations | Carnegie Mellon University's Heinz College",
+        "url": "https://www.heinz.cmu.edu/media/2020/February/new-studies-mass-shootings-assess-trends",
+        "page_age": null
+      },
+      {
+        "title": "What have we learned from the time trend of mass shootings in the U.S.? | PLOS One",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0204722",
+        "page_age": "October 18, 2018"
+      },
+      {
+        "title": "An Examination of US School Mass Shootings, 2017\u20132022: Findings and Implications - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9388351/",
+        "page_age": null
+      },
+      {
+        "title": "Mass Shootings in the United States | RAND",
+        "url": "https://www.rand.org/research/gun-policy/analysis/essays/mass-shootings.html",
+        "page_age": null
+      },
+      {
+        "title": "Mass Shootings in the United States: Prevalence, Policy, and a Way Forward - Jaclyn Schildkraut, Lisa B. Geller, 2022",
+        "url": "https://journals.sagepub.com/doi/10.1177/00027162231164484",
+        "page_age": null
+      }
+    ],
+    "search_count": 0,
+    "time_seconds": 88.0665271282196
+  },
+  "metrics": {
+    "exa_traceability": 100.0,
+    "exa_supported": 14,
+    "exa_tier_a": 91,
+    "exa_tier_a_pct": 70.0,
+    "exa_cost": 0.2068,
+    "claude_traceability": 100.0,
+    "claude_supported": 24,
+    "claude_tier_a": 24,
+    "claude_tier_a_pct": 34.285714285714285,
+    "claude_cost": 0.4805
+  }
+}

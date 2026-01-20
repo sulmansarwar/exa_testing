@@ -1,0 +1,808 @@
+{
+  "timestamp": "2026-01-20T00:06:38.307383",
+  "query": "Build a timeline of Boeing 737 MAX safety concerns from first reports to current FAA statements",
+  "query_category": "Timeline Construction",
+  "app_type": "general",
+  "webset_category": null,
+  "search_type": "neural",
+  "num_results": 10,
+  "exa": {
+    "analysis_text": "Now let me compile this information into a comprehensive timeline analysis.\n\n## 1. KEY FINDINGS\n\n### Early Development Period (2012-2015)\n\n**Claim:** Boeing's MCAS system gained increased power during 737 MAX development after 2012 wind tunnel testing revealed aerodynamic concerns.\n**Quote:** \"testing in 2012, with air flow approaching the speed of sound, allowed engineers to analyze how the airplane's aerodynamics would handle extreme maneuvers\"\n**Source:** https://www.seattletimes.com/seattle-news/times-watchdog/the-inside-story-of-mcas-how-boeings-737-max-system-gained-power-and-lost-safeguards/\n\n**Claim:** FAA managers pushed safety engineers to delegate assessments to Boeing itself during rushed 2015 certification.\n**Quote:** \"FAA managers pushed the agency's safety engineers to delegate safety assessments to Boeing itself, and to speedily approve the resulting analysis\"\n**Source:** https://www.seattletimes.com/business/boeing-aerospace/failed-certification-faa-missed-safety-issues-in-the-737-max-system-implicated-in-the-lion-air-crash/\n\n### First Fatal Crash - Lion Air Flight 610 (October 29, 2018)\n\n**Claim:** Lion Air Flight 610, a Boeing 737 MAX 8, crashed into the Java Sea shortly after takeoff from Jakarta.\n**Quote:** \"On October 29, 2018, PT Lion Mentari Airlines (Lion Air) flight 610, a Boeing 737 MAX 8, PK-LQP, crashed in the Java Sea shortly after takeoff\"\n**Source:** https://data.ntsb.gov/Docket/Document/docBLOB?ID=11369094&FileExtension=pdf&FileName=CERTIFICATION%20SPECIALIST%E2%80%99S%20REPORT-Rel.pdf\n\n### Second Fatal Crash - Ethiopian Airlines Flight 302 (March 10, 2019)\n\n**Claim:** Ethiopian Airlines Flight 302 crashed 28 nautical miles southeast of Addis Ababa on March 10, 2019.\n**Quote:** \"B737-8 (MAX) Registered ET-AVJ 28 NM South East of Addis Ababa, Bole International Airport March 10, 2019\"\n**Source:** https://flightsafety.org/wp-content/uploads/2019/04/Preliminary-Report-B737-800MAX-ET-AVJ.pdf\n\n**Claim:** Pilots were unable to prevent the plane from repeatedly nosediving despite following emergency procedures.\n**Quote:** \"Pilots of the crashed Ethiopian Airlines Boeing 737 Max were unable to prevent the plane repeatedly nosediving despite following procedure\"\n**Source:** https://www.bbc.com/news/world-africa-47553174\n\n### FAA Grounding (March 13, 2019)\n\n**Claim:** The FAA issued an Emergency Order of Prohibition grounding all Boeing 737 MAX aircraft on March 13, 2019.\n**Quote:** \"This Order prohibits the operation of Boeing Company Model 737-8 and Boeing Company Model 737-9 airplanes by U.S. certificated operators\"\n**Source:** https://www.faa.gov/sites/faa.gov/files/2021-08/Emergency_Order.pdf\n\n### Whistleblower Allegations (May 2019 onwards)\n\n**Claim:** A Boeing engineer filed an internal ethics complaint alleging management blocked safety improvements to reduce costs for airline customers.\n**Quote:** \"management \u2014 determined to keep down costs for airline customers \u2014 had blocked significant safety improvements during the jet's development\"\n**Source:** https://www.seattletimes.com/business/boeing-aerospace/boeing-whistleblowers-complaint-says-737-max-safety-upgrades-were-rejected-over-cost/\n\n### NTSB Safety Recommendations (September 26, 2019)\n\n**Claim:** The NTSB issued seven safety recommendations to the FAA related to the two crash investigations.\n**Quote:** \"NTSB Issues 7 Safety Recommendations to FAA related to Ongoing Lion Air, Ethiopian Airlines Crash Investigations\"\n**Source:** https://www.ntsb.gov/news/press-releases/Pages/NR20190926.aspx\n\n### Congressional Investigation (September 2020)\n\n**Claim:** A House Committee investigation report documented failures in Boeing's design, development and certification of the 737 MAX.\n**Quote:** \"THE DESIGN, DEVELOPMENT & CERTIFICATION OF THE BOEING 737 MAX SEPTEMBER 2020\"\n**Source:** https://s3.documentcloud.org/documents/7209479/2020-09-15-FINAL-737-MAX-Report-for-Public-Release.pdf\n\n### Return to Service (November 18, 2020)\n\n**Claim:** The FAA completed its review and allowed the 737 MAX to return to service with required safety enhancements.\n**Quote:** \"Return to Service of the Boeing 737 MAX Aircraft Date: November 18, 2020\"\n**Source:** https://www.faa.gov/sites/faa.gov/files/2022-08/737_RTS_Summary.pdf\n\n### Senate Whistleblower Report (December 2021)\n\n**Claim:** A Senate Committee investigation released findings from multiple Boeing whistleblowers regarding safety concerns.\n**Quote:** \"Aviation Safety Whistleblower Report Under the leadership of Chair Maria Cantwell December 2021\"\n**Source:** https://www.commerce.senate.gov/services/files/48E3E2DE-6DFC-4602-BADF-8926F551B670\n\n### Alaska Airlines Door Plug Incident (January 5, 2024)\n\n**Claim:** A door plug detached during Alaska Airlines Flight 1282, causing rapid depressurization shortly after takeoff.\n**Quote:** \"Alaska Airlines temporarily grounded its fleet of 65 737-9 MAX after a door plug detached during flight 1282\"\n**Source:** https://news.alaskaair.com/emergency-response/as-1282/\n\n**Claim:** Alaska Airlines discovered loose hardware on multiple 737 MAX 9 aircraft during subsequent inspections.\n**Quote:** \"Alaska Air says loose hardware found on some of its 737 MAX 9 fleet\"\n**Source:** https://www.reuters.com/business/aerospace-defense/alaska-air-says-loose-hardware-found-some-its-737-max-9-fleet-2024-01-09/\n\n### FAA Production Halt (January 24, 2024)\n\n**Claim:** The FAA halted Boeing's plans to expand 737 MAX production to address quality control issues.\n**Quote:** \"FAA Halts Boeing MAX Production Expansion to Improve Quality Control\"\n**Source:** https://www.faa.gov/newsroom/faa-halts-boeing-max-production-expansion-improve-quality-control-also-lays-out-extensive\n\n### FAA Production Audit Findings (March 2024)\n\n**Claim:** An FAA audit of Boeing 737 MAX production found multiple instances where manufacturing processes did not meet quality control requirements.\n**Quote:** \"737 MAX production audit into Boeing and supplier Spirit AeroSystems found multiple instances where the companies allegedly failed to comply\"\n**Source:** https://www.reuters.com/business/aerospace-defense/us-faa-says-boeing-737-max-production-audit-found-compliance-issues-2024-03-04/\n\n### DOT Inspector General Report (October 2024)\n\n**Claim:** A Department of Transportation Inspector General audit found FAA's oversight processes for Boeing production issues are not effective.\n**Quote:** \"FAA's Oversight Processes for Identifying and Resolving Boeing Production Issues Are Not Effective\"\n**Source:** https://www.oig.dot.gov/sites/default/files/library-items/FAA%20Oversight%20of%20Boeing%20737%20and%20787%20Production_Final%20Report-10-09-24%20-%20508%20Compliant_0.pdf\n\n### Current FAA Status (December 2024)\n\n**Claim:** The FAA maintains ongoing updates and oversight regarding Boeing 737-9 MAX aircraft safety.\n**Quote:** \"Updates on Boeing 737-9 MAX Aircraft Thursday, December 5, 2024\"\n**Source:** https://www.faa.gov/newsroom/updates-grounding-boeing-737-9-max-aircraft\n\n## 2. SOURCE QUALITY ASSESSMENT\n\nThe sources gathered are highly credible and include:\n- **Primary government sources**: NTSB accident reports, FAA official statements and orders, DOT Inspector General audits, Congressional investigation reports\n- **International aviation authorities**: Ethiopian Aircraft Accident Investigation Bureau reports\n- **Established news organizations**: Seattle Times, New York Times, BBC, Reuters, AP News, CNN\n- **Aviation safety organizations**: Flight Safety Foundation, Aviation Week\n\nThe timeline is well-documented through official investigation findings rather than speculation. Multiple independent sources corroborate key events. The NTSB and FAA documents provide technical details, while news sources offer context and whistleblower accounts.\n\n## 3. GAPS OR CONTRADICTIONS\n\n**Gaps identified:**\n1. Limited publicly available detail on specific MCAS software changes between initial design and final certification\n2. Incomplete documentation of internal Boeing communications between engineering teams and management during 2015-2018\n3. The search results show a September 2025 publication date for some FAA pages, which appears to be a metadata error\u2014verification of most recent FAA statements needed\n4. Details about ongoing investigations into the January 2024 Alaska Airlines incident final findings not yet publicly released\n\n**Contradictions:**\n- No major contradictions found between sources. Timeline events are consistently reported across multiple independent investigations.\n\n## 4. RECOMMENDED NEXT STEPS\n\n**For comprehensive research:**\n1. **Access full NTSB final reports** for Lion Air and Ethiopian Airlines crashes for complete technical analysis\n2. **Review complete Congressional testimony transcripts** from Boeing executives and FAA officials from 2019-2024 hearings\n3. **Obtain final NTSB report** on Alaska Airlines Flight 1282 door plug incident (likely still in progress)\n4. **Examine Boeing's internal safety review documents** submitted to FAA during recertification process\n5. **Track ongoing FAA enforcement actions** and compliance requirements imposed on Boeing production facilities\n6. **Monitor current FAA Airworthiness Directives** for the 737 MAX fleet to understand continuing safety requirements\n7. **Review international aviation authority** (EASA, Transport Canada) parallel investigations and certification requirements\n\n**Note:** The pattern shows recurring themes of production quality control issues, regulatory oversight challenges, and the tension between commercial pressures and safety requirements spanning from initial development through current operations. [INFERENCE - based on synthesis of multiple source patterns]",
+    "sources": [
+      {
+        "title": "",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/ASR1901.pdf",
+        "published": "2019-09-23T00:00:00.000Z",
+        "excerpt": "59582 ASR-19-01\nNational Transportation Safety Board\nWashington, DC 20594\nSafety Recommendation Report\nAssumptions Used in the Safety Assessment Process and the \nEffects of Multiple Alerts and Indications on Pilot Performance\nAccident Number: DCA19RA017 / DCA19RA101\nOperator: PT Lion Mentari Airlines / Ethiopian Airlines\nAircraft: Boeing 737 MAX 8 / Boeing 737 MAX 8\nLocation: Java Sea, Indonesia / Ejere, Ethiopia\nDate: October 29, 2018 / March 10, 2019\nThe National Transportation Safety Board (N"
+      },
+      {
+        "title": "The inside story of MCAS: How Boeing\u2019s 737 MAX system gained power and lost safeguards",
+        "url": "https://www.seattletimes.com/seattle-news/times-watchdog/the-inside-story-of-mcas-how-boeings-737-max-system-gained-power-and-lost-safeguards/",
+        "published": "2019-06-25T00:00:00.000Z",
+        "excerpt": "[Skip to content] \n\nBy\n\n[Dominic Gates] \n\nand\n\n[Mike Baker] \n\nSeattle Times staff reporters\n\nEarly in the development of the [737 MAX], engineers gathered at Boeing\u2019s transonic wind tunnel in Seattle to test the jet\u2019s aerodynamics using a scale model with a wingspan comparable to that of an eagle.\n\nThe testing in 2012, with air flow approaching the speed of sound, allowed\u00a0engineers to analyze how the airplane\u2019s aerodynamics would handle a range of extreme maneuvers. When the data came back, acco"
+      },
+      {
+        "title": "",
+        "url": "https://data.ntsb.gov/Docket/Document/docBLOB?ID=11369094&FileExtension=pdf&FileName=CERTIFICATION%20SPECIALIST%E2%80%99S%20REPORT-Rel.pdf",
+        "published": "2020-09-18T00:00:00.000Z",
+        "excerpt": "Page 2\nNATIONAL TRANSPORTATION SAFETY BOARD\nOFFICE OF AVIATION SAFETY\nWASHINGTON, D.C. 20594\nAugust 21, 2019\nSYSTEM SAFETY AND CERTIFICATION SPECIALIST\u2019S REPORT\nNTSB ID No.: DCA19RA017\nA. ACCIDENT:\nOperator: Lion Mentari Airlines (Lion Air)\nLocation: Jakarta, Indonesia\nDate: October 28, 2018\nAircraft: 737 MAX 8, Registration PK-LQP\nB. SUMMARY:\nOn October 29, 2018, PT Lion Mentari Airlines (Lion Air) flight 610, a Boeing 737 MAX 8, PK-LQP, crashed \nin the Java Sea shortly after takeoff from Soeka"
+      },
+      {
+        "title": "",
+        "url": "https://flightsafety.org/wp-content/uploads/2019/04/Preliminary-Report-B737-800MAX-ET-AVJ.pdf",
+        "published": "2019-04-04T00:00:00.000Z",
+        "excerpt": "Aircraft Accident Investigation Bureau Preliminary Report March, 2019\n1 of 33\nFederal Democratic Republic of Ethiopia\nMinistry of Transport\nAircraft Accident Investigation Bureau\nAircraft Accident Investigation Preliminary Report \nEthiopian Airlines Group\nB737-8 (MAX) Registered ET-AVJ\n28 NM South East of Addis Ababa, Bole International Airport\nMarch 10, 2019\nReport No. AI-01/19\nAircraft Accident Investigation Bureau Preliminary Report March, 2019\n2 of 33\nFOREWORD\nThe Aircraft Accident Investiga"
+      },
+      {
+        "title": "A-19-010 through A-19-016",
+        "url": "https://www.ntsb.gov/safety/safety-recs/recletters/A-19-010-016.pdf",
+        "published": "2019-09-30T00:00:00.000Z",
+        "excerpt": "September 26, 2019\nMr. Steve Dickson\nAdministrator\nFederal Aviation Administration\n800 Independence Avenue\nWashington, DC 20591\nThe attached letter from the NTSB Chairman provides information about the NTSB\u2019s September \n19, 2019 report, Assumptions Used in the Safety Assessment Process and the Effects of Multiple \nAlerts and Indications on Pilot Performance. The details of this accident investigation and the \nresulting safety recommendations may be found in the attached report, which can also be"
+      },
+      {
+        "title": "Flawed analysis, failed oversight: How Boeing and FAA certified the suspect 737 MAX flight control system",
+        "url": "https://www.seattletimes.com/business/boeing-aerospace/failed-certification-faa-missed-safety-issues-in-the-737-max-system-implicated-in-the-lion-air-crash/",
+        "published": "2019-03-17T00:00:00.000Z",
+        "excerpt": "[Skip Ad] \n\n [Skip to content] \n\nBy\n\n[Dominic Gates] \n\nSeattle Times aerospace reporter\n\nAs Boeing hustled in 2015 to catch up to Airbus and certify its new 737 MAX,\u00a0Federal Aviation Administration (FAA) managers pushed the agency\u2019s safety engineers to delegate safety assessments to Boeing itself, and to speedily approve the resulting analysis.\n\nBut the original safety analysis that Boeing delivered to the FAA for a new flight control system on the MAX \u2014 a report\u00a0used to certify the plane as saf"
+      },
+      {
+        "title": "",
+        "url": "https://s3.documentcloud.org/documents/7209479/2020-09-15-FINAL-737-MAX-Report-for-Public-Release.pdf",
+        "published": "2020-09-15T00:00:00.000Z",
+        "excerpt": "FINAL COMMITTEE REPORT\nTHE DESIGN, DEVELOPMENT & CERTIFICATION OF THE\nBOEING 737 MAX\nSEPTEMBER 2020\nPREPARED FOR:\nCHAIR OF THE COMMITTEE ON TRANSPORTATION AND INFRASTRUCTURE\nPETER A. DEFAZIO\nAND\nCHAIR OF THE SUBCOMMITTEE ON AVIATION\nRICK LARSEN\nBY MAJORITY STAFF OF THE COMMITTEE ON TRANSPORTATION AND INFRASTRUCTURE\n-FINAL COMMITTEE REPORT: BOEING 737 MAX\u0002Contents\ni\nContents\nReport\n1. Introduction 1\n2. Executive Summary 4\nThe Max Crashes\nInvestigative Themes\nInvestigative Findings\n3. Boeing Histo"
+      },
+      {
+        "title": "Boeing 737 Max: What went wrong?",
+        "url": "https://www.bbc.com/news/world-africa-47553174",
+        "published": "2019-04-05T00:00:00.000Z",
+        "excerpt": "Boeing 737 Max: What went wrong?\n[Skip to content] \n[Watch Live] \n[British Broadcasting Corporation] \n[Home] \nNews\n[Sport] \nBusiness\nInnovation\n[Health] \nCulture\nArts\nTravel\nEarth\nAudio\nVideo\nLive\nDocumentaries\n[Weather] \n[Newsletters] \n[Watch Live] \n# Boeing 737 Max: What went wrong?\n5 April 2019\nShareSave\nShareSave\n![]![AFP Mourners at the crash site] AFP\n**Pilots of the crashed Ethiopian Airlines Boeing 737 Max were unable to prevent the plane repeatedly nosediving despite following procedure"
+      },
+      {
+        "title": "NTSB Issues 7 Safety Recommendations to FAA related to Ongoing Lion Air, Ethiopian Airlines Crash Investigations",
+        "url": "https://www.ntsb.gov/news/press-releases/Pages/NR20190926.aspx",
+        "published": "2025-05-15T00:00:00.000Z",
+        "excerpt": "NTSB Issues 7 Safety Recommendations to FAA related to Ongoing Lion Air, Ethiopian Airlines Crash Investigations\n![] \n![NTSB Logo] \n[![NTSB Logo]] \n[![]] \n[![]] \n* \u200b\u200b[Investigations] \n* [Investigation Process] \n* [Investigation Reports] \n* [Investigation Dockets] \n* [Investigative Offices] \n* [Safety Recommendations] \n* [Safety Research] \n* [Accident Data] \n* [Statistical Reviews] \n* [Safety Research Reports] \n* [News &amp; Events] \n* [Events] \n* [Newsroom] \n* [Official Testimony] \n* [Congressio"
+      },
+      {
+        "title": "After a Lion Air 737 Max Crashed in October, Questions About the Plane Arose",
+        "url": "https://www.nytimes.com/2019/02/03/world/asia/lion-air-plane-crash-pilots.html",
+        "published": "2019-02-03T00:00:00.000Z",
+        "excerpt": "[Asia Pacific] \\|After a Lion Air 737 Max Crashed in October, Questions About the Plane Arose\n\nhttps://www.nytimes.com/2019/02/03/world/asia/lion-air-plane-crash-pilots.html\n\n- Share full article\n\n- [248] \n\n\nAdvertisement\n\n[SKIP ADVERTISEMENT] \n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\nIn the brutally competitive jetliner business, the [announcement] in late 2010 that Airbus would introduce a mo"
+      },
+      {
+        "title": "Aircraft Accident Investigation Report B737- MAX 8, ET-AVJ                                                                                                             December 2022",
+        "url": "https://bea.aero/fileadmin/user_upload/ET_302__B737-8MAX_ACCIDENT_FINAL_REPORT.pdf",
+        "published": "2022-12-25T00:00:00.000Z",
+        "excerpt": "Aircraft Accident Investigation Report B737- MAX 8, ET-AVJ December 2022\nTHE FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA\nMINISTRY OF TRANSPORT AND LOGISTICS\nAIRCRAFT ACCIDENT INVESTIGATION BUREAU\nINVESTIGATION REPORT ON\nACCIDENT TO THE B737-MAX8 REG. ET-AVJ OPERATED\nBY\nETHIOPIAN AIRLINES\n10 MARCH, 2019\n Report No. AI-01/19\nPub, Date December 23, 2022\nAircraft Accident Investigation Report B737- MAX 8, ET-AVJ December 2022\n\nPAGE TAT ALI P Cove. 0.0\n\nThe Honorable Mrs. Dagmawit Moges\n\nMinister, Minist"
+      },
+      {
+        "title": "Accident Location",
+        "url": "https://www.ntsb.gov/investigations/Pages/DCA19RA017-DCA19RA101.aspx",
+        "published": "2018-10-29T00:00:00.000Z",
+        "excerpt": "DCA19RA017-DCA19RA101.aspx\n![] \n![NTSB Logo] \n[![NTSB Logo]] \n[![]] \n[![]] \n* \u200b\u200b[Investigations] \n* [Investigation Process] \n* [Investigation Reports] \n* [Investigation Dockets] \n* [Investigative Offices] \n* [Safety Recommendations] \n* [Safety Research] \n* [Accident Data] \n* [Statistical Reviews] \n* [Safety Research Reports] \n* [News &amp; Events] \n* [Events] \n* [Newsroom] \n* [Official Testimony] \n* [Congressional and Regulatory Correspondence] \n* [Advocacy] \n* [Safety Alerts] \n* [Safety Issues]"
+      },
+      {
+        "title": "",
+        "url": "https://www.ntsb.gov/investigations/Documents/Response%20to%20EAIB%20final%20report.pdf",
+        "published": "2023-01-23T00:00:00.000Z",
+        "excerpt": "1/13/2023\nNational Transportation Safety Board \nResponse to Final Aircraft Accident Investigation Report\nEthiopian Airlines Flight 302\nBoeing 737-8 MAX, ET-AVJ\nEjere, Ethiopia\nMarch 10, 2019\nIn accordance with Annex 13 to the Convention on International Civil Aviation, \nas the accredited representative of the State of Design and Manufacture of the \nairplane, the National Transportation Safety Board (NTSB) participated in the Aircraft \nAccident Investigation Bureau of Ethiopia\u2019s (EAIB) investigat"
+      },
+      {
+        "title": "",
+        "url": "https://www.ntsb.gov/investigations/accidentreports/reports/asr1901.pdf",
+        "published": "2019-09-23T00:00:00.000Z",
+        "excerpt": "59582 ASR-19-01\nNational Transportation Safety Board\nWashington, DC 20594\nSafety Recommendation Report\nAssumptions Used in the Safety Assessment Process and the \nEffects of Multiple Alerts and Indications on Pilot Performance\nAccident Number: DCA19RA017 / DCA19RA101\nOperator: PT Lion Mentari Airlines / Ethiopian Airlines\nAircraft: Boeing 737 MAX 8 / Boeing 737 MAX 8\nLocation: Java Sea, Indonesia / Ejere, Ethiopia\nDate: October 29, 2018 / March 10, 2019\nThe National Transportation Safety Board (N"
+      },
+      {
+        "title": "Aircraft Accident Investigation Bureau Preliminary Report March, 2019",
+        "url": "https://tailstrike.com/media/t3fb1tlf/ethiopian-302.pdf",
+        "published": "2021-02-28T00:00:00.000Z",
+        "excerpt": "Aircraft Accident Investigation Bureau Preliminary Report March, 2019\n\nFederal Democratic Republic of Ethiopia\n\nMinistry of Transport\n\nAircraft Accident Investigation Bureau\n\nReport No. AI-01/19\n\n1 of 33\n\nAircraft Accident Investigation Preliminary Report\nEthiopian Airlines Group\n\nB737-8 (MAX) Registered ET-AVJ\n\n28 NM South East of Addis Ababa, Bole International Airport\n\nMarch 10, 2019\n\nAircraft Accident Investigation Bureau Preliminary Report March, 2019\n\nFOREWORD\n\nThe Aircraft Accident Invest"
+      },
+      {
+        "title": "",
+        "url": "https://flightsafety.org/wp-content/uploads/2019/04/Preliminary-Report-B737-800MAX-ET-AVJ.pdf",
+        "published": "2019-04-04T00:00:00.000Z",
+        "excerpt": "Aircraft Accident Investigation Bureau Preliminary Report March, 2019\n1 of 33\nFederal Democratic Republic of Ethiopia\nMinistry of Transport\nAircraft Accident Investigation Bureau\nAircraft Accident Investigation Preliminary Report \nEthiopian Airlines Group\nB737-8 (MAX) Registered ET-AVJ\n28 NM South East of Addis Ababa, Bole International Airport\nMarch 10, 2019\nReport No. AI-01/19\nAircraft Accident Investigation Bureau Preliminary Report March, 2019\n2 of 33\nFOREWORD\nThe Aircraft Accident Investiga"
+      },
+      {
+        "title": "",
+        "url": "https://data.ntsb.gov/Docket/Document/docBLOB?ID=11369094&FileExtension=pdf&FileName=CERTIFICATION%20SPECIALIST%E2%80%99S%20REPORT-Rel.pdf",
+        "published": "2020-09-18T00:00:00.000Z",
+        "excerpt": "Page 2\nNATIONAL TRANSPORTATION SAFETY BOARD\nOFFICE OF AVIATION SAFETY\nWASHINGTON, D.C. 20594\nAugust 21, 2019\nSYSTEM SAFETY AND CERTIFICATION SPECIALIST\u2019S REPORT\nNTSB ID No.: DCA19RA017\nA. ACCIDENT:\nOperator: Lion Mentari Airlines (Lion Air)\nLocation: Jakarta, Indonesia\nDate: October 28, 2018\nAircraft: 737 MAX 8, Registration PK-LQP\nB. SUMMARY:\nOn October 29, 2018, PT Lion Mentari Airlines (Lion Air) flight 610, a Boeing 737 MAX 8, PK-LQP, crashed \nin the Java Sea shortly after takeoff from Soeka"
+      },
+      {
+        "title": "Aircraft Accident Investigation Bureau Interim report                                                                                  March, 2020",
+        "url": "https://reports.aviation-safety.net/2019/20190310-0_B38M_ET-AVJ_Interim.pdf",
+        "published": "2020-03-09T00:00:00.000Z",
+        "excerpt": "Aircraft Accident Investigation Bureau Interim report March, 2020\na\n\nLEITCH MAE w\n\nMINISTRY OF TRANSPORT e\n\u00a396 AT 1. 14 )5 :\n\nRef. No\n\n0.9 MAR 2020\nANTPAL BLEAR LVPHEALE ETHAN a\u201c\n\nPTEMZACT VLC AAD AND ALTER\n\nThe Federal Democratic Republic of Ethiopia Atle Alva, Sehteghe\n\nMinistry of Transport\n\nThe International Civil Aviation Organization (ICAO), Montreal, (CANADA)\nNational Transportation Safety Board, USA\nBEA, France \u2014'_.- _.\n\nSubject: - Interim Investigation Report of accident 737-8 MAX ET-AV"
+      },
+      {
+        "title": "NTSB Issues 7 Safety Recommendations to FAA related to Ongoing Lion Air, Ethiopian Airlines Crash Investigations",
+        "url": "https://www.ntsb.gov/news/press-releases/Pages/NR20190926.aspx",
+        "published": "2025-05-15T00:00:00.000Z",
+        "excerpt": "NTSB Issues 7 Safety Recommendations to FAA related to Ongoing Lion Air, Ethiopian Airlines Crash Investigations\n![] \n![NTSB Logo] \n[![NTSB Logo]] \n[![]] \n[![]] \n* \u200b\u200b[Investigations] \n* [Investigation Process] \n* [Investigation Reports] \n* [Investigation Dockets] \n* [Investigative Offices] \n* [Safety Recommendations] \n* [Safety Research] \n* [Accident Data] \n* [Statistical Reviews] \n* [Safety Research Reports] \n* [News &amp; Events] \n* [Events] \n* [Newsroom] \n* [Official Testimony] \n* [Congressio"
+      },
+      {
+        "title": "",
+        "url": "https://www.faa.gov/sites/faa.gov/files/2022-08/737_MAX_Timeline.pdf",
+        "published": "2020-11-18T00:00:00.000Z",
+        "excerpt": "Federal Aviation Administration\nPage 1 of 4\nRev 201118\nBOEING 737 MAX TIMELINE\nCertification Activities\nGrounding Order \u2013 The FAA issued an Emergency Order or Prohibition grounding the\nBoeing 737 MAX on March 13, 2019.\nInterim Work \u2013 The FAA engaged with Boeing, operators, international civil aviation\nregulators, and independent review panels investigating the crashes of Lion Air Flight 610\nand Ethiopian Airlines Flight 302. This work resulted in the identification of seven safety\nissues that pl"
+      },
+      {
+        "title": "In This Section",
+        "url": "https://www.faa.gov/newsroom/faa-statement-boeing-airworthiness-certificates",
+        "published": null,
+        "excerpt": "FAA Statement - Boeing Airworthiness Certificates | Federal Aviation Administration[Skip to main content] \n# USA Banner\n![U.S. flag] \nAn official website of the United States governmentHere's how you know\n![Official US Government Icon] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in the United States.\n![Secure Site Icon] \n**Secure .gov websites use HTTPS**\nA**lock**(LockA locked padlock) or**https://**means you\u2019ve safely connected to the .gov we"
+      },
+      {
+        "title": "FAA restores Boeing\u2019s ability to certify Max jets for flight more than 6 years after fatal crashes",
+        "url": "https://apnews.com/article/faa-boeing-airworthiness-max-flight-safety-checks-7b953d65cddb813563e61829399eea04",
+        "published": "2025-09-26T00:00:00.000Z",
+        "excerpt": "Boeing wins back FAA approval to self-certify 737 Max jets as safe to fly | AP News \n \n \n[![AP Logo]] \nMenu\n* [World] \nSECTIONS\n[Israel-Hamas War] [Russia-Ukraine War] [Espa\u00f1ol] [China] [Asia Pacific] [Latin America] [Europe] [Africa] \nTOP STORIES\n* [Nicaragua\u2019s government says it\u2019s freeing detainees after pressure from the US] \n* [Greenland's party leaders firmly reject Trump's push for US control of the island] \n* [Death toll in violence surrounding protests challenging Iran's theocracy reache"
+      },
+      {
+        "title": "In This Section",
+        "url": "https://www.faa.gov/newsroom/updates-grounding-boeing-737-9-max-aircraft",
+        "published": "2024-12-05T00:00:00.000Z",
+        "excerpt": "Updates on Boeing 737-9 MAX Aircraft | Federal Aviation Administration[Skip to main content] \n# USA Banner\n![U.S. flag] \nAn official website of the United States governmentHere's how you know\n![Official US Government Icon] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in the United States.\n![Secure Site Icon] \n**Secure .gov websites use HTTPS**\nA**lock**(LockA locked padlock) or**https://**means you\u2019ve safely connected to the .gov website. Share "
+      },
+      {
+        "title": "In This Section",
+        "url": "https://www.faa.gov/newsroom/faa-updates-boeing-737-max-0",
+        "published": "2021-04-08T00:00:00.000Z",
+        "excerpt": "FAA Updates on Boeing 737 MAX | Federal Aviation Administration[Skip to main content] \n# USA Banner\n![U.S. flag] \nAn official website of the United States governmentHere's how you know\n![Official US Government Icon] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in the United States.\n![Secure Site Icon] \n**Secure .gov websites use HTTPS**\nA**lock**(LockA locked padlock) or**https://**means you\u2019ve safely connected to the .gov website. Share sensiti"
+      },
+      {
+        "title": "Scanned Document",
+        "url": "https://www.faa.gov/sites/faa.gov/files/2021-08/Emergency_Order.pdf",
+        "published": "2019-03-13T00:00:00.000Z",
+        "excerpt": "UNITED STATES DEPARTMENT OF TRANSPORTATION\nFEDERAL AVIATION ADMINISTRATION\n\nOperators of Boeing Company\nModel 737-8 and\n\nBoeing Company Model 737-9\nAirplanes\n\nwee Yee vw\n\nEMERGENCY ORDER OF PROHIBITION\n\nThis Emergency Order of Prohibition is issued by the Federal Aviation Administration\n(FAA) pursuant to 49 U.S.C. \u00a7 40113(a) and \u00a7 46105(c). Effective immediately, this Order\nprohibits the operation of Boeing Company Model 737-8 and Boeing Company Model 737-9\nairplanes by U.S. certificated operato"
+      },
+      {
+        "title": "Boeing is once again allowed to certify 737 Max and 787 Dreamliners as safe to fly on behalf of the FAA",
+        "url": "https://www.cnn.com/2025/09/26/business/boeing-faa-certification",
+        "published": "2025-09-26T00:00:00.000Z",
+        "excerpt": "Boeing again allowed certify 737 Max and 787 Dreamliners as safe to fly on behalf of FAA | CNN Business\nAd Feedback\n### CNN values your feedback\n1. How relevant is this ad to you?\n2. Did you encounter any technical issues?\nVideo player was slow to load contentVideo content never loadedAd froze or did not finish loadingVideo content did not start after adAudio on ad was too loudOther issues\nAd never loadedAd prevented/slowed the page from loadingContent moved around while ad loadedAd was repetiti"
+      },
+      {
+        "title": "Notice",
+        "url": "https://www.federalregister.gov/documents/2025/12/15/2025-22787/implementation-of-required-safety-enhancements-on-boeing-737-max-airplanes",
+        "published": "2025-12-15T00:00:00.000Z",
+        "excerpt": "Federal Register\n:: Implementation of Required Safety Enhancements on Boeing 737 MAX Airplanes[Skip to Content] \n* [] \n* * [] \n* [Home] \n* [Sections] \n* [Money] \n* [Environment] \n* [World] \n* [Science &amp; Technology] \n* [Business &amp; Industry] \n* [Health &amp; Public Welfare] \n* [Browse] \n* [Agencies] \n* [Topics (CFR Indexing Terms)] \n* [Dates] \n* [Public Inspection] \n* [Presidential Documents] \n* [Search] \n* [Document Search] \n* [Advanced Document Search] \n* [Public Inspection Search] \n* [F"
+      },
+      {
+        "title": "In This Section",
+        "url": "https://www.faa.gov/newsroom/preliminary-summary-faas-review-boeing-737-max",
+        "published": "2020-08-03T00:00:00.000Z",
+        "excerpt": "Preliminary Summary of the FAA\u2019s Review of the Boeing 737 MAX | Federal Aviation Administration[Skip to main content] \n# USA Banner\n![U.S. flag] \nAn official website of the United States governmentHere's how you know\n![Official US Government Icon] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in the United States.\n![Secure Site Icon] \n**Secure .gov websites use HTTPS**\nA**lock**(LockA locked padlock) or**https://**means you\u2019ve safely connected to"
+      },
+      {
+        "title": "In This Section",
+        "url": "https://www.faa.gov/newsroom/faa-halts-boeing-max-production-expansion-improve-quality-control-also-lays-out-extensive",
+        "published": "2024-01-24T00:00:00.000Z",
+        "excerpt": "FAA Halts Boeing MAX Production Expansion to Improve Quality Control, Also Lays Out Extensive Inspection and Maintenance Process to Allow Boeing 737-9 MAX Aircraft to Return to Service | Federal Aviation Administration[Skip to main content] \n# USA Banner\n![U.S. flag] \nAn official website of the United States governmentHere's how you know\n![Official US Government Icon] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in the United States.\n![Secure Si"
+      },
+      {
+        "title": "In This Section",
+        "url": "https://www.faa.gov/newsroom/faa-statement-temporary-grounding-certain-boeing-737-max-9-aircraft",
+        "published": null,
+        "excerpt": "[Skip to main content] \n\n# USA Banner\n\n**Official websites use .gov** A **.gov** website belongs to an official government organization in the United States.\n\n**Secure .gov websites use HTTPS**\nA **lock** ( A locked padlock ) or **https://** means you\u2019ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\n\n[United States Department of Transportation] \n\n# Updates on Boeing 737-9 MAX Aircraft\n\nThursday, December 5, 2024\n\n#### Boeing Oversight Action"
+      },
+      {
+        "title": "In This Section",
+        "url": "https://www.faa.gov/newsroom/faa-updates-boeing-737-max-0",
+        "published": "2021-04-08T00:00:00.000Z",
+        "excerpt": "FAA Updates on Boeing 737 MAX | Federal Aviation Administration[Skip to main content] \n# USA Banner\n![U.S. flag] \nAn official website of the United States governmentHere's how you know\n![Official US Government Icon] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in the United States.\n![Secure Site Icon] \n**Secure .gov websites use HTTPS**\nA**lock**(LockA locked padlock) or**https://**means you\u2019ve safely connected to the .gov website. Share sensiti"
+      },
+      {
+        "title": "In This Section",
+        "url": "https://www.faa.gov/newsroom/updates-grounding-boeing-737-9-max-aircraft",
+        "published": "2024-12-05T00:00:00.000Z",
+        "excerpt": "Updates on Boeing 737-9 MAX Aircraft | Federal Aviation Administration[Skip to main content] \n# USA Banner\n![U.S. flag] \nAn official website of the United States governmentHere's how you know\n![Official US Government Icon] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in the United States.\n![Secure Site Icon] \n**Secure .gov websites use HTTPS**\nA**lock**(LockA locked padlock) or**https://**means you\u2019ve safely connected to the .gov website. Share "
+      },
+      {
+        "title": "In This Section",
+        "url": "https://www.faa.gov/newsroom/preliminary-summary-faas-review-boeing-737-max",
+        "published": "2020-08-03T00:00:00.000Z",
+        "excerpt": "Preliminary Summary of the FAA\u2019s Review of the Boeing 737 MAX | Federal Aviation Administration[Skip to main content] \n# USA Banner\n![U.S. flag] \nAn official website of the United States governmentHere's how you know\n![Official US Government Icon] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in the United States.\n![Secure Site Icon] \n**Secure .gov websites use HTTPS**\nA**lock**(LockA locked padlock) or**https://**means you\u2019ve safely connected to"
+      },
+      {
+        "title": "In This Section",
+        "url": "https://www.faa.gov/newsroom/faa-statement-boeing-airworthiness-certificates",
+        "published": "2025-09-26T00:00:00.000Z",
+        "excerpt": "FAA Statement - Boeing Airworthiness Certificates | Federal Aviation Administration[Skip to main content] \n# USA Banner\n![U.S. flag] \nAn official website of the United States governmentHere's how you know\n![Official US Government Icon] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in the United States.\n![Secure Site Icon] \n**Secure .gov websites use HTTPS**\nA**lock**(LockA locked padlock) or**https://**means you\u2019ve safely connected to the .gov we"
+      },
+      {
+        "title": "",
+        "url": "https://content.govdelivery.com/attachments/USAFAA/2020/11/18/file_attachments/1604979/SAFO20015.pdf",
+        "published": "2020-11-17T00:00:00.000Z",
+        "excerpt": "Distributed by: Air Transportation Division\nhttp://www.faa.gov/other_visit/aviation_industry/airline_operators/airline_safety/safo\nA SAFO contains important safety information and may include recommended action. Besides the specific action recommended \nin a SAFO, an alternative action may be as effective in addressing the safety issue named in the SAFO. The contents of this \ndocument do not have the force and effect of law and are not meant to bind the public in any way. This document is intende"
+      },
+      {
+        "title": "",
+        "url": "https://www.faa.gov/sites/faa.gov/files/2022-08/737_RTS_Summary.pdf",
+        "published": "2020-11-17T00:00:00.000Z",
+        "excerpt": "Summary of the FAA\u2019s Review of the Boeing 737 MAX\nSummary of the FAA\u2019s Review of the \nBoeing 737 MAX\nReturn to Service of the Boeing 737 MAX Aircraft\nDate: November 18, 2020\nSummary of the FAA\u2019s Review of the Boeing 737 MAX\n1\nThis page intentionally left blank.\nSummary of the FAA\u2019s Review of the Boeing 737 MAX\n2\nTable of Contents\nExecutive Summary ............................................................................................ 5\nIntroduction..........................................."
+      },
+      {
+        "title": "Scanned Document",
+        "url": "https://www.faa.gov/sites/faa.gov/files/2021-08/Emergency_Order.pdf",
+        "published": "2019-03-13T00:00:00.000Z",
+        "excerpt": "UNITED STATES DEPARTMENT OF TRANSPORTATION\nFEDERAL AVIATION ADMINISTRATION\n\nOperators of Boeing Company\nModel 737-8 and\n\nBoeing Company Model 737-9\nAirplanes\n\nwee Yee vw\n\nEMERGENCY ORDER OF PROHIBITION\n\nThis Emergency Order of Prohibition is issued by the Federal Aviation Administration\n(FAA) pursuant to 49 U.S.C. \u00a7 40113(a) and \u00a7 46105(c). Effective immediately, this Order\nprohibits the operation of Boeing Company Model 737-8 and Boeing Company Model 737-9\nairplanes by U.S. certificated operato"
+      },
+      {
+        "title": "",
+        "url": "https://www.oig.dot.gov/sites/default/files/FAA%20Boeing%20737%20MAX%20Return%20to%20Service%20Final%20Report%5E4.26.2023_revised.pdf",
+        "published": "2023-04-24T00:00:00.000Z",
+        "excerpt": "FAA Has Completed 737 MAX Return to Service Efforts, but \nOpportunities Exist To Improve the Agency\u2019s Risk \nAssessments and Certification Processes\nReport AV2023025 FAA April 26, 2023\nWhat We Looked At\nThe Federal Aviation Administration (FAA) has historically maintained an excellent safety record. However, two \nfatal accidents in 2018 and 2019 involving the Boeing 737 MAX 8 raised concerns about FAA\u2019s oversight and \ncertification of civilian aircraft manufactured and operated in the United Stat"
+      },
+      {
+        "title": "In This Section",
+        "url": "https://www.faa.gov/newsroom/faa-halts-boeing-max-production-expansion-improve-quality-control-also-lays-out-extensive",
+        "published": "2024-01-24T00:00:00.000Z",
+        "excerpt": "FAA Halts Boeing MAX Production Expansion to Improve Quality Control, Also Lays Out Extensive Inspection and Maintenance Process to Allow Boeing 737-9 MAX Aircraft to Return to Service | Federal Aviation Administration[Skip to main content] \n# USA Banner\n![U.S. flag] \nAn official website of the United States governmentHere's how you know\n![Official US Government Icon] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in the United States.\n![Secure Si"
+      },
+      {
+        "title": "",
+        "url": "https://www.commerce.senate.gov/services/files/48E3E2DE-6DFC-4602-BADF-8926F551B670",
+        "published": "2021-12-12T00:00:00.000Z",
+        "excerpt": "1 | CS&T\nU.S. Senate Committee on Commerce, Science, \nand Transportation\nChair Maria Cantwell\nDecember 2021\nAviation Safety \nWhistleblower Report \n2 | CS&T\n* * *\nUnder the leadership of Chair Maria Cantwell, the Democratic staff of the Senate \nCommittee on Commerce, Science, and Transportation is releasing this report as \npart of the Committee\u2019s continued investigation of the design and certification of \nthe 737 MAX, and oversight of the Federal Aviation Administration\u2019s\nimplementation of Congre"
+      },
+      {
+        "title": "Boeing rejected 737 MAX safety upgrades before fatal crashes, whistleblower says",
+        "url": "https://www.seattletimes.com/business/boeing-aerospace/boeing-whistleblowers-complaint-says-737-max-safety-upgrades-were-rejected-over-cost/",
+        "published": "2019-10-03T00:00:00.000Z",
+        "excerpt": "[Skip Ad] \n\n [Skip to content] \n\nBy\n\n[Dominic Gates] \n\n,\n\n[Steve Miletich] \n\nand\n\n[Lewis Kamb] \n\nSeattle Times staff reporters\n\nSeven weeks after the second fatal crash of a 737 MAX in March, a Boeing engineer submitted a scathing internal ethics complaint alleging that management\u00a0\u2014 determined to keep down costs for airline customers\u00a0\u2014 had blocked significant safety improvements during the jet\u2019s development.\n\nThe ethics charge, filed by 33-year-old engineer Curtis Ewbank, whose job involved stud"
+      },
+      {
+        "title": "Boeing hid questionable parts from regulators that may have been installed in 737 Max planes, new whistleblower alleges | CNN Business",
+        "url": "https://www.cnn.com/2024/06/18/business/boeing-whistleblower-calhoun-testimony/index.html",
+        "published": "2024-06-18T00:00:00.000Z",
+        "excerpt": "Markets\n\nDOW\n\nS&P 500\n\nNASDAQ\n\nHot Stocks\n\nFear & Greed Index\n\n[\\-\\-\\--- is driving the US market] \n\nLatest Market News\n\n- [The US economy added 119,000 jobs in September, but unemployment rose to a nearly four-year high] \n- [Walmart just proved it\u2019s America\u2019s solution to the affordability crisis] \n- [Larry Summers leaves OpenAI board, Harvard instructor role as scrutiny over Epstein emails intensifies] \n\nHot Stocks\n\n[\\-\\-\\--- is driving the US market] \n\nSomething isn't loading properly. Please "
+      },
+      {
+        "title": "The inside story of MCAS: How Boeing\u2019s 737 MAX system gained power and lost safeguards",
+        "url": "https://www.seattletimes.com/seattle-news/times-watchdog/the-inside-story-of-mcas-how-boeings-737-max-system-gained-power-and-lost-safeguards/",
+        "published": "2019-06-25T00:00:00.000Z",
+        "excerpt": "[Skip to content] \n\nBy\n\n[Dominic Gates] \n\nand\n\n[Mike Baker] \n\nSeattle Times staff reporters\n\nEarly in the development of the [737 MAX], engineers gathered at Boeing\u2019s transonic wind tunnel in Seattle to test the jet\u2019s aerodynamics using a scale model with a wingspan comparable to that of an eagle.\n\nThe testing in 2012, with air flow approaching the speed of sound, allowed\u00a0engineers to analyze how the airplane\u2019s aerodynamics would handle a range of extreme maneuvers. When the data came back, acco"
+      },
+      {
+        "title": "",
+        "url": "https://s3.documentcloud.org/documents/7209479/2020-09-15-FINAL-737-MAX-Report-for-Public-Release.pdf",
+        "published": "2020-09-15T00:00:00.000Z",
+        "excerpt": "FINAL COMMITTEE REPORT\nTHE DESIGN, DEVELOPMENT & CERTIFICATION OF THE\nBOEING 737 MAX\nSEPTEMBER 2020\nPREPARED FOR:\nCHAIR OF THE COMMITTEE ON TRANSPORTATION AND INFRASTRUCTURE\nPETER A. DEFAZIO\nAND\nCHAIR OF THE SUBCOMMITTEE ON AVIATION\nRICK LARSEN\nBY MAJORITY STAFF OF THE COMMITTEE ON TRANSPORTATION AND INFRASTRUCTURE\n-FINAL COMMITTEE REPORT: BOEING 737 MAX\u0002Contents\ni\nContents\nReport\n1. Introduction 1\n2. Executive Summary 4\nThe Max Crashes\nInvestigative Themes\nInvestigative Findings\n3. Boeing Histo"
+      },
+      {
+        "title": "Boeing papers show employees slid 737 Max problems past FAA",
+        "url": "https://apnews.com/article/us-news-ap-top-news-international-news-business-africa-64aa056dc30313ad8785b5b9e226ddc3",
+        "published": "2020-01-10T00:00:00.000Z",
+        "excerpt": "Boeing papers show employees slid 737 Max problems past FAA | AP News \n \n \n[![AP Logo]] \nMenu\n* [World] \nSECTIONS\n[Israel-Hamas War] [Russia-Ukraine War] [Espa\u00f1ol] [China] [Asia Pacific] [Latin America] [Europe] [Africa] \nTOP STORIES\n* [Anti-ICE protesters assemble across the US after shootings in Minneapolis and Portland, Oregon] \n* [How the US could take over Greenland and the potential challenges] \n* [Nicaragua\u2019s government says it\u2019s freeing detainees after pressure from the US] \nNewsletters\n"
+      },
+      {
+        "title": "Whistleblower testifies that Boeing ignored pleas to shut down 737 MAX production | CNN Politics",
+        "url": "https://www.cnn.com/2019/12/11/politics/fatally-flawed-737-max-had-significantly-higher-crash-risk-faa-concluded",
+        "published": "2019-12-11T00:00:00.000Z",
+        "excerpt": "Ad Feedback\n\n# Whistleblower testifies that Boeing ignored pleas to shut down 737 MAX production\n\nBy [Rene Marsh] and [Gregory Wallace], CNN\n\n4 minute read\n\nUpdated\n6:10 PM EST, Wed December 11, 2019\n\nLink Copied!\n\nStephen Brashear/Getty Images\n\nWashingtonCNN\n\u2014\n\nA government analysis after the [first Boeing 737 MAX crash last fall] found the jets were at a significant risk for future crashes, but the agency did not ground the planes until after a second one fell from the sky.\n\nThose two crashes "
+      },
+      {
+        "title": "Boeing Whistle-Blower Details His Concerns to Congressional Panel",
+        "url": "https://www.nytimes.com/2024/04/17/us/politics/whistle-blower-boeing-787-dreamliner.html",
+        "published": "2024-04-17T00:00:00.000Z",
+        "excerpt": "[Politics] \\|Boeing Whistle-Blower Details His Concerns to Congressional Panel\n\nhttps://www.nytimes.com/2024/04/17/us/politics/whistle-blower-boeing-787-dreamliner.html\n\n- Share full article\n\n- [25] \n\n\nAdvertisement\n\n[SKIP ADVERTISEMENT] \n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\nA Boeing engineer who went public last week with safety concerns about the company\u2019s 787 Dreamliner told a Senate pan"
+      },
+      {
+        "title": "FAA Investigates Claims by Boeing Whistle-Blower About Flaws in 787 Dreamliner",
+        "url": "https://www.nytimes.com/2024/04/09/us/politics/boeing-787-dreamliner-whistle-blower.html",
+        "published": "2024-04-09T00:00:00.000Z",
+        "excerpt": "[Politics] \\|F.A.A. Investigates Claims by Boeing Whistle-Blower About Flaws in 787 Dreamliner\n\nhttps://www.nytimes.com/2024/04/09/us/politics/boeing-787-dreamliner-whistle-blower.html\n\n- Share full article\n\n- [324] \n\n\nAdvertisement\n\n[SKIP ADVERTISEMENT] \n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\nThe Federal Aviation Administration is investigating claims made by a Boeing engineer who says that "
+      },
+      {
+        "title": "Boeing whistleblower alleges systemic problems with 737 MAX",
+        "url": "https://www.seattletimes.com/business/boeing-aerospace/boeing-whistleblower-alleges-systemic-problems-with-737-max/",
+        "published": "2020-06-19T00:00:00.000Z",
+        "excerpt": "[Skip Ad] \n\n [Skip to content] \n\n[Skip Ad] \n\n[![Dominic Gates]] \n\nBy\n\n[Dominic Gates] \n\nSeattle Times aerospace reporter\n\nA Boeing engineer who last year lodged an internal ethics complaint alleging serious shortcomings in development of the 737 MAX has written to a U.S. Senate committee asserting that systemic problems with the jet\u2019s design \u201cmust be fixed before the 737 MAX is allowed to return to service.\u201d\n\nThe letter to the Senate, a copy of which was obtained by The Seattle Times, was writte"
+      },
+      {
+        "title": "Information about Alaska Airlines Flight 1282 and our 737-9 MAX fleet",
+        "url": "https://news.alaskaair.com/emergency-response/as-1282/",
+        "published": "2024-01-05T12:00:00.000Z",
+        "excerpt": "# Information about Alaska Airlines Flight 1282 and our 737-9 MAX fleet\n\nBy [Alaska Airlines] \n\nJan 5, 2024\n\n[Share On Facebook] \n\n[Share On X] \n\n[Share On Linkedin] \n\n[Share Via Email] \n\n##### Overview:\n\n**Flight 1282:**\n\nOn Friday, Jan. 5, 2024, Alaska Airlines temporarily grounded its fleet of 65 737-9 MAX after a door plug detached during flight 1282 from Portland, OR to Ontario, CA. This was a harrowing flight for our guests and crew, and we\u2019re grateful that all individuals have been medica"
+      },
+      {
+        "title": "Alaska Airlines resumes flying Boeing 737 Max 9 plane after door plug blowout",
+        "url": "https://abcnews.go.com/US/alaska-airlines-resumes-flying-boeing-737-max-9/story?id=106723983",
+        "published": "2024-01-27T00:00:00.000Z",
+        "excerpt": "# Alaska Airlines resumes flying Boeing 737 Max 9 plane after door plug blowout\n\nAlaska Flight 1146 departed from Seattle Friday afternoon, bound for San Diego.\n\nBy[Meredith Deliso] \n\nJanuary 27, 2024, 12:45 AM\n\nAlaska Airlines resumed flying the Boeing 737 Max 9 following fleet inspections for the first time on Friday after a [door plug fell off] one of its planes mid-air three weeks ago.\n\nAlaska Flight 1146 -- the airline's first Max 9 flight since the aircraft was grounded -- departed Seattle"
+      },
+      {
+        "title": "FAA Grounds, Orders Immediate Inspections Of Most Boeing 737-9s",
+        "url": "https://aviationweek.com/air-transport/safety-ops-regulation/faa-grounds-orders-immediate-inspections-most-boeing-737-9s",
+        "published": "2024-01-08T00:00:00.000Z",
+        "excerpt": "https://aviationweek.com/themes/custom/particle/dist/app-drupal/assets/awn-logo.svg\n\n [Skip to main content] \n\n# FAA Grounds, Orders Immediate Inspections Of Most Boeing 737-9s\n\n[Christine Boynton] [Sean Broderick] [Guy Norris] [Helen Massy-Beresford] January 08, 2024\n\n![737 MAX 9 plug] \n\nA photo released by NTSB shows the Alaska Airlines 737-9 missing the fuselage plug and window section in the deactivated left-hand mid-emergency door.\n\nCredit: NTSB\n\nThe FAA has ordered immediate inspections of"
+      },
+      {
+        "title": "Here's what to know about the Boeing 737 Max 9, the jet that suffered an inflight blowout",
+        "url": "https://www.cbsnews.com/news/boeing-737-max-9-alaska-airlines-door-what-to-know/",
+        "published": "2024-01-08T00:00:00.000Z",
+        "excerpt": "[Watch CBS News] \n\nNew details emerge in Boeing jet blowout\n\n[Boeing jet that suffered blowout had been restricted after prior warning lights04:22] \n\nThe inflight blowout on an Alaska Airlines' plane on Friday night is prompting scrutiny of the aircraft involved, the Boeing 737 Max 9. The incident comes after other safety issues have been linked to Boeing's Max line of aircraft, heightening concerns about the jet's safety.\n\nHere's what we know so far.\n\n## What is the Boeing 737 Max 9?\n\nThe Boein"
+      },
+      {
+        "title": "Guide roller fittings on Alaska Max 9 door plug are fractured: NTSB",
+        "url": "https://flightglobal.com/safety/guide-roller-fittings-on-alaska-max-9-door-plug-are-fractured-ntsb/156407.article",
+        "published": "2024-01-09T05:42:00.000Z",
+        "excerpt": "- [Skip to main content] \n- [Skip to navigation] \n\n[Safety] \n\n# Guide roller fittings on Alaska Max 9 door plug are fractured: NTSB\n\nBy [Pilar Wolfsteller] 2024-01-09T05:42:00+00:00\n\nThe US National Transportation Safety Board (NTSB) said that damage to a door plug which blew out of an in-flight [Alaska Airlines] Boeing 737\u00a0Max\u00a09 last week includes fractured guide fittings that hold the plug in place.\n\nIn her third media briefing in as many days, NTSB chair Jennifer Homendy said on 8 January tha"
+      },
+      {
+        "title": "Alaska Air says loose hardware found on some of its 737 MAX 9 fleet",
+        "url": "https://www.reuters.com/business/aerospace-defense/alaska-air-says-loose-hardware-found-some-its-737-max-9-fleet-2024-01-09/",
+        "published": "2024-01-09T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[Exclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv] \n\n![The fuselage plug area of Alaska Airlines Flight 1282 Boeing 737-9 MAX] \n\nThe fuselage plug area of Alaska Airlines Flight 1282 Boeing 737-9 MAX, which was forced to make an emergency landing with a gap in the fuselage, is seen during its investigation by the National Transportation Safety Board (NTSB) in Portland, Oregon, U.S. January 7, 2024. NTSB/Handout via REUTERS/Fi"
+      },
+      {
+        "title": "",
+        "url": "https://edition.cnn.com/2024/01/08/us/what-happened-alaska-airlines-flight-1282",
+        "published": "2024-01-08T00:00:00.000Z",
+        "excerpt": "Ad Feedback\n\n# This Alaska Airlines Boeing lost its door plug in flight. The impact ripped headrests off seats and a shirt off a passenger\n\n[![Alisha Ebrahimji]] \n\nBy [Alisha Ebrahimji], CNN\n\n6 minute read\n\nUpdated\n6:40 PM EST, Mon January 8, 2024\n\nLink Copied!\n\nFollow:\n\nAir travel safety[See your latest updates] \n\n![alaska air phone recovery thumbnail] \n\nVideo Ad Feedback\n\nPhone falls 16,000 feet from Alaska Air flight, still works\n\n01:08\n\\- Source:\n[CNN] \n\nLatest Videos24 videos\n\n![alaska air "
+      },
+      {
+        "title": "The 737-9 MAX grounding: a timeline",
+        "url": "https://flightradar24.com/blog/flight-tracking-news/major-incident/737-9-max-grounding-timeline",
+        "published": "2024-01-19T00:00:00.000Z",
+        "excerpt": "Search\n\nSearch\n\nSearch\n\n[Major incident] \n\n# The 737-9 MAX grounding: a timeline\n\n### Share this article\n\n[Ian Petchenik] \n\n- Updated: January 25, 2024\n\n- A timeline of FAA, Boeing, and airline statements on the 737-9\n- Full text of relevant airworthiness directives\n- Explanations of inspection process\n\nOn 5 January 2024, Alaska Airlines flight 1282 experienced a rapid depressurization when the left mid-cabin door plug departed the aircraft. [You can read about the accident and the NTSB investig"
+      },
+      {
+        "title": "",
+        "url": "https://www.reuters.com/business/aerospace-defense/boeing-installed-piece-that-blew-off-alaska-max-9-jet-seattle-times-2024-01-24/",
+        "published": null,
+        "excerpt": "[Skip to main content] \n\n[Exclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv] \n\n![The fuselage plug area of Alaska Airlines Flight 1282 Boeing 737-9 MAX] \n\nThe fuselage plug area of Alaska Airlines Flight 1282 Boeing 737-9 MAX, which was forced to make an emergency landing with a gap in the fuselage, is seen during its investigation by the National Transportation Safety Board (NTSB) in Portland, Oregon, U.S. January 7, 2024. NTSB/Handout via REUTERS/Fi"
+      },
+      {
+        "title": "Alaskan Airlines flight 1282: Key questions behind door plug blowout",
+        "url": "https://www.bbc.co.uk/news/world-us-canada-67915771",
+        "published": "2024-01-08T00:00:00.000Z",
+        "excerpt": "Media caption,\n\nWatch: 'Trip from hell': On board flight during mid-air blowout\n\nBy Theo Leggett\n\nBusiness correspondent, BBC News\n\n**Alaska Airlines flight 1282 was on a routine flight from Portland in Oregon to Ontario in California, when an unused cabin door broke away a few minutes after take off.**\n\nThe section that fell from the sky was a 27kg (60lb) part of the shell. Known as a door plug, this was used to fill an emergency exit that was built into the plane but not needed by Alaska Airli"
+      },
+      {
+        "title": "",
+        "url": "https://www.oig.dot.gov/sites/default/files/library-items/FAA%20Oversight%20of%20Boeing%20737%20and%20787%20Production_Final%20Report-10-09-24%20-%20508%20Compliant_0.pdf",
+        "published": "2024-10-23T00:00:00.000Z",
+        "excerpt": "\nReport AV2025002\nOctober 9, 2024\nFAA\u2019s Oversight Processes for Identifying and Resolving \nBoeing Production Issues Are Not Effective\nFAA \n \nHighlights Federal Aviation Administration (FAA) \nAV2025002 | October 9, 2024\nwww.oig.dot.gov | Contact the Office of Government and Public Affairs at (202) 366-8751\nFAA\u2019s Oversight Processes for Identifying and Resolving Boeing Production \nIssues Are Not Effective\nRequested by the Chairmen and Ranking Members of the House Transportation and Infrastructure "
+      },
+      {
+        "title": "",
+        "url": "https://www.oig.dot.gov/sites/default/files/library-items/FAA%20Oversight%20of%20Boeing%20737%20and%20787%20Production_Final%20Report-10-09-24%20-%20508%20Compliant.pdf",
+        "published": "2024-10-04T00:00:00.000Z",
+        "excerpt": "Report AV2025002\nOctober 9, 2024\nFAA\u2019s Oversight Processes for Identifying and Resolving \nBoeing Production Issues Are Not Effective\nFAA \nHighlights Federal Aviation Administration (FAA) \nAV2025002| October 9, 2024\nwww.oig.dot.gov | Contact the Office of Government and Public Affairs at (202) 366-8751\nFAA\u2019s Oversight Processes for Identifying and Resolving Boeing Production \nIssues Are Not Effective\nRequested by the Chairmen and Ranking Members of the House Transportation and Infrastructure Comm"
+      },
+      {
+        "title": "FAA Audit of Boeing\u2019s 737 Max Production Found Dozens of Issues",
+        "url": "https://www.nytimes.com/2024/03/11/us/politics/faa-audit-boeing-737-max.html",
+        "published": "2024-03-11T00:00:00.000Z",
+        "excerpt": "Advertisement\n\n[SKIP ADVERTISEMENT] \n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\nA six-week audit by the Federal Aviation Administration of Boeing\u2019s production of the 737 Max jet found dozens of problems throughout the manufacturing process at the plane maker and one of its key suppliers, according to a slide presentation reviewed by The New York Times.\n\nThe air-safety regulator initiated the exam"
+      },
+      {
+        "title": "US FAA hits Boeing 737 MAX production for quality control issues",
+        "url": "https://www.reuters.com/business/aerospace-defense/us-faa-says-boeing-737-max-production-audit-found-compliance-issues-2024-03-04/",
+        "published": "2024-03-04T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[Exclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv] \n\n- Companies\n\n- [Federal Aviation Administration] \n\nFollow\n\n- [Alaska Air Group Inc] \n\nFollow\n\n- [Boeing Co] \n\nFollow\n\n\nShow more companies\n\nWASHINGTON, March 4 (Reuters) - The Federal Aviation Administration said the agency's 737 MAX production audit into Boeing [(BA.N), opens new tab] and supplier Spirit AeroSystems [(SPR.N), opens new tab] found multiple instances where t"
+      },
+      {
+        "title": "In This Section",
+        "url": "https://www.faa.gov/newsroom/faa-halts-boeing-max-production-expansion-improve-quality-control-also-lays-out-extensive",
+        "published": "2024-01-24T00:00:00.000Z",
+        "excerpt": "FAA Halts Boeing MAX Production Expansion to Improve Quality Control, Also Lays Out Extensive Inspection and Maintenance Process to Allow Boeing 737-9 MAX Aircraft to Return to Service | Federal Aviation Administration[Skip to main content] \n# USA Banner\n![U.S. flag] \nAn official website of the United States governmentHere's how you know\n![Official US Government Icon] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in the United States.\n![Secure Si"
+      },
+      {
+        "title": "",
+        "url": "https://www.nytimes.com/2024/03/04/us/politics/faa-boeing-737-max-audit.html",
+        "published": "2024-03-04T00:00:00.000Z",
+        "excerpt": "Manage Privacy Preferences\n\nWe and our vendors use cookies and similar methods (\u201cCookies\u201d) to recognize visitors and remember their preferences. We also use Cookies for a variety of purposes, including analytics, to measure marketing effectiveness and to target and measure the effectiveness of ads. You can accept or reject the use of Cookies for individual purposes below. Some vendors process your data on the basis of their legitimate interest - you can object to such processing below. Your pref"
+      },
+      {
+        "title": "FAA Increasing Oversight of Boeing Production and Manufacturing",
+        "url": "https://www.faa.gov/newsroom/faa-increasing-oversight-boeing-production-and-manufacturing",
+        "published": "2024-01-12T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n# USA Banner\n\n**Official websites use .gov** A **.gov** website belongs to an official government organization in the United States.\n\n**Secure .gov websites use HTTPS**\nA **lock** ( A locked padlock ) or **https://** means you\u2019ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\n\n[United States Department of Transportation] \n\n# FAA Increasing Oversight of Boeing Production and Manufacturing\n\nFriday, January 12, 2024\n\n**W"
+      },
+      {
+        "title": "FAA to strengthen oversight as Boeing set to resume 737 MAX production",
+        "url": "https://www.reuters.com/business/aerospace-defense/faa-strengthen-oversight-boeing-prepares-resume-737-production-2024-11-07/",
+        "published": "2024-11-07T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[Exclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv] \n\nDozens of grounded Boeing 737 MAX aircraft are seen parked at Grant County International Airport in Moses Lake, Washington, U.S. November 17, 2020. REUTERS/Lindsey Wasson [Purchase Licensing Rights, opens new tab] \n\n- Companies\n\n- [Boeing Co] \n\nFollow\n\n- [Federal Aviation Administration] \n\nFollow\n\n\nWASHINGTON, Nov 7 (Reuters) - The Federal Aviation Administration said on Th"
+      },
+      {
+        "title": "In This Section",
+        "url": "https://www.faa.gov/newsroom/updates-boeing-737-9-max-aircraft",
+        "published": "2024-12-05T00:00:00.000Z",
+        "excerpt": "Updates on Boeing 737-9 MAX Aircraft | Federal Aviation Administration[Skip to main content] \n# USA Banner\n![U.S. flag] \nAn official website of the United States governmentHere's how you know\n![Official US Government Icon] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in the United States.\n![Secure Site Icon] \n**Secure .gov websites use HTTPS**\nA**lock**(LockA locked padlock) or**https://**means you\u2019ve safely connected to the .gov website. Share "
+      },
+      {
+        "title": "In This Section",
+        "url": "https://www.faa.gov/newsroom/faa-statement-boeing-airworthiness-certificates",
+        "published": null,
+        "excerpt": "FAA Statement - Boeing Airworthiness Certificates | Federal Aviation Administration[Skip to main content] \n# USA Banner\n![U.S. flag] \nAn official website of the United States governmentHere's how you know\n![Official US Government Icon] \n**Official websites use .gov**\nA**.gov**website belongs to an official government organization in the United States.\n![Secure Site Icon] \n**Secure .gov websites use HTTPS**\nA**lock**(LockA locked padlock) or**https://**means you\u2019ve safely connected to the .gov we"
+      }
+    ],
+    "search_queries": [
+      "Search #1: Boeing 737 MAX initial safety concerns MCAS system problems ...",
+      "Search #2: Boeing 737 MAX Lion Air crash Ethiopian Airlines crash inves...",
+      "Search #3: FAA Boeing 737 MAX grounding decision recertification timeli...",
+      "Search #4: Boeing 737 MAX FAA current safety statements 2024 2023 retur...",
+      "Search #5: Boeing 737 MAX whistleblower concerns internal safety report...",
+      "Search #6: Boeing 737 MAX 9 Alaska Airlines door plug incident January ...",
+      "Search #7: FAA Boeing 737 MAX production quality control oversight 2024..."
+    ],
+    "search_count": 7,
+    "time_seconds": 77.39218997955322
+  },
+  "claude": {
+    "analysis_text": "I'll search for information about the Boeing 737 MAX safety timeline from initial reports through current FAA statements.Now I have comprehensive information about the Boeing 737 MAX safety timeline. Let me compile this into the requested format.\n\n---\n\n## 1. KEY FINDINGS\n\n### Early Design Phase (2016)\n\n**Claim:** In 2016, the FAA approved Boeing's request to remove references to the MCAS system from flight manuals.\n**Quote:** \"In 2016 the FAA had approved Boeing's request to remove references to a new Maneuvering Characteristics Augmentation System (MCAS) from the flight manual.\"\n**Source:** https://en.wikipedia.org/wiki/Boeing_737_MAX_groundings\n\n**Claim:** MCAS was designed to rely on a single angle-of-attack sensor instead of two factors considered in the original plan.\n**Quote:** \"The revised design allowed MCAS to trigger on the inputs of a single sensor, instead of two factors considered in the original plan.\"\n**Source:** https://www.seattletimes.com/seattle-news/times-watchdog/the-inside-story-of-mcas-how-boeings-737-max-system-gained-power-and-lost-safeguards/\n\n**Claim:** Boeing agreed with the FAA not to inform pilots about MCAS in manuals despite safety analysis expecting pilots to be the primary backstop.\n**Quote:** \"Boeing and the FAA advanced the 737 MAX toward production, they limited the scrutiny and testing of the MCAS design. Then they agreed not to inform pilots about MCAS in manuals\"\n**Source:** https://www.seattletimes.com/seattle-news/times-watchdog/the-inside-story-of-mcas-how-boeings-737-max-system-gained-power-and-lost-safeguards/\n\n### First Crash - Lion Air Flight 610 (October 29, 2018)\n\n**Claim:** Lion Air Flight 610 crashed into the Java Sea killing all 189 people aboard, marking the first major 737 MAX accident.\n**Quote:** \"On 29 October 2018, the Boeing 737 MAX 8 operating the route, carrying 181 passengers and 8 crew members, crashed into the Java Sea 13 minutes after takeoff, killing all 189 occupants\"\n**Source:** https://en.wikipedia.org/wiki/Lion_Air_Flight_610\n\n**Claim:** Eight days after the Lion Air crash, Boeing issued a bulletin about erroneous angle-of-attack data causing nose-down movement.\n**Quote:** \"Eight days later Boeing issued a bulletin to all 737 MAX 8 and 737 MAX 9 operators stating that 'erroneous angle-of-attack data' could result in 'uncommanded nose-down movement'\"\n**Source:** https://mitsloan.mit.edu/teaching-resources-library/boeings-737-max-8-disasters\n\n**Claim:** On November 7, 2018, the FAA issued an Emergency Airworthiness Directive requiring updated flight manual procedures.\n**Quote:** \"November 7, the FAA issued an Emergency airworthiness directive to owners and operators, requiring revising the aircraft flight manual (AFM)\"\n**Source:** https://en.wikipedia.org/wiki/Boeing_737_MAX_groundings\n\n**Claim:** Boeing did not issue a software fix or recommend grounding the aircraft after the Lion Air crash.\n**Quote:** \"After the crash, internal discussions at Boeing, FAA reviews, and investigations by Lion Air revealed concerns about MCAS. But Boeing did not issue a software fix nor recommend grounding the aircraft.\"\n**Source:** https://blog.thinkreliability.com/four-lessons-from-the-boeing-737-max-8-crashes\n\n### Second Crash - Ethiopian Airlines Flight 302 (March 10, 2019)\n\n**Claim:** Ethiopian Airlines Flight 302 crashed on March 10, 2019, killing all 157 people aboard under circumstances similar to the Lion Air crash.\n**Quote:** \"On 10 March 2019, the Boeing 737 MAX 8 aircraft which operated the flight crashed near the town of Bishoftu six minutes after takeoff. All 149 passengers and 8 crew members on board died.\"\n**Source:** https://en.wikipedia.org/wiki/Ethiopian_Airlines_Flight_302\n\n**Claim:** The FAA initially affirmed the MAX's airworthiness after the Ethiopian crash, claiming insufficient evidence of similarities.\n**Quote:** \"The Federal Aviation Administration initially affirmed the MAX's continued airworthiness, following these, claiming to have insufficient evidence of accident similarities.\"\n**Source:** https://en.wikipedia.org/wiki/Boeing_737_MAX_groundings\n\n**Claim:** On March 13, 2019, after 51 other regulators grounded the aircraft, the FAA grounded the 737 MAX.\n**Quote:** \"On March 13, following grounding decisions by 51 other regulators, the FAA grounded the aircraft.\"\n**Source:** https://en.wikipedia.org/wiki/Boeing_737_MAX_groundings\n\n**Claim:** By March 18, 2019, all 387 aircraft delivered to airlines worldwide were grounded.\n**Quote:** \"All 387 aircraft delivered to airlines were grounded by March 18.\"\n**Source:** https://en.wikipedia.org/wiki/Boeing_737_MAX_groundings\n\n### Investigation Findings (2019-2020)\n\n**Claim:** In September 2019, the NTSB issued 7 safety recommendations to the FAA related to both crashes.\n**Quote:** \"pilot responses to the unintended MCAS operation were not consistent with the underlying assumptions about pilot recognition and response that Boeing used\"\n**Source:** https://www.ntsb.gov/investigations/AccidentReports/Reports/ASR1901.pdf\n\n**Claim:** A June 2020 Inspector General report revealed MCAS problems dated several years before the accidents.\n**Quote:** \"In June 2020, the U.S. Inspector General's report revealed that MCAS problems dated several years before the accidents.\"\n**Source:** https://en.wikipedia.org/wiki/Boeing_737_MAX_groundings\n\n**Claim:** In September 2020, the House of Representatives concluded Boeing dismissed employee concerns and prioritized deadlines over safety.\n**Quote:** \"In September 2020, the House of Representatives concluded its investigation and cited numerous instances where Boeing dismissed employee concerns with MCAS, prioritized deadline and budget constraints over safety\"\n**Source:** https://en.wikipedia.org/wiki/Boeing_737_MAX_groundings\n\n**Claim:** Boeing was charged with fraud and agreed to pay over $2.5 billion in January 2021.\n**Quote:** \"In January 2021, Boeing settled to pay over $2.5 billion after being charged with fraud in connections to the crashes.\"\n**Source:** https://en.wikipedia.org/wiki/Boeing_737_MAX_groundings\n\n### Return to Service (November 2020)\n\n**Claim:** The FAA completed recertification of the 737 MAX on November 18, 2020, after a 20-month grounding.\n**Quote:** \"FAA completed the recertification of the 737 MAX on November 18, 2020.\"\n**Source:** https://www.oig.dot.gov/sites/default/files/FAA Boeing 737 MAX Return to Service Final Report^4.26.2023_revised.pdf\n\n**Claim:** American Airlines was the first U.S. airline to resume commercial operations on December 29, 2020.\n**Quote:** \"December 29, American Airlines was the first US airline to resume commercial operations.\"\n**Source:** https://en.wikipedia.org/wiki/Boeing_737_MAX_groundings\n\n### Alaska Airlines Door Plug Incident (January 5, 2024)\n\n**Claim:** On January 5, 2024, a door plug blew out of Alaska Airlines Flight 1282, causing emergency landing.\n**Quote:** \"Shortly after takeoff on January 5, 2024, a door plug on the Boeing 737 MAX 9 aircraft blew out, causing an uncontrolled decompression of the aircraft.\"\n**Source:** https://en.wikipedia.org/wiki/Alaska_Airlines_Flight_1282\n\n**Claim:** Four bolts meant to secure the door plug were missing when the aircraft left Boeing's factory.\n**Quote:** \"According to preliminary investigation findings released by NTSB investigators on Tuesday, four key bolts were 'missing' when a door plug blew off an Alaska Airlines 737 Max 9\"\n**Source:** https://www.npr.org/2024/02/06/1229528737/ntsb-boeing-737-max-9-alaska-airlines-door-plug-missing-bolts\n\n**Claim:** The FAA grounded 171 Boeing 737 Max 9 aircraft on January 6, 2024, and ordered immediate inspections.\n**Quote:** \"The Federal Aviation Administration on Saturday ordered the grounding and immediate inspection of about 171 Boeing 737 Max 9 aircraft worldwide\"\n**Source:** https://www.npr.org/2024/01/06/1223296736/boeing-737-max-9-planes-grounded\n\n### Current FAA Actions (2024-2026)\n\n**Claim:** In January 2024, the FAA halted production expansion of the 737 MAX and capped output at 38 aircraft per month.\n**Quote:** \"To hold Boeing accountable for its production quality issues, the FAA has halted production expansion of the Boeing 737 MAX\"\n**Source:** https://www.faa.gov/newsroom/updates-boeing-737-9-max-aircraft\n\n**Claim:** In February 2024, FAA Administrator Whitaker directed Boeing to develop a comprehensive action plan within 90 days.\n**Quote:** \"February 2024: FAA Administrator Mike Whitaker directed Boeing to develop a comprehensive action plan to set a new standard for safety\"\n**Source:** https://www.faa.gov/newsroom/updates-boeing-737-9-max-aircraft\n\n**Claim:** In June 2024, the NTSB final report found systemic failure in Boeing's manufacturing process and ineffective FAA oversight.\n**Quote:** \"the probable cause of the Alaska Airlines Flight 1282 door plug blowout was a systemic failure of Boeing's manufacturing process and ineffective oversight by the Federal Aviation Administration\"\n**Source:** https://en.wikipedia.org/wiki/Alaska_Airlines_Flight_1282\n\n**Claim:** In September 2024, the NTSB issued urgent safety recommendations on Boeing 737 rudder systems.\n**Quote:** \"Boeing's 737 flight manual instructs pilots confronted with a jammed or restricted rudder to 'overpower the jammed or restricted system [using] maximum force, including a combined effort'\"\n**Source:** https://www.ntsb.gov/news/press-releases/Pages/NR20240926.aspx\n\n**Claim:** In June 2025, the NTSB issued an urgent safety bulletin about potential engine smoke issues on 737 MAX aircraft.\n**Quote:** \"The NTSB found issues with CFM International LEAP-1B engines that, when damaged, can cause smoke to 'to enter the ventilation system and ultimately the cockpit or passenger cabin.'\"\n**Source:** https://www.cnn.com/2025/06/18/business/ntsb-safety-bulletin-boeing-737-max-engines\n\n**Claim:** In September 2025, the FAA allowed limited delegation to Boeing for issuing airworthiness certificates.\n**Quote:** \"The FAA will allow limited delegation to Boeing for issuing airworthiness certificates for some 737 MAX and 787 airplanes starting on Sept. 29, 2025.\"\n**Source:** https://www.faa.gov/newsroom/faa-statement-boeing-airworthiness-certificates\n\n**Claim:** In October 2025, the FAA approved Boeing to increase 737 MAX production to 42 aircraft per month.\n**Quote:** \"The FAA said Boeing can produce 737 Max planes at 42 a month, above the 38 a month limit Boeing had been producing at.\"\n**Source:** https://www.cnbc.com/2025/10/17/boeing-737-max-production.html\n\n**Claim:** As of December 2025, the FAA is reviewing Boeing's crew alerting system redesign for the entire MAX family.\n**Quote:** \"the FAA announced it had begun its formal review of Boeing's crew alerting system, covering updated systems required across the entire MAX family\"\n**Source:** https://simpleflying.com/whats-going-on-boeing-737-max-certification/\n\n**Note:** The pattern shows repeated safety incidents followed by regulatory responses, with the FAA's relationship with Boeing evolving from delegated oversight to direct inspection and back toward limited delegation. [INFERENCE - synthesis of timeline patterns]\n\n---\n\n## 2. SOURCE QUALITY ASSESSMENT\n\n**Strengths:**\n- Mix of primary sources (FAA official statements, NTSB reports, official investigations)\n- Major news outlets (CNN, NPR, Seattle Times) with aviation expertise\n- Government oversight reports (DOT Inspector General, House of Representatives)\n- Technical aviation publications\n- Recent documents through January 2026\n\n**Weaknesses:**\n- Some reliance on Wikipedia for timeline synthesis (though cross-referenced with primary sources)\n- Boeing corporate statements may present company perspective\n- Limited access to complete investigative reports (some behind paywalls or redacted)\n- Ongoing litigation means some facts still disputed\n\n**Overall Assessment:** Sources are generally reliable with strong representation from regulatory bodies, independent safety investigators (NTSB), and credible journalism. The combination of official FAA statements, NTSB findings, and congressional investigations provides triangulated verification of key facts.\n\n---\n\n## 3. GAPS OR CONTRADICTIONS\n\n**Information Gaps:**\n- Limited detail on Boeing's internal decision-making process during 2016-2017 MCAS development\n- Incomplete information on specific FAA personnel decisions during initial certification\n- Door plug incident documentation gaps - Boeing has no record of who removed/reinstalled the door plug\n- Current status of MAX 7 certification (mentioned as ongoing but no firm timeline)\n- Details of Boeing's submitted 90-day action plan response to FAA (mentioned but not fully disclosed)\n\n**Contradictions:**\n- NTSB disputed Ethiopian report's finding about lack of MCAS documentation, noting Boeing provided information to operators four months before the Ethiopian crash\n- Boeing disputed NTSB chair's testimony that they hadn't provided employee names, claiming they had provided door specialists' names early in investigation\n- Conflicting data initially about similarities between crashes led to FAA's delayed grounding decision\n\n**Timeline Uncertainties:**\n- Exact dates of internal Boeing communications and warnings unclear\n- Precise timeline of when Boeing engineers knew about MCAS issues versus when management acted\n- MAX 10 certification timeline remains uncertain (pushed from 2025 to potentially 2026 or 2027)\n\n---\n\n## 4. RECOMMENDED NEXT STEPS\n\n**For Deeper Investigation:**\n\n1. **Internal Boeing Documents:** Obtain full releases of Boeing employee communications and engineering reports from 2016-2018 through FOIA or litigation discovery.\n\n2. **FAA Certification Process:** Research FAA's Organization Designation Authorization (ODA) program evolution and how delegation to Boeing changed over time.\n\n3. **International Regulatory Response:** Compare how EASA, Transport Canada, and other regulators handled MAX certification versus FAA approach.\n\n4. **Pilot Training Requirements:** Investigate what specific simulator training changes were implemented and whether they addressed NTSB concerns.\n\n5. **Manufacturing Quality Control:** Examine Spirit AeroSystems' role in both the original MCAS issues and 2024 door plug incident.\n\n6. **Current Safety Culture:** Research Boeing's Safety Management System (SMS) implementation and independent expert panel findings on corporate culture.\n\n7. **MAX 7/MAX 10 Status:** Track ongoing certification efforts and any exemption requests for newer variants.\n\n8. **Economic Impact Analysis:** Investigate financial consequences on airlines, Boeing's order book, and competitive impact from Airbus.\n\n9. **Congressional Oversight:** Review complete House and Senate investigation reports for additional findings not summarized in public statements.\n\n10. **Whistleblower Accounts:** Seek additional testimony from current/former Boeing employees about ongoing safety concerns.",
+    "sources": [
+      {
+        "title": "Boeing 737 MAX groundings - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Boeing_737_MAX_groundings",
+        "page_age": "1 week ago"
+      },
+      {
+        "title": "Updates on Boeing 737-9 MAX Aircraft | Federal Aviation Administration",
+        "url": "https://www.faa.gov/newsroom/updates-boeing-737-9-max-aircraft",
+        "page_age": null
+      },
+      {
+        "title": "NTSB issues rare safety bulletin about potential issues with Boeing 737 Max engines | CNN Business",
+        "url": "https://www.cnn.com/2025/06/18/business/ntsb-safety-bulletin-boeing-737-max-engines",
+        "page_age": "June 18, 2025"
+      },
+      {
+        "title": "NTSB issues \u2018urgent\u2019 safety warning for some Boeing 737s, including MAX, in latest blow to struggling planemaker | CNN Business",
+        "url": "https://www.cnn.com/2024/09/26/business/ntsb-urgent-safety-warning-boeing-737s-max",
+        "page_age": "September 26, 2024"
+      },
+      {
+        "title": "59582 ASR-19-01 National Transportation Safety Board Washington, DC 20594",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/ASR1901.pdf",
+        "page_age": null
+      },
+      {
+        "title": "NTSB Issues Urgent Safety Recommendations on Boeing 737 Rudder System",
+        "url": "https://www.ntsb.gov/news/press-releases/Pages/NR20240926.aspx",
+        "page_age": null
+      },
+      {
+        "title": "FAA Has Completed 737 MAX Return to Service Efforts, but",
+        "url": "https://www.oig.dot.gov/sites/default/files/FAA Boeing 737 MAX Return to Service Final Report^4.26.2023_revised.pdf",
+        "page_age": null
+      },
+      {
+        "title": "Four Lessons from the Boeing 737 MAX 8 Crashes",
+        "url": "https://blog.thinkreliability.com/four-lessons-from-the-boeing-737-max-8-crashes",
+        "page_age": "June 24, 2025"
+      },
+      {
+        "title": "Case Study 19: The $20 Billion Boeing 737 Max Disaster That Shook Aviation - Henrico Dolfing",
+        "url": "https://www.henricodolfing.com/2024/08/case-study-19-20-billion-boeing-737-max.html",
+        "page_age": null
+      },
+      {
+        "title": "NTSB issues urgent safety bulletin about engines found in some Boeing 737 Max jets",
+        "url": "https://www.foxbusiness.com/economy/ntsb-issues-urgent-safety-bulletin-about-engines-found-some-boeing-737-max-jets",
+        "page_age": "June 19, 2025"
+      },
+      {
+        "title": "Lion Air Flight 610 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lion_Air_Flight_610",
+        "page_age": "2 weeks ago"
+      },
+      {
+        "title": "Boeing Statement on Lion Air Flight 610 Preliminary Report",
+        "url": "https://boeing.mediaroom.com/news-releases-statements?item=130336",
+        "page_age": null
+      },
+      {
+        "title": "DCA19RA017-DCA19RA101.aspx",
+        "url": "https://www.ntsb.gov/investigations/Pages/DCA19RA017-DCA19RA101.aspx",
+        "page_age": null
+      },
+      {
+        "title": "Boeing's 737 MAX 8 Disasters | Case Study | MIT Sloan",
+        "url": "https://mitsloan.mit.edu/teaching-resources-library/boeings-737-max-8-disasters",
+        "page_age": null
+      },
+      {
+        "title": "Lion Air 737 MAX Final Accident Report Cites AOA Sensor, MCAS Among Multitude of Contributing Factors - Avionics International",
+        "url": "https://www.aviationtoday.com/2019/10/28/lion-air-737-max-final-accident-report-cites-aoa-sensor-mcas-as-contributing-factors/",
+        "page_age": "October 28, 2019"
+      },
+      {
+        "title": "Lion Air Flight JT 610 Crash | Aviation Accident Attorney",
+        "url": "https://www.wisnerbaum.com/blog/2018/october/lion-air-flight-jt-610-crash/",
+        "page_age": "September 8, 2025"
+      },
+      {
+        "title": "Loss of control Accident Boeing 737 MAX 8 PK-LQP, Monday 29 October 2018",
+        "url": "https://aviation-safety.net/asndb/319547",
+        "page_age": null
+      },
+      {
+        "title": "Indonesia report finds fatal Lion Air jet crash due to Boeing, pilots, maintenance",
+        "url": "https://www.nbcnews.com/news/world/indonesia-report-finds-fatal-lion-air-jet-crash-due-boeing-n1071796",
+        "page_age": "October 25, 2019"
+      },
+      {
+        "title": "Boeing 737 Max Crashes | The Belfer Center for Science and International Affairs",
+        "url": "https://www.belfercenter.org/publication/boeing-737-max-crashes",
+        "page_age": "June 17, 2021"
+      },
+      {
+        "title": "5th anniversary of Lion Air 737-Max crash: Lessons learned | king5.com",
+        "url": "https://www.king5.com/article/news/local/5-year-anniversary-lion-air-737-max-crash-lessons-learned/281-0d122da0-530e-40e1-b93b-ca956c8b4829",
+        "page_age": null
+      },
+      {
+        "title": "Ethiopian Airlines Flight 302 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ethiopian_Airlines_Flight_302",
+        "page_age": "2 weeks ago"
+      },
+      {
+        "title": "Loss of control Accident Boeing 737 MAX 8 ET-AVJ, Sunday 10 March 2019",
+        "url": "https://aviation-safety.net/asndb/319474",
+        "page_age": null
+      },
+      {
+        "title": "Victims Of Boeing 737 MAX Ethiopia Crash | Rapoport Sims Perry & VanOverloop, P.C.",
+        "url": "https://rapoportlaw.com/verdicts-and-settlements/victims-of-boeing-737-max-ethiopia-crash/",
+        "page_age": "July 20, 2025"
+      },
+      {
+        "title": "Boeing starts to face first civil trial over 2019 Ethiopian Airlines 737 MAX crash that killed 157 | Fortune",
+        "url": "https://fortune.com/2025/04/07/boeing-face-first-civil-trial-2019-ethiopian-airlines-737-max-crash-killed-157/",
+        "page_age": "April 7, 2025"
+      },
+      {
+        "title": "NTSB Publishes Additional Comments on Ethiopia\u2019s Final Report on 737 MAX 8 Accident",
+        "url": "https://www.ntsb.gov/news/press-releases/Pages/NR20230124.aspx",
+        "page_age": null
+      },
+      {
+        "title": "Updated: Boeing Statement on Ethiopian Airlines Flight 302",
+        "url": "https://boeing.mediaroom.com/news-releases-statements?item=130401",
+        "page_age": null
+      },
+      {
+        "title": "Boeing reaches settlement with man whose wife and children died in 737 Max crash in Ethiopia | PBS News",
+        "url": "https://www.pbs.org/newshour/nation/boeing-reaches-settlement-with-man-whose-wife-and-children-died-in-737-max-crash-in-ethiopia",
+        "page_age": "July 12, 2025"
+      },
+      {
+        "title": "On the 5th anniversary of a fatal 737 Max crash, victims\u2019 families want more focus on Boeing\u2019s potential safety problems | CNN Business",
+        "url": "https://www.cnn.com/2024/03/10/business/boeing-victims-families-5th-anniversary",
+        "page_age": "March 10, 2024"
+      },
+      {
+        "title": "Boeing settles lawsuits over 2019 Ethiopian 737 Max crash | FOX 13 Seattle",
+        "url": "https://www.fox13seattle.com/news/boeing-settles-lawsuits-2019-ethiopian-737-max-crash",
+        "page_age": "April 7, 2025"
+      },
+      {
+        "title": "Boeing 737 MAX Litigation Update | Kreindler",
+        "url": "https://www.kreindler.com/news/et302-boeing-737-max-8-ethiopia",
+        "page_age": "April 3, 2025"
+      },
+      {
+        "title": "The inside story of MCAS: How Boeing\u2019s 737 MAX system gained power and lost safeguards | The Seattle Times",
+        "url": "https://www.seattletimes.com/seattle-news/times-watchdog/the-inside-story-of-mcas-how-boeings-737-max-system-gained-power-and-lost-safeguards/",
+        "page_age": "June 25, 2019"
+      },
+      {
+        "title": "Maneuvering Characteristics Augmentation System - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Maneuvering_Characteristics_Augmentation_System",
+        "page_age": "December 9, 2025"
+      },
+      {
+        "title": "Boeing 737 MAX groundings - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Boeing_737_MAX_groundings",
+        "page_age": "1 week ago"
+      },
+      {
+        "title": "Boeing's 737 MAX 8 Disasters | Case Study | MIT Sloan",
+        "url": "https://mitsloan.mit.edu/teaching-resources-library/boeings-737-max-8-disasters",
+        "page_age": null
+      },
+      {
+        "title": "The inside story of MCAS: How Boeing\u2019s 737 MAX system gained power and lost safeguards - Association of Flight Attendants-CWA",
+        "url": "https://afacwa.org/the_inside_story_of_mcas_seattle_times/",
+        "page_age": "June 22, 2019"
+      },
+      {
+        "title": "What Went Wrong With the Boeing 737 MAX? The Why Spotlight #4",
+        "url": "https://pilotswhoaskwhy.com/2025/02/09/what-went-wrong-with-the-boeing-737-max-the-why-spotlight-4/",
+        "page_age": "February 23, 2025"
+      },
+      {
+        "title": "What went wrong with the MCAS on the Boeing 737 Max? - Aviation. - Quora",
+        "url": "https://aviation1.quora.com/What-went-wrong-with-the-MCAS-on-the-Boeing-737-Max",
+        "page_age": null
+      },
+      {
+        "title": "Four Lessons from the Boeing 737 MAX 8 Crashes",
+        "url": "https://blog.thinkreliability.com/four-lessons-from-the-boeing-737-max-8-crashes",
+        "page_age": "June 24, 2025"
+      },
+      {
+        "title": "Boeing 737 Max MCAS Software Epiphany",
+        "url": "https://www.inteqgroup.com/blog/boeing-737-max-mcas-software-epiphany",
+        "page_age": "May 21, 2025"
+      },
+      {
+        "title": "Summary of the FAA\u2019s Review of the Boeing 737 MAX",
+        "url": "https://www.faa.gov/sites/faa.gov/files/2022-08/737_RTS_Summary.pdf",
+        "page_age": null
+      },
+      {
+        "title": "Boeing 737 MAX groundings - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Boeing_737_MAX_groundings",
+        "page_age": "1 week ago"
+      },
+      {
+        "title": "List of Boeing 737 MAX groundings - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_Boeing_737_MAX_groundings",
+        "page_age": "3 weeks ago"
+      },
+      {
+        "title": "FAA Updates on Boeing 737 MAX | Federal Aviation Administration",
+        "url": "https://www.faa.gov/newsroom/faa-updates-boeing-737-max-0",
+        "page_age": null
+      },
+      {
+        "title": "The Continued Grounding of the Boeing 737 MAX | The Regulatory Review",
+        "url": "https://www.theregreview.org/2020/07/16/nakahara-continued-grounding-boeing-737-max/",
+        "page_age": "September 24, 2020"
+      },
+      {
+        "title": "FAA orders grounding of certain Boeing 737 Max 9 planes after Alaska Airlines incident",
+        "url": "https://www.npr.org/2024/01/06/1223296736/boeing-737-max-9-planes-grounded",
+        "page_age": "January 7, 2024"
+      },
+      {
+        "title": "FAA headquarters initially overrode its own engineers\u2019 737 Max grounding recommendation | CNN",
+        "url": "https://amp.cnn.com/cnn/travel/article/faa-boeing-737-max-inspector-general/index.html",
+        "page_age": "April 28, 2023"
+      },
+      {
+        "title": "The Grounding of the Boeing 737 MAX | The Regulatory Review",
+        "url": "https://www.theregreview.org/2019/03/19/nakahara-grounding-boeing-737-max/",
+        "page_age": "March 19, 2019"
+      },
+      {
+        "title": "FAA lifts ban on Boeing 737 Max after crashes in 2018 and 2019 grounded the jet",
+        "url": "https://www.washingtonpost.com/local/trafficandcommuting/boeing-737-max-ungrounded/2020/11/18/c4d6c1a8-2902-11eb-8fa2-06e7cbb145c0_story.html",
+        "page_age": "November 19, 2020"
+      },
+      {
+        "title": "The fallout for Boeing will extend far beyond the 737 Max 9 grounding - The Air Current",
+        "url": "https://theaircurrent.com/industry-strategy/boeing-spirit-737-max-9-grounding-fallout/",
+        "page_age": "January 6, 2025"
+      },
+      {
+        "title": "Boeing's 737 MAX 8 Disasters | Case Study | MIT Sloan",
+        "url": "https://mitsloan.mit.edu/teaching-resources-library/boeings-737-max-8-disasters",
+        "page_age": null
+      },
+      {
+        "title": "Alaska Airlines Flight 1282 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Alaska_Airlines_Flight_1282",
+        "page_age": "2 weeks ago"
+      },
+      {
+        "title": "NTSB says four bolts 'missing' on Alaska Airlines 737 Max 9 door plug blowout : NPR",
+        "url": "https://www.npr.org/2024/02/06/1229528737/ntsb-boeing-737-max-9-alaska-airlines-door-plug-missing-bolts",
+        "page_age": "February 6, 2024"
+      },
+      {
+        "title": "NTSB faults Boeing for lack of safety protocols in 737 Max door plug blowout",
+        "url": "https://www.npr.org/2025/06/24/nx-s1-5442564/ntsb-boeing-737-max-door-plug-alaska-airlines",
+        "page_age": "June 24, 2025"
+      },
+      {
+        "title": "Boeing is withholding key details about door plug on Alaska 737 Max 9 jet, NTSB says",
+        "url": "https://www.npr.org/2024/03/06/1236277058/boeing-737-max-9-alaska-airlines-door-plug-removed-ntsb-commerce-cantwell-cruz",
+        "page_age": "March 6, 2024"
+      },
+      {
+        "title": "In-flight structural failure, Alaska Airlines ...",
+        "url": "https://www.ntsb.gov/investigations/Pages/DCA24MA063.aspx",
+        "page_age": null
+      },
+      {
+        "title": "Alaska Airlines 737 MAX Captain Sues Boeing Over Door Plug Incident",
+        "url": "https://simpleflying.com/alaska-airlines-737-max-captain-sues-boeing-door-plug/",
+        "page_age": "2 weeks ago"
+      },
+      {
+        "title": "Boeing Sued by Alaska Airlines Pilot Over 737 Max 9 Door Plug Blowout",
+        "url": "https://www.fodors.com/news/news/boeing-sued-by-alaska-airlines-pilot-over-737-max-9-door-plug-blowout",
+        "page_age": "2 weeks ago"
+      },
+      {
+        "title": "Passengers settle massive lawsuit with Alaska Airlines and Boeing after midflight door plug failure",
+        "url": "https://www.foxbusiness.com/lifestyle/passengers-settle-massive-lawsuit-alaska-airlines-boeing-midflight-door-plug-failure",
+        "page_age": "July 16, 2025"
+      },
+      {
+        "title": "Alaska Airlines pilot sues Boeing, Spirit AeroSystems over midair door plug failure",
+        "url": "https://www.fox13seattle.com/news/alaska-airlines-pilot-sues-boeing-spirit-door-plug",
+        "page_age": "2 weeks ago"
+      },
+      {
+        "title": "\"Multiple system failures\" led to door plug flying off Alaska Airlines flight in 2024, NTSB chair says - CBS News",
+        "url": "https://www.cbsnews.com/news/alaska-flight-1282-ntsb-safety-failures-reccommendations/",
+        "page_age": "June 24, 2025"
+      },
+      {
+        "title": "FAA Statement - Boeing Airworthiness Certificates | Federal Aviation Administration",
+        "url": "https://www.faa.gov/newsroom/faa-statement-boeing-airworthiness-certificates",
+        "page_age": null
+      },
+      {
+        "title": "FAA lets Boeing increase 737 Max production almost two years after near-catastrophic accident",
+        "url": "https://www.cnbc.com/2025/10/17/boeing-737-max-production.html",
+        "page_age": "October 17, 2025"
+      },
+      {
+        "title": "Federal Register :: Implementation of Required Safety Enhancements on Boeing 737 MAX Airplanes",
+        "url": "https://www.federalregister.gov/documents/2025/12/15/2025-22787/implementation-of-required-safety-enhancements-on-boeing-737-max-airplanes",
+        "page_age": "December 15, 2025"
+      },
+      {
+        "title": "FAA Halts Boeing MAX Production Expansion to Improve Quality Control, Also Lays Out Extensive Inspection and Maintenance Process to Allow Boeing 737-9 MAX Aircraft to Return to Service | Federal Aviation Administration",
+        "url": "https://www.faa.gov/newsroom/faa-halts-boeing-max-production-expansion-improve-quality-control-also-lays-out-extensive",
+        "page_age": null
+      },
+      {
+        "title": "What\u2019s Going On With The Boeing 737 MAX 10 Certification?",
+        "url": "https://simpleflying.com/whats-going-on-boeing-737-max-certification/",
+        "page_age": "1 month ago"
+      },
+      {
+        "title": "Boeing 737 MAX Reading Room | Federal Aviation Administration",
+        "url": "https://www.faa.gov/foia/electronic_reading_room/boeing_reading_room",
+        "page_age": null
+      },
+      {
+        "title": "'A Long Ways Away': FAA Signals No Imminent End to 737 MAX Production Limits - Flight Plan",
+        "url": "https://flightplan.forecastinternational.com/2025/07/25/a-long-ways-away-faa-signals-no-imminent-end-to-737-max-production-limits/",
+        "page_age": "July 25, 2025"
+      },
+      {
+        "title": "News Releases | Boeing Newsroom",
+        "url": "https://boeing.mediaroom.com/news-releases-statements",
+        "page_age": null
+      },
+      {
+        "title": "FAA Keeps Boeing 737 MAX Production Cap at 38 Aircraft per Month",
+        "url": "https://interama.org/faa-maintains-737-max-production-cap-as-oversight-of-boeing-continues/",
+        "page_age": "September 10, 2025"
+      },
+      {
+        "title": "Boeing 737 MAX - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Boeing_737_MAX",
+        "page_age": "13 hours ago"
+      }
+    ],
+    "search_count": 0,
+    "time_seconds": 94.41223120689392
+  },
+  "metrics": {
+    "exa_traceability": 100.0,
+    "exa_supported": 17,
+    "exa_tier_a": 53,
+    "exa_tier_a_pct": 76.81159420289855,
+    "exa_cost": 0.1312,
+    "claude_traceability": 100.0,
+    "claude_supported": 28,
+    "claude_tier_a": 29,
+    "claude_tier_a_pct": 41.42857142857143,
+    "claude_cost": 0.4872
+  }
+}

@@ -1,0 +1,875 @@
+{
+  "timestamp": "2026-01-20T01:10:26.702674",
+  "query": "Fact-check viral claims that California banned gas stoves - what does the actual legislation say?",
+  "query_category": "Fact-Checking & Verification",
+  "app_type": "general",
+  "webset_category": null,
+  "search_type": "neural",
+  "num_results": 10,
+  "exa": {
+    "analysis_text": "Based on my research, I now have enough information to provide a comprehensive fact-check analysis. Let me compile the findings.\n\n## 1. KEY FINDINGS\n\n**Claim:** The Biden administration and federal government have not banned gas stoves.\n**Quote:** \"The RFI does not constitute or propose any regulatory action or ban. CPSC has been clear that there are no regulatory proceedings planned for gas stoves\"\n**Source:** https://www.prnewswire.com/news-releases/statement-from-cpsc-on-request-for-information-rfi-on-gas-stoves-301760118.html\n\n**Claim:** A Consumer Product Safety Commission commissioner's comments were misinterpreted as announcing a ban.\n**Quote:** \"Any option is on the table. Products that can't be made safe can be banned\"\n**Source:** https://www.cruz.senate.gov/imo/media/doc/gas_stove_letter_trumka.pdf\n\n**Claim:** The CPSC Chair explicitly denied plans to ban gas stoves in January 2023.\n**Quote:** \"Research indicates that emissions from gas stoves can be hazardous, and the CPSC is looking for ways to reduce related indoor air quality hazards\"\n**Source:** https://www.cpsc.gov/About-CPSC/Chairman/Alexander-Hoehn-Saric/Statement/Statement-of-Chair-Alexander-Hoehn-Saric-Regarding-Gas-Stoves\n\n**Claim:** California has not enacted a statewide ban on gas stoves.\n**Quote:** \"This bill would prohibit a person from selling or offering for sale a gas stove... unless that gas stove contains a specified warning label\"\n**Source:** https://www.gov.ca.gov/wp-content/uploads/2024/09/AB-2513-Veto-Message.pdf\n\n**Claim:** California's AB 2513, which would have required warning labels on gas stoves, was vetoed by the Governor in 2024.\n**Quote:** \"I am returning Assembly Bill 2513 without my signature\"\n**Source:** https://www.gov.ca.gov/wp-content/uploads/2024/09/AB-2513-Veto-Message.pdf\n\n**Claim:** Berkeley, California passed a local ordinance banning natural gas infrastructure in new buildings in 2019.\n**Quote:** \"Berkeley adopted first-of-its-kind legislation amending the city's building code to prohibit the use of\"\n**Source:** https://www.reubenlaw.com/ninth-circuit-overturns-natural-gas-ban/\n\n**Claim:** Berkeley's natural gas ban was struck down by the Ninth Circuit Court of Appeals in 2023 as preempted by federal law.\n**Quote:** \"Berkeley, California, cannot ban natural gas hookups in new buildings because a U.S. federal law preempts its rule\"\n**Source:** https://www.reuters.com/world/us/california-city-cant-enforce-natural-gas-ban-appeals-court-says-2023-04-17/\n\n**Claim:** The Ninth Circuit ruled Berkeley's ordinance violated the Energy Policy and Conservation Act.\n**Quote:** \"the 9th Circuit overturned a City of Berkeley ordinance that effectively banned natural gas appliances\"\n**Source:** https://www.khlaw.com/insights/9th-circuit-expands-epca-preemption-blocking-berkeley-natural-gas-ban\n\n**Claim:** Fact-checkers consistently found that federal gas stove ban claims were false.\n**Quote:** \"The Biden administration is not planning to ban gas stoves\"\n**Source:** https://www.factcheck.org/2023/01/hot-air-over-gas-stoves/\n\n**Claim:** Multiple news organizations confirmed no federal ban was planned or proposed.\n**Quote:** \"Nationwide bans on gas stoves are not going to be introduced imminently\"\n**Source:** https://www.reuters.com/article/factcheck-gas-stoves-idUSL1N33W1VQ/\n\n## 2. SOURCE QUALITY ASSESSMENT\n\n**High-Quality Sources:**\n- Official government websites (CPSC, California Legislature, Governor's Office, Federal Courts) provide primary source documents\n- Established fact-checking organizations (FactCheck.org, Reuters Fact Check, AP News) offer independent verification\n- Court documents from the Ninth Circuit provide authoritative legal analysis\n- Direct statements from CPSC commissioners are documented\n\n**Reliability Indicators:**\n- Multiple independent sources corroborate the same facts\n- Primary source documents available for verification\n- Timeline of events is clearly documented\n- Official government statements directly address the controversy\n\n**Potential Concerns:**\n- Some sources date to 2023-2025, showing evolving policy landscape\n- Legal status of local ordinances remains in flux due to ongoing litigation\n\n## 3. GAPS OR CONTRADICTIONS\n\n**Key Gaps:**\n- Limited information on what specific local jurisdictions beyond Berkeley enacted similar ordinances\n- Unclear how many California cities attempted natural gas bans before Berkeley's was struck down\n- Lack of comprehensive data on current status of all local ordinances post-Ninth Circuit ruling\n- Limited detail on what actions, if any, the CPSC actually took after the 2023 controversy\n\n**Notable Contradictions:**\n- Commissioner Trumka's initial comments (\"any option is on the table\") contradicted by CPSC Chair and agency official statements\n- Local ordinances (Berkeley) were enacted but then blocked by federal courts, creating confusion about what is/isn't legal\n\n**Ambiguities:**\n- The distinction between local ordinances affecting new construction versus existing appliances wasn't always clear in viral claims\n- Warning label legislation (AB 2513) was conflated with actual bans in some discussions\n\n## 4. RECOMMENDED NEXT STEPS\n\n**To Complete This Fact-Check:**\n\n1. **Verify current status of local ordinances:** Search for comprehensive list of California cities that enacted or attempted natural gas bans and their current legal status after the Ninth Circuit precedent\n\n2. **Examine building code changes:** Investigate whether California's Title 24 building energy efficiency standards include any restrictions on gas appliances in new construction\n\n3. **Track CPSC actions:** Research whether the CPSC Request for Information from March 2023 led to any regulatory proposals or actions\n\n4. **Monitor legislative activity:** Check status of current California bills (AB 1238 \"California Energy Consumer Freedom Act\" mentioned in searches) that may affect gas appliance regulations\n\n5. **Bay Area Air Quality regulations:** Investigate BAAQMD (Bay Area Air Quality Management District) rules on natural gas appliances, as the search results referenced NOx emissions standards for furnaces and water heaters\n\n6. **Interview sources:** Contact California Energy Commission and local building departments for clarification on current regulations\n\n**[INFERENCE - not directly stated in sources]:** The viral claims appear to have originated from misinterpretation of CPSC Commissioner Trumka's January 2023 comments, amplified by partisan political actors, and conflated with separate local ordinances in California cities. No actual statewide or federal ban has been enacted or formally proposed.",
+    "sources": [
+      {
+        "title": "Bill Information",
+        "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1238",
+        "published": null,
+        "excerpt": "- [skip to content] \n- [home] \n- [accessibility] \n- [FAQ] \n- [feedback] \n- [sitemap] \n- [login] \n- x\n\nQuick Search:\n\nBill NumberBill Keyword\n\n- [Home] \n- [Bill Information] \n- [California Law] \n- [Publications] \n- [Other Resources] \n- [My Subscriptions] \n- [My Favorites] \n\n# Bill Text\n\n# Bill Information\n\n[PDF2] [Bill PDF] \\| [Add To My Favorites] \\| [Track Bill] \\| Version:03/27/25 - Amended Assembly02/21/25 - Introduced\n\n# AB-1238 California Energy Consumer Freedom Act.(2025-2026)\n\n[Text\\\n>>] "
+      },
+      {
+        "title": "AB\u00a0\n              2513-\n                ENROLLED",
+        "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240AB2513",
+        "published": "2024-02-13T00:00:00.000Z",
+        "excerpt": "- [skip to content] \n- [home] \n- [accessibility] \n- [FAQ] \n- [feedback] \n- [sitemap] \n- [login] \n- x\n\nQuick Search:\n\nBill NumberBill Keyword\n\n- [Home] \n- [Bill Information] \n- [California Law] \n- [Publications] \n- [Other Resources] \n- [My Subscriptions] \n- [My Favorites] \n\n# Bill Text\n\n[PDF2] [Bill PDF] \\| [Add To My Favorites] \\| Version:09/05/24 - Enrolled08/05/24 - Amended Senate06/10/24 - Amended Senate04/17/24 - Amended Assembly04/03/24 - Amended Assembly02/13/24 - Introduced\n\n# AB-2513 Gas"
+      },
+      {
+        "title": "SB\u00a0\n              254-\n                CHAPTERED",
+        "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB254",
+        "published": "2025-09-22T10:00:00.000Z",
+        "excerpt": "- [skip to content] \n- [home] \n- [accessibility] \n- [FAQ] \n- [feedback] \n- [sitemap] \n- [login] \n- x\n\nQuick Search:\n\nBill NumberBill Keyword\n\n- [Home] \n- [Bill Information] \n- [California Law] \n- [Publications] \n- [Other Resources] \n- [My Subscriptions] \n- [My Favorites] \n\n# Bill Text\n\n[PDF2] [Bill PDF] \\| [Add To My Favorites] \\| [Track Bill] \\| Version:09/19/25 - Chaptered09/15/25 - Enrolled09/10/25 - Amended Assembly05/28/25 - Amended Senate04/22/25 - Amended Senate03/20/25 - Amended Senate02"
+      },
+      {
+        "title": "SB\u00a0\n              254-\n                CHAPTERED",
+        "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB254",
+        "published": "2025-09-22T10:00:00.000Z",
+        "excerpt": "- [skip to content] \n- [home] \n- [accessibility] \n- [FAQ] \n- [feedback] \n- [sitemap] \n- [login] \n- x\n\nQuick Search:\n\nBill NumberBill Keyword\n\n- [Home] \n- [Bill Information] \n- [California Law] \n- [Publications] \n- [Other Resources] \n- [My Subscriptions] \n- [My Favorites] \n\n# Bill Text\n\n# Bill Information\n\n[PDF2] [Bill PDF] \\| [Add To My Favorites] \\| [Track Bill] \\| Version:09/19/25 - Chaptered09/15/25 - Enrolled09/10/25 - Amended Assembly05/28/25 - Amended Senate04/22/25 - Amended Senate03/20/2"
+      },
+      {
+        "title": "SB\u00a0\n              655-\n                CHAPTERED",
+        "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB655",
+        "published": "2025-10-13T14:00:00.000Z",
+        "excerpt": "- [skip to content] \n- [home] \n- [accessibility] \n- [FAQ] \n- [feedback] \n- [sitemap] \n- [login] \n- x\n\nQuick Search:\n\nBill NumberBill Keyword\n\n- [Home] \n- [Bill Information] \n- [California Law] \n- [Publications] \n- [Other Resources] \n- [My Subscriptions] \n- [My Favorites] \n\n# Bill Text\n\n# Bill Information\n\n[PDF2] [Bill PDF] \\| [Add To My Favorites] \\| [Track Bill] \\| Version:10/10/25 - Chaptered09/16/25 - Enrolled09/04/25 - Amended Assembly09/02/25 - Amended Assembly07/17/25 - Amended Assembly06/"
+      },
+      {
+        "title": "Health and Safety Code section 38562",
+        "url": "https://california.public.law/codes/health_and_safety_code_section_38562",
+        "published": "2021-01-01T00:00:00.000Z",
+        "excerpt": "California Health and Safety Code section 38562 (2025)\n# Health and Safety Code section 38562\n## (a)\nThe state board shall adopt greenhouse gas emissions limits and emissions reduction measures by regulation to achieve the maximum technologically feasible and cost-effective reductions in greenhouse gas emissions to achieve the purposes of this division.\n## (b)\nIn adopting regulations pursuant to this section and Part 5 (commencing with[Section 38570]), to the extent feasible, to achieve the purp"
+      },
+      {
+        "title": "Part\n4\n \n \nNonvehicular Air Pollution\u00a0Control",
+        "url": "https://california.public.law/codes/health_and_safety_code,_division_26,_part_4",
+        "published": null,
+        "excerpt": "# **Part** **4** Nonvehicular Air Pollution\u00a0Control\n\n## Chapters\n\n[1\\\n\\\nGeneral Provisions\\\nSections\\\n41500\u201341514.10] [1.5\\\n\\\nCogeneration Technology and Resource Recovery Projects\\\nSections\\\n41515\u201341517] [2\\\n\\\nBasinwide Mitigation for Cogeneration and Resource Recovery Projects\\\nSections\\\n41600\u201341606] [2.5\\\n\\\nNonattainment Area Plans\\\nSections\\\n41650\u201341652] [3\\\n\\\nEmission Limitations\\\nSections\\\n41700\u201341999] \n\n[4\\\n\\\nEnforcement\\\nSections\\\n42300\u201342454] [4.5\\\n\\\nProtect California Air Act of 2003\\\n"
+      },
+      {
+        "title": "SB\u00a0\n              123-\n                CHAPTERED",
+        "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB123",
+        "published": "2023-10-07T00:00:00.000Z",
+        "excerpt": "- [skip to content] \n- [home] \n- [accessibility] \n- [FAQ] \n- [feedback] \n- [sitemap] \n- [login] \n- x\n\n[![Legislative Information header image: click to go to the home page]] \n\n![Legislative Information header image] \n\n[![home image: click to go to the home page]] [![Bill Search image: click to go to the bill search page]]![back button image: click to go to previous page] \n\n![magnifying glass image] Quick Search:\n\nBill NumberBill Keyword\n\n- [Home] \n- [Bill Information] \n- [California Law] \n- [Pub"
+      },
+      {
+        "title": "California Public Resources Code, division 15 \u2013 Energy Conservation and Development (2025)",
+        "url": "https://california.public.law/codes/public_resources_code,_division_15",
+        "published": null,
+        "excerpt": "# **Division** **15** Energy Conservation and\u00a0Development\n\n## Chapters\n\n[1\\\n\\\nTitle and General Provisions\\\n\\\nSections\\\n25000\u201325009] [2\\\n\\\nDefinitions\\\n\\\nSections\\\n25100\u201325142] [3\\\n\\\nState Energy Resources Conservation and Development Commission\\\n\\\nSections\\\n25200\u201325235] [4\\\n\\\nIntegrated Energy Policy Reporting\\\n\\\nSections\\\n25300\u201325328] [4.3\\\n\\\nDesignation of Transmission Corridors\\\n\\\nSections\\\n25330\u201325341] [4.5\\\n\\\nPetroleum Supply and Pricing\\\n\\\nSections\\\n25350\u201325367] [4.6\\\n\\\nPetroleum Market\\\n"
+      },
+      {
+        "title": "California Energy Commission",
+        "url": "https://www.energy.ca.gov/sites/default/files/2025-07/CEC-400-2025-010-F.pdf",
+        "published": "2025-06-23T00:00:00.000Z",
+        "excerpt": "Home Page-California Energy Commission\n[Skip to main content] \n[![California Energy Commission] # California Energy Commission\n] \nSearch this siteSearch this site:Search\n![Home Page Banner: Solar Panels] \n## Leading the state to a 100% clean energy future for all\n[Explore Popular Links] [Get Updates] \n## Proceedings\n* [Business Meetings] \n* [Dockets] \n* [Power Plants] \n## Rules and Regulations\n* [Building Energy Efficiency] \n* [Renewables Portfolio Standard] \n* [Emergency Planning] \n## Funding\n*"
+      },
+      {
+        "title": "FACT FOCUS: Biden administration isn\u2019t banning gas stoves",
+        "url": "https://apnews.com/article/biden-united-states-government-us-consumer-product-safety-commission-ap-fact-check-texas-2003dcf8d0bee8ddf45080186b2e0c7b",
+        "published": "2023-01-13T00:23:36.000Z",
+        "excerpt": "FACT FOCUS: Biden administration isn&#x27;t banning gas stoves | AP News \n \n \n[![AP Logo]] \nMenu\n* [World] \nSECTIONS\n[Israel-Hamas War] [Russia-Ukraine War] [Espa\u00f1ol] [China] [Asia Pacific] [Latin America] [Europe] [Africa] \nTOP STORIES\n* [Japan and Australia urge calm after Chinese radar locks on Japanese jets] \n* [Benin's president condemns a foiled coup bid and says mutineers are 'fleeing'] \n* [As Russia's Africa Corps fights in Mali, witnesses describe atrocities from beheadings to rapes] \nN"
+      },
+      {
+        "title": "Hot Air Over Gas Stoves - FactCheck.org",
+        "url": "https://www.factcheck.org/2023/01/hot-air-over-gas-stoves/",
+        "published": "2023-01-13T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[FactCheck.org\u00ae] A Project of The Annenberg Public Policy Center\n\nThe Biden administration is not planning to ban gas stoves. But [comments] from a commissioner on the U.S. Consumer Product Safety Commission about gas stoves being a \u201chidden hazard\u201d and that \u201cproducts that can\u2019t be made safe can be banned\u201d provided just enough fuel for some politicians to stoke fear and outrage.\n\n\u201cOur stoves are at risk!\u201d reads a Jan. 11 [fundraising appeal] from Rep. Ronny Jackson, a Rep"
+      },
+      {
+        "title": "No, Biden Is Not Trying to Ban Gas Stoves",
+        "url": "https://www.nytimes.com/2023/01/11/climate/gas-stoves-biden-administration.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuonUktbfqIhkSVUaAibeWdkipwGLwvfG2_knmnjgITPQQzdOwuJQCoSF-kHMfrZ5bscy2DLdRMNENPVnYs1O-dJlHh4nTRi08NzDkY4ZIi4xpMXoAj9s1M-VVvVorjPmKzS3JLc6zezvtVfYYDPgCPCP2CBxcQZ1sNAyIwHRrH8Nwq7HFOdx28AvnqtyQ8AnGkpTIXWCrPLqCB9hOd2Zbhu66gQ-W-9RXTm7jsfLovtbM10UUQSaOSs5tWUs69pcOscVPLL_KXMjfcn9h7YWCQ94Paaw1kmEB_ML9J5LHn2I2wg&smid=nytcore-ios-share&referringSource=articleShare",
+        "published": "2023-01-11T00:00:00.000Z",
+        "excerpt": "Advertisement\n\n[SKIP ADVERTISEMENT] \n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\nWASHINGTON \u2014 Concerns raised by the nation\u2019s top consumer watchdog about the health hazards posed by gas stoves have triggered a sharp rebuke from the oil and gas industry and its Republican allies, inserting a common kitchen appliance into the middle of partisan politics.\n\nCritics were pushing back hard on Wednesday "
+      },
+      {
+        "title": "Bill Information",
+        "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1238",
+        "published": null,
+        "excerpt": "- [skip to content] \n- [home] \n- [accessibility] \n- [FAQ] \n- [feedback] \n- [sitemap] \n- [login] \n- x\n\nQuick Search:\n\nBill NumberBill Keyword\n\n- [Home] \n- [Bill Information] \n- [California Law] \n- [Publications] \n- [Other Resources] \n- [My Subscriptions] \n- [My Favorites] \n\n# Bill Text\n\n# Bill Information\n\n[PDF2] [Bill PDF] \\| [Add To My Favorites] \\| [Track Bill] \\| Version:03/27/25 - Amended Assembly02/21/25 - Introduced\n\n# AB-1238 California Energy Consumer Freedom Act.(2025-2026)\n\n[Text\\\n>>] "
+      },
+      {
+        "title": "Gas stoves may soon come with a tobacco-style health warning label in California",
+        "url": "https://www.npr.org/2024/09/13/nx-s1-5003074/climate-gas-stove-health-warning",
+        "published": "2024-09-13T10:00:00.000Z",
+        "excerpt": "Gas stoves may get a health warning in California : NPR\nAccessibility links\n* [Skip to main content] \n* [Keyboard shortcuts for audio player] \n**Gas stoves may get a health warning in California****The next time you shop for a cooking stove, the gas versions might show a health warning label similar to those on tobacco products.\n**\n[\n## ![NPR's Climate Solutions Week] **NPR's Climate Solutions Week**\n] \n**June 9-15:**How does climate change affect where and how we live? The energy used to operat"
+      },
+      {
+        "title": "Fact Check: Amid reports of US gas stove ban, commission says any regulation would be a \u2018lengthy process\u2019",
+        "url": "https://www.reuters.com/article/fact-check/amid-reports-of-us-gas-stove-ban-commission-says-any-regulation-would-be-a-len-idUSL1N33W1VQ/",
+        "published": "2023-01-11T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[Exclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv] \n\n![Reuters Fact Check logo] \n\nNationwide bans on gas stoves are not going to be introduced imminently, the U.S. government agency responsible for regulating consumer product safety said. Social media posts, however, said the Biden administration would be banning the appliances \u2013 likely misinterpreting comments made by a commissioner for the agency that a future ban on gas st"
+      },
+      {
+        "title": "",
+        "url": "https://www.gao.gov/assets/gao-25-107514.pdf",
+        "published": "2025-03-12T00:00:00.000Z",
+        "excerpt": "Page 1 GAO-25-107514 Safety of Gas Stoves\nMillions of Americans use gas stoves\u2014that is, gas ovens, cooktops, and ranges. \nWhile voluntary standards for gas stoves are developed and updated regularly\nthrough consensus-based processes to help protect users, researchers and \nothers have raised concerns about the potential risks from emissions associated \nwith these appliances. However, there is disagreement about the extent of \nlinkage between the emissions produced by gas stoves and certain health"
+      },
+      {
+        "title": "",
+        "url": "https://www.gao.gov/assets/880/876258.pdf",
+        "published": "2025-03-19T00:00:00.000Z",
+        "excerpt": "Page 1 GAO-25-107514 Safety of Gas Stoves\nWhy This Matters\nMillions of Americans use gas stoves\u2014that is, gas ovens, cooktops, and ranges.\nWhile voluntary standards for gas stoves are developed and updated regularly\nthrough consensus-based processes to help protect users, researchers and \nothers have raised concerns about the potential risks from emissions associated \nwith these appliances. However, there is disagreement about the extent of \nlinkage between the emissions produced by gas stoves an"
+      },
+      {
+        "title": "Nikki Haley overreaches in attack about gas cars and stoves",
+        "url": "https://www.politifact.com/factchecks/2023/mar/13/nikki-haley/nikki-haley-overreaches-attack-democrats-over-gaso/",
+        "published": "2023-03-03T00:00:00.000Z",
+        "excerpt": "**[English] ** [Espa\u00f1ol] \n\n### Get PolitiFact in your inbox.\n\n- Weekly Email Newsletter\n- Daily Email Newsletter\n\nYour Email Address\n\nSign Up\n\n[Nikki Haley] \n\nstated on March 3, 2023 in a speech at CPAC:\n\nDemocrats \"want to ban gas powered cars and gas stoves.\u201d\n\n- [Environment] \n- [National] \n- [Energy] \n- [Nikki Haley] \n\nA car is filled with gasoline at a Mobil station in Littleton, Colo., Aug. 29, 2021. (AP)\n\nBy [Amy Sherman] March 13, 2023\n\n#### If Your Time is short\n\n- One consumer product s"
+      },
+      {
+        "title": "Amid reports of US gas stove ban, commission says any regulation would be a \u2018lengthy process\u2019",
+        "url": "https://www.reuters.com/article/factcheck-gas-stoves-idUSL1N33W1VQ/",
+        "published": "2023-01-11T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[Exclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv] \n\n![Reuters Fact Check logo] \n\nNationwide bans on gas stoves are not going to be introduced imminently, the U.S. government agency responsible for regulating consumer product safety said. Social media posts, however, said the Biden administration would be banning the appliances \u2013 likely misinterpreting comments made by a commissioner for the agency that a future ban on gas st"
+      },
+      {
+        "title": "NRCM Complete",
+        "url": "https://www.energy.ca.gov/sites/default/files/2025-06/CEC-400-2025-008.pdf",
+        "published": "2025-05-29T00:00:00.000Z",
+        "excerpt": "\n \nNONRESIDENTIAL \nCOMPLIANCE \nMANUAL \nFOR THE 2025 BUILDING ENERGY \nEFFICIENCY STANDARDS \nENERGY CONSERVATION \nMANUAL \n2025 \nJUNE 2025 \nCEC-400-2025-008\nCALIFORNIA ENERGY COMMISSION \nGavin Newsom, Governor \n \n \n \n \n \n \nCalifornia Energy Commission\nSTAFF REPORT\n2025 Nonresidential\nCompliance Manual\nFOR THE 2025 BUILDING ENERGY\nEFFICIENCY STANDARDS\n2025 Energy Code Conservation Manual\nJune 2025 | CEC-400-2025-008\nStaff members of the California Energy Commission (CEC) \nprepared this manual, which"
+      },
+      {
+        "title": "",
+        "url": "https://law.resource.org/pub/us/code/ca/2022_California_Mechanical_Code.pdf",
+        "published": "2022-04-06T00:00:00.000Z",
+        "excerpt": "2022 CALIFORNIA\nMECHANICAL CODE\n\nCALIFORNIA CODE OF REGULATIONS | TITLE 24, PART 4\nBased on the 2021 _ Mechanical Code\u00ae\n\nCalifornia Building $ Stand oe: Commission\n\nNIA\u2019 BY)\n \nTIA \nTIA \nTIA \nTIA\nx\nImportant Notices and Disclaimers \nThe 2021 edition of the Uniform Mechanical Code is developed through a consensus \nstandards development process approved by the American National Standards Institute. \nThis process brings together volunteers representing varied viewpoints and interests to \nachieve con"
+      },
+      {
+        "title": "2022 California Mechanical Code",
+        "url": "https://epubs.iapmo.org/2022/CMC/index.html",
+        "published": "2012-06-04T00:00:00.000Z",
+        "excerpt": "![] \n\n![] \n\nFirst\n\nPrevious Page\n\nNext Page\n\nLast\n\nBackward\n\nForward\n\nZoom In\n\nSearch\n\nThumbnails\n\nTable of content\n\nSound On\n\nFullscreen\n\nMore\n\n![] Search\n\n![] More\n\n![] Backward\n\n![] First\n\n![] Previous Page\n\n![] Next Page\n\n![] Last\n\n![] Forward\n\n![] Zoom In\n\n![] Thumbnails\n\n![] Table of content\n\n![] Sound On\n\n![] Fullscreen\n\n![] Table Of Contents\n\n![]![]![] \n\n- ![] \nPreface\n\n - Acknowledgements\n\n - California Code of Regulations Title 24\n\n - How to Distinguish Between Model Code Language and "
+      },
+      {
+        "title": "",
+        "url": "https://www.energy.ca.gov/sites/default/files/2024-12/2025_Energy_Code_Summary_ADA.pdf",
+        "published": "2024-12-13T00:00:00.000Z",
+        "excerpt": "2025\nCALIFORNIA ENERGY CODE\nPhoto Credit: Natalia Knezevic\nExecutive Summary\nThe California Energy Commission (CEC) is the state\u2019s primary energy policy \nand planning agency with a mission to lead the state to a 100 percent clean \nenergy future. The CEC develops policy to increase the efficiency of energy \nuse, reduce energy costs, align electricity demand with the availability of \nclean energy resources, limit environmental impacts from energy generation \nand use, and ensure safe, resilient, an"
+      },
+      {
+        "title": "2022 Building Energy Efficiency Standards for Residential and Nonresidential Buildings:  For the 2022 Building Energy Efficiency Standards Title 24, Part 6, and Associated Administrative Regulations in Part 1",
+        "url": "https://www.energy.ca.gov/publications/2022/2022-building-energy-efficiency-standards-residential-and-nonresidential",
+        "published": null,
+        "excerpt": "2022 Building Energy Efficiency Standards for Residential and Nonresidential Buildings: For the 2022 Building Energy Efficiency Standards Title 24, Part 6, and Associated Administrative Regulations in Part 1 | California Energy Commission\n[Skip to main content] \n[![California Energy Commission] California Energy Commission] \nSearch this siteSearch this site:Search\n# 2022 Building Energy Efficiency Standards for Residential and Nonresidential Buildings: For the 2022 Building Energy Efficiency Sta"
+      },
+      {
+        "title": "2025 Building Energy Efficiency Standards",
+        "url": "https://www.energy.ca.gov/programs-and-topics/programs/building-energy-efficiency-standards/2025-building-energy-efficiency",
+        "published": "2025-06-01T06:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n# 2025 Building Energy Efficiency Standards\n\n2025 Building Energy Efficiency Standards\n\n- 2025 Building Energy Efficiency Standards\n - [2025 Multifamily Compliance Manual - Individual Chapters and Appendices] \n - [2025 Nonresidential Compliance Manual - Individual Chapters and Appendices] \n - [2025 Single-Family Residential Compliance Manual - Individual Chapters and Appendices] \n- [2028 Building Energy Efficiency Standards] \n- [2022 Building Energy Efficiency Standards]"
+      },
+      {
+        "title": "2022 Building Energy Efficiency Standards",
+        "url": "https://www.energy.ca.gov/programs-and-topics/programs/building-energy-efficiency-standards/2022-building-energy-efficiency",
+        "published": "2025-01-01T00:00:00.000Z",
+        "excerpt": "2022 Building Energy Efficiency Standards\n[Skip to main content] \n[![California Energy Commission] California Energy Commission] \nSearch this siteSearch this site:Search\n# 2022 Building Energy Efficiency Standards\n2022 Building Energy Efficiency Standards\n* 2022 Building Energy Efficiency Standards\n* [2028 Building Energy Efficiency Standards] \n* [2025 Building Energy Efficiency Standards] \n* [2019 Building Energy Efficiency Standards] \n* [2016 Building Energy Efficiency Standards] \n* [Energy Co"
+      },
+      {
+        "title": "",
+        "url": "https://www.energy.ca.gov/sites/default/files/2025-06/CEC-400-2025-005.pdf",
+        "published": "2025-05-29T00:00:00.000Z",
+        "excerpt": "\n \nSINGLE-FAMILY \nRESIDENTIAL \nCOMPLIANCE \nMANUAL \nFOR THE 2025 BUILDING ENERGY \nEFFICIENCY STANDARDS \nENERGY CONSERVATION \nMANUAL \n2025 \nJUNE 2025 \nCEC-400-2025-005\nCALIFORNIA ENERGY COMMISSION \nGavin Newsom, Governor \n \n \n \n \n \nCalifornia Energy Commission\nSTAFF REPORT\n2025 Single-Family\nResidential Compliance\nManual\nFOR THE 2025 BUILDING ENERGY\nEFFICIENCY STANDARDS\n2025 Energy Code Conservation Manual\nJune 2025 | CEC-400-2025-005\nDISCLAIMER\nStaff members of the California Energy Commission (C"
+      },
+      {
+        "title": "2025 Building Energy Efficiency Standards for Residential and Nonresidential Buildings: Title 24, Part 6, and Associated Administrative Regulations  in Part 1",
+        "url": "https://www.energy.ca.gov/publications/2025/2025-building-energy-efficiency-standards-residential-and-nonresidential",
+        "published": null,
+        "excerpt": "2025 Building Energy Efficiency Standards for Residential and Nonresidential Buildings: Title 24, Part 6, and Associated Administrative Regulations in Part 1 | California Energy Commission\n[Skip to main content] \n[![California Energy Commission] California Energy Commission] \nSearch this siteSearch this site:Search\n# 2025 Building Energy Efficiency Standards for Residential and Nonresidential Buildings: Title 24, Part 6, and Associated Administrative Regulations in Part 1\nPublications\n* [Energy "
+      },
+      {
+        "title": "",
+        "url": "https://www.hcd.ca.gov/sites/default/files/docs/building-standards/CALGreen/hcd-shl-625-rev-0824.pdf",
+        "published": "2024-08-09T00:00:00.000Z",
+        "excerpt": "2022 CALGREEN RESIDENTIAL MANDATORY MEASURES\nEFFECTIVE July 1, 2024\nSee specific referenced sections for complete details on CALGreen mandatory requirements.\n2022 CALGREEN CODE\nCHAPTER 1 \u2013 ADMINISTRATION\nSECTION REQUIREMENTS\n101.3.1 and 102.3 Scope\n101.3.1 Applies to ALL newly constructed residential buildings: low-rise, high-rise, and \nhotels/motels. \n102.3 Requires a completed Residential Occupancies Application Checklist or alternate method \nacceptable to the enforcing agency to be used for d"
+      },
+      {
+        "title": "Berkeley Existing Buildings Electrification Strategy",
+        "url": "https://berkeleyca.gov/your-government/our-work/adopted-plans/berkeley-existing-buildings-electrification-strategy",
+        "published": null,
+        "excerpt": "Berkeley Existing Buildings Electrification Strategy | City of Berkeley[Skip to main content] [Skip to site search] \n[\n![] \nCity of Berkeley\n] \n[**] \n[**] \n[![City of Berkeley]] \n* [City\nServices] \n* Explore city services, report issues online, pay parking tickets\n[More about city services] \n* [Report & Pay] \n* [Parking] \n* [Trash & Recycling] \n* [Getting Around] \n* [Event Permits & Rentals] \n* [Livable Neighborhoods] \n* [Streets, Sidewalks, Sewers, and Utilities] \n* [Birth & Death Certificates]"
+      },
+      {
+        "title": "",
+        "url": "https://berkeleyca.gov/sites/default/files/documents/2020-12-15%20Item%2002%20Ordinance%207740.pdf",
+        "published": "2020-12-03T00:00:00.000Z",
+        "excerpt": "Ordinance No. 7,740-N.S. Page 1 of 10\nORDINANCE NO. 7,740-N.S.\nAMENDMENTS TO BERKELEY MUNICIPAL CODE CHAPTER 19.81 TO UPDATE \nTHE BUILDING ENERGY SAVING ORDINANCE (BESO)\nBE IT ORDAINED by the Council of the City of Berkeley as follows: \nSection 1. That Berkeley Municipal Code Chapter 19.81 is amended to read as follows:\nChapter 19.81\nBUILDING EMISSIONS SAVING\nSections:\n19.81.010 Purpose.\n19.81.020 Applicability.\n19.81.030 Definitions.\n19.81.040 Large Buildings.\n19.81.050 Medium and Small Buildin"
+      },
+      {
+        "title": "",
+        "url": "https://berkeleyca.gov/sites/default/files/documents/2025-11-18%20Item%2028%20Adoption%20of%20Berkeley%20Building%20Codes,%20including%20Local%20Amend.pdf",
+        "published": "2025-11-06T00:00:00.000Z",
+        "excerpt": "Office of the City Manager \n2180 Milvia Street, Berkeley, CA 94704 \u25cf Tel: (510) 981-7000 \u25cf TDD: (510) 981-6903 \u25cf Fax: (510) 981-7099\nE-Mail: manager@berkeleyca.gov Website: http://www.CityofBerkeley.info/Manager\nPUBLIC HEARING\nNovember 18, 2025\nTo: Honorable Mayor and Members of the City Council\nFrom: Paul Buddenhagen, City Manager\nSubmitted by: Jordan Klein, Director, Department of Planning and Development\nSubject: Adoption of Berkeley Building Codes, including Local Amendments to \nCalifornia B"
+      },
+      {
+        "title": "Ch. 12.80 Prohibition of Natural Gas Infrastructure in New Buildings | Berkeley Municipal Code",
+        "url": "https://berkeley.municipal.codes/BMC/12.80",
+        "published": "2024-12-10T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\nLoading\u2026\n\n[Search Within This] \n\nThis chapter is included in your selections."
+      },
+      {
+        "title": "Building Emissions Saving Ordinance (BESO)",
+        "url": "https://berkeleyca.gov/construction-development/green-building/building-emissions-saving-ordinance-beso",
+        "published": "2026-01-01T00:00:00.000Z",
+        "excerpt": "Building Emissions Saving Ordinance (BESO) | City of Berkeley[Skip to main content] [Skip to site search] \n[\n![] \nCity of Berkeley\n] \n[**] \n[**] \n[![City of Berkeley]] \n* [City\nServices] \n* Explore city services, report issues online, pay parking tickets\n[More about city services] \n* [Report & Pay] \n* [Parking] \n* [Trash & Recycling] \n* [Getting Around] \n* [Event Permits & Rentals] \n* [Livable Neighborhoods] \n* [Streets, Sidewalks, Sewers, and Utilities] \n* [Birth & Death Certificates] \n* [Domes"
+      },
+      {
+        "title": "19.81.030 Definitions | Berkeley Municipal Code",
+        "url": "https://berkeley.municipal.codes/BMC/19.81.030",
+        "published": null,
+        "excerpt": "[Skip to main content] \n\nLoading\u2026\n\n[Search Within This] \n\nThis section is included in your selections.\n\n\"Administrator\" means the Director of Planning and Development or their designee.\n\n\"Building Owner\" means the owner of record of a building. In the case of a building held in cooperative or condominium form of ownership, the term \"Building Owner\" shall refer to the board of managers, board of directors, homeowners association, or other representative body of the jointly-owned building with aut"
+      },
+      {
+        "title": "",
+        "url": "https://sfgov.legistar.com/View.ashx?GUID=390C0853-8484-4862-83CC-684A81D34CA6&ID=14553410&M=F",
+        "published": "2025-07-24T00:00:00.000Z",
+        "excerpt": "Proposal: All-Electric Renovations Ordinance\nVersion: July 24, 2025\nINTRODUCTION\nIn 2019, San Francisco declared a climate emergency and called for immediate action to limit global \nwarming to 1.5 degrees Celsiusi \u2013 which led the City to revise its climate action goals to commit to \n100% renewable electricity by 2025, a 61% reduction in citywide carbon emissions by 2030, and net-zero \ngreenhouse gas (GHG) emissions by 2040.ii San Francisco\u2019s approach to achieving these goals was \ninformed by yea"
+      },
+      {
+        "title": "Berkeley can\u2019t enforce natural gas ban, federal court rules again",
+        "url": "https://berkeleyside.org/2024/01/03/berkeley-gas-stove-ban-ruling",
+        "published": "2024-01-03T19:45:16.000Z",
+        "excerpt": "Berkeley can&#039;t enforce natural gas ban, federal court rules again\n![] \n## Know the hot spots before they're hot.\nGet the latest news on the East Bay food and drink scene, plus exclusive tips like where to find tasty food events from the twice-weekly Nosh newsletter.\nSign up\nCloseSearch for:SearchClose\nNosh\n* New restaurants\n* Bites\n* Nosh features\nArts\nBusiness\nCity\nCity\nCOVID-19\nCrime &amp; Safety\n* Policing\n* Homicide\n* Shootings\n* Traffic Safety\nEvents\nHousing\nNeighborhoods\nSchools\nObitu"
+      },
+      {
+        "title": "Building Electrification",
+        "url": "https://berkeleyca.gov/construction-development/green-building/building-electrification",
+        "published": "2025-06-07T00:00:00.000Z",
+        "excerpt": "Building Electrification | City of Berkeley[Skip to main content] [Skip to site search] \n[\n![] \nCity of Berkeley\n] \n[**] \n[**] \n[![City of Berkeley]] \n* [City\nServices] \n* Explore city services, report issues online, pay parking tickets\n[More about city services] \n* [Report & Pay] \n* [Parking] \n* [Trash & Recycling] \n* [Getting Around] \n* [Event Permits & Rentals] \n* [Livable Neighborhoods] \n* [Streets, Sidewalks, Sewers, and Utilities] \n* [Birth & Death Certificates] \n* [Domestic Partnership] \n"
+      },
+      {
+        "title": "Ch. 19.28 Art. 3 Wood Burning Appliances | Berkeley Municipal Code",
+        "url": "https://berkeley.municipal.codes/BMC/19.28_Art3",
+        "published": "2025-01-01T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\nLoading\u2026\n\n[Search Within This] \n\nThis article is included in your selections.\n\nThis section is included in your selections.\n\n**Chapter 31** of the 2022 [California Building Code] with Mid-Cycle Supplement is adopted in its entirety subject to the modifications thereto which are set forth below.\n\n> **3116 Wood Burning Appliances.**\n>\n> A. The purpose of this section is to reduce the health risks caused by wood smoke under the climatic conditions applicable to Berkeley.\n>\n"
+      },
+      {
+        "title": "AB\u00a0\n              2513-\n                ENROLLED",
+        "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240AB2513",
+        "published": "2024-02-13T00:00:00.000Z",
+        "excerpt": "- [skip to content] \n- [home] \n- [accessibility] \n- [FAQ] \n- [feedback] \n- [sitemap] \n- [login] \n- x\n\nQuick Search:\n\nBill NumberBill Keyword\n\n- [Home] \n- [Bill Information] \n- [California Law] \n- [Publications] \n- [Other Resources] \n- [My Subscriptions] \n- [My Favorites] \n\n# Bill Text\n\n[PDF2] [Bill PDF] \\| [Add To My Favorites] \\| Version:09/05/24 - Enrolled08/05/24 - Amended Senate06/10/24 - Amended Senate04/17/24 - Amended Assembly04/03/24 - Amended Assembly02/13/24 - Introduced\n\n# AB-2513 Gas"
+      },
+      {
+        "title": "AB-2513 Gas stoves and ranges: warning label.",
+        "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202320240AB2513",
+        "published": "2024-11-06T00:00:00.000Z",
+        "excerpt": "- [skip to content] \n- [home] \n- [accessibility] \n- [FAQ] \n- [feedback] \n- [sitemap] \n- [login] \n- x\n\n[![Legislative Information header image: click to go to the home page]] \n\n![Legislative Information header image] \n\n[![home image: click to go to the home page]] [![Bill Search image: click to go to the bill search page]] [![back button image: click to go to previous page]] \n\n![magnifying glass image] Quick Search:\n\nBill NumberBill Keyword\n\n- [Home] \n- [Bill Information] \n- [California Law] \n- ["
+      },
+      {
+        "title": "2024 - Assembly Bill 2513 (Pellerin, Gail), Gas Stoves and Ranges: Warning Label (Vetoed)",
+        "url": "https://ww2.arb.ca.gov/2024-assembly-bill-2513-pellerin-gail-gas-stoves-and-ranges-warning-label-vetoed",
+        "published": "2025-01-01T00:00:00.000Z",
+        "excerpt": "## 2024 - Assembly Bill 2513 (Pellerin, Gail), Gas Stoves and Ranges: Warning Label (Vetoed)\n\n[Back To Bill Tracking] \n\nBill Number\n\nAB 2513\n\nLegislative Session\n\n2023-2024\n\n## Bill Information\n\nCategory\n\nClimate Change, Energy\n\nStatus\n\nVetoed\n\nAuthor\n\nPellerin.Gail\n\n## Contact\n\nOffice of Legislative Affairs\n\nEmail\n\n[OLA@arb.ca.gov] \n\n**Summary**\n\nWould have prohibited the sale of a gas stove manufactured on or after January 1, 2025, unless the gas stove bears an adhesive product warning label r"
+      },
+      {
+        "title": "Pellerin.Gail | California Air Resources Board",
+        "url": "https://ww2.arb.ca.gov/taxonomy/term/3131",
+        "published": "2025-01-01T00:00:00.000Z",
+        "excerpt": "## Pellerin.Gail\n\n## [2024 - Assembly Bill 2513 (Pellerin, Gail), Gas Stoves and Ranges: Warning Label (Vetoed)] \n\n**Summary**\n\nWould have prohibited the sale of a gas stove manufactured on or after January 1, 2025, unless the gas stove bears an adhesive product warning label related to pollutants released by gas stoves. The provisions requiring the warning label to include a QR Code to a specific CARB website had been removed.\n\n[View full bill text here] \n\n**Governor\u2019s Veto Message**\n\nTo the Me"
+      },
+      {
+        "title": "SFresno_Biz24092720280",
+        "url": "https://www.gov.ca.gov/wp-content/uploads/2024/09/AB-2513-Veto-Message.pdf",
+        "published": "2024-09-28T00:00:00.000Z",
+        "excerpt": "OFFICE OF THE GOVERNOR \nSEP 2 7 2024 \nTo the Members of the California State Assembly: \nI am returning Assembly Bill 2513 without my signature. \nThis bill would prohibit a person from selling or offering for sale a gas stove that is \nmanufactured or sold online on or after January 1, 2025, or sold in a store on or \nafter January 1, 2026, unless that gas stove contains a specified warning label. \nWhile I appreciate the author's intent to provide consumers with information \nabout the products they"
+      },
+      {
+        "title": "AB 2513: Gas stoves and ranges: warning label. | Digital Democracy",
+        "url": "https://calmatters.digitaldemocracy.org/bills/ca_202320240ab2513",
+        "published": "2024-09-27T00:00:00.000Z",
+        "excerpt": "[Bills] \n\nShare\n\n# AB 2513: Gas stoves and ranges: warning label.\n\n- **Session Year:** 2023-2024\n- **House:** Assembly\n\n## Current Status:\n\nFailed\n\n(2024-09-27: Vetoed by Governor.)\n\nIntroduced\n\nFirst Committee Review\n\nFirst Chamber\n\nSecond Committee Review\n\nSecond Chamber\n\nEnacted\n\nSummaryBill TextStatusVotesSupporters & OpponentsAnalysis\n\nVersion:\n\nEnrolled (9/5/2024)\n\nExisting law sets forth various health and safety requirements and prohibitions, including product safety label requirements.\n"
+      },
+      {
+        "title": "",
+        "url": "https://pirg.org/california/articles/california-legislature-advances-bill-to-require-warning-labels-on-gas-stoves/",
+        "published": "2024-04-25T00:00:00.000Z",
+        "excerpt": "[Close] \n\nSearch_Search_\n\n[Search] \n\n##### Trending\n\n- [Pesticides] \n- [Beyond plastic] \n- [Kids\u2019 health] \n\n- [Take Action] \n- [Donate] \n\n\n$MonthlyOne TimeDonate\n\n\n\n\n\n- [More ways to give] \n- [Renew your membership] \n\n[Nav] \n\nRaw Pixel \\| Public Domain\n\n[**Jenn Engstrom** \\\n\\\nState Director, CALPIRG] \n\nThe California Assembly Environmental Safety and Toxic Materials Committee advanced a bill Tuesday that will require gas stoves sold in California come with a warning label on the health risks ass"
+      },
+      {
+        "title": "It is Time for Policymakers to Clear the Air on Gas Cooking",
+        "url": "https://www.aham.org/AHAM/CA_Gas_Label.aspx",
+        "published": "2024-06-16T00:00:00.000Z",
+        "excerpt": "Quick Links![] \n\n[About AHAM] \n\n[Governance] [AHAM History] [AHAM Canada] [Current Members] \n\n[Contact Us] \n\n[Staff List] [Directions] \n\n[My Account] \n\n[Update Personal Profile] [Member Portal] \n\n[Store] \n\n [Skip to main content] \n\nLoading![Loading] \n\n[Print page] [Email page] \n\n* * *\n\n![NO ON AB 2513: California consumers need a science-based warning label they can trust.] \n\nCalifornia Assembly Bill 2513 would require a warning label be placed on all gas cooking products. This harmful legislati"
+      },
+      {
+        "title": "Bill Information",
+        "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1238",
+        "published": null,
+        "excerpt": "- [skip to content] \n- [home] \n- [accessibility] \n- [FAQ] \n- [feedback] \n- [sitemap] \n- [login] \n- x\n\nQuick Search:\n\nBill NumberBill Keyword\n\n- [Home] \n- [Bill Information] \n- [California Law] \n- [Publications] \n- [Other Resources] \n- [My Subscriptions] \n- [My Favorites] \n\n# Bill Text\n\n# Bill Information\n\n[PDF2] [Bill PDF] \\| [Add To My Favorites] \\| [Track Bill] \\| Version:03/27/25 - Amended Assembly02/21/25 - Introduced\n\n# AB-1238 California Energy Consumer Freedom Act.(2025-2026)\n\n[Text\\\n>>] "
+      },
+      {
+        "title": "Calif. is raising the stakes in the country's gas stove controversy",
+        "url": "https://www.sfgate.com/politics/article/california-passes-gas-stove-warning-label-bill-19763647.php",
+        "published": "2024-09-13T00:00:00.000Z",
+        "excerpt": "SF Gate LogoHearst Newspapers Logo\n\nBREAKING\n\n29m ago\n\n['Devastating' fire obliterates cult favorite SF brand's factory] \n\n29m ago\n\n[News] \\| [Politics] \n\n# California is raising the stakes in the country's gas stove controversy\n\nBy [Alec Regimbal], Politics ReporterUpdated Sep 16, 2024 10:17 a.m.\n\n![Gas stoves sold in California could soon come with a warning label thanks to a bill that was passed by state lawmakers in late August.] \n\nGas stoves sold in California could soon come with a warning"
+      },
+      {
+        "title": "",
+        "url": "https://www.cpsc.gov/s3fs-public/RTstatementonRFI.pdf",
+        "published": "2023-02-28T00:00:00.000Z",
+        "excerpt": "1\nUNITED STATES\nCONSUMER PRODUCT SAFETY COMMISSION \n4330 EAST WEST HIGHWAY\nBETHESDA, MD 20814\nCOMMISSIONER RICH TRUMKA JR. \nCPSC APPROVES REQUEST FOR INFORMATION ON GAS STOVE \nHAZARDS AND POTENTIAL SOLUTIONS\nMarch 1, 2023\nToday marks an important milestone on the road to protecting consumers from potential \nhidden hazards in their homes\u2014the emissions from gas stoves. With the publication of this \nRequest for Information, we ask scientists, consumers, and the public to share what they know \nabout"
+      },
+      {
+        "title": "CPSC Approves Request for Information on Gas Stove Hazards and Potential Solutions",
+        "url": "https://www.cpsc.gov/About-CPSC/Commissioner/Richard-Trumka/Statement/CPSC-Approves-Request-for-Information-on-Gas-Stove-Hazards-and-Potential-Solutions",
+        "published": "2023-03-01T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n# CPSC Approves Request for Information on Gas Stove Hazards and Potential Solutions\n\nStatement of Commissioner Richard Trumka\n\n![Richard Trumka] \n\n[Richard Trumka] \n\n# CPSC Approves Request for Information on Gas Stove Hazards and Potential Solutions\n\n[RTstatementonRFI.pdf] (147.58 KB)\n\nMarch 01, 2023\n\nToday marks an important milestone on the road to protecting consumers from potential hidden hazards in their homes\u2014the emissions from gas stoves.\u00a0 With the publication o"
+      },
+      {
+        "title": "Cruz Letter to CPSC Commissioner Trumka re Gas Stove Ban",
+        "url": "https://www.cruz.senate.gov/imo/media/doc/gas_stove_letter_trumka.pdf",
+        "published": "2023-01-24T00:00:00.000Z",
+        "excerpt": "\nJanuary 25, 2023\nThe Honorable Richard L. Trumka, Jr.\nCommissioner\nU.S. Consumer Product Safety Commission\n4330 East-West Highway\nBethesda, MD 20814\nDear Commissioner Trumka,\nOn January 9, 2023, Bloomberg published an article titled, \u201cUS Safety Agency to \nConsider Ban on Gas Stoves Amid Health Fears,\u201d in which you stated \u201c[gas stoves are] a hidden \nhazard . . . . Any option is on the table. Products that can\u2019t be made safe can be banned.\u201d1 A ban \nwas presaged on October 25, 2022, when you sough"
+      },
+      {
+        "title": "FOIA Request 23-F-00272 Signed Final Response",
+        "url": "https://www.cpsc.gov/content/FOIA-Request-23-F-00272-Signed-Final-Response",
+        "published": null,
+        "excerpt": "[Skip to main content] \n\n**Official websites use .gov**\nA **.gov** website belongs to an official government organization in the United States.\n\n**Secure .gov websites use HTTPS**\nA **lock** ( Locked padlock\n) or **https://** means you\u2019ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\n\n# FOIA Request 23-F-00272 Signed Final Response\n\nRequest for memorandum dated October 25, 2022, by commissioner Richard Trumka Jr. titled \"NPR Proposing Ban on"
+      },
+      {
+        "title": "CPSC's Groundbreaking Proposed Rule for Portable Generators will Save Thousands of Lives and will Save $1B a Year in Costs",
+        "url": "https://www.cpsc.gov/About-CPSC/Commissioner/Richard-Trumka/Statement/CPSCs-Groundbreaking-Proposed-Rule-for-Portable-Generators-will-Save-Thousands-of-Lives-and-will-Save-1B-a-Year-in-Costs",
+        "published": "2023-04-05T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n# CPSC's Groundbreaking Proposed Rule for Portable Generators will Save Thousands of Lives and will Save $1B a Year in Costs\n\nStatement of Commissioner Richard Trumka\n\n![Richard Trumka] \n\n[Richard Trumka] \n\n# CPSC's Groundbreaking Proposed Rule for Portable Generators will Save Thousands of Lives and will Save $1B a Year in Costs\n\n[TrumkaportablegeneratorsSNPRstmt4\\_5\\_23.pdf] (157.69 KB)\n\nApril 05, 2023\n\nOver 1,300 people died from carbon monoxide poisoning caused by po"
+      },
+      {
+        "title": "We\u2019re not taking away your gas stove, regulator tells CNN",
+        "url": "https://www.cnn.com/2023/01/11/business/gas-stoves-trumka",
+        "published": "2023-01-11T00:00:00.000Z",
+        "excerpt": "Markets\n\nDOW\n\nS&P 500\n\nNASDAQ\n\nHot Stocks\n\nFear & Greed Index\n\n[\\-\\-\\--- is driving the US market] \n\nLatest Market News\n\n[Surgeon general demands warning label on social media apps] \n\n[Alex Jones\u2019 Infowars survived a judge\u2019s order, but the conspiracy outlet could still be shut down] \n\n[Boeing CEO admits company has been \u2018far from perfect\u2019 after a flood of safety lapses] \n\nHot Stocks\n\n[\\-\\-\\--- is driving the US market] \n\nSomething isn't loading properly. Please check back later.\n\nAd Feedback\n\nAd"
+      },
+      {
+        "title": "We\u2019re not taking away your gas stove, regulator tells CNN | CNN Business",
+        "url": "https://www.cnn.com/2023/01/11/business/gas-stoves-trumka/index.html",
+        "published": "2023-01-11T00:00:00.000Z",
+        "excerpt": "Markets\n\nDOW\n\nS&P 500\n\nNASDAQ\n\nHot Stocks\n\nFear & Greed Index\n\n[\\-\\-\\--- is driving the US market] \n\nLatest Market News\n\n[AMC to offer 50% off tickets on Wednesdays starting this summer] \n\n[Dow soars 1,100 points after Trump team and China dramatically lower tariffs] \n\n[McDonald\u2019s says it plans to hire 375,000 people this summer] \n\nHot Stocks\n\n[\\-\\-\\--- is driving the US market] \n\nSomething isn't loading properly. Please check back later.\n\nAd Feedback\n\nAd Feedback\n\n# We\u2019re not taking away your g"
+      },
+      {
+        "title": "Statement from CPSC on Request for Information (RFI) on Gas Stoves",
+        "url": "https://www.prnewswire.com/news-releases/statement-from-cpsc-on-request-for-information-rfi-on-gas-stoves-301760118.html",
+        "published": "2023-03-01T00:00:00.000Z",
+        "excerpt": "[Accessibility Statement] [Skip Navigation] \n\nWASHINGTON, March 1, 2023 /PRNewswire/ -- The US Consumer Product Safety Commission announced that the Commission has approved the Federal Register notice of the **Request For Information (RFI)** seeking public input on chronic hazards associated with gas stoves.\n\n**The\u00a0RFI\u00a0does\u00a0not\u00a0constitute\u00a0or\u00a0propose\u00a0any regulatory\u00a0action or ban**.\u00a0 CPSC\u00a0has\u00a0been clear that there\u00a0are\u00a0no regulatory\u00a0proceedings\u00a0planned for\u00a0gas\u00a0stoves or\u00a0range emissions. As CPSC [Ch"
+      },
+      {
+        "title": "",
+        "url": "https://www.cpsc.gov/About-CPSC/Chairman/Alexander-Hoehn-Saric/Statement/Statement-of-Chair-Alexander-Hoehn-Saric-Regarding-Gas-Stoves",
+        "published": "2023-01-11T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n# Statement of Chair Alexander Hoehn-Saric Regarding Gas Stoves\n\nStatement of Commissioner Alexander Hoehn-Saric\n\n![Alexander Hoehn-Saric] \n\n[Alexander Hoehn-Saric] \n\n# Statement of Chair Alexander Hoehn-Saric Regarding Gas Stoves\n\nJanuary 11, 2023\n\nOver the past several days, there has been a lot of attention paid to gas stove emissions and to the Consumer Product Safety Commission. Research indicates that emissions from gas stoves can be hazardous, and the CPSC is look"
+      },
+      {
+        "title": "Is the government coming for your gas stove? Here's how the controversy first got cooking",
+        "url": "https://www.usatoday.com/story/news/investigations/2023/05/30/gas-stove-ban-controversy-explained/70253219007/",
+        "published": "2023-05-30T09:12:07.000Z",
+        "excerpt": "Gas stove ban? How outrage brought culture wars to the kitchen\n[] \n[Find us on Google \ud83d\udccc] [Is college worthwhile?] [Start the day smarter \u2600\ufe0f] [Get the USA TODAY app] \n[] \n[] [] \n[INVESTIGATIONS] \nConsumer Product Safety Commission\nAdd Topic\n# Is the government coming for your gas stove? Here's how the controversy first got cooking\n[![Portrait of Nick Penzenstadler] Nick Penzenstadler] \nUSA TODAY\nUpdated May 30, 2023, 3:42 p.m. ET\n[] [] [] \nIs the government coming for your gas stove? Not anytime "
+      },
+      {
+        "title": "",
+        "url": "https://cdn.ca9.uscourts.gov/datastore/opinions/2024/01/02/21-16278.pdf",
+        "published": "2024-01-03T00:00:00.000Z",
+        "excerpt": "FOR PUBLICATION\nUNITED STATES COURT OF APPEALS\nFOR THE NINTH CIRCUIT\nCALIFORNIA RESTAURANT \nASSOCIATION, a California \nnonprofit mutual benefit corporation, \nPlaintiff-Appellant, \n v. \nCITY OF BERKELEY, \nDefendant-Appellee.\nNo. 21-16278 \nD.C. No.\n4:19-cv-07668-\nYGR \nORDER AND \nAMENDED \nOPINION\nAppeal from the United States District Court\nfor the Northern District of California\nYvonne Gonzalez Rogers, District Judge, Presiding\nArgued and Submitted May 12, 2022\nSan Francisco, California\nFiled Apri"
+      },
+      {
+        "title": "CALIFORNIA RESTAURANT ASS | 65 F.4th... | 20230417090 | Leagle.com",
+        "url": "https://www.leagle.com/decision/infco20230417090",
+        "published": "2022-05-12T00:00:00.000Z",
+        "excerpt": "[![Leagle.com]] \n\n[Menu] \n\n- [Home] \n- [Featured Decisions] \n- [Latest Decisions] \n- [Browse Decisions] \n- [Advanced Search] \n\n[![Leagle.com]] [![Leagle.com]] [![Leagle.com]] \n\n[Sign in] \n\n1. [Home] \n2. [Browse Decisions] \n3. [F.4th] \n4. [65 F.4th] \n5. [65 F.4th 1045 (2023)] \n\n# CALIFORNIA RESTAURANT ASS'N v. CITY OF BERKELEY\n\nNo. 21-16278.\n\n* * *\n\n- [View\\\nCase] \n\n65 F.4th 1045 (2023)\n\nCALIFORNIA RESTAURANT ASSOCIATION, a California nonprofit mutual benefit corporation, Plaintiff-Appellant,\nv.\n"
+      },
+      {
+        "title": "9th Circuit Expands EPCA Preemption, Blocking Berkeley Natural Gas Ban",
+        "url": "https://www.khlaw.com/insights/9th-circuit-expands-epca-preemption-blocking-berkeley-natural-gas-ban",
+        "published": "2023-04-21T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\nPublication\n\n04.21.2023\n\n# 9th Circuit Expands EPCA Preemption, Blocking Berkeley Natural Gas Ban\n\nAuthor:\n\n[Jean-Cyril Walker] \n\n[Alexa M. Pecht] \n\n\u00a92025 Keller and Heckman LLP\n\nIn a recent decision, the 9th Circuit overturned a City of Berkeley ordinance that effectively banned natural gas appliances, reversing a prior California federal court decision. In doing so, the Court took an expansive view of the Energy Policy and Conservation Act (\u201cEPCA\u201d or the \u201cAct\u201d) (42 U.S"
+      },
+      {
+        "title": "9th Circ. Reverses Berkeley's Natural Gas Installation Ban - Law360",
+        "url": "https://www.law360.com/articles/1597831/9th-circ-reverses-berkeley-s-natural-gas-installation-ban",
+        "published": "2025-01-01T00:00:00.000Z",
+        "excerpt": "Try our **[Advanced Search] ** for more refined results\n\n# Law360\n\n\\|\n\n## The Practice of Law\n\n[Access to Justice] [Aerospace & Defense] [Appellate] [Asset Management] [Banking] [Bankruptcy] [Benefits] [California] [Cannabis] [Capital Markets] [Class Action] [Colorado] [Commercial Contracts] [Competition] [Compliance] [Connecticut] [Construction] [Consumer Protection] [Corporate] [Cybersecurity & Privacy] [Delaware] [Employment] [Energy] \n\n[Environmental] [Fintech] [Florida] [Food & Beverage] [G"
+      },
+      {
+        "title": "",
+        "url": "https://www.klgates.com/Ninth-Circuit-Cans-Berkeley-Gas-Ban-Under-Federal-Law-4-21-2023",
+        "published": "2023-04-21T00:00:00.000Z",
+        "excerpt": "[Skip to Main Content] \n\n# Ninth Circuit Cans Berkeley Gas Ban Under Federal Law\n\n[Share via LinkedIn![]] \n\n[Share via Twitter![]] \n\n[Share via Facebook![]] \n\n[Download PDF Version![]] \n\nDate: 21 April 2023\n\nU.S. Energy, Infrastructure, and Resources Alert\n\nBy:\n[David L. Wochner], [Benjamin A. Mayer], [John Longstreth], [Nathan C. Howe], [Timothy J. Furdyna] \n\nOn 17 April 2023, in _California Restaurant Association v. City of Berkeley_,1\u00a0the Ninth Circuit struck down a local ordinance banning na"
+      },
+      {
+        "title": "California city can't enforce natural gas ban, appeals court says",
+        "url": "https://www.reuters.com/world/us/california-city-cant-enforce-natural-gas-ban-appeals-court-says-2023-04-17/",
+        "published": "2023-04-17T00:00:00.000Z",
+        "excerpt": "[Skip to main content] \n\n[Exclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv] \n\n- Companies\n\n- [United States of America] \n\n\n\nFollow\n\n\nNEW YORK, April 17 (Reuters) - Berkeley, California, cannot ban natural gas hookups in new buildings because a U.S. federal law preempts its rule, a federal appeals court said Monday, siding with a challenge the state's restaurant industry made.\n\nThe 9th U.S. Circuit Court of Appeals in San Francisco [said, opens new ta"
+      },
+      {
+        "title": "Ninth Circuit Holds Berkeley\u2019s Gas Ban Preempted by U.S. Energy Policy & Conservation Act",
+        "url": "https://blogs.law.columbia.edu/climatechange/2023/04/18/ninth-circuit-holds-berkeleys-gas-ban-preempted-by-u-s-energy-policy-conservation-act/",
+        "published": "2023-04-18T00:00:00.000Z",
+        "excerpt": "[Skip to content] \n\n[Home] \u00bb Ninth Circuit Holds Berkeley\u2019s Gas Ban Preempted by U.S. Energy Policy & Conservation Act\n\nO [![Campanile, Clock Tower, UC Berkeley]] n Monday, April 17, 2023, the U.S. Court of Appeals for the Ninth Circuit handed down a [decision] in [_California Restaurant Association v. City of Berkeley_]. The court overturned a District Court ruling to invalidate a [Berkeley, California, prohibition] on natural gas infrastructure in newly-constructed buildings. Berkeley\u2019s so-cal"
+      },
+      {
+        "title": "Ninth Circuit Overturns Natural Gas Ban",
+        "url": "https://www.reubenlaw.com/ninth-circuit-overturns-natural-gas-ban/",
+        "published": "2024-01-12T00:00:00.000Z",
+        "excerpt": "[![]] \n\nMenu\n\n[Payments] \n\nSearchSearch\n\n[Newsletter] \n\nMenu\n\nTwitter-squareLinkedinInstagram\n\nCan cities and states really ban natural gas hookups? On January 2, 2024, the Ninth Circuit handed down a decision in California Restaurant Association v. City of Berkeley finding that Berkeley\u2019s natural gas ban was preempted by federal legislation and struck the ordinance down.\n\nIn 2019, the City of Berkeley adopted first-of-its-kind legislation amending the city\u2019s building code to prohibit the use of"
+      },
+      {
+        "title": "New Ninth Circuit Ruling: City of Berkeley\u2019s Gas Ban Preempted by U.S. Energy Policy & Conservation Act | JD Supra",
+        "url": "https://www.jdsupra.com/legalnews/new-ninth-circuit-ruling-city-of-3015309/",
+        "published": "2023-04-21T00:00:00.000Z",
+        "excerpt": "April 21, 2023\n\n# New Ninth Circuit Ruling: City of Berkeley\u2019s Gas Ban Preempted by U.S. Energy Policy & Conservation Act\n\n[Stephen Jenkins] \n\n[Goldberg Segalla] \n\n\\+ Followx\u00a0Followingx\u00a0Following\\- Unfollow [Contact] \n\nLinkedIn\n\nFacebook\n\nX\n\n[Send] \n\nEmbed\n\nTo embed, copy and paste the code into your website or blog:\n\n![Goldberg Segalla] \n\nOn Monday, April 18, the Ninth Circuit Court of Appeals issued a [ruling] in [_California Restaurant Association v. City of Berkeley_] _,_ overturning a lower"
+      },
+      {
+        "title": "Ninth Circuit Reverses City of Berkeley Ban on New Natural Gas Hookups in Buildings",
+        "url": "https://akingump.com/en/insights/blogs/speaking-energy/ninth-circuit-reverses-city-of-berkeley-ban-on-new-natural-gas-hookups-in-buildings",
+        "published": "2023-04-19T00:00:00.000Z",
+        "excerpt": "- What We Do\n- [Who We Are] \n- Insights\n- Join Us\n\n[Subscribe] \n\n[Opportunity & Inclusion] [Environmental Sustainability] [Pro Bono] \n\nAbout Us\n\n[About Akin] \n\n[Leadership] \n\n[Client Value] \n\n[Awards & Accolades] \n\n[Alumni] \n\nLocations\n\n[All Locations] \n\nNorth America\n\n[Boston] \n\n[Chicago] \n\n[Dallas] \n\n[Fort Worth] \n\n[Houston] \n\n[Irvine] \n\n[Los Angeles] \n\n[New York] \n\n[Philadelphia] \n\n[San Antonio] \n\n[San Francisco] \n\n[Washington, D.C.] \n\nAsia\n\n[Hong Kong] \n\n[Singapore] \n\nEurope\n\n[Geneva] \n\n[Lon"
+      },
+      {
+        "title": "Bill Information",
+        "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1238",
+        "published": null,
+        "excerpt": "- [skip to content] \n- [home] \n- [accessibility] \n- [FAQ] \n- [feedback] \n- [sitemap] \n- [login] \n- x\n\nQuick Search:\n\nBill NumberBill Keyword\n\n- [Home] \n- [Bill Information] \n- [California Law] \n- [Publications] \n- [Other Resources] \n- [My Subscriptions] \n- [My Favorites] \n\n# Bill Text\n\n# Bill Information\n\n[PDF2] [Bill PDF] \\| [Add To My Favorites] \\| [Track Bill] \\| Version:03/27/25 - Amended Assembly02/21/25 - Introduced\n\n# AB-1238 California Energy Consumer Freedom Act.(2025-2026)\n\n[Text\\\n>>] "
+      },
+      {
+        "title": "",
+        "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240AB698",
+        "published": null,
+        "excerpt": "- [skip to content] \n- [home] \n- [accessibility] \n- [FAQ] \n- [feedback] \n- [sitemap] \n- [login] \n- x\n\n[![Legislative Information header image: click to go to the home page]] \n\n![Legislative Information header image] \n\n[![home image: click to go to the home page]] [![Bill Search image: click to go to the bill search page]]![back button image: click to go to previous page] \n\n![magnifying glass image] Quick Search:\n\nBill NumberBill Keyword\n\n- [Home] \n- [Bill Information] \n- [California Law] \n- [Pub"
+      },
+      {
+        "title": "AB\u00a0\n              2513-\n                ENROLLED",
+        "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240AB2513",
+        "published": "2024-02-13T00:00:00.000Z",
+        "excerpt": "- [skip to content] \n- [home] \n- [accessibility] \n- [FAQ] \n- [feedback] \n- [sitemap] \n- [login] \n- x\n\nQuick Search:\n\nBill NumberBill Keyword\n\n- [Home] \n- [Bill Information] \n- [California Law] \n- [Publications] \n- [Other Resources] \n- [My Subscriptions] \n- [My Favorites] \n\n# Bill Text\n\n[PDF2] [Bill PDF] \\| [Add To My Favorites] \\| Version:09/05/24 - Enrolled08/05/24 - Amended Senate06/10/24 - Amended Senate04/17/24 - Amended Assembly04/03/24 - Amended Assembly02/13/24 - Introduced\n\n# AB-2513 Gas"
+      },
+      {
+        "title": "FAQ-Appliance Rules_1-30-25",
+        "url": "https://www.baaqmd.gov/~/media/dotgov/files/rules/reg-9-rule-4-nitrogen-oxides-from-fan-type-residential-central-furnaces/2021-amendments/documents/20230522_faq_appliance-rules_final-pdf.pdf?sc_lang=en",
+        "published": "2025-01-30T00:00:00.000Z",
+        "excerpt": "What do the amended Appliance Rules cover? \nThe amendments establish zero-NOx emissions standards for natural gas fired \nfurnaces and water heaters that are typically found in residential and commercial buildings. \nAny of these appliances manufactured after the compliance dates outlined in the amendments \n(beginning on January 1, 2027) will not be allowed to be sold or installed in the Bay Area if they emit NOx\nupon operation. The amendments only apply to appliances that would be newly installed"
+      },
+      {
+        "title": "SFresno_Biz24092720280",
+        "url": "https://www.gov.ca.gov/wp-content/uploads/2024/09/AB-2513-Veto-Message.pdf",
+        "published": "2024-09-28T00:00:00.000Z",
+        "excerpt": "OFFICE OF THE GOVERNOR \nSEP 2 7 2024 \nTo the Members of the California State Assembly: \nI am returning Assembly Bill 2513 without my signature. \nThis bill would prohibit a person from selling or offering for sale a gas stove that is \nmanufactured or sold online on or after January 1, 2025, or sold in a store on or \nafter January 1, 2026, unless that gas stove contains a specified warning label. \nWhile I appreciate the author's intent to provide consumers with information \nabout the products they"
+      },
+      {
+        "title": "SB\u00a0\n              254-\n                CHAPTERED",
+        "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB254",
+        "published": "2025-09-22T10:00:00.000Z",
+        "excerpt": "- [skip to content] \n- [home] \n- [accessibility] \n- [FAQ] \n- [feedback] \n- [sitemap] \n- [login] \n- x\n\nQuick Search:\n\nBill NumberBill Keyword\n\n- [Home] \n- [Bill Information] \n- [California Law] \n- [Publications] \n- [Other Resources] \n- [My Subscriptions] \n- [My Favorites] \n\n# Bill Text\n\n[PDF2] [Bill PDF] \\| [Add To My Favorites] \\| [Track Bill] \\| Version:09/19/25 - Chaptered09/15/25 - Enrolled09/10/25 - Amended Assembly05/28/25 - Amended Senate04/22/25 - Amended Senate03/20/25 - Amended Senate02"
+      },
+      {
+        "title": "",
+        "url": "https://sfgov.legistar.com/View.ashx?GUID=390C0853-8484-4862-83CC-684A81D34CA6&ID=14553410&M=F",
+        "published": "2025-07-24T00:00:00.000Z",
+        "excerpt": "Proposal: All-Electric Renovations Ordinance\nVersion: July 24, 2025\nINTRODUCTION\nIn 2019, San Francisco declared a climate emergency and called for immediate action to limit global \nwarming to 1.5 degrees Celsiusi \u2013 which led the City to revise its climate action goals to commit to \n100% renewable electricity by 2025, a 61% reduction in citywide carbon emissions by 2030, and net-zero \ngreenhouse gas (GHG) emissions by 2040.ii San Francisco\u2019s approach to achieving these goals was \ninformed by yea"
+      },
+      {
+        "title": "California Energy Commission",
+        "url": "https://www.energy.ca.gov/sites/default/files/2025-07/CEC-400-2025-010-F.pdf",
+        "published": "2025-06-23T00:00:00.000Z",
+        "excerpt": "Home Page-California Energy Commission\n[Skip to main content] \n[![California Energy Commission] # California Energy Commission\n] \nSearch this siteSearch this site:Search\n![Home Page Banner: Solar Panels] \n## Leading the state to a 100% clean energy future for all\n[Explore Popular Links] [Get Updates] \n## Proceedings\n* [Business Meetings] \n* [Dockets] \n* [Power Plants] \n## Rules and Regulations\n* [Building Energy Efficiency] \n* [Renewables Portfolio Standard] \n* [Emergency Planning] \n## Funding\n*"
+      },
+      {
+        "title": "Current Air District Rules | California Air Resources Board",
+        "url": "https://ww2.arb.ca.gov/capp/cst/tch/current-air-district-rules",
+        "published": null,
+        "excerpt": "## Current Air District Rules\n\n- [Technology Clearinghouse] \n\n - [About] \n\n - [Community Air Protection] \n - [Community Support Tools] \n - [User Guide] \n - [Clearinghouse Tools] \n - [Tool: Current Air District Rules] \n - [Tool: Air District Rule History] \n - [Tool: CARB Regulations] \n - [Tool: BACT Determinations] \n - [Tool: BACT Guidelines] \n - [Tool: Residential Appliances] \n - [Tool: Residential Backup Power] \n - [Tool: Commercial Emergency Backup Power] \n - [Tool: Underfired Charbroiling] \n "
+      },
+      {
+        "title": "BSC Bulletin 25-03 AB 130",
+        "url": "https://www.dgs.ca.gov/-/media/Divisions/BSC/06-News/Information-Bulletins/2025/BSC-Bulletin-25-03-AB130-FINAL.pdf",
+        "published": "2025-09-22T00:00:00.000Z",
+        "excerpt": "Page 1 of 4\nDEPARTMENT OF GENERAL SERVICES GOVERNOR GAVIN NEWSOM\nBUILDING STANDARDS COMMISSION\n2525 Natomas Park Drive, Suite 130\nSacramento, California 95833-2936\n(916) 263-0916 FAX (916) 263-0959\nCALIFORNIA BUILDING STANDARDS COMMISSION\nINFORMATION BULLETIN 25-03\nDATE: September 22, 2025\nTO: LOCAL BUILDING DEPARTMENTS\nSTATE AGENCIES AND DEPARTMENTS\nCBSC INTERESTED PARTIES\nSUBJECT: AB 130 (Chapter 22, Statutes of 2025) and Impact on Process for \nLocal Amendments to Title 24, California Building"
+      }
+    ],
+    "search_queries": [
+      "Search #1: California gas stove ban legislation actual law...",
+      "Search #2: California gas stove ban fact check viral claims misinformat...",
+      "Search #3: California building code natural gas appliances new construc...",
+      "Search #4: Berkeley California gas stove ban ordinance new construction...",
+      "Search #5: California AB2513 gas appliances legislation warning labels ...",
+      "Search #6: Consumer Product Safety Commission CPSC gas stove regulation...",
+      "Search #7: Berkeley natural gas ban Ninth Circuit court ruling federal ...",
+      "Search #8: California statewide gas stove ban does not exist local ordi..."
+    ],
+    "search_count": 8,
+    "time_seconds": 63.01096224784851
+  },
+  "claude": {
+    "analysis_text": "I'll search for information about California gas stove legislation and viral claims to fact-check this issue.Now let me search for information about Berkeley's gas ban legal case outcome and the warning label bill veto.Based on my research, I now have comprehensive information to provide a fact-check analysis of viral claims about California banning gas stoves. Let me compile the findings.\n\n---\n\n## 1. KEY FINDINGS\n\n**Claim:** California has NO statewide ban on gas stoves currently in effect.\n**Quote:** \"No statewide gas stove ban exists in California.\"\n**Source:** https://coastlineequity.net/insights/californias-gas-appliance-phase-out-what-landlords-need-to-know\n\n**Claim:** Current state regulations focus on water heaters and furnaces, not gas stoves.\n**Quote:** \"Most current regulations focus on space and water heaters, particularly in new construction or when appliances are replaced.\"\n**Source:** https://coastlineequity.net/insights/californias-gas-appliance-phase-out-what-landlords-need-to-know\n\n**Claim:** CARB voted to ban sales of new gas furnaces and water heaters by 2030, but this does NOT include gas stoves.\n**Quote:** \"this rule currently does not include gas ovens, cooktops, or ranges\"\n**Source:** https://ongaroandsons.com/blog/gas-appliance-ban/\n\n**Claim:** The 2030 ban applies to new sales only, not existing appliances.\n**Quote:** \"Adopted rules apply to new sales/installs only (you don't have to remove working appliances).\"\n**Source:** https://coastlineequity.net/insights/californias-gas-appliance-phase-out-what-landlords-need-to-know\n\n**Claim:** A warning label bill (AB 2513) for gas stoves passed the legislature but was vetoed by Governor Newsom.\n**Quote:** \"California's governor vetoed a bill Friday night that would have required appliance makers to put labels on gas-burning ranges and cooktops\"\n**Source:** https://www.washingtonpost.com/climate-environment/2024/09/28/gas-stove-warning-california-veto/\n\n**Claim:** Newsom's veto cited concerns about inflexibility, not opposition to the warning concept.\n**Quote:** \"I am concerned that this bill codifies highly prescriptive labeling content that could only be changed by a future statutory amendment. This static approach falls short in enabling timely updates\"\n**Source:** https://www.gov.ca.gov/wp-content/uploads/2024/09/AB-2513-Veto-Message.pdf\n\n**Claim:** Some California cities banned gas in new construction, but Berkeley's pioneering ban was struck down in federal court.\n**Quote:** \"A three-judge panel from the 9th Circuit Court of Appeals agreed with the CRA and ruled the ban on new natural gas infrastructure unlawful. Following the split decision by the court's 29 judges to decline a new hearing\"\n**Source:** https://www.berkeleyside.org/2024/01/03/berkeley-gas-stove-ban-ruling\n\n**Claim:** Berkeley repealed its gas ban in 2024 following the court ruling.\n**Quote:** \"This week, the California Restaurant Association and the City of Berkeley entered into a settlement agreement halting enforcement of the City's ban on natural gas piping\"\n**Source:** https://www.calrest.org/news/california-restaurant-association-and-berkeley-settle-gas-ban-lawsuit-berkeley-will-not-enforce\n\n**Claim:** About 70 California cities adopted local gas bans before the Berkeley court ruling.\n**Quote:** \"In the last four years, 70 other California cities adopted gas bans and building codes requiring electrification in new buildings\"\n**Source:** https://insideclimatenews.org/news/30092024/california-cities-new-buildings-gas-bans-lawsuit/\n\n**Claim:** Bay Area air quality regulators proposed but then rejected rules that would have phased out gas stoves.\n**Quote:** \"Important: These rules do not cover gas stoves or cooking appliances in the Bay Area. In June 2025, the board rejected the proposed rules\"\n**Source:** https://coastlineequity.net/insights/californias-gas-appliance-phase-out-what-landlords-need-to-know\n\n**Claim:** New California building codes starting 2026 require electric heat pumps for new construction but don't ban gas stoves.\n**Quote:** \"Starting Jan 1, 2026, the 2025 Energy Code takes effect for new construction permits, requiring heat pumps for most space and water heating in new homes and some commercial buildings. This does not require existing landlords to replace gas appliances\"\n**Source:** https://coastlineequity.net/insights/californias-gas-appliance-phase-out-what-landlords-need-to-know\n\n## 2. SOURCE QUALITY ASSESSMENT\n\n**Strong sources:**\n- Official government documents (Gov.ca.gov veto message, CPUC announcements, legislative bill text)\n- Court decisions (9th Circuit rulings)\n- Recent 2024-2025 sources providing current status\n\n**Moderate sources:**\n- Industry publications and advocacy groups (both pro- and anti-gas perspectives)\n- Local news outlets (Berkeleyside, CalMatters, NPR)\n\n**Partisan sources identified:**\n- Reform California (anti-regulation advocacy)\n- California Globe (conservative perspective)\n- PIRG/environmental groups (pro-regulation advocacy)\n\nThe core facts are well-documented across multiple independent sources, including official government records and court documents.\n\n## 3. GAPS OR CONTRADICTIONS\n\n**Gap:** Confusion between state-level and local actions - many sources conflate city bans with statewide policy.\n\n**Gap:** The legal status of the ~70 local gas bans following the Berkeley ruling remains unclear - some cities suspended enforcement, others claim exemptions.\n\n**Contradiction:** Timing discrepancies on when various regulations take effect (2027 vs 2030 for different appliances and jurisdictions).\n\n**Gap:** The actual text of CARB's 2030 rule on gas stoves remains vague - some sources say it \"directs agencies to draft\" potential cooking bans, but no finalized rule exists.\n\n**Missing:** Clear data on how many households currently use gas stoves in California and projected economic impact.\n\n## 4. RECOMMENDED NEXT STEPS\n\n1. **Track CARB rulemaking:** Monitor California Air Resources Board proceedings for any formal proposals on gas cooking appliances beyond the 2030 heater/furnace ban.\n\n2. **Follow court cases:** Watch for appeals or new litigation regarding local gas bans post-Berkeley decision, especially alternate approaches like \"reach codes.\"\n\n3. **Monitor local jurisdictions:** Track how cities are responding to the Berkeley court ruling - are they repealing bans or adopting alternative policies?\n\n4. **Verify federal preemption scope:** Research whether the Energy Policy and Conservation Act truly blocks all local gas restrictions or only certain types.\n\n5. **Check South Coast AQMD:** Follow up on whether Southern California air district revives gas appliance regulations after their June 2025 rejection.\n\n**INFERENCE - not directly stated in sources:** The \"California banned gas stoves\" viral claim appears to be a mixture of: (1) legitimate concerns about future 2030 regulations, (2) confusion between local and state policies, (3) mischaracterization of proposals that were vetoed or rejected, and (4) possible political messaging by both sides of the debate.",
+    "sources": [
+      {
+        "title": "Are Gas Stoves Banned in California? What the Law Says (2025 Update)",
+        "url": "https://coastlineequity.net/insights/californias-gas-appliance-phase-out-what-landlords-need-to-know",
+        "page_age": "August 6, 2025"
+      },
+      {
+        "title": "CA Gov. Newsom is Banning Gas Cars, Gas Stoves, Gas Furnaces, Gas Water Heaters \u2013 California Globe",
+        "url": "https://californiaglobe.com/articles/ca-gov-newsom-is-banning-gas-cars-gas-stoves-gas-furnaces-gas-water-heaters/",
+        "page_age": null
+      },
+      {
+        "title": "What California's Gas Appliance Ban Means to You -",
+        "url": "https://ongaroandsons.com/blog/gas-appliance-ban/",
+        "page_age": "October 31, 2023"
+      },
+      {
+        "title": "California could become the first state to require gas stove warning labels",
+        "url": "https://pirg.org/updates/california-could-become-the-first-state-to-require-gas-stove-warning-labels/",
+        "page_age": "September 11, 2024"
+      },
+      {
+        "title": "California reignites war on gas stoves with newly proposed law | Fox Business",
+        "url": "https://www.foxbusiness.com/lifestyle/california-reignites-war-gas-stoves-newly-proposed-law",
+        "page_age": "August 13, 2024"
+      },
+      {
+        "title": "California governor vetoes bill to add warning labels to gas stoves - The Washington Post",
+        "url": "https://www.washingtonpost.com/climate-environment/2024/09/28/gas-stove-warning-california-veto/",
+        "page_age": "September 28, 2024"
+      },
+      {
+        "title": "Banning Gas Appliances Will Cost California Homeowners Over $30k Each",
+        "url": "https://www.reformcalifornia.org/news/banning-gas-appliances-will-cost-california-homeowners-over-30k-each",
+        "page_age": null
+      },
+      {
+        "title": "It\u2019s 2030. Your Gas Appliance Just Failed. Now What? - California's Gas Ban",
+        "url": "https://www.electelectric.com/post/it-s-2030-your-gas-appliance-just-failed-now-what-california-s-gas-ban",
+        "page_age": "July 7, 2025"
+      },
+      {
+        "title": "Stop the Natural Gas Ban",
+        "url": "https://www.reformcalifornia.org/campaigns/stop-the-natural-gas-ban",
+        "page_age": null
+      },
+      {
+        "title": "California Nears New Gas Stove Law | Manufacturing.net",
+        "url": "https://www.manufacturing.net/laws-regulations/news/22909824/california-nears-new-gas-stove-law",
+        "page_age": null
+      },
+      {
+        "title": "Bill Text - AB-2513 Gas stoves and ranges: warning label.",
+        "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240AB2513",
+        "page_age": null
+      },
+      {
+        "title": "What California's Gas Appliance Ban Means to You -",
+        "url": "https://ongaroandsons.com/blog/gas-appliance-ban/",
+        "page_age": "October 31, 2023"
+      },
+      {
+        "title": "California reignites war on gas stoves with newly proposed law | Fox Business",
+        "url": "https://www.foxbusiness.com/lifestyle/california-reignites-war-gas-stoves-newly-proposed-law",
+        "page_age": "August 13, 2024"
+      },
+      {
+        "title": "Are Gas Stoves Banned in California? What the Law Says (2025 Update)",
+        "url": "https://coastlineequity.net/insights/californias-gas-appliance-phase-out-what-landlords-need-to-know",
+        "page_age": "August 6, 2025"
+      },
+      {
+        "title": "California could become the first state to require gas stove warning labels",
+        "url": "https://pirg.org/updates/california-could-become-the-first-state-to-require-gas-stove-warning-labels/",
+        "page_age": "September 11, 2024"
+      },
+      {
+        "title": "California Ban on Gas Appliances Starts With Jan. 1 'All Electric' Rule - GV Wire",
+        "url": "https://gvwire.com/2022/12/16/california-ban-on-gas-appliances-starts-with-jan-1-all-electric-rule/",
+        "page_age": "March 12, 2024"
+      },
+      {
+        "title": "California Nears New Gas Stove Law | Manufacturing.net",
+        "url": "https://www.manufacturing.net/laws-regulations/news/22909824/california-nears-new-gas-stove-law",
+        "page_age": null
+      },
+      {
+        "title": "California bill mandating health warning labels on gas stove sales passes in state legislature | Fox Business",
+        "url": "https://www.foxbusiness.com/media/california-bill-mandating-health-warning-labels-gas-stove-sales-passes-state-legislature",
+        "page_age": "September 16, 2024"
+      },
+      {
+        "title": "Why California isn\u2019t banning gas stoves \u2014 as it goes after other appliances",
+        "url": "https://www.sfchronicle.com/climate/article/california-s-war-natural-gas-spared-stoves-17843666.php",
+        "page_age": "March 18, 2023"
+      },
+      {
+        "title": "In 2026, All Rental Homes in California Will Need to Have These 2 Things | KQED",
+        "url": "https://www.kqed.org/news/12067581/in-2026-all-rental-homes-in-california-will-need-to-have-these-2-things",
+        "page_age": "2 weeks ago"
+      },
+      {
+        "title": "California Ban on Gas Appliances Starts With Jan. 1 'All Electric' Rule - GV Wire",
+        "url": "https://gvwire.com/2022/12/16/california-ban-on-gas-appliances-starts-with-jan-1-all-electric-rule/",
+        "page_age": "March 12, 2024"
+      },
+      {
+        "title": "What does a ban on natural gas appliances mean for homeowners? \u2013 The Hill",
+        "url": "https://thehill.com/changing-america/sustainability/energy/3663271-what-does-a-ban-on-natural-gas-appliances-mean-for-homeowners/",
+        "page_age": "October 4, 2022"
+      },
+      {
+        "title": "California board hits pause on plan to phase out gas appliances",
+        "url": "https://floodlightnews.org/california-board-hits-pause-on-plan-to-phase-out-gas-appliances/",
+        "page_age": "June 7, 2025"
+      },
+      {
+        "title": "CA Gov. Newsom is Banning Gas Cars, Gas Stoves, Gas Furnaces, Gas Water Heaters \u2013 California Globe",
+        "url": "https://californiaglobe.com/articles/ca-gov-newsom-is-banning-gas-cars-gas-stoves-gas-furnaces-gas-water-heaters/",
+        "page_age": null
+      },
+      {
+        "title": "What California's Gas Appliance Ban Means to You -",
+        "url": "https://ongaroandsons.com/blog/gas-appliance-ban/",
+        "page_age": "October 31, 2023"
+      },
+      {
+        "title": "California\u2019s 2030 Ban on Gas Heaters Opens a New Front in the War on Fossil Fuels - Route Fifty",
+        "url": "https://www.route-fifty.com/management/2022/09/californias-2030-ban-gas-heaters-opens-new-front-war-fossil-fuels/377642/",
+        "page_age": "July 10, 2023"
+      },
+      {
+        "title": "AB 1657 - California Assembly (20192020)",
+        "url": "https://openstates.org/ca/bills/20192020/AB1657/",
+        "page_age": null
+      },
+      {
+        "title": "Are Gas Stoves Banned in California? What the Law Says (2025 Update)",
+        "url": "https://coastlineequity.net/insights/californias-gas-appliance-phase-out-what-landlords-need-to-know",
+        "page_age": "August 6, 2025"
+      },
+      {
+        "title": "California Gas Appliance Bans: What You Should Know | Henry Mechanical",
+        "url": "https://henrymechanical.com/blog/ca-gas-appliance-ban/",
+        "page_age": "February 24, 2025"
+      },
+      {
+        "title": "How to Prepare for Gas Bans When Planning Home Upgrades | CEC",
+        "url": "https://www.cleanenergyconnection.org/article/how-prepare-gas-bans-when-planning-your-home-upgrades",
+        "page_age": "June 30, 2023"
+      },
+      {
+        "title": "The Tangled Government Web Behind the Push to Ban Gas Stoves \u2013 California Globe",
+        "url": "https://californiaglobe.com/fl/the-tangled-web-behind-the-push-to-ban-gas-stoves/",
+        "page_age": null
+      },
+      {
+        "title": "California reignites war on gas stoves with newly proposed law | Fox Business",
+        "url": "https://www.foxbusiness.com/lifestyle/california-reignites-war-gas-stoves-newly-proposed-law",
+        "page_age": "August 13, 2024"
+      },
+      {
+        "title": "What California's Gas Appliance Ban Means to You -",
+        "url": "https://ongaroandsons.com/blog/gas-appliance-ban/",
+        "page_age": "October 31, 2023"
+      },
+      {
+        "title": "Are Gas Stoves Banned in California? What the Law Says (2025 Update)",
+        "url": "https://coastlineequity.net/insights/californias-gas-appliance-phase-out-what-landlords-need-to-know",
+        "page_age": "August 6, 2025"
+      },
+      {
+        "title": "California Nears New Gas Stove Law | Manufacturing.net",
+        "url": "https://www.manufacturing.net/laws-regulations/news/22909824/california-nears-new-gas-stove-law",
+        "page_age": null
+      },
+      {
+        "title": "CA Gov. Newsom is Banning Gas Cars, Gas Stoves, Gas Furnaces, Gas Water Heaters \u2013 California Globe",
+        "url": "https://californiaglobe.com/articles/ca-gov-newsom-is-banning-gas-cars-gas-stoves-gas-furnaces-gas-water-heaters/",
+        "page_age": null
+      },
+      {
+        "title": "Banning Gas Appliances Will Cost California Homeowners Over $30k Each",
+        "url": "https://www.reformcalifornia.org/news/banning-gas-appliances-will-cost-california-homeowners-over-30k-each",
+        "page_age": null
+      },
+      {
+        "title": "If You Like Your Gas Stove, You Can Keep Your Gas Stove \u2013 California Globe",
+        "url": "https://californiaglobe.com/fl/if-you-like-your-gas-stove-you-can-keep-your-gas-stove/",
+        "page_age": null
+      },
+      {
+        "title": "Stop the Natural Gas Ban",
+        "url": "https://www.reformcalifornia.org/campaigns/stop-the-natural-gas-ban",
+        "page_age": null
+      },
+      {
+        "title": "California governor vetoes bill to require gas stove warning ...",
+        "url": "https://www.washingtonpost.com/climate-environment/2024/09/28/gas-stove-warning-california-veto/",
+        "page_age": "September 28, 2024"
+      },
+      {
+        "title": "CPUC Eliminates Last Remaining Utility Subsidies for New Construction of Buildings Using Natural Gas",
+        "url": "https://www.cpuc.ca.gov/news-and-updates/all-news/cpuc-eliminates-last-remaining-utility-subsidies-for-new-construction-of-buildings-using-gas-2023",
+        "page_age": null
+      },
+      {
+        "title": "California Ban on Gas Appliances Starts With Jan. 1 'All Electric' Rule - GV Wire",
+        "url": "https://gvwire.com/2022/12/16/california-ban-on-gas-appliances-starts-with-jan-1-all-electric-rule/",
+        "page_age": "March 12, 2024"
+      },
+      {
+        "title": "Federal court strikes down a California city's natural gas ban",
+        "url": "https://www.cnbc.com/2023/04/18/federal-court-strikes-down-a-california-citys-natural-gas-ban.html",
+        "page_age": "April 18, 2023"
+      },
+      {
+        "title": "California Natural Gas Appliance Ban Blocked by Federal Ninth Circuit Court",
+        "url": "https://www.reformcalifornia.org/news/california-natural-gas-appliance-ban-blocked-by-federal-ninth-circuit-court",
+        "page_age": null
+      },
+      {
+        "title": "How to Prepare for Gas Bans When Planning Home Upgrades | CEC",
+        "url": "https://www.cleanenergyconnection.org/article/how-prepare-gas-bans-when-planning-your-home-upgrades",
+        "page_age": "June 30, 2023"
+      },
+      {
+        "title": "Stop the Natural Gas Ban",
+        "url": "https://www.reformcalifornia.org/campaigns/stop-the-natural-gas-ban",
+        "page_age": null
+      },
+      {
+        "title": "California Cities Planned to Shut off Gas in New Buildings, but a Lawsuit Turned it Back On. Now What? - Inside Climate News",
+        "url": "https://insideclimatenews.org/news/30092024/california-cities-new-buildings-gas-bans-lawsuit/",
+        "page_age": "September 20, 2025"
+      },
+      {
+        "title": "What California's Gas Appliance Ban Means to You -",
+        "url": "https://ongaroandsons.com/blog/gas-appliance-ban/",
+        "page_age": "October 31, 2023"
+      },
+      {
+        "title": "California Is Closing the Door to Gas in New Homes | Scientific American",
+        "url": "https://www.scientificamerican.com/article/california-is-closing-the-door-to-gas-in-new-homes/",
+        "page_age": "February 20, 2024"
+      },
+      {
+        "title": "California Proposes Limiting Natural Gas Use in New Construction Starting in 2023",
+        "url": "https://www.naturalgasintel.com/news/california-proposes-limiting-natural-gas-use-in-new-construction-starting-in-2023/",
+        "page_age": "August 20, 2021"
+      },
+      {
+        "title": "Berkeley can't enforce natural gas ban, federal court rules again",
+        "url": "https://www.berkeleyside.org/2024/01/03/berkeley-gas-stove-ban-ruling",
+        "page_age": "January 4, 2024"
+      },
+      {
+        "title": "CRA V. CITY OF BERKELEY, No. 21-16278 (9th Cir. 2023) :: Justia",
+        "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/21-16278/21-16278-2023-04-17.html",
+        "page_age": null
+      },
+      {
+        "title": "California Restaurant Association and Berkeley Settle Gas Ban Lawsuit: Berkeley Will Not Enforce Its Ban - California Restaurant Association",
+        "url": "https://www.calrest.org/news/california-restaurant-association-and-berkeley-settle-gas-ban-lawsuit-berkeley-will-not-enforce",
+        "page_age": null
+      },
+      {
+        "title": "*Update* Federal Court Overturns Berkeley Natural Gas Ban",
+        "url": "https://www.energyindepth.org/federal-court-overturns-berkeley-natural-gas-ban/",
+        "page_age": "March 26, 2024"
+      },
+      {
+        "title": "Berkeley, Calif., repeals its first-in-the-nation ban on natural gas in new homes : NPR",
+        "url": "https://www.npr.org/2024/03/29/1241576489/berkeley-calif-repeals-its-first-in-the-nation-ban-on-natural-gas-in-new-homes",
+        "page_age": "March 29, 2024"
+      },
+      {
+        "title": "Berkeley to Junk Ban on Natural Gas Piping after Losing Suit | Rigzone",
+        "url": "https://www.rigzone.com/news/berkeley_to_junk_ban_on_natural_gas_piping_after_losing_suit-01-apr-2024-176251-article/",
+        "page_age": "April 1, 2024"
+      },
+      {
+        "title": "Ninth Circuit Cans Berkeley Gas Ban Under Federal Law | HUB | K&L Gates",
+        "url": "https://www.klgates.com/Ninth-Circuit-Cans-Berkeley-Gas-Ban-Under-Federal-Law-4-21-2023",
+        "page_age": null
+      },
+      {
+        "title": "Ninth Circuit Court of Appeals Confirms Berkeley Gas Ban Preempted by Federal Law - American Gas Association",
+        "url": "https://www.aga.org/news/news-releases/ninth-circuit-court-of-appeals-confirms-berkeley-gas-ban-preempted-by-federal-law/",
+        "page_age": "January 4, 2024"
+      },
+      {
+        "title": "Berkeley\u2019s gas ban was blocked in court. Now a new plan has emerged.",
+        "url": "https://www.canarymedia.com/articles/carbon-free-buildings/berkeleys-pioneering-gas-ban-was-blocked-in-court-its-got-a-new-plan",
+        "page_age": "September 4, 2024"
+      },
+      {
+        "title": "A court knocked down Berkeley\u2019s natural gas ban. That has San Diego area plans up in the air.",
+        "url": "https://www.sandiegouniontribune.com/business/energy-green/story/2024-01-12/natural-gas-ban-appeals-court-ruling",
+        "page_age": "January 20, 2024"
+      },
+      {
+        "title": "Newsom vetoes: Why he blocked 1 of 5 bills - CalMatters",
+        "url": "https://calmatters.org/politics/capitol/2024/09/newsom-vetoes-bills-reasons/",
+        "page_age": "September 30, 2024"
+      },
+      {
+        "title": "Gavin Newsom vetoed 1 of every 5 bills in front of him. Here\u2019s why | LAist",
+        "url": "https://laist.com/news/politics/gavin-newsom-bills-veto-reasons",
+        "page_age": "October 1, 2024"
+      },
+      {
+        "title": "Governor Newsom issues legislative update 9.27.24 | Governor of California",
+        "url": "https://www.gov.ca.gov/2024/09/27/governor-newsom-issues-legislative-update-9-27-24/",
+        "page_age": "May 8, 2025"
+      },
+      {
+        "title": "OFFICE OF THE GOVERNOR SEP 2 7 2024",
+        "url": "https://www.gov.ca.gov/wp-content/uploads/2024/09/AB-2513-Veto-Message.pdf",
+        "page_age": null
+      },
+      {
+        "title": "Governor Newsom issues legislative update 10.13.25 | Governor of California",
+        "url": "http://www.gov.ca.gov/2025/10/13/governor-newsom-issues-legislative-update-10-13-25/",
+        "page_age": "October 17, 2025"
+      },
+      {
+        "title": "Governor Newsom issues legislative update 10.11.25 | Governor of California",
+        "url": "https://www.gov.ca.gov/2025/10/11/governor-newsom-issues-legislative-update-10-11-25/",
+        "page_age": "October 13, 2025"
+      },
+      {
+        "title": "Governor Newsom issues legislative update 9.28.24 | Governor of California",
+        "url": "https://www.gov.ca.gov/2024/09/28/governor-newsom-issues-legislative-update-9-28-24/",
+        "page_age": "May 8, 2025"
+      },
+      {
+        "title": "Gavin Newsom vetoes rights protections- CalMatters",
+        "url": "https://calmatters.org/politics/2023/10/gavin-newsom-vetoes-rights/",
+        "page_age": "October 17, 2023"
+      },
+      {
+        "title": "Governor Newsom Issues Legislative Update 10.8.23 | Governor of California",
+        "url": "https://www.gov.ca.gov/2023/10/08/governor-newsom-issues-legislative-update-10-8-23/",
+        "page_age": "June 17, 2024"
+      },
+      {
+        "title": "Sign or veto? The proposed laws that are now on Gov. Newsom's desk",
+        "url": "https://www.kcra.com/article/sign-veto-proposed-laws-gov-newsom-desk/62037640",
+        "page_age": "December 13, 2024"
+      }
+    ],
+    "search_count": 0,
+    "time_seconds": 60.66958689689636
+  },
+  "metrics": {
+    "exa_traceability": 100.0,
+    "exa_supported": 10,
+    "exa_tier_a": 55,
+    "exa_tier_a_pct": 68.75,
+    "exa_cost": 0.1361,
+    "claude_traceability": 100.0,
+    "claude_supported": 11,
+    "claude_tier_a": 12,
+    "claude_tier_a_pct": 17.142857142857142,
+    "claude_cost": 0.4692
+  }
+}
