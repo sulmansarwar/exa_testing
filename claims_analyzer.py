@@ -8,6 +8,66 @@ from typing import List, Dict, Tuple
 from anthropic import Anthropic
 import os
 
+
+def classify_source_quality(url):
+    """
+    Classify source quality into tiers:
+    A = .gov, .edu, major news outlets
+    B = Industry publications, established domains
+    C = Everything else
+    """
+    url_lower = url.lower()
+
+    # Tier A: Government, education, major news, established investigative outlets
+    tier_a_patterns = [
+        '.gov', '.edu', '.mil',
+        # International government/institutions
+        'europa.eu', 'ecb.europa.eu', 'un.org', 'who.int', 'imf.org', 'worldbank.org',
+        'oecd.org', 'wto.org', 'nato.int',
+        # Major news outlets (US)
+        'nytimes.com', 'washingtonpost.com', 'wsj.com', 'reuters.com',
+        'apnews.com', 'npr.org', 'pbs.org', 'cnbc.com', 'cnn.com',
+        'abcnews.go.com', 'cbsnews.com', 'nbcnews.com', 'usatoday.com',
+        # Major news outlets (International)
+        'bbc.com', 'bbc.co.uk', 'theguardian.com', 'ft.com', 'economist.com',
+        'reuters.com', 'afp.com', 'dw.com', 'aljazeera.com',
+        # Business/Finance news
+        'bloomberg.com', 'ft.com', 'marketwatch.com', 'barrons.com',
+        # Investigative/Quality journalism
+        'propublica.org', 'theatlantic.com', 'newyorker.com', 'politico.com',
+        'axios.com', 'theintercept.com',
+        # Academic/Scientific
+        'nature.com', 'science.org', 'nejm.org', 'thelancet.com', 'cell.com',
+        'pnas.org', 'sciencemag.org',
+        # Tech news (high editorial standards)
+        'wired.com', 'arstechnica.com'
+    ]
+
+    for pattern in tier_a_patterns:
+        if pattern in url_lower:
+            return 'A'
+
+    # Tier B: Trade press, tech news sites, industry-specific outlets
+    tier_b_patterns = [
+        # Tech/Industry news
+        'techcrunch.com', 'theverge.com', 'venturebeat.com', 'engadget.com',
+        'gizmodo.com', 'mashable.com', 'zdnet.com', 'cnet.com',
+        # Entertainment/Media trade
+        'variety.com', 'hollywoodreporter.com', 'deadline.com',
+        # Business/Marketing trade
+        'adweek.com', 'inc.com', 'entrepreneur.com', 'fastcompany.com',
+        # Variable quality (contributor models)
+        'forbes.com', 'huffpost.com', 'medium.com',
+        # News aggregators
+        'vice.com', 'buzzfeednews.com', 'vox.com'
+    ]
+
+    for pattern in tier_b_patterns:
+        if pattern in url_lower:
+            return 'B'
+
+    # Everything else is Tier C
+    return 'C'
 def extract_structured_claims(analysis_text: str, sources: List[Dict]) -> Dict:
     """
     Extract all claims from analysis text with their evidence and metadata
@@ -18,7 +78,7 @@ def extract_structured_claims(analysis_text: str, sources: List[Dict]) -> Dict:
             - inference_claims: list of dicts with {claim}
             - unsupported_claims: list of dicts with {claim}
     """
-    from app import classify_source_quality
+
 
     if not analysis_text:
         return {
