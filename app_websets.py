@@ -14,13 +14,13 @@ import re
 from metrics_logger import log_comparison, get_total_stats, get_detailed_history
 
 # Load environment variables
-load_dotenv()
+#load_dotenv()
 
 # Initialize clients
 @st.cache_resource
 def get_clients():
-    exa = Exa(api_key=os.environ.get("EXA_API_KEY"))
-    anthropic = Anthropic(api_key=os.environ.get("ANTHROPIC_API_KEY"))
+    exa = Exa(api_key=st.secrets["EXA_API_KEY"])
+    anthropic = Anthropic(api_key=st.secrets["ANTHROPIC_API_KEY"])
     return exa, anthropic
 
 exa, anthropic = get_clients()
