@@ -1,6 +1,134 @@
+"""Persistence helpers for Exa testing runs.
+
+This module is intentionally UI-free (no Streamlit imports). It is used by app.py to
+save/load run artifacts and to attach derived artifacts like `claims_report` to a
+previously-saved run.
 """
-Simple CSV-based metrics logger for comparison tracking
-"""
+
+from __future__ import annotations
+
+import json
+import os
+from dataclasses import dataclass
+from datetime import datetime
+from pathlib import Path
+from typing import Any, Dict, List, Optional
+
+
+# Directory where run JSON artifacts are stored.
+# Can be overridden via env var to support different local setups.
+_RESULTS_DIR = Path(os.environ.get("EXA_TESTING_RESULTS_DIR", "saved_runs")).resolve()
+
+
+def _ensure_results_dir() -> None:
+    _RESULTS_DIR.mkdir(parents=True, exist_ok=True)
+
+
+def _safe_filename(name: str) -> str:
+    # Keep filenames simple and portable.
+    return "".join(ch for ch in name if ch.isalnum() or ch in ("-", "_", "."))
+
+
+def _result_path(result_id: str) -> Path:
+    _ensure_results_dir()
+    rid = _safe_filename(result_id)
+    if not rid.endswith(".json"):
+        rid = f"{rid}.json"
+    return _RESULTS_DIR / rid
+
+
+def save_result(result_id: str, result_data: Dict[str, Any]) -> Path:
+    """Save a run artifact to disk as JSON.
+
+    `result_id` should be stable (often a timestamp or UUID).
+    """
+    path = _result_path(result_id)
+    # Add/refresh lightweight metadata for later listing.
+    result_data = dict(result_data)
+    result_data.setdefault("_meta", {})
+    result_data["_meta"].update(
+        {
+            "result_id": result_id,
+            "saved_at": datetime.utcnow().isoformat(timespec="seconds") + "Z",
+        }
+    )
+
+    path.write_text(json.dumps(result_data, ensure_ascii=False, indent=2), encoding="utf-8")
+    return path
+
+
+def load_result(result_id: str) -> Optional[Dict[str, Any]]:
+    """Load a saved run JSON artifact. Returns None if not found or unreadable."""
+    path = _result_path(result_id)
+    if not path.exists():
+        return None
+    try:
+        return json.loads(path.read_text(encoding="utf-8"))
+    except Exception:
+        return None
+
+
+def list_saved_runs() -> List[Dict[str, Any]]:
+    """Return saved runs as a list of dicts with id/label/path/mtime.
+
+    The UI can choose to display `label` (query if available) and keep `id` as the value.
+    """
+    _ensure_results_dir()
+    runs: List[Dict[str, Any]] = []
+
+    for p in sorted(_RESULTS_DIR.glob("*.json"), key=lambda x: x.stat().st_mtime, reverse=True):
+        rid = p.stem
+        label = rid
+        query = None
+        try:
+            data = json.loads(p.read_text(encoding="utf-8"))
+            # Prefer a human label if present.
+            query = (
+                data.get("query")
+                or data.get("prompt")
+                or data.get("input", {}).get("query")
+                or data.get("_meta", {}).get("query")
+            )
+            if isinstance(query, str) and query.strip():
+                label = query.strip()
+        except Exception:
+            pass
+
+        runs.append(
+            {
+                "id": rid,
+                "label": label,
+                "path": str(p),
+                "mtime": p.stat().st_mtime,
+            }
+        )
+
+    return runs
+
+
+def save_claims_report(result_id: str, claims_report: Dict[str, Any]) -> bool:
+    """Attach a computed claims_report to an existing saved run and persist it."""
+    data = load_result(result_id)
+    if not data:
+        return False
+
+    data["claims_report"] = claims_report
+    save_result(result_id, data)
+    return True
+
+
+def save_fields(result_id: str, fields: Dict[str, Any]) -> bool:
+    """Generic helper to attach/update fields in an existing result."""
+    data = load_result(result_id)
+    if not data:
+        return False
+
+    for k, v in fields.items():
+        data[k] = v
+    save_result(result_id, data)
+    return True
+
+
 
 import csv
 import os
@@ -8,7 +136,6 @@ import json
 from datetime import datetime
 from pathlib import Path
 import hashlib
-
 # Metrics file path
 METRICS_FILE = Path(__file__).parent / "comparison_metrics.csv"
 
@@ -312,3 +439,45 @@ def load_result(result_id):
 
     with open(result_file, 'r') as f:
         return json.load(f)
+
+
+import json
+import os
+
+CLAIMS_REPORT_FILENAME = "claims_report.json"
+
+def _get_result_dir_for_id(result_id: str) -> str:
+    """
+    MUST match the directory logic used inside load_result(result_id).
+    Copy/paste the same 'result_dir = ...' construction from load_result here.
+    """
+    rid = str(result_id).strip()
+    # Example ONLY: replace with your real logic from load_result
+    # result_dir = os.path.join(RESULTS_DIR, rid)
+    return result_dir
+
+
+def save_claims_report(result_id: str, report: dict) -> bool:
+    """Persist claims report for a result_id to disk."""
+    try:
+        result_dir = _get_result_dir_for_id(result_id)
+        os.makedirs(result_dir, exist_ok=True)
+        path = os.path.join(result_dir, CLAIMS_REPORT_FILENAME)
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(report, f, ensure_ascii=False, indent=2)
+        return True
+    except Exception:
+        return False
+
+
+def load_claims_report(result_id: str) -> dict | None:
+    """Load persisted claims report for a result_id from disk."""
+    try:
+        result_dir = _get_result_dir_for_id(result_id)
+        path = os.path.join(result_dir, CLAIMS_REPORT_FILENAME)
+        if not os.path.exists(path):
+            return None
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return None

@@ -68,6 +68,7 @@ def classify_source_quality(url):
 
     # Everything else is Tier C
     return 'C'
+
 def extract_structured_claims(analysis_text: str, sources: List[Dict]) -> Dict:
     """
     Extract all claims from analysis text with their evidence and metadata
@@ -491,7 +492,7 @@ def analyze_claim_quality(claims: Dict) -> Dict:
 
     return metrics
 
-def generate_claims_report(exa_result: Dict, claude_result: Dict, query: str, include_relevance: bool = True) -> str:
+def generate_claims_report(exa_result: Dict, claude_result: Dict, query: str, include_relevance: bool = True) -> Dict:
     """
     Generate a comprehensive claims comparison report
 
@@ -531,3 +532,251 @@ def generate_claims_report(exa_result: Dict, claude_result: Dict, query: str, in
         'claude_relevance': claude_relevance,
         'coverage_comparison': coverage
     }
+
+
+def render_claims_report(report: Dict):
+    """Render the claims report as metrics + structured sections (avoid dumping raw JSON by default)."""
+    import streamlit as st
+
+    if not report or not isinstance(report, dict):
+        st.info("No claims report available.")
+        return
+
+    def _pct(n: int, d: int) -> float:
+        d = max(1, int(d or 0))
+        return (float(n or 0) / d) * 100.0
+
+    def _safe_list(x):
+        return x if isinstance(x, list) else []
+
+    def _safe_dict(x):
+        return x if isinstance(x, dict) else {}
+
+    # Primary current shape from generate_claims_report()
+    exa_claims = _safe_dict(report.get("exa_claims"))
+    claude_claims = _safe_dict(report.get("claude_claims"))
+    exa_quality = _safe_dict(report.get("exa_quality"))
+    claude_quality = _safe_dict(report.get("claude_quality"))
+    exa_relevance = report.get("exa_relevance")
+    claude_relevance = report.get("claude_relevance")
+    coverage = _safe_dict(report.get("coverage_comparison"))
+
+    def _headline_from_claims(claims: Dict) -> Dict:
+        supported = _safe_list(claims.get("supported_claims"))
+        inferences = _safe_list(claims.get("inference_claims"))
+        unsupported = _safe_list(claims.get("unsupported_claims"))
+        total = len(supported) + len(inferences) + len(unsupported)
+        tier_a = sum(1 for c in supported if (c.get("tier") == "A"))
+        tier_b = sum(1 for c in supported if (c.get("tier") == "B"))
+        tier_c = sum(1 for c in supported if (c.get("tier") == "C"))
+        return {
+            "total": total,
+            "supported": len(supported),
+            "inferences": len(inferences),
+            "unsupported": len(unsupported),
+            "tier_a": tier_a,
+            "tier_b": tier_b,
+            "tier_c": tier_c,
+        }
+
+    def _headline_from_quality(quality: Dict, claims: Dict) -> Dict:
+        # Prefer precomputed quality fields
+        total = int(quality.get("total_claims") or 0)
+        supported = int(quality.get("supported_count") or 0)
+        inferences = int(quality.get("inference_count") or 0)
+        unsupported = int(quality.get("unsupported_count") or 0)
+
+        # Fallback to raw claims if the quality block is missing
+        if total <= 0 and (claims.get("supported_claims") or claims.get("inference_claims") or claims.get("unsupported_claims")):
+            return _headline_from_claims(claims)
+
+        if total <= 0:
+            total = supported + inferences + unsupported
+
+        tb = _safe_dict(quality.get("tier_breakdown"))
+        return {
+            "total": total,
+            "supported": supported,
+            "inferences": inferences,
+            "unsupported": unsupported,
+            "tier_a": int(tb.get("A") or 0),
+            "tier_b": int(tb.get("B") or 0),
+            "tier_c": int(tb.get("C") or 0),
+        }
+
+    exa_h = _headline_from_quality(exa_quality, exa_claims)
+    claude_h = _headline_from_quality(claude_quality, claude_claims)
+
+    # ===== Claims Breakdown =====
+    st.markdown("## 📋 Claims Breakdown")
+
+    left, right = st.columns(2)
+
+    def _render_claims_breakdown(col, title: str, h: Dict):
+        with col:
+            st.markdown(f"### {title}")
+            st.metric("Total Claims", f"{h['total']}")
+            a, b, c = st.columns(3)
+            a.metric("✅ Supported", f"{h['supported']}")
+            b.metric("🔶 Inferences", f"{h['inferences']}")
+            c.metric("⚠️ Unsupported", f"{h['unsupported']}")
+
+            trace = _pct(h["supported"], h["total"]) if h["total"] else 0.0
+            st.metric("📌 Traceability", f"{trace:.1f}%")
+
+            if h["supported"] > 0:
+                st.caption(f"Tier A: {h['tier_a']}/{h['supported']} ({_pct(h['tier_a'], h['supported']):.0f}%)")
+                st.caption(f"Tier B: {h['tier_b']}/{h['supported']} ({_pct(h['tier_b'], h['supported']):.0f}%)")
+                st.caption(f"Tier C: {h['tier_c']}/{h['supported']} ({_pct(h['tier_c'], h['supported']):.0f}%)")
+
+    _render_claims_breakdown(left, "🔎 Exa + Claude Claims", exa_h)
+    _render_claims_breakdown(right, "🌐 Claude Web Search Claims", claude_h)
+
+    # ===== Relevance to Query =====
+    st.markdown("---")
+    st.markdown("## 🎯 Relevance to Query")
+    st.caption("How well does each approach answer the actual question?")
+
+    def _render_relevance(col, title: str, rel: Dict | None):
+        with col:
+            st.markdown(f"### {title}")
+            if not rel or not isinstance(rel, dict):
+                st.info("No relevance scoring found in this saved report.")
+                return
+            st.metric("Average Relevance", f"{rel.get('avg_relevance', 0)}/10")
+            c1, c2, c3 = st.columns(3)
+            c1.metric("🎯 Direct Answers", f"{rel.get('directly_answers_query', 0)}")
+            c2.metric("📊 Tangential", f"{rel.get('tangentially_relevant', 0)}")
+            c3.metric("❌ Off-topic", f"{rel.get('off_topic', 0)}")
+            tok = rel.get("token_count")
+            if tok is not None:
+                st.caption(f"Token usage: {int(tok):,}")
+
+    l2, r2 = st.columns(2)
+    _render_relevance(l2, "🔎 Exa + Claude Relevance", exa_relevance)
+    _render_relevance(r2, "🌐 Claude Web Search Relevance", claude_relevance)
+
+    # ===== Coverage Comparison =====
+    st.markdown("---")
+    st.markdown("## 🔁 Coverage Comparison")
+
+    comparison_text = (coverage.get("comparison_text") or "").strip()
+    if comparison_text:
+        st.markdown(comparison_text)
+        tok = coverage.get("token_count")
+        if tok is not None:
+            st.caption(f"Token usage: {int(tok):,}")
+    else:
+        st.info("No coverage comparison text found in this report.")
+
+    # ===== Quality Issues =====
+    st.markdown("---")
+    st.markdown("## ⚠️ Quality Issues")
+
+    def _render_issues(title: str, quality: Dict):
+        st.markdown(f"### {title}")
+        issues = _safe_list(quality.get("issues"))
+        if not issues:
+            st.success("No major quality issues flagged.")
+            return
+        for it in issues:
+            msg = (it.get("message") or "").strip() or str(it)
+            sev = (it.get("severity") or "").lower()
+            if sev == "high":
+                st.error(msg)
+            elif sev == "medium":
+                st.warning(msg)
+            else:
+                st.info(msg)
+
+    _render_issues("Exa Approach", exa_quality)
+    _render_issues("Claude Approach", claude_quality)
+
+    # ===== Detailed Claims Inspection =====
+    st.markdown("---")
+    st.markdown("## 📝 Detailed Claims Inspection")
+
+    def _relevance_map(rel: Dict | None) -> Dict[str, Dict]:
+        """Map claim text -> relevance record."""
+        if not rel or not isinstance(rel, dict):
+            return {}
+        scores = _safe_list(rel.get("relevance_scores"))
+        out = {}
+        for r in scores:
+            txt = (r.get("claim") or "").strip()
+            if txt:
+                out[txt] = r
+        return out
+
+    exa_rel_map = _relevance_map(exa_relevance)
+    claude_rel_map = _relevance_map(claude_relevance)
+
+    def _render_claim_list(prefix: str, claims: Dict, rel_map: Dict[str, Dict]):
+        supported = _safe_list(claims.get("supported_claims"))
+        inferences = _safe_list(claims.get("inference_claims"))
+        unsupported = _safe_list(claims.get("unsupported_claims"))
+
+        st.markdown(f"### ✅ Supported Claims ({len(supported)})")
+        if not supported:
+            st.caption("No supported claims found.")
+        for i, c in enumerate(supported, start=1):
+            claim_txt = (c.get("claim") or "").strip()
+            tier = (c.get("tier") or "?")
+            score = rel_map.get(claim_txt, {}).get("score")
+            score_txt = f" • 🎯 {score}/10" if score is not None else ""
+            header = f"Claim {i} (Tier {tier}){score_txt}"
+            with st.expander(header, expanded=False):
+                if claim_txt:
+                    st.markdown(f"**Claim:** {claim_txt}")
+                quote = (c.get("quote") or "").strip()
+                if quote:
+                    st.markdown(f"**Quote:** {quote}")
+                url = (c.get("url") or "").strip()
+                if url:
+                    st.markdown(f"**Source:** {url}")
+                title = (c.get("source_title") or "").strip()
+                if title and title != "Unknown Source":
+                    st.caption(f"Source title: {title}")
+                reasoning = (rel_map.get(claim_txt, {}).get("reasoning") or "").strip()
+                if reasoning:
+                    st.caption(f"Relevance note: {reasoning}")
+
+        st.markdown(f"### 🔶 Inference Claims ({len(inferences)})")
+        if inferences:
+            for i, c in enumerate(inferences, start=1):
+                claim_txt = (c.get("claim") or "").strip()
+                score = rel_map.get(claim_txt, {}).get("score")
+                score_txt = f" • 🎯 {score}/10" if score is not None else ""
+                with st.expander(f"Inference {i}{score_txt}", expanded=False):
+                    if claim_txt:
+                        st.markdown(claim_txt)
+                    reasoning = (rel_map.get(claim_txt, {}).get("reasoning") or "").strip()
+                    if reasoning:
+                        st.caption(f"Relevance note: {reasoning}")
+        else:
+            st.caption("No inference claims found.")
+
+        st.markdown(f"### ⚠️ Unsupported Claims ({len(unsupported)})")
+        if unsupported:
+            for i, c in enumerate(unsupported, start=1):
+                claim_txt = (c.get("claim") or "").strip()
+                score = rel_map.get(claim_txt, {}).get("score")
+                score_txt = f" • 🎯 {score}/10" if score is not None else ""
+                with st.expander(f"Unsupported {i}{score_txt}", expanded=False):
+                    if claim_txt:
+                        st.markdown(claim_txt)
+                    reasoning = (rel_map.get(claim_txt, {}).get("reasoning") or "").strip()
+                    if reasoning:
+                        st.caption(f"Relevance note: {reasoning}")
+        else:
+            st.caption("No unsupported claims found.")
+
+    tab1, tab2 = st.tabs(["🔎 Exa + Claude Claims", "🌐 Claude Web Search Claims"])
+    with tab1:
+        _render_claim_list("exa", exa_claims, exa_rel_map)
+    with tab2:
+        _render_claim_list("claude", claude_claims, claude_rel_map)
+
+    # Raw JSON is still available for debugging but collapsed by default
+    with st.expander("Raw claims report (debug)", expanded=False):
+        st.json(report)
