@@ -454,7 +454,7 @@ def _get_result_dir_for_id(result_id: str) -> str:
     rid = str(result_id).strip()
     # Example ONLY: replace with your real logic from load_result
     # result_dir = os.path.join(RESULTS_DIR, rid)
-    return result_dir
+    return rid
 
 
 def save_claims_report(result_id: str, report: dict) -> bool:

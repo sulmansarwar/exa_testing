@@ -13,7 +13,7 @@ import json
 import re
 import time
 import metrics_logger
-from claims_analyzer import classify_source_quality
+from claims_analyzer import classify_source_quality,render_claims_report
 
 from prompts import (
     build_exa_initial_prompt,

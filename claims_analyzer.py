@@ -780,3 +780,217 @@ def render_claims_report(report: Dict):
     # Raw JSON is still available for debugging but collapsed by default
     with st.expander("Raw claims report (debug)", expanded=False):
         st.json(report)
+
+
+def render_claims_report(report: dict) -> None:
+    """Render the claims report in Streamlit.
+
+    This is a pure UI function. It does not re-run retrieval or call any APIs.
+    """
+    try:
+        import streamlit as st
+    except Exception:
+        # If Streamlit isn't available, fall back silently
+        return
+
+    if not isinstance(report, dict) or not report:
+        st.info("No claims report to display.")
+        return
+
+    exa_quality = report.get("exa_quality") or {}
+    claude_quality = report.get("claude_quality") or {}
+    exa_relevance = report.get("exa_relevance") or {}
+    claude_relevance = report.get("claude_relevance") or {}
+    coverage = report.get("coverage_comparison") or {}
+
+    def _pct(part: int, whole: int) -> float:
+        try:
+            if not whole:
+                return 0.0
+            return round((float(part) / float(whole)) * 100.0, 1)
+        except Exception:
+            return 0.0
+
+    def _safe_int(x, default=0) -> int:
+        try:
+            return int(x)
+        except Exception:
+            return default
+
+    def _safe_float(x, default=0.0) -> float:
+        try:
+            return float(x)
+        except Exception:
+            return default
+
+    st.success("✅ Claims analysis complete")
+
+    st.markdown("# 📋 Claims Breakdown")
+
+    left, right = st.columns(2)
+
+    def _render_quality_col(col, title: str, q: dict):
+        total = _safe_int(q.get("total_claims"), 0)
+        supported = _safe_int(q.get("supported_count"), 0)
+        inf = _safe_int(q.get("inference_count"), 0)
+        unsup = _safe_int(q.get("unsupported_count"), 0)
+        tiers = (q.get("tier_breakdown") or {})
+        tier_a = _safe_int(tiers.get("A"), 0)
+        tier_b = _safe_int(tiers.get("B"), 0)
+        tier_c = _safe_int(tiers.get("C"), 0)
+
+        traceability = _pct(supported, total)
+
+        with col:
+            st.markdown(f"## {title}")
+
+            c1, c2, c3 = st.columns(3)
+            with c1:
+                st.metric("Total Claims", f"{total}")
+            with c2:
+                st.metric("✅ Supported", f"{supported}", f"{_pct(supported, total):.0f}%")
+            with c3:
+                st.metric("⚠️ Unsupported", f"{unsup}", f"{_pct(unsup, total):.0f}%")
+
+            c4, c5 = st.columns(2)
+            with c4:
+                st.metric("🔶 Inferences", f"{inf}", f"{_pct(inf, total):.0f}%")
+            with c5:
+                st.metric("📌 Traceability", f"{traceability:.1f}%")
+
+            st.markdown("**Supported Claims – Source Quality:**")
+            t1, t2, t3 = st.columns(3)
+            with t1:
+                st.metric("🥇 Tier A", f"{tier_a}", f"{_pct(tier_a, max(1, supported)):.0f}%")
+            with t2:
+                st.metric("🥈 Tier B", f"{tier_b}", f"{_pct(tier_b, max(1, supported)):.0f}%")
+            with t3:
+                st.metric("🥉 Tier C", f"{tier_c}", f"{_pct(tier_c, max(1, supported)):.0f}%")
+
+            issues = q.get("issues") or []
+            if issues:
+                st.markdown("### ⚠️ Quality Issues")
+                for it in issues:
+                    msg = (it.get("message") or "").strip()
+                    if msg:
+                        st.warning(msg)
+
+    _render_quality_col(left, "🔍 Exa + Claude Claims", exa_quality)
+    _render_quality_col(right, "🌐 Claude Web Search Claims", claude_quality)
+
+    # Relevance section
+    if exa_relevance or claude_relevance:
+        st.markdown("---")
+        st.markdown("# 🎯 Relevance to Query")
+        st.caption("How well does each approach answer the actual question?")
+
+        rl, rr = st.columns(2)
+
+        def _render_relevance(col, title: str, r: dict):
+            avg_rel = _safe_float(r.get("avg_relevance"), 0.0)
+            direct = _safe_int(r.get("directly_answers_query"), 0)
+            tang = _safe_int(r.get("tangentially_relevant"), 0)
+            off = _safe_int(r.get("off_topic"), 0)
+            with col:
+                st.markdown(f"## {title}")
+                st.metric("Average Relevance", f"{avg_rel}/10")
+                a, b, c = st.columns(3)
+                with a:
+                    st.metric("🎯 Direct Answers", f"{direct}")
+                with b:
+                    st.metric("📊 Tangential", f"{tang}")
+                with c:
+                    st.metric("❌ Off-topic", f"{off}")
+
+        _render_relevance(rl, "🔍 Exa + Claude Relevance", exa_relevance)
+        _render_relevance(rr, "🌐 Claude Web Search Relevance", claude_relevance)
+
+    # Coverage comparison (full width)
+    if (coverage.get("comparison_text") or "").strip():
+        st.markdown("---")
+        st.markdown("# 🔄 Coverage Comparison")
+        tok = coverage.get("token_count")
+        if tok is not None:
+            st.caption(f"Token usage: {tok}")
+        st.markdown(coverage.get("comparison_text") or "")
+
+    # Detailed inspection
+    st.markdown("---")
+    st.markdown("# 📝 Detailed Claims Inspection")
+
+    exa_claims = (report.get("exa_claims") or {})
+    claude_claims = (report.get("claude_claims") or {})
+
+    tabs = st.tabs(["🔍 Exa + Claude Claims", "🌐 Claude Web Search Claims"])
+
+    def _render_claim_list(container, claims_dict: dict, relevance_dict: dict | None):
+        supported = claims_dict.get("supported_claims") or []
+        inferences = claims_dict.get("inference_claims") or []
+        unsupported = claims_dict.get("unsupported_claims") or []
+
+        # Build a score lookup by claim text
+        score_lookup = {}
+        if isinstance(relevance_dict, dict):
+            for rs in (relevance_dict.get("relevance_scores") or []):
+                txt = (rs.get("claim") or "").strip()
+                if txt:
+                    score_lookup[txt] = rs
+
+        with container:
+            st.markdown(f"## ✅ Supported Claims ({len(supported)})")
+            for i, c in enumerate(supported, 1):
+                ct = (c.get("claim") or "").strip()
+                tier = (c.get("tier") or "").strip()
+                url = (c.get("url") or "").strip()
+                quote = (c.get("quote") or "").strip()
+                rs = score_lookup.get(ct) or {}
+                score = rs.get("score")
+                header = f"Claim {i}"
+                if tier:
+                    header += f" - {tier} Source"
+                if score is not None:
+                    header += f" - 🎯 {score}/10"
+                with st.expander(header, expanded=False):
+                    if ct:
+                        st.markdown(f"**Claim:** {ct}")
+                    if quote:
+                        st.markdown(f"**Quote:** {quote}")
+                    if url:
+                        st.markdown(f"**Source:** {url}")
+                    if rs.get("reasoning"):
+                        st.markdown(f"**Relevance reasoning:** {rs.get('reasoning')}")
+
+            st.markdown(f"## 🔶 Inferences ({len(inferences)})")
+            for i, c in enumerate(inferences, 1):
+                ct = (c.get("claim") or "").strip()
+                rs = score_lookup.get(ct) or {}
+                score = rs.get("score")
+                header = f"Inference {i}"
+                if score is not None:
+                    header += f" - 🎯 {score}/10"
+                with st.expander(header, expanded=False):
+                    if ct:
+                        st.markdown(ct)
+                    if rs.get("reasoning"):
+                        st.markdown(f"**Relevance reasoning:** {rs.get('reasoning')}")
+
+            st.markdown(f"## ⚠️ Unsupported ({len(unsupported)})")
+            for i, c in enumerate(unsupported, 1):
+                ct = (c.get("claim") or "").strip()
+                rs = score_lookup.get(ct) or {}
+                score = rs.get("score")
+                header = f"Unsupported {i}"
+                if score is not None:
+                    header += f" - 🎯 {score}/10"
+                with st.expander(header, expanded=False):
+                    if ct:
+                        st.markdown(ct)
+                    if rs.get("reasoning"):
+                        st.markdown(f"**Relevance reasoning:** {rs.get('reasoning')}")
+
+    _render_claim_list(tabs[0], exa_claims, exa_relevance)
+    _render_claim_list(tabs[1], claude_claims, claude_relevance)
+
+    # Optional debug
+    with st.expander("Raw claims report (debug)", expanded=False):
+        st.json(report)
